@@ -261,10 +261,7 @@ The architecture is covered in [docs/architecture.md](docs/architecture.md). In 
 
 ## AI tool disclosure
 
-This project was built with AI assistance:
-
-- **Cursor** (AI coding agent) was used throughout to scaffold the monorepo, write and refactor backend and frontend
-  code, write tests, and draft this documentation, under the author's direction and review.
+- **Development tools:** Cursor (AI-assisted coding).
 - **At runtime**, an optional LLM (any Pydantic AI provider: OpenAI, Anthropic, Gemini or Groq) parses claims, plans
   workflows, explains verdicts and drafts ad copy. The app works fully without an LLM: heuristics parse claims and
   deterministic rules decide every verdict.
