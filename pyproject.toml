@@ -1,0 +1,70 @@
+[project]
+name = "reality-check"
+version = "0.1.0"
+description = "Reusable SerpApi evidence agents composed into visual workflows: verify before you trust, buy, invest, or act."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Ramasamy P", email = "ramasamy.p2105@gmail.com" }]
+requires-python = ">=3.11"
+dependencies = [
+    "apscheduler>=3.11.3",
+    "authlib>=1.8.0",
+    "cryptography>=50.0.2",
+    "email-validator>=2.3.0",
+    "fastapi>=0.142.2",
+    "httpx>=0.28.1",
+    "itsdangerous>=2.2.0",
+    "mcp>=2.3.0",
+    "openpyxl>=3.1.5",
+    "phonenumbers>=9.0.40",
+    "pwdlib[argon2]>=0.3.1",
+    "pydantic>=2.13.5",
+    "pydantic-ai-slim[anthropic,google,groq,openai]>=2.54.0",
+    "python-dotenv>=1.2.4",
+    "rapidfuzz>=3.14.6",
+    "reportlab>=5.0.1",
+    "serpapi>=1.1.2",
+    "serpapi-search-tools>=1.0.0",
+    "slowapi>=0.1.10",
+    "sse-starlette>=3.5.0",
+    "tldextract>=5.4.0",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[project.scripts]
+reality-check = "reality_api.cli:main"
+reality-check-mcp = "reality_mcp.server:main"
+record-fixtures = "evidence_agents.tools.record_fixtures:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["packages/evidence_agents", "apps/api/reality_api", "apps/mcp/reality_mcp"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "S"]
+ignore = ["S101", "E501", "B008"]
+
+[tool.pyright]
+include = ["packages", "apps/api", "apps/mcp"]
+pythonVersion = "3.11"
+typeCheckingMode = "basic"
+
+[dependency-groups]
+dev = [
+    "pip-audit>=2.10.1",
+    "pyright>=1.1.414",
+    "pytest>=9.1.1",
+    "pytest-asyncio>=1.4.0",
+    "ruff>=0.16.10",
+]

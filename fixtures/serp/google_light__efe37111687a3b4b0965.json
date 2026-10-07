@@ -1,0 +1,69 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "Lucky Draw India reviews complaints",
+  "num": "20",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fad3ce7719448f1ff177",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/mRNETKWKEQ4PdOzOIXPZl7rqpmbrXWHdAP_07TtzKdE/6ac5fad3ce7719448f1ff177.json",
+   "markdown_endpoint": "https://serpapi.com/searches/mRNETKWKEQ4PdOzOIXPZl7rqpmbrXWHdAP_07TtzKdE/6ac5fad3ce7719448f1ff177.md",
+   "created_at": "2026-10-07 07:54:59 UTC",
+   "processed_at": "2026-10-07 07:54:59 UTC",
+   "google_light_url": "https://www.google.com/search?q=Lucky+Draw+India+reviews+complaints&oq=Lucky+Draw+India+reviews+complaints&hl=en&gl=in&sourceid=chrome&ie=UTF-8&gbv=1",
+   "raw_html_file": "https://serpapi.com/searches/mRNETKWKEQ4PdOzOIXPZl7rqpmbrXWHdAP_07TtzKdE/6ac5fad3ce7719448f1ff177.html",
+   "total_time_taken": 20.24
+  },
+  "search_parameters": {
+   "engine": "google_light",
+   "q": "Lucky Draw India reviews complaints",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Lucky Draw India reviews complaints",
+   "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "File consumer complaint against Lucky draw coupon at Voxya.com",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESggEB6zswFSg8e0kufrFTg1FDO0tYYBAWeZIDRI2x6xqM8lzkiMirlrBvOHNkI7SWfcLQQxHiC3frYdH05lpijFb1VZI_kbQgYmmEnlqlBZO2VOXN1z52UCpCnq2m5L4uPehrQxkq1M52PPrPy7iIOO50m9X9dgySmXbBL83Z9roNnmwE&sa=U&uoh=3&ved=2ahUKEwixqZ3-tqeXAxU3EmIAHZsNM9kQFnoECAgQAg&usg=AOvVaw3ZeBoOB7QhWtZ-thwmTi16",
+    "displayed_link": "mail.voxya.com › company › lucky-draw-coupon-complaints › amp",
+    "snippet": "File online consumer complaints against Lucky draw coupon at Voxya consumer forum in India. We are here to resolve buyer cases, grievance & dispute quickly."
+   },
+   {
+    "position": 2,
+    "title": "Lotto India Reviews for Android - Search on Google Play",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESmQEB6zswFXGNS-UjAa_u5JP23_XrSZ-NYDCjjwsxbcSylP8yUpli-pcklBMSHiwf9hbT8_QlwHJ-XXnn2M9FD3PA18KfY29m0uehDI3Xgkya0orrQNpCAQ86kz9tam8QWjBBcXwXhpYLHlt2HOj6IvxXfeZ-_-btTYAQbJVKYNSqLvgRrRzDm9hbIPdDLcuMjyp9GlzC_rN1clQ&sa=U&uoh=3&ved=2ahUKEwixqZ3-tqeXAxU3EmIAHZsNM9kQFnoECAcQAg&usg=AOvVaw3m2ylK9BCH56fV5sRdAmgy",
+    "displayed_link": "bengalurueast.karnataka.gov.in › Apps",
+    "snippet": "If you are checking Lotto India for India users in 2026, you are probably looking for a clear way to view lottery-linked results, manage expectations,",
+    "extensions": [
+     "Rating",
+     "4.1(681)",
+     "Free",
+     "Android"
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Lotto India Reviews - Apps on Google Play",
+    "link": "https://www.google.com/url?opi=89978449&q=CAESagHrOzAVjuLiEtgg22kFiO5lChCHp1RF4kehzjXGjG0IP-odyS6j8OMX7UH2jlY6OVu4EcH071ngrab6OMDAkOIWt-U23n45_eC8e4OHftx5TwguzPlF0aKCyPLzskNXJUdPwQpu1e0KrXo&sa=U&uoh=3&ved=2ahUKEwixqZ3-tqeXAxU3EmIAHZsNM9kQFnoECAkQAg&usg=AOvVaw2NU8qfwk5r81-57zb4U3ku",
+    "displayed_link": "wb.gov.in › apps-lotto-india-reviews",
+    "snippet": "“Lotto India Reviews” are useful only if you compare the same essentials (payout/RTP, game rules, and withdrawal/payment flow) against specific alternatives ...",
+    "extensions": [
+     "Rating",
+     "4.3(9,22,357)",
+     "Free",
+     "Android"
+    ]
+   }
+  ]
+ }
+}

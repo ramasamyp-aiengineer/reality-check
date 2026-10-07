@@ -1,0 +1,232 @@
+{
+ "params": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x3bae15dda4a3a569:0xde94c3a7899fc902",
+  "sort_by": "newestFirst",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fa80018c48135ef3f2bd",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/ZMRlqgrhqymfbfAafKMje1FFqDDH4Y8PyLeAgvnwRB8/6ac5fa80018c48135ef3f2bd.json",
+   "markdown_endpoint": "https://serpapi.com/searches/ZMRlqgrhqymfbfAafKMje1FFqDDH4Y8PyLeAgvnwRB8/6ac5fa80018c48135ef3f2bd.md",
+   "created_at": "2026-10-07 07:53:36 UTC",
+   "processed_at": "2026-10-07 07:53:36 UTC",
+   "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae15dda4a3a569:0xde94c3a7899fc902!5m2!4m1!1i2!9m1!1b1?hl=en",
+   "raw_html_file": "https://serpapi.com/searches/ZMRlqgrhqymfbfAafKMje1FFqDDH4Y8PyLeAgvnwRB8/6ac5fa80018c48135ef3f2bd.html",
+   "prettify_html_file": "https://serpapi.com/searches/ZMRlqgrhqymfbfAafKMje1FFqDDH4Y8PyLeAgvnwRB8/6ac5fa80018c48135ef3f2bd.prettify",
+   "total_time_taken": 0.43
+  },
+  "search_parameters": {
+   "engine": "google_maps_reviews",
+   "data_id": "0x3bae15dda4a3a569:0xde94c3a7899fc902",
+   "hl": "en",
+   "sort_by": "newestFirst"
+  },
+  "place_info": {
+   "title": "MTR",
+   "address": "14, Lal Bagh Main Rd, Doddamavalli, Sudhama Nagar, Bengaluru, Karnataka 560027, India",
+   "rating": 4.3,
+   "reviews": 39884,
+   "type": "Vegetarian restaurant"
+  },
+  "topics": [
+   {
+    "keyword": "rava idli",
+    "mentions": 621,
+    "id": "Dy8ySTAoX98"
+   },
+   {
+    "keyword": "badam halwa",
+    "mentions": 132,
+    "id": "g2WpWnN4N2c"
+   },
+   {
+    "keyword": "masala dosa",
+    "mentions": 483,
+    "id": "gRqo30Mwcms"
+   },
+   {
+    "keyword": "ghee",
+    "mentions": 139,
+    "id": "Dcy527A4p2M"
+   },
+   {
+    "keyword": "sambar",
+    "mentions": 146,
+    "id": "JiT9ZvNSMhM"
+   },
+   {
+    "keyword": "khara bath",
+    "mentions": 95,
+    "id": "SGEgXrN5f84"
+   },
+   {
+    "keyword": "waiting time",
+    "mentions": 816,
+    "id": "ALvakRP3QVw"
+   },
+   {
+    "keyword": "Fruit Salad with Ice Cream N Custard",
+    "mentions": 60,
+    "id": "gutUw_sSJPs"
+   },
+   {
+    "keyword": "vada",
+    "mentions": 90,
+    "id": "A8vA_gNj5wc"
+   },
+   {
+    "keyword": "poori",
+    "mentions": 86,
+    "id": "Agy43dAvaCU"
+   }
+  ],
+  "reviews": [
+   {
+    "position": 1,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2padVdYRXllSFJsYTFNd1VqUlFhbFp5VkdsUE9YYxAB!2m1!1s0x0:0xde94c3a7899fc902!3m1!1s2@1:CAIQACodChtycF9oOjZuWXEyeHRla1MwUjRQalZyVGlPOXc%7C%7C?hl=en-US",
+    "rating": 5.0,
+    "date": "14 hours ago",
+    "iso_date": "2026-10-06T17:16:20Z",
+    "iso_date_of_last_edit": "2026-10-06T17:16:20Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2padVdYRXllSFJsYTFNd1VqUlFhbFp5VkdsUE9YYxAB",
+    "user": {
+     "name": "Saathiish K V",
+     "link": "https://www.google.com/maps/contrib/116947833610915569810?hl=en-US",
+     "contributor_id": "116947833610915569810",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK0pR7oprruzVrvvI-iJ-0YhuHo7PJpV4wxwo5WywAOP0fTRKs-=s120-c-rp-mo-ba12-br100",
+     "local_guide": true,
+     "reviews": 39,
+     "photos": 0
+    },
+    "details": {
+     "food": 5,
+     "service": 5,
+     "atmosphere": 5
+    },
+    "likes": 0
+   },
+   {
+    "position": 2,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214VmJVSjBXRGhJZVV4QlZHRlVRMUIxV2pCUVYyYxAB!2m1!1s0x0:0xde94c3a7899fc902!3m1!1s2@1:CAIQACodChtycF9oOmxVbUJ0WDhIeUxBVGFUQ1B1WjBQV2c%7C%7C?hl=en-US",
+    "rating": 5.0,
+    "date": "18 hours ago",
+    "iso_date": "2026-10-06T12:59:22Z",
+    "iso_date_of_last_edit": "2026-10-06T12:59:22Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VmJVSjBXRGhJZVV4QlZHRlVRMUIxV2pCUVYyYxAB",
+    "user": {
+     "name": "Pushkar Saini",
+     "link": "https://www.google.com/maps/contrib/105333916011020261831?hl=en-US",
+     "contributor_id": "105333916011020261831",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUM3KYya8PtQ6ckAq7joXhtOuU5v-woPFUKKFLwlYf8Hx59Euk=s120-c-rp-mo-ba12-br100",
+     "local_guide": true,
+     "reviews": 3,
+     "photos": 8
+    },
+    "likes": 0
+   },
+   {
+    "position": 3,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wSmQyUnFlV2Q0WjB4WFRFdG9hbmhLU0d4cmRuYxAB!2m1!1s0x0:0xde94c3a7899fc902!3m1!1s2@1:CAIQACodChtycF9oOnpJd2RqeWd4Z0xXTEtoanhKSGxrdnc%7C%7C?hl=en-US",
+    "rating": 4.0,
+    "date": "22 hours ago",
+    "iso_date": "2026-10-06T09:27:12Z",
+    "iso_date_of_last_edit": "2026-10-06T09:27:12Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wSmQyUnFlV2Q0WjB4WFRFdG9hbmhLU0d4cmRuYxAB",
+    "user": {
+     "name": "Kripal Kulur",
+     "link": "https://www.google.com/maps/contrib/109817264797089681789?hl=en-US",
+     "contributor_id": "109817264797089681789",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWbwmaiDkLHYaMJrI_djRnDApQPmpTpgmgGqvdrivoFq_Hd4pyB4Q=s120-c-rp-mo-ba12-br100",
+     "local_guide": true,
+     "reviews": 50,
+     "photos": 16
+    },
+    "details": {
+     "order_type": "Dine in",
+     "meal_type": "Other",
+     "price_per_person": "₹200–400",
+     "food": 4,
+     "service": 4,
+     "atmosphere": 4,
+     "seating_type": "Indoor dining area",
+     "recommendation_for_vegetarians": "Highly recommend",
+     "vegetarian_offerings": "Menu is all vegetarian"
+    },
+    "likes": 0
+   },
+   {
+    "position": 4,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poUVdHWTBUMFpMYmpJMFNubDVSSE5RYWtwNE1tYxAB!2m1!1s0x0:0xde94c3a7899fc902!3m1!1s2@1:CAIQACodChtycF9oOjhQWGY0T0ZLbjI0Snl5RHNQakp4Mmc%7C%7C?hl=en-US",
+    "rating": 2.0,
+    "date": "22 hours ago",
+    "iso_date": "2026-10-06T09:13:10Z",
+    "iso_date_of_last_edit": "2026-10-06T09:13:10Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poUVdHWTBUMFpMYmpJMFNubDVSSE5RYWtwNE1tYxAB",
+    "user": {
+     "name": "Tilak Gorantla",
+     "link": "https://www.google.com/maps/contrib/104211239413145196554?hl=en-US",
+     "contributor_id": "104211239413145196554",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVuIQ3nlTriISSyr1-72DiWRGf_uAv88W5lgsXCqX_uRnhYIc6P=s120-c-rp-mo-ba12-br100",
+     "local_guide": true,
+     "reviews": 18,
+     "photos": 16
+    },
+    "snippet": "Mid at best. Overhyped place - chaotic atmosphere, poor service, and the food was just average.",
+    "extracted_snippet": {
+     "original": "Mid at best. Overhyped place - chaotic atmosphere, poor service, and the food was just average."
+    },
+    "details": {
+     "order_type": "Dine in",
+     "meal_type": "Lunch",
+     "price_per_person": "₹200–400",
+     "food": 2,
+     "service": 1,
+     "atmosphere": 2,
+     "seating_type": "Indoor dining area"
+    },
+    "likes": 0
+   },
+   {
+    "position": 5,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25sSFkySkZlVXRYZG1wdWRUSm9iazAzYVdwME5rRRAB!2m1!1s0x0:0xde94c3a7899fc902!3m1!1s2@1:CAIQACodChtycF9oOnlHY2JFeUtXdmpudTJobk03aWp0NkE%7C%7C?hl=en-US",
+    "rating": 4.0,
+    "date": "a day ago",
+    "iso_date": "2026-10-06T04:22:05Z",
+    "iso_date_of_last_edit": "2026-10-06T04:22:05Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sSFkySkZlVXRYZG1wdWRUSm9iazAzYVdwME5rRRAB",
+    "user": {
+     "name": "Christopher Patnoe",
+     "link": "https://www.google.com/maps/contrib/100685331761024925800?hl=en-US",
+     "contributor_id": "100685331761024925800",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVD0EzdXL0raRIkP-aygi70WZDUuV-Lzd2yKYfD7X20Ujehhu84qw=s120-c-rp-mo-ba12-br100",
+     "local_guide": true,
+     "reviews": 133,
+     "photos": 314
+    },
+    "details": {
+     "meal_type": "Breakfast",
+     "price_per_person": "₹400–600",
+     "food": 5,
+     "service": 4,
+     "atmosphere": 4,
+     "seating_type": "Booth seating",
+     "recommendation_for_vegetarians": "Highly recommend",
+     "parking_space": "Difficult to find parking"
+    },
+    "likes": 0
+   }
+  ],
+  "serpapi_pagination": {
+   "next": "https://serpapi.com/search.json?data_id=0x3bae15dda4a3a569%3A0xde94c3a7899fc902&engine=google_maps_reviews&hl=en&next_page_token=Ci8IARInCgoAP72F70-5T9__EhAYfpSlatpazxis3qgAAAAAGgf_Al70-5T9GAAiAA&sort_by=newestFirst",
+   "next_page_token": "Ci8IARInCgoAP72F70-5T9__EhAYfpSlatpazxis3qgAAAAAGgf_Al70-5T9GAAiAA"
+  }
+ }
+}

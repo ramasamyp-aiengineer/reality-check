@@ -1,0 +1,48 @@
+# Secrets: copy .env.example to .env locally
+.env
+.env.*
+!.env.example
+.app_secret
+*.pem
+*.key
+
+# Runtime data (SQLite, caches, recordings, video renders). Anchored to the repo root so
+# packages/evidence_agents/registry/data/ (the RBI snapshot) stays tracked.
+/data/
+/data_test/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Web app
+node_modules/
+apps/web/dist/
+apps/web/data/
+apps/web/test-results/
+apps/web/playwright-report/
+apps/web/blob-report/
+*.tsbuildinfo
+
+# Editors and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+*.log

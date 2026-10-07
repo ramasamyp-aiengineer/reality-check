@@ -1,0 +1,27 @@
+{
+  "id": "market_pulse_ads",
+  "name": "Market Pulse + Ad Studio",
+  "description": "Read your market and launch the ad: demand trends by state, rising searches, competitor prices, competitor ads and review pain points become a sourced brief and evidence-backed ads.",
+  "category": "business",
+  "tags": ["hero", "business", "ads", "trends"],
+  "featured": true,
+  "input_kind": "profile",
+  "input_placeholder": "Topic, city, price, selling point and competitors",
+  "sample_input": {"profile": {"business_name": "VoltRide Motors", "topic": "electric scooter", "city": "Bengaluru", "price": 109999, "usp": "150 km real range with doorstep service", "audience": "daily commuters", "competitors": ["Ola Electric", "Ather"]}},
+  "nodes": [
+    {"id": "intent", "agent": "intent"},
+    {"id": "demand_trend", "agent": "demand_trend", "params": {"date": "today 12-m"}},
+    {"id": "news_timeline", "agent": "news_timeline", "params": {"suffix": "India"}},
+    {"id": "price_reality", "agent": "price_reality", "params": {"include_amazon": false, "more_stores": false}},
+    {"id": "advertiser_identity", "agent": "advertiser_identity", "params": {"competitors": true}},
+    {"id": "review_voice", "agent": "review_voice", "params": {"source": "maps"}},
+    {"id": "market_brief", "agent": "market_brief"},
+    {"id": "ad_agent", "agent": "ad_agent"}
+  ],
+  "edges": [
+    ["intent", "demand_trend"], ["intent", "news_timeline"], ["intent", "price_reality"],
+    ["intent", "advertiser_identity"], ["intent", "review_voice"],
+    ["demand_trend", "market_brief"], ["news_timeline", "market_brief"], ["price_reality", "market_brief"],
+    ["advertiser_identity", "market_brief"], ["review_voice", "market_brief"], ["market_brief", "ad_agent"]
+  ]
+}

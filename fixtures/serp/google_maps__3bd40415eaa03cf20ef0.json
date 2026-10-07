@@ -1,0 +1,462 @@
+{
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "Ola Electric Bengaluru",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fc14c7544302f1cae635",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/E2xkSqRUgqPu0gqYIG-BfZJ1S9OeJRDUCNesoA1WF2A/6ac5fc14c7544302f1cae635.json",
+   "markdown_endpoint": "https://serpapi.com/searches/E2xkSqRUgqPu0gqYIG-BfZJ1S9OeJRDUCNesoA1WF2A/6ac5fc14c7544302f1cae635.md",
+   "created_at": "2026-10-07 08:00:20 UTC",
+   "processed_at": "2026-10-07 08:00:20 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/Ola+Electric+Bengaluru//data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+   "raw_html_file": "https://serpapi.com/searches/E2xkSqRUgqPu0gqYIG-BfZJ1S9OeJRDUCNesoA1WF2A/6ac5fc14c7544302f1cae635.html",
+   "prettify_html_file": "https://serpapi.com/searches/E2xkSqRUgqPu0gqYIG-BfZJ1S9OeJRDUCNesoA1WF2A/6ac5fc14c7544302f1cae635.prettify",
+   "total_time_taken": 1.02
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "Ola Electric Bengaluru",
+   "google_domain": "google.com",
+   "hl": "en"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "Ola Electric Bengaluru"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Ola Electric Technologies Pvt Ltd",
+    "place_id": "ChIJ12b2zLQVrjsRmfJ_4PhVxMo",
+    "data_id": "0x3bae15b4ccf666d7:0xcac455f8e07ff299",
+    "data_cid": "14610897618503463577",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15b4ccf666d7%3A0xcac455f8e07ff299&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15b4ccf666d7%3A0xcac455f8e07ff299&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9313462,
+     "longitude": 77.6164506
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ12b2zLQVrjsRmfJ_4PhVxMo",
+    "provider_id": "/g/11r2hfczbr",
+    "rating": 3.5,
+    "reviews": 849,
+    "type": "Corporate office",
+    "types": [
+     "Corporate office"
+    ],
+    "address": "2, Hosur Rd, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+    "country": "India",
+    "open_state": "Open · Closes 7 AM Thu",
+    "hours": "Open · Closes 7 AM Thu",
+    "operating_hours": {
+     "wednesday": "10 AM–12 AM",
+     "thursday": "12–7 AM, 10 AM–12 AM",
+     "friday": "12–7 AM, 10 AM–12 AM",
+     "saturday": "Open 24 hours",
+     "sunday": "12–5:30 AM, 10:30 AM–12 AM",
+     "monday": "12–6 AM, 10 AM–12 AM",
+     "tuesday": "12–7 AM"
+    },
+    "phone": "+91 80 3710 1828",
+    "website": "https://www.olacabs.com/",
+    "extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot",
+       "Wheelchair accessible restroom",
+       "Wheelchair accessible seating"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN0EJ8vAk3-QtxqHNpf-OlEICW7oT_QBh3tZlh4r6W8K8o3G1CnZ0KzS8YFYfulxfIegGp3CCnkgGVwWk9-Tx4rvRw8RoJkkWaInJ4sngHgWAD5GnN7ZIepY1Y01q2itfNdP6lO=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/2Wcn7XicHcRdboIwAADgExWKRexMfMDqEEzwZ2QNvBjDSru0tpVWIF5wZ_A2S_wevtef8N66ZRgqgQJuDFfs4VjfGu2Z9kFrbiHvr86B1oUpGay6lXBb4CGVCJz8dN-VtgMHtc0JXZjqcloL5Bsl4j6heI8NyiKiG7h_fuH6s-4eaupyxjOLCNGSZ98jlR-gmuJ-OI_4bAop6TXXRew033GabuaZLhdNzmwd1TC6z359V_4cE3VYjRGEEIj3LdD_VwJEWA"
+   },
+   {
+    "position": 2,
+    "title": "OLA Electric Store - Electric Scooter Showroom in Indiranagar",
+    "place_id": "ChIJLy7jD7kXrjsRE86OTUpQG8w",
+    "data_id": "0x3bae17b90fe32e2f:0xcc1b504a4d8ece13",
+    "data_cid": "14707437288167493139",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17b90fe32e2f%3A0xcc1b504a4d8ece13&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17b90fe32e2f%3A0xcc1b504a4d8ece13&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9781753,
+     "longitude": 77.64175159999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLy7jD7kXrjsRE86OTUpQG8w",
+    "provider_id": "/g/11j_8vvssg",
+    "rating": 3.4,
+    "reviews": 840,
+    "unclaimed_listing": true,
+    "type": "Electric motor scooter dealer",
+    "types": [
+     "Electric motor scooter dealer",
+     "Showroom"
+    ],
+    "address": "522/1, Chinmaya Mission Hospital Rd, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",
+    "country": "India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+     "wednesday": "10:30 AM–8:30 PM",
+     "thursday": "10:30 AM–8:30 PM",
+     "friday": "10:30 AM–8:30 PM",
+     "saturday": "10:30 AM–8:30 PM",
+     "sunday": "10:30 AM–8:30 PM",
+     "monday": "10:30 AM–8:30 PM",
+     "tuesday": "10:30 AM–8:30 PM"
+    },
+    "phone": "+91 80 6896 4050",
+    "website": "https://olaelectric.com/experience-centres/book-appointment?utm_source=gmb&utm_medium=cpc&utm_campaign=ec_gmb_listing",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNerrGXc1R2-5UgoU8ismGbmAbSN2lxvgrvGSUXQFkSAo050fFSaPrOAQ7bouDGi2thUAKbL4GXNleGzmNNzDg_f5XO_MF9JdYX4P2YmFcBDuDRKp-R3q1Plf2jLCXJ5DJwHSY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/wZ6dqXicHcRRbsIgAADQE2Ep2swt2QeTlKUq1pIm9MtYRqkKpQNaFw-4O-w2S3wf7--3j3EMb0li-uVCO6eNmoLy0g1RDXEhnU20P4cAZEjwZh6NZcp7KmRaIZDV2tXrS7C0tbjlDJmfWfuZ8loc8xvHDmawy_m59Ad8fGndROgFxb7G23a3ooIZRR-WsQfRpy4Th9M-fy2-GrEqUWNz-UEmUm1HUC2_09J06LrbiCIjxf2TN-_3FEII-ucSDP9JPUPE"
+   },
+   {
+    "position": 3,
+    "title": "OLA Electric Store - Electric Scooter Showroom in Rajajinagar, Bengaluru",
+    "place_id": "ChIJafHz1vs9rjsRg40rd-sTFy4",
+    "data_id": "0x3bae3dfbd6f3f169:0x2e1713eb772b8d83",
+    "data_cid": "3321145152246615427",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3dfbd6f3f169%3A0x2e1713eb772b8d83&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3dfbd6f3f169%3A0x2e1713eb772b8d83&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9919735,
+     "longitude": 77.55732689999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJafHz1vs9rjsRg40rd-sTFy4",
+    "provider_id": "/g/11sssbt2t7",
+    "rating": 3.8,
+    "reviews": 689,
+    "unclaimed_listing": true,
+    "type": "Electric motor scooter dealer",
+    "types": [
+     "Electric motor scooter dealer"
+    ],
+    "address": "1699, Dr Rajkumar Rd, Prakash Nagar, Rajajinagar, Bengaluru, Karnataka 560021, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+     "wednesday": "10:30 AM–8 PM",
+     "thursday": "10:30 AM–8 PM",
+     "friday": "10:30 AM–8 PM",
+     "saturday": "10:30 AM–8 PM",
+     "sunday": "10:30 AM–8 PM",
+     "monday": "10:30 AM–8 PM",
+     "tuesday": "10:30 AM–8 PM"
+    },
+    "phone": "+91 80 6896 4050",
+    "website": "https://olaelectric.com/experience-centres/book-appointment?utm_source=gmb&utm_medium=cpc&utm_campaign=ec_gmb_listing",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNW4eyw1GgLuHQeMc5q4xSji0c3Je5piOUQUg6kPrNhGu43enuzOz16fYQGpVKRW-HdqUbV1fQlaf_sPQiEnF2jLhAYw6DNbF1TV8xfMEO8ZBtx4OSyPUJ4V5XZgROpTNgcxMi8=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/W1n2sHicHcTvEoEwAADwJ0pNq-vc-eBPcqg1FPnimLVF1rSleEHP4G3c-X34fT9ca6kGpllyu8eqipW0UbQmldBU6B6p7iarT0oZRJmjyVOW92gH6asFAVs1c0xD4jxgt7kWFrEX1JEFSnDC3FtcRzxooE1F80Zv4OYZDmS6XO-M-eWRnFOQ4_KUH1WMC1_M-tcVH2WtO43OM7BNvS4PfeQdxrqDaPOKkwVMnf2BrZHcRox0YeENW2BZlsH_E0P8ALv0RQk"
+   },
+   {
+    "position": 4,
+    "title": "OLA Electric Store - Electric Scooter Showroom in Bangalore, Whitefield",
+    "place_id": "ChIJ7QnCd0MRrjsRT0OupEBeslg",
+    "data_id": "0x3bae114377c209ed:0x58b25e40a4ae434f",
+    "data_cid": "6391274452925956943",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae114377c209ed%3A0x58b25e40a4ae434f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae114377c209ed%3A0x58b25e40a4ae434f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.000084099999999,
+     "longitude": 77.6857576
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7QnCd0MRrjsRT0OupEBeslg",
+    "provider_id": "/g/11trxbk4f2",
+    "rating": 2.7,
+    "reviews": 461,
+    "unclaimed_listing": true,
+    "type": "Electric motor scooter dealer",
+    "types": [
+     "Electric motor scooter dealer"
+    ],
+    "address": "2M2P+28J, Whitefield Main Rd, Kamadhenu Nagar, Singayyanapalya, Mahadevapura, Bengaluru, Karnataka 560048, India",
+    "country": "India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+     "wednesday": "10 AM–8:30 PM",
+     "thursday": "10 AM–8:30 PM",
+     "friday": "10 AM–8:30 PM",
+     "saturday": "10 AM–8:30 PM",
+     "sunday": "10 AM–8:30 PM",
+     "monday": "10 AM–8:30 PM",
+     "tuesday": "10 AM–8:30 PM"
+    },
+    "phone": "+91 80 6896 4050",
+    "website": "https://olaelectric.com/experience-centres/book-appointment?utm_source=gmb&utm_medium=cpc&utm_campaign=ec_gmb_listing",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOBKXMK7aU47u_fazNS9IEFYcka3_lrfpodnoIrZEFKkOdZBogu7Srqyr3GMFSMKMZ2fp2lkYgu_lIrgf3YQPupAeIm2Aj84nMqdxfHo-_6c4P3xvQAYJcUxRtoeyvgNXvjERUY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/vyWE3nicHcTbToMwGADgJ2IgJaImXjADjpHuREhWbggpbcko_bsekPmCPoNvY-J38f3-jM5p-xaGckQbASAk85YZCsox5TYU5lCY3tqA2jD7WLScj9vqiqu0b5LUd7z_PtSvZV4QOvWok4ZrGBSUps2LajoO7RaET2tzfxj0iYsaV7iNuY7lRITvZGkER-R88jpj5Rxnt5dE4fuw8h0E3TNNTmhdzhnZ02a9OGCPRRyuyy2_NOT96ymKomD8nwbqDw55Rqo"
+   },
+   {
+    "position": 5,
+    "title": "OLA Electric Store - Electric Scooter Showroom in Kalyan Nagar, Bengaluru",
+    "place_id": "ChIJsZvLThkXrjsRMqNxLSVNmcU",
+    "data_id": "0x3bae17194ecb9bb1:0xc5994d252d71a332",
+    "data_cid": "14238496518980084530",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17194ecb9bb1%3A0xc5994d252d71a332&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17194ecb9bb1%3A0xc5994d252d71a332&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.0242595,
+     "longitude": 77.6426398
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsZvLThkXrjsRMqNxLSVNmcU",
+    "provider_id": "/g/11ssjs0457",
+    "rating": 3.5,
+    "reviews": 394,
+    "unclaimed_listing": true,
+    "type": "Electric motor scooter dealer",
+    "types": [
+     "Electric motor scooter dealer"
+    ],
+    "address": "5 AC-614, 5th Cross Rd, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+    "country": "India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+     "wednesday": "10:30 AM–10 PM",
+     "thursday": "10:30 AM–10 PM",
+     "friday": "10:30 AM–10 PM",
+     "saturday": "10:30 AM–10 PM",
+     "sunday": "10:30 AM–10 PM",
+     "monday": "10:30 AM–10 PM",
+     "tuesday": "10:30 AM–10 PM"
+    },
+    "phone": "+91 80 6896 4050",
+    "website": "https://olaelectric.com/experience-centres/book-appointment?utm_source=gmb&utm_medium=cpc&utm_campaign=ec_gmb_listing",
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM4_UeeczjRPyzvIDBiaQCBlnFOgYk4aurt4HiBfZzsX-sqS9WcFAIYbkbMizLu-4wigoNYVBKZPv5_elfbk-9Lx7ff6n6oNlFhGvPzJJMcBXD3s3oAAbEGCWDz89cHWV4pQW4N=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/iSQdKnicHcTbDoIgAADQLyJt0sW2HkSzq2a1MntpyhBNAhO04gf7hv6mrfNwvp9CqVpODIMVVo8KQRlpJWmw4Ipw1cPibtAmlRJgaThuV7N7AK9HQrC-7aO37pYeKtOdixj3tzSpYNo2Ci5KlF-0PAP5ONgx9p1lklVZUOpNC-CzpCJMTmh9ibrBlbA8q4C9eY3yfMiHImR-Me8ivVoFGJ09S1rCcbLZ3I09PbbxIj7BehfDcPrsm6YJiv8Y8B8yaEWc"
+   },
+   {
+    "position": 6,
+    "title": "OLA Electric Store - Electric Scooter Showroom in Yelahanka, Bengaluru",
+    "place_id": "ChIJXZXrKDMZrjsRwS0RjZ0rFiU",
+    "data_id": "0x3bae193328eb955d:0x25162b9d8d112dc1",
+    "data_cid": "2672371384567541185",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae193328eb955d%3A0x25162b9d8d112dc1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae193328eb955d%3A0x25162b9d8d112dc1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.0924371,
+     "longitude": 77.58645589999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXZXrKDMZrjsRwS0RjZ0rFiU",
+    "provider_id": "/g/11tnh2z0hn",
+    "rating": 2.8,
+    "reviews": 328,
+    "unclaimed_listing": true,
+    "type": "Electric motor scooter dealer",
+    "types": [
+     "Electric motor scooter dealer"
+    ],
+    "address": "290-284, 15th A Cross Rd, Yelahanka Satellite Town, Yelahanka New Town, Bengaluru, Karnataka 560064, India",
+    "country": "India",
+    "phone": "+91 80 6896 4050",
+    "website": "https://olaelectric.com/experience-centres/book-appointment?utm_source=gmb&utm_medium=cpc&utm_campaign=ec_gmb_listing",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO52pPMfOmdVBl8yr2RzzbouM0dzISTYV1qrgNLuyFE9ir-3v4fuh0sQPOh3crdARmcezw7AY_tAzxkeectm87uyUVodNQwLDd8PI-CWB-On_f3GDKpWbt6oWm2rEhNIyR6QF3_=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QlvSa3icHcRLjoIwAADQE1UqdRRNXICfCVH5qRBXZGwLnUgp9iPSC3oGb2PiW7z3i2ndqYXjNAyNaiHqhhpFJRatpq0eYcGdWv4pBbBy_NWja3j843bJoYo5yYPGG6SbWXsV5gCJDY-nSz6-yzram2G7mf9LgB6TyjCo0iRmCEviZxxT28_8S6l9-7xRijX3ZmY454JEab9fEy8JwaoIQNyWFfpd77riqqei4K7csCgcsmm6ReWyH0MIAfuOQfsBLQtGFQ"
+   },
+   {
+    "position": 7,
+    "title": "OLA Electric Store - Electric Scooter Showroom in Kengeri Satellite Town, Bengaluru",
+    "place_id": "ChIJrzHZSSY_rjsRiPGnh9ToZ2E",
+    "data_id": "0x3bae3f2649d931af:0x6167e8d487a7f188",
+    "data_cid": "7018834543786848648",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3f2649d931af%3A0x6167e8d487a7f188&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3f2649d931af%3A0x6167e8d487a7f188&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.911961999999999,
+     "longitude": 77.4806341
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrzHZSSY_rjsRiPGnh9ToZ2E",
+    "provider_id": "/g/11kjm7y7r7",
+    "rating": 3.4,
+    "reviews": 238,
+    "unclaimed_listing": true,
+    "type": "Electric motor scooter dealer",
+    "types": [
+     "Electric motor scooter dealer"
+    ],
+    "address": "2084, 1st Main Rd, Stage I, Kengeri Satellite Town, Bengaluru, Karnataka 560060, India",
+    "country": "India",
+    "open_state": "Open · Closes 8 PM",
+    "hours": "Open · Closes 8 PM",
+    "operating_hours": {
+     "wednesday": "10 AM–8 PM",
+     "thursday": "10 AM–8 PM",
+     "friday": "10 AM–8 PM",
+     "saturday": "10 AM–8 PM",
+     "sunday": "10 AM–8 PM",
+     "monday": "10 AM–8 PM",
+     "tuesday": "10 AM–8 PM"
+    },
+    "phone": "+91 90357 56325",
+    "website": "https://olaelectric.com/experience-centres/book-appointment?utm_source=gmb&utm_medium=cpc&utm_campaign=ec_gmb_listing",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNwPsOvBOJBr95Tr0jbLK--92hpV84QwLmPn9ZQmLeqWCU-fyMMAK3aK_8mbZ5y9EMEcWowJBbM3-hLVZSq4ZePEgfBkCQbSItKebBQ2IVwCU-prDOZfLU9SApMQIU0gVzG7uYpnA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4PGZvXicHcvNToMwAADgJ-qoY4vDxANlZGEUoUFY7MWMprRR-rO2WzPf0EfwbTRevtv38y1DsP4pSRaZroQxYuFXzx0zOnAdVsyoRLiz94D5JC9udlEvsfPtDbVH5LLtq4MfE64ByNbSjrsNiVh1OqNEYX45FQOY702T1-m5ft-piW7vWdmU7GTiEU1NCiQeaX_ZUN6VYkafBZn6KtR8QmRdjfGvW7dv6YyHrM9tQ6oBivHr8Hh9szp_jg8QQiD_ZUD_Ar47RHE"
+   },
+   {
+    "position": 8,
+    "title": "OLA Electric Store - Electric Scooter Showroom in T. Dasarahalli, Bengaluru",
+    "place_id": "ChIJIzAN9fA9rjsRshELWzW7vvE",
+    "data_id": "0x3bae3df0f50d3023:0xf1bebb355b0b11b2",
+    "data_cid": "17419566246550770098",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3df0f50d3023%3A0xf1bebb355b0b11b2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3df0f50d3023%3A0xf1bebb355b0b11b2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 13.0453631,
+     "longitude": 77.5083252
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIzAN9fA9rjsRshELWzW7vvE",
+    "provider_id": "/g/11ssx8qv9q",
+    "rating": 3.4,
+    "reviews": 279,
+    "unclaimed_listing": true,
+    "type": "Electric motor scooter dealer",
+    "types": [
+     "Electric motor scooter dealer"
+    ],
+    "address": "Yash Avenue, Nelamangala - Majestic Service Rd, Maheswari Nagar, T. Dasarahalli, Bengaluru, Karnataka 560057, India",
+    "country": "India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+     "wednesday": "10:30 AM–10 PM",
+     "thursday": "10:30 AM–10 PM",
+     "friday": "10:30 AM–10 PM",
+     "saturday": "10:30 AM–10 PM",
+     "sunday": "10:30 AM–10 PM",
+     "monday": "10:30 AM–10 PM",
+     "tuesday": "10:30 AM–10 PM"
+    },
+    "phone": "+91 80 3311 3311",
+    "website": "https://olaelectric.com/experience-centres/book-appointment?utm_source=gmb&utm_medium=cpc&utm_campaign=ec_gmb_listing",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM3_0xCqdCpmQKTcf_bll03eNY47p_XPkAiduNzdOdPSPzSt_dVQbzp0QQj08r6xGSXRwvSuAj2y5ddXZOTjvvqYpGlOfP2e1P7bkg1YCSDfNajJMNkL2Li_ZAAs6Y1lY_ravc=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/-sSndHicHcRLjoIwAADQEyEFRp2YuGiYxMRBKNZMqJsG2vItUGmpygHnDt7GxLd4r__aGKV3rivrYFWNYyXFrMXExsGIwazY2LvVlGvtMO3C0CrZnwIKHuGNh6pPfy-spIWUIBAx-doqmqEONnyOF55whNGCDeV_abEokKYt-J42jwPOzneLZ9j6zzXn2TW5tNbeiDrIpES-8NC26CqPhPinjPP2eIq7yI8aeoVQb4gnCZ1yy_Z3DwDg1J-ZM7wB1gtF6w"
+   },
+   {
+    "position": 9,
+    "title": "OLA",
+    "place_id": "ChIJg1yC6wMVrjsR5ZVRPkP3J5g",
+    "data_id": "0x3bae1503eb825c83:0x9827f7433e5195e5",
+    "data_cid": "10964003686037165541",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1503eb825c83%3A0x9827f7433e5195e5&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1503eb825c83%3A0x9827f7433e5195e5&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.932735899999999,
+     "longitude": 77.5856021
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg1yC6wMVrjsR5ZVRPkP3J5g",
+    "provider_id": "/g/11tnvtlh8v",
+    "rating": 3.4,
+    "reviews": 348,
+    "unclaimed_listing": true,
+    "type": "Electric motor scooter dealer",
+    "types": [
+     "Electric motor scooter dealer"
+    ],
+    "address": "363, Ground floor, 10th B Main Rd, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+    "country": "India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+     "wednesday": "10:30 AM–10 PM",
+     "thursday": "10:30 AM–10 PM",
+     "friday": "10:30 AM–10 PM",
+     "saturday": "10:30 AM–10 PM",
+     "sunday": "10:30 AM–10 PM",
+     "monday": "10:30 AM–10 PM",
+     "tuesday": "10:30 AM–10 PM"
+    },
+    "phone": "+91 80 6896 4050",
+    "website": "https://olaelectric.com/experience-centres/book-appointment?utm_source=gmb&utm_medium=cpc&utm_campaign=ec_gmb_listing",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPMzoeDYf7oGMVgypIYT8gQWWeicAXAsvOZm-O9q0uioj7ay_O_In-UW6mHM2Yxh_CquQf0bILvnYbqCE9g9ZkllsmqLAE3Fx_Jibez7sBZMZt-6PnFzmP-vT3fWZLixv-SNWLtnw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/PIWgeHicHcTbboIwAADQL6p0koCY7IExLywgmKkdfSHSlIL2ArZU5A_9hP2Niefh_D8bYzq9dBzeuDOmFON00PRGlDRUmhlRwmG3s9aAaCeMbMdFnk6Kfhe1rzbpiT26uDgs2B4h2pLwL9Q2wwJkQQ-HVl3886PMyliCI_LENp0XY1NG_bCvYRUnVhZVH60CFuAr51r0Sbhy12P501Z08vUXTrEBXi7Xk8iBPbg1wkk7WvC7Q4mR98_7B4QQNO8JkC_DE0dT"
+   },
+   {
+    "position": 10,
+    "title": "OLA Electric Store - Electric Scooter Showroom in Singasandra",
+    "place_id": "ChIJYxFI9R8VrjsRMg-6LI3XWAE",
+    "data_id": "0x3bae151ff5481163:0x158d78d2cba0f32",
+    "data_cid": "97064393329217330",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae151ff5481163%3A0x158d78d2cba0f32&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae151ff5481163%3A0x158d78d2cba0f32&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.885693199999999,
+     "longitude": 77.64166689999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYxFI9R8VrjsRMg-6LI3XWAE",
+    "provider_id": "/g/11k9kd812h",
+    "rating": 2.9,
+    "reviews": 516,
+    "unclaimed_listing": true,
+    "type": "Electric motor scooter dealer",
+    "types": [
+     "Electric motor scooter dealer"
+    ],
+    "address": "Khata No, Site No 2 & 3, 449/448, Singasandra, Karnataka 560114, India",
+    "country": "India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+     "wednesday": "10:30 AM–10 PM",
+     "thursday": "10:30 AM–10 PM",
+     "friday": "10:30 AM–10 PM",
+     "saturday": "10:30 AM–10 PM",
+     "sunday": "10:30 AM–10 PM",
+     "monday": "10:30 AM–10 PM",
+     "tuesday": "10:30 AM–10 PM"
+    },
+    "phone": "+91 80 6896 4050",
+    "website": "https://olaelectric.com/experience-centres/book-appointment?utm_source=gmb&utm_medium=cpc&utm_campaign=ec_gmb_listing",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPJAtXUckj5WrGxDILG2qOuNLBD-NXEHpUJJ2hSJlMxXRmF6pCOSgkOSmg7UeQXAmP1nDIU5lwS9jhy4m_OSwZ-hgQg_Gw3eOYIWrLqn-yhnRUbjQBSfQBGbtxKtJXWO8_C=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/kHDi6HicHcTbboMgAADQL0KtXXdpsgcvm5PZUkuIbC9mEgaxgCh02u_bV_RvmvQ8nOu_9N66bRgquQ7EMAjFz45PbDCeGx-wQYdi-nEOMBcm2Z9V-gATTwk79ZtmKpa8rIp4ROd9leZgT98-LIEwlhiq3UKP-v3RZgiLE8JaPBFe00QfViYvyUbN-KWXlwfdIjx_Aylq0RbzmqOvspmq0YCLNEfS9XWKf-u06Pzy6SFt0HObvc6rKIqAvM-AuQGFQEPx"
+   },
+   {
+    "position": 11,
+    "title": "OLA Electric Store - Electric Scooter Showroom in BTM Layout, Bengaluru",
+    "place_id": "ChIJs8GXi68VrjsRqJfuD5HeSu0",
+    "data_id": "0x3bae15af8b97c1b3:0xed4ade910fee97a8",
+    "data_cid": "17098723649884428200",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15af8b97c1b3%3A0xed4ade910fee97a8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15af8b97c1b3%3A0xed4ade910fee97a8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9165829,
+     "longitude": 77.6013749
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJs8GXi68VrjsRqJfuD5HeSu0",
+    "provider_id": "/g/11sss9m67f",
+    "rating": 3.1,
+    "reviews": 209,
+    "unclaimed_listing": true,
+    "type": "Electric motor scooter dealer",
+    "types": [
+     "Electric motor scooter dealer"
+    ],
+    "address": "Ground Floor, Survey No. 65, 96-15, Outer Ring Rd, Stage 2, BHBCS Layout, BTM Layout, Bengaluru, Karnataka 560029, India",
+    "country": "India",
+    "open_state": "Permanently closed",
+    "hours": "Permanently closed",
+    "phone": "+91 80 3311 3311",
+    "website": "https://olaelectric.com/experience-centres/book-appointment?utm_source=gmb&utm_medium=cpc&utm_campaign=ec_gmb_listing",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPFs3mn_hfhRaanzpdtn2k5FGUX-7N2ih0nJVxSKajubAuiTiwasKdACLd1UCoVdi5o_V9rIxKrqv46cXGnL_JPJM4lxJi2HSelWNAw9WLBTmkGqvZtSNd3Gl7hIl1ZYxOYEkxM=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/TKv1OHicHcRdDoIgAADgE5l_WautB3NlqVnLsvLFEZiQCCaorAt2hm7T1vfwfT9YykbMdZ1ie1RyXtKiE0ULOZMFkyPIa71sgRAaFLrr9Q2tD2th1yzHD3wEgL0bJJlVOWv_fNWmsUWwwYJUJSF4dne3IycyABEi14uQefZ4iojD83TWblXYvvrxBF59FuXBIdiNqQqItUkKeondYXaJlqe68l99JpMY2T6d4i01s5va31aV2i0G0zAMDf-HGvsBNIxGXA"
+   }
+  ]
+ }
+}

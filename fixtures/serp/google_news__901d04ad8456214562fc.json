@@ -1,0 +1,1423 @@
+{
+ "params": {
+  "engine": "google_news",
+  "q": "Manali",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fa408c8a7edc4fa4f204",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/wsQmhWdf3hf3_5WKdHMqpDd3lQTbV5b8fbSqX-cpOko/6ac5fa408c8a7edc4fa4f204.json",
+   "markdown_endpoint": "https://serpapi.com/searches/wsQmhWdf3hf3_5WKdHMqpDd3lQTbV5b8fbSqX-cpOko/6ac5fa408c8a7edc4fa4f204.md",
+   "created_at": "2026-10-07 07:52:32 UTC",
+   "processed_at": "2026-10-07 07:52:32 UTC",
+   "google_news_url": "https://news.google.com/search?q=Manali&hl=en&gl=IN",
+   "raw_html_file": "https://serpapi.com/searches/wsQmhWdf3hf3_5WKdHMqpDd3lQTbV5b8fbSqX-cpOko/6ac5fa408c8a7edc4fa4f204.html",
+   "total_time_taken": 3.26
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "in",
+   "hl": "en",
+   "q": "Manali"
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "'Real problem is Indian work culture. Getting leaves from your manager is a pain... so people end up usin",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://timesofindia.indiatimes.com/etimes/trending/real-problem-is-indian-work-culture-getting-leaves-from-your-manager-is-a-pain-so-people-end-up-using-the-long-weekends-for-trips-manali-traffic-jam-leaves-tourists-stuck-for-hours-internet-debates-hill-tourism/articleshow/134657476.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/msid-134657603,width-1280,height-720,imgsize-102678,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZkRlZOT0VsdFRWaEtSRXRQVFJDZkF4ampCU2dLTWdZQlFJcGdKQVU",
+    "date": "10/03/2026, 11:00 AM, +0000 UTC",
+    "iso_date": "2026-10-03T11:00:00Z"
+   },
+   {
+    "position": 2,
+    "title": "Manali Chokes For Tourists And Natives As Paradise Unravels",
+    "source": {
+     "name": "Hill Post",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hillpost.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://hillpost.in/2026/10/manali-chokes-for-tourists-and-natives-as-paradise-unravels/169978/",
+    "thumbnail": "https://hillpost.in/wp-content/uploads/2018/05/12Kullu5.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhPVlJwVDNOaVlYaFVWRGRCVFJEREF4aW9CU2dLTWdrQlFJWkF0YVRBbHdB",
+    "date": "10/06/2026, 10:52 AM, +0000 UTC",
+    "iso_date": "2026-10-06T10:52:05Z"
+   },
+   {
+    "position": 3,
+    "title": "Massive rush, traffic in Manali, Mussoorie, Kainchi Dham as people head to the hills on long weekend | India News",
+    "source": {
+     "name": "Hindustan Times",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.hindustantimes.com/india-news/manali-mussoorie-shimla-nainital-kainchi-dham-badrinath-kedarnath-long-weekend-rush-clogs-himachal-uttarakhand-hanuman-ansh-101791008477951.html",
+    "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/10/03/1600x900/logo/himachal_uttarakhand_traffic_1791009863773_bLrf_1791009878151_yS2P_951b91a0-411a-4632-b6cd-ae52ae4ef328_HrLQ.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdlbWhwT1VSMlRqWnJUbWhSVFJDZkF4amlCU2dLTWdZQkFJYVZqQW8",
+    "date": "10/03/2026, 07:37 AM, +0000 UTC",
+    "iso_date": "2026-10-03T07:37:25Z"
+   },
+   {
+    "position": 4,
+    "title": "Himachal: 600 cops, tight traffic plan for President Murmu’s Manali visit",
+    "source": {
+     "name": "The Tribune",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Abhinav Vashisht"
+     ]
+    },
+    "link": "https://www.tribuneindia.com/news/himachal/himachal-600-cops-tight-traffic-plan-for-president-murmus-manali-visit/",
+    "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ2NjgzMTQwLWMwMzEtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURlVk5WU2pKWlZXaGxhRGxmVFJEQUF4aXNCU2dLTWdZVndJaHRRUVU",
+    "date": "10/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-10-03T07:00:00Z"
+   },
+   {
+    "position": 5,
+    "title": "Himachal: Skimo India Federation holds workshop in Manali to boost ski mountaineering",
+    "source": {
+     "name": "ANI News",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.aninews.in/news/national/general-news/himachal-skimo-india-federation-holds-workshop-in-manali-to-boost-ski-mountaineering20261004211229",
+    "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20261004154213.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9SR1ZCZEdab1dUTm5iVlF3VFJEZ0F4aUFCU2dLTWdZaFpZcXRLUWc",
+    "date": "10/04/2026, 03:42 PM, +0000 UTC",
+    "iso_date": "2026-10-04T15:42:00Z"
+   },
+   {
+    "position": 6,
+    "title": "Where To Stay In Manali For The Best Mountain Views",
+    "source": {
+     "name": "Outlook Traveller",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlooktraveller.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.outlooktraveller.com/stay/where-to-stay-in-manali-for-the-best-mountain-views",
+    "thumbnail": "https://media.assettype.com/outlooktraveller/2026-09-22/tgs7ilas/big16505328373701deluxeBalcony.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRSMnRUYW5ob2FFbGlPV2xQVFJEZ0F4aUFCU2dLTWdZQnNJTHJRQU0",
+    "date": "10/04/2026, 07:30 AM, +0000 UTC",
+    "iso_date": "2026-10-04T07:30:00Z"
+   },
+   {
+    "position": 7,
+    "title": "Primary Objective Of Medical Profession Should Be To Serve Humanity: President Murmu",
+    "source": {
+     "name": "ETV Bharat",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.etvbharat.com/en/bharat/kullu-gears-up-for-president-droupadi-murmus-3-day-visit-enn26100602785",
+    "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/06-10-2026/1200-675-27800830-109-27800830-1791305346797.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVBlV0paYURaaU1HeEZOMUZIVFJDZkF4ampCU2dLTWdB",
+    "date": "10/06/2026, 10:29 AM, +0000 UTC",
+    "iso_date": "2026-10-06T10:29:54Z"
+   },
+   {
+    "position": 8,
+    "title": "Hills Holiday Or Highway Hell? Manali, Mussoorie Swamped By 'Crazy' Long Weekend Crowd | Vantage",
+    "source": {
+     "name": "Firstpost",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.firstpost.com/vantage/hills-holiday-or-highway-hell-manali-mussoorie-swamped-by-crazy-long-weekend-crowd-vantage-vd2199263-shorts.html",
+    "thumbnail": "https://media.nw18.com/media-assets/wbx6pq/10-2026/05-2026/ekzC0NaUWr-0510-LONG-WEEKEND-CHAOSCARDjpg-6ZbfeFLaDd.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZWMnBuY2sxUFYxSXlkREJQVFJEakJSaWZBeWdLTWdhQlVKS1dvQWs",
+    "date": "10/05/2026, 06:00 PM, +0000 UTC",
+    "iso_date": "2026-10-05T18:00:30Z"
+   },
+   {
+    "position": 9,
+    "title": "Skimo India Federation holds workshop in Manali to develop ski mountaineering roadmap",
+    "source": {
+     "name": "The News Mill",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://thenewsmill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://thenewsmill.com/2026/10/skimo-india-federation-holds-workshop-in-manali-to-develop-ski-mountaineering-roadmap/",
+    "thumbnail": "https://thenewsmill.com/wp-content/uploads/2026/10/skimo-india-federation-holds-workshop-in-manali-to-develop-ski-mountaineering-roadmap.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9SR1ZCZEdab1dUTm5iVlF3VFJEZ0F4aUFCU2dLTWdZaFpZcXRLUWc",
+    "date": "10/04/2026, 03:47 PM, +0000 UTC",
+    "iso_date": "2026-10-04T15:47:34Z"
+   },
+   {
+    "position": 10,
+    "title": "Skip Manali this season, 6 quieter Himalayan destinations to visit to enjoy slow living",
+    "source": {
+     "name": "Moneycontrol.com",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Namita Kalla"
+     ]
+    },
+    "link": "https://www.moneycontrol.com/lifestyle/skip-manali-this-season-6-quieter-himalayan-destinations-to-visit-to-enjoy-slow-living-article-14045302.html",
+    "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/10/20261006031828_ggg.jpg?impolicy=website&width=1600&height=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJhbTFzTWtoa01YWnBNa2gxVFJDZkF4ampCU2dLTWdhaE5ZcnJuUVk",
+    "date": "10/06/2026, 03:18 AM, +0000 UTC",
+    "iso_date": "2026-10-06T03:18:54Z"
+   },
+   {
+    "position": 11,
+    "title": "Peaceful Holiday Or A “Long Weekend” Trap? Mussoorie, Nainital & Manali See Massive Traffic Jams",
+    "source": {
+     "name": "Curly Tales",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://curlytales.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ashmeet Guliani"
+     ]
+    },
+    "link": "https://curlytales.com/india/trending/peaceful-holiday-or-a-long-weekend-trap-mussoorie-nainital-manali-see-massive-traffic-jams/",
+    "thumbnail": "https://curlytales.com/wp-content/uploads/2026/10/Mussoorie-Traffic.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFka2syTmpkMFduSkhiRXRMVFJDZkF4ampCU2dLTWdZQllJYXpPQVU",
+    "date": "10/04/2026, 07:24 AM, +0000 UTC",
+    "iso_date": "2026-10-04T07:24:30Z"
+   },
+   {
+    "position": 12,
+    "title": "Farmers block Chandigarh-Manali Highway over Paddy procurement deductions",
+    "source": {
+     "name": "Punjab Newsline",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.punjabnewsline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.punjabnewsline.com/news/farmers-block-chandigarh-manali-highway-over-paddy-procurement-deductions",
+    "thumbnail": "https://punjabnewsline.com/r2-images/news/full106861-0.jpg?t=1791280747476",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhiMGxGYTBwdlNtVnZibDlyVFJEcEFoai1BeWdLTWdrQllJaGt4bU03elFF",
+    "date": "10/06/2026, 10:02 AM, +0000 UTC",
+    "iso_date": "2026-10-06T10:02:28Z"
+   },
+   {
+    "position": 13,
+    "title": "Weather Forecast and Conditions for Manali, Chennai, Tamil Nadu, India - The Weather Channel | Weather.com",
+    "source": {
+     "name": "The Weather Channel",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://weather.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://weather.com/in/tamil-nadu/chennai/locality/manali/today",
+    "date": "09/29/2026, 04:25 PM, +0000 UTC",
+    "iso_date": "2026-09-29T16:25:01Z"
+   },
+   {
+    "position": 14,
+    "title": "Watch: Long queues on Manali roads as tourists pour in for long weekend",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/short-videos/watch-long-queues-on-manali-roads-as-tourists-pour-in-for-long-weekend/videoshow/134655991.cms",
+    "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-134655991,width-1600,height-900,resizemode-4/news/short-videos/watch-long-queues-on-manali-roads-as-tourists-pour-in-for-long-weekend.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBSbk50VFVocmVtOW5PR05XVFJDZkF4ampCU2dLTWdZQklJakZ5QVU",
+    "date": "10/03/2026, 09:41 AM, +0000 UTC",
+    "iso_date": "2026-10-03T09:41:57Z"
+   },
+   {
+    "position": 15,
+    "title": "Security tightened, traffic plan issued for President Murmu's visit Kullu-Manali | Hindustan Times",
+    "source": {
+     "name": "Hindustan Times",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.hindustantimes.com/cities/security-tightened-traffic-plan-issued-for-president-murmu-s-visit-kullumanali-101791102464344.html",
+    "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/09/22/1600x900/logo/Cities_Image_Ai_Generated_2_version_1790062416079_y1DW_1790062447010_L0sX_ed9b5eee-44ba-4f65-bb29-aee7b16f9ea7_THhB.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5hRzFDVEV0aFNEQmxWRVpXVFJDZkF4ampCU2dLTWdZQlVJU2twZ2c",
+    "date": "10/04/2026, 08:27 AM, +0000 UTC",
+    "iso_date": "2026-10-04T08:27:43Z"
+   },
+   {
+    "position": 16,
+    "title": "Manali rolls out red carpet for President Droupadi Murmu",
+    "source": {
+     "name": "The Tribune",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.tribuneindia.com/news/himachal/manali-rolls-out-red-carpet-for-president-droupadi-murmu/amp/",
+    "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIzOTk0ZTgwLWMxYmYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFZWGxUY3pSU1JEUlVZVlJoVFJDekF4akFCU2dLTWdZQklKQUNuQWs",
+    "date": "10/06/2026, 07:50 PM, +0000 UTC",
+    "iso_date": "2026-10-06T19:50:07Z"
+   },
+   {
+    "position": 17,
+    "title": "Manali tourist rush: Over 4,000 vehicles arrive in two days",
+    "source": {
+     "name": "The Tribune",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Abhinav Vashisht"
+     ]
+    },
+    "link": "https://www.tribuneindia.com/news/himachal/manali-tourist-rush-over-4000-vehicles-arrive-in-two-days/",
+    "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWYwM2FmZDQwLWMwMTUtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFRMEYyTTJKUlpqUjVTMlIzVFJDaEF4amdCU2dLTWdrQmNJWkF3R09BLVFB",
+    "date": "10/04/2026, 05:06 PM, +0000 UTC",
+    "iso_date": "2026-10-04T17:06:24Z"
+   },
+   {
+    "position": 18,
+    "title": "Weekend tourist influx leads to traffic snarls in Manali, Shimla | Hindustan Times",
+    "source": {
+     "name": "Hindustan Times",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ht Correspondent"
+     ]
+    },
+    "link": "https://www.hindustantimes.com/cities/chandigarh-news/weekend-tourist-influx-leads-to-traffic-snarls-in-manali-shimla-101791053391374.html",
+    "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/10/03/1600x900/logo/Long-queue-of-cars-and-vehicles-on-the-mountain-ro_1791053388924_zqaH.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1VVU5TWWtVM01FUlBiWFpqVFJDZkF4ampCU2dLTWdZWkVJZ1FQQVU",
+    "date": "10/04/2026, 02:09 AM, +0000 UTC",
+    "iso_date": "2026-10-04T02:09:00Z"
+   },
+   {
+    "position": 19,
+    "title": "Heavy tourist rush triggers massive traffic jams in Himachals Shimla, Manali, Dharamsala",
+    "source": {
+     "name": "The Tribune",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.tribuneindia.com/news/himachal/heavy-tourist-rush-triggers-massive-traffic-jams-in-himachals-manali-shimla-dharamsala/",
+    "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI5NGNmZWMwLWJmNDAtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdWM2MzVGw5SVlWQkVkV2wxVFJDZkF4ampCU2dLTWdZTllJRFByQUk",
+    "date": "10/03/2026, 01:09 PM, +0000 UTC",
+    "iso_date": "2026-10-03T13:09:14Z"
+   },
+   {
+    "position": 20,
+    "title": "Momentum Stocks: Manali Petro, 5paisa Capital, Cybertech rises up tp 10% on sheer momentum",
+    "source": {
+     "name": "Moneycontrol.com",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.moneycontrol.com/news/business/markets/momentum-stocks-manali-petro-5paisa-capital-cybertech-rises-up-tp-10-on-sheer-momentum-14044377.html",
+    "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260804023020_Market_1.jpg?impolicy=website&width=1600&height=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZOV2RJT1VkMFFWWXRWMXA1VFJDZkF4ampCU2dLTWdhdFU0eHhLUWM",
+    "date": "10/05/2026, 04:47 AM, +0000 UTC",
+    "iso_date": "2026-10-05T04:47:07Z"
+   },
+   {
+    "position": 21,
+    "title": "Watch: Manali Turns into Parking Lot? Tourist Rush Creates Endless Vehicle Queues | Videos",
+    "source": {
+     "name": "Hindustan Times",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.hindustantimes.com/videos/watch-manali-turns-into-parking-lot-tourist-rush-creates-endless-vehicle-queues-101791045681179.html",
+    "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/10/03/1600x900/logo/maxresdefault_1791045673800_dcDh_1791045679515_YPti_27efa055-0bcc-42de-a6dd-46c4d089e8ab_HmGy.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWpTakIwY1VZeVIweEdXWFExVFJDZkF4ampCU2dLTWdB",
+    "date": "10/03/2026, 04:41 PM, +0000 UTC",
+    "iso_date": "2026-10-03T16:41:20Z"
+   },
+   {
+    "position": 22,
+    "title": "Honda CB350 [2017-2026] Price in Manali",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bikewale.com/honda-bikes/cb350-2017-2026/price-in-manali/",
+    "date": "10/01/2026, 02:32 AM, +0000 UTC",
+    "iso_date": "2026-10-01T02:32:32Z"
+   },
+   {
+    "position": 23,
+    "title": "Bus Carrying LPU Students Overturns In Punjab, 3 Killed And 24 Injured",
+    "source": {
+     "name": "Outlook India",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.outlookindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.outlookindia.com/national/bus-carrying-lpu-students-overturns-in-punjab-3-killed-and-24-injured",
+    "thumbnail": "https://cf-images.assettype.com/outlookindia/2026-08-04/e2cvz1pi/suicide_570_850.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVRM1YzYVZKVUxXMHdjM2xHVFJDZkF4ampCU2dLTWdZbFpKS3RyUVk",
+    "date": "10/05/2026, 10:50 AM, +0000 UTC",
+    "iso_date": "2026-10-05T10:50:43Z"
+   },
+   {
+    "position": 24,
+    "title": "Inside Kangana Ranaut’s Manali mansion: 7 bedrooms, a glass conservatory for mountain views, vintage temp",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/magazines/panache/inside-kangana-ranauts-manali-mansion-7-bedrooms-a-glass-conservatory-for-mountain-views-vintage-temple-and-himachali-inspired-luxury/articleshow/134684245.cms",
+    "thumbnail": "https://m.economictimes.com/thumb/msid-134685710,width-1200,height-900,resizemode-4,imgsize-129391/kangana-ranaut.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpZbU5GYlRaU1VrVmZZa1JwVFJEZ0F4aUFCU2dLTWdhUkNJNm5qZ28",
+    "date": "10/05/2026, 04:30 AM, +0000 UTC",
+    "iso_date": "2026-10-05T04:30:07Z"
+   },
+   {
+    "position": 25,
+    "title": "Manali sees fresh snowfall as temperatures fall across hill town",
+    "source": {
+     "name": "DD India",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ddindia.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://ddindia.co.in/2026/09/manali-sees-fresh-snowfall-as-temperatures-fall-across-hill-town/",
+    "thumbnail": "https://ddindia.co.in/wp-content/uploads/2026/09/ANI-20260929033133.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtaSFZJWlcxWFJrVjNRMFpLVFJEZ0F4aUFCU2dLTWdNOXNBWQ",
+    "date": "09/29/2026, 05:20 AM, +0000 UTC",
+    "iso_date": "2026-09-29T05:20:00Z"
+   },
+   {
+    "position": 26,
+    "title": "Nitin Gadkari Inaugurates Deod, Hanogi Tunnels In Himachal - Key To Delhi-Manali Route",
+    "source": {
+     "name": "NDTV",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.ndtv.com/auto/nitin-gadkari-inaugurates-deod-hanogi-tunnels-in-himachal-key-to-delhi-manali-route-12040878",
+    "thumbnail": "https://c.ndtvimg.com/2026-09/79ftn9lc_himachal-tunnel_625x300_13_September_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFlamR2Y1UxVmNuRTFOMmRKVFJDZkF4ampCU2dLTWdZQnNvSm5RUU0",
+    "date": "09/13/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-13T07:00:00Z"
+   },
+   {
+    "position": 27,
+    "title": "‘Destroying our hills’: Manali traffic jam during long weekend sparks debate online",
+    "source": {
+     "name": "The Indian Express",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://indianexpress.com/article/trending/trending-in-india/manali-traffic-jam-long-weekend-tourist-rush-10905150/",
+    "thumbnail": "https://images.indianexpress.com/2026/10/Manali-traffic-jam-long-weekend.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNW5jREpwTm10amRVTkVWblZpVFJDZkF4ampCU2dLTWdzQkFJS0VHS1BnVFFuVDBB",
+    "date": "10/03/2026, 10:11 AM, +0000 UTC",
+    "iso_date": "2026-10-03T10:11:08Z"
+   },
+   {
+    "position": 28,
+    "title": "3 killed, 24 injured as passenger bus carrying LPU students overturns on Banga-Phagwara highway",
+    "source": {
+     "name": "The Tribune",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ashok Kaura"
+     ]
+    },
+    "link": "https://www.tribuneindia.com/news/jalandhar/3-killed-24-injured-as-passenger-bus-carrying-lpu-students-overturns-on-banga-phagwara-highway/",
+    "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTIxZWQ4MDgwLWMwOTEtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZOamx0VjJ0NVExWlRkVUpZVFJEREF4aW9CU2dLTWdZQmRZN3FyUVk",
+    "date": "10/05/2026, 06:01 AM, +0000 UTC",
+    "iso_date": "2026-10-05T06:01:39Z"
+   },
+   {
+    "position": 29,
+    "title": "Three Days Off, Hours In Traffic: Why India's Long-Weekend Getaways Are Backfiring",
+    "source": {
+     "name": "News18",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Mallika Bhagat"
+     ]
+    },
+    "link": "https://www.news18.com/lifestyle/travel/three-days-off-hours-in-traffic-why-indias-long-weekend-getaways-are-backfiring-10367466.html",
+    "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/10/long-weekend-2026-10-e11350292e093f0fcdc4abcad3a02e43.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUhjRzUyTW5GNE9WbElSVFJVVFJDZkF4ampCU2dLTWdB",
+    "date": "10/05/2026, 08:11 AM, +0000 UTC",
+    "iso_date": "2026-10-05T08:11:16Z"
+   },
+   {
+    "position": 30,
+    "title": "President Droupadi Murmu visits Atal Tunnel amid snow-covered Himalayan views",
+    "source": {
+     "name": "Punjab Newsline",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.punjabnewsline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.punjabnewsline.com/news/president-droupadi-murmu-visits-atal-tunnel-amid-snow-covered-himalayan-views",
+    "thumbnail": "https://punjabnewsline.com/r2-images/news/full106872-0.jpg?t=1791355692402",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZlV3AyWVZWQmRrNUZaR3hMVFJEQUF4aXNCU2dLTWdZQklKS0NIQWs",
+    "date": "10/07/2026, 06:51 AM, +0000 UTC",
+    "iso_date": "2026-10-07T06:51:57Z"
+   },
+   {
+    "position": 31,
+    "title": "Man leaves Delhi for Manali, spends just Rs 21,000 a month, returns after 71 days: 'Reality was different'",
+    "source": {
+     "name": "Moneycontrol.com",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Shubhi Mishra"
+     ]
+    },
+    "link": "https://www.moneycontrol.com/news/trends/man-leaves-delhi-for-manali-spends-just-rs-21-000-a-month-returns-after-71-days-reality-was-different-14009009.html",
+    "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260818075217_hbsdhjjdsdhjshjdhvhs.jpg?impolicy=website&width=1600&height=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdNbWhmY0ZkNVZEbEhXa0pQVFJDZkF4ampCU2dLTWdhaGNvejBLQWc",
+    "date": "08/18/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-18T07:00:00Z"
+   },
+   {
+    "position": 32,
+    "title": "Long Weekend Crowd Swells, Traffic Jams Hit Manali, Shimla, Mussoorie, Badrinath Dham",
+    "source": {
+     "name": "Outlook India",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.outlookindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Snehal Srivastava"
+     ]
+    },
+    "link": "https://www.outlookindia.com/national/gandhi-jayanti-weekend-traffic-jams-hit-manali-mussoorie-shimla-badrinath-dham-and-kainchi-dham",
+    "thumbnail": "https://cf-images.assettype.com/outlookindia/2026-01-26/lxdvysxz/Weather-Snowfall-in-Himachal-Pradesh.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNHpRVlJKYzIxeVdHWmZORUZ1VFJERUF4aW1CU2dLTWc0QkFJS2xuQ0xZMFNoSnlhSzRCdw",
+    "date": "10/03/2026, 11:19 AM, +0000 UTC",
+    "iso_date": "2026-10-03T11:19:19Z"
+   },
+   {
+    "position": 33,
+    "title": "Delhi Lawyer Visited Manali On A Solo Trip During Covid And Never Moved Back",
+    "source": {
+     "name": "NDTV",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Jigyasa Kakwani"
+     ]
+    },
+    "link": "https://www.ndtv.com/travel/delhi-lawyer-visited-manali-on-a-solo-trip-during-covid-and-never-moved-back-12113411",
+    "thumbnail": "https://c.ndtvimg.com/2026-09/o24hphks_mountain-girl_625x300_29_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNSM2xWYm14TlltMTRTRW90VFJDZkF4ampCU2dLTWdZcEVKQndsUWc",
+    "date": "09/29/2026, 07:42 AM, +0000 UTC",
+    "iso_date": "2026-09-29T07:42:43Z"
+   },
+   {
+    "position": 34,
+    "title": "North Chennai residents demand civic infrastructure, pollution control in Manali",
+    "source": {
+     "name": "The Hindu",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Aloysius Xavier Lopez"
+     ]
+    },
+    "link": "https://www.thehindu.com/news/cities/chennai/north-chennai-residents-demand-civic-infrastructure-pollution-control-in-manali/article71488517.ece",
+    "thumbnail": "https://th-i.thgim.com/public/incoming/n3eh4a/article71489045.ece/alternates/LANDSCAPE_1200/9127_20_9_2026_13_28_28_1_DSC_1509.JPG",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdXRzF5TUZGUmRtUTJaMGxNVFJDZkF4ampCU2dLTWdZQklJWkRsQWc",
+    "date": "09/21/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-21T07:00:00Z"
+   },
+   {
+    "position": 35,
+    "title": "25/09/2026 - Partly Cloudy and Pleasant Weather in Manali | Rain and Cloudy Conditions Across the Himalayan Treks | Heavy Rain Expected in Sandakphu–Phalut | Trek Teams Continue Their Movements | Trek News",
+    "source": {
+     "name": "Indiahikes",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://indiahikes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://indiahikes.com/news/indiahikes-weather-update-latest-24-september-2026",
+    "thumbnail": "https://images.prismic.io/indiahike/IThCS39pyNl99RzD_Kotgaon.jpeg?auto=format,compress",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVjbVp5VmtkdGRXeEhabWhMVFJDZkF4ampCU2dLTWdZQkVZVkoxUUk",
+    "date": "09/25/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-25T07:00:00Z"
+   },
+   {
+    "position": 36,
+    "title": "Security Tightened Across Bilaspur-Kullu for President Murmu Visit",
+    "source": {
+     "name": "The News Himachal",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thenewshimachal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://thenewshimachal.com/2026/10/security-tightened-across-bilaspur-kullu-for-president-murmu-visit/",
+    "thumbnail": "https://thenewshimachal.com/wp-content/uploads/2026/04/President-Droupadi-Murmu.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTZRVzFKT1ZCMVVVNW9kVWxrVFJDdkF4akhCU2dLTWd1QklZN01sS3JBNm1sc1pB",
+    "date": "10/05/2026, 11:51 AM, +0000 UTC",
+    "iso_date": "2026-10-05T11:51:03Z"
+   },
+   {
+    "position": 37,
+    "title": "Manali residents want industries to comply with pollution norms",
+    "source": {
+     "name": "The New Indian Express",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.newindianexpress.com/cities/chennai/2026/Sep/21/manali-residents-want-industries-to-comply-with-pollution-norms",
+    "thumbnail": "https://cf-images.assettype.com/TNIE/import/2023/8/16/original/monitoring_air1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRRVlJLY1ZaMk5FeEtSbEI0VFJDaEF4amZCU2dLTWdtQlpJQ3VyZWZBYWdJ",
+    "date": "09/21/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-21T07:00:00Z"
+   },
+   {
+    "position": 38,
+    "title": "Tourism Boom Turns Himachal Roads into Parking Lots, Exposes Limits of Hill Infrastructure",
+    "source": {
+     "name": "The News Himachal",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thenewshimachal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Rahul Bhandari"
+     ]
+    },
+    "link": "https://thenewshimachal.com/2026/10/tourism-boom-turns-himachal-roads-into-parking-lots-exposes-limits-of-hill-infrastructure/",
+    "thumbnail": "https://thenewshimachal.com/wp-content/uploads/2026/10/Shimla-traffic.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWthVE5TV1hoR1FreFFTMkpmVFJEY0F4aUZCU2dLTWdzQlFJaGhxR1lrRTVuY3NR",
+    "date": "10/04/2026, 01:46 AM, +0000 UTC",
+    "iso_date": "2026-10-04T01:46:12Z"
+   },
+   {
+    "position": 39,
+    "title": "TVS Ronin New Price in Manali",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bikewale.com/tvs-bikes/ronin-new/price-in-manali/",
+    "thumbnail": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/227610/new-ronin-right-side-view-9.png?isig=0",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNZMkZsUzE5dFNVaFhOUzFEVFJDb0FSaXNBaWdCTWdZaFU0NlBvUWM",
+    "date": "09/23/2026, 08:21 AM, +0000 UTC",
+    "iso_date": "2026-09-23T08:21:45Z"
+   },
+   {
+    "position": 40,
+    "title": "HP: Fresh snowfall paints Manali's high peaks white, brings chill to hill town",
+    "source": {
+     "name": "ANI News",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.aninews.in/news/national/general-news/hp-fresh-snowfall-paints-manalis-high-peaks-white-brings-chill-to-hill-town20260929090142",
+    "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260929033133.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtaSFZJWlcxWFJrVjNRMFpLVFJEZ0F4aUFCU2dLTWdNOXNBWQ",
+    "date": "09/29/2026, 03:31 AM, +0000 UTC",
+    "iso_date": "2026-09-29T03:31:00Z"
+   },
+   {
+    "position": 41,
+    "title": "Tata Aeris On Road Price Manali Oct 2026 - ₹6.34L",
+    "source": {
+     "name": "ZigWheels.com",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.zigwheels.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.zigwheels.com/tata-cars/aeris/on-road-price-manali/",
+    "thumbnail": "https://media.zigcdn.com/media/model/2026/Sep/aeris_930x620.jpg?tr=w-1200,h-630",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdPRkV3YW05Mk4xWkZNemxmVFJDUkF4ajhCU2dLTWdrSlFveW13dVZVYUFJ",
+    "date": "09/29/2026, 05:24 AM, +0000 UTC",
+    "iso_date": "2026-09-29T05:24:39Z"
+   },
+   {
+    "position": 42,
+    "title": "Simple Old Generation One 2025 Price in Manali",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bikewale.com/simple-bikes/old-generation-one-2025/price-in-manali/",
+    "thumbnail": "https://imgd.aeplcdn.com/1200x900/n/cw/ec/197643/one-2025-right-front-three-quarter.jpeg?isig=0",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9RVzR5WWpab2JWTjRkMmRJVFJEZ0F4aUFCU2dLTWdrQmhvZ0pNcVc1Y1FF",
+    "date": "09/22/2026, 03:42 AM, +0000 UTC",
+    "iso_date": "2026-09-22T03:42:08Z"
+   },
+   {
+    "position": 43,
+    "title": "Honda New CB350 Price in Manali",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bikewale.com/honda-bikes/new-cb350/price-in-manali/",
+    "thumbnail": "https://imgd.aeplcdn.com/600x600/n/cw/ec/224876/cb350-2026-right-side-view-2.png?isig=0",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZjbEJ3WTBnMlZUVlpSemt4VFJEaEFSamhBU2dCTWdZQlFJelRuQWc",
+    "date": "09/23/2026, 01:37 AM, +0000 UTC",
+    "iso_date": "2026-09-23T01:37:19Z"
+   },
+   {
+    "position": 44,
+    "title": "Why a plan to move Chandra water towards Manali has sparked flood fears",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://timesofindia.indiatimes.com/india/why-a-plan-to-move-chandra-water-towards-manali-has-sparked-flood-fears/articleshow/134537626.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/resizemode-75,overlay-toiplus,width-1200,height-900,msid-134537665/134537665.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWFXVVZDT0hGUVVtbFVTbEJyVFJEZ0F4aUFCU2dLTWdPQmNnSQ",
+    "date": "09/28/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-28T07:00:00Z"
+   },
+   {
+    "position": 45,
+    "title": "Honda New CB350RS Price in Manali",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bikewale.com/honda-bikes/new-cb350rs/price-in-manali/",
+    "thumbnail": "https://imgd.aeplcdn.com/310x174/n/cw/ec/1/versions/--standard1784964390573.jpg?q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVMV1Z6VFRac1V6QkRhbUp5VFJDdUFSaTJBaWdLTWdhVmNveE1NUVk",
+    "date": "09/23/2026, 01:34 AM, +0000 UTC",
+    "iso_date": "2026-09-23T01:34:45Z"
+   },
+   {
+    "position": 46,
+    "title": "Simple Wave Price in Manali",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bikewale.com/simple-bikes/wave/price-in-manali/",
+    "thumbnail": "https://imgd.aeplcdn.com/600x600/n/cw/ec/226186/simple-wave-right-side-view-8.png?isig=0",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlXblZNUVdSSlkwcHRZMm8wVFJEaEFSamhBU2dCTWdhTllaRDBJQWc",
+    "date": "09/21/2026, 08:47 PM, +0000 UTC",
+    "iso_date": "2026-09-21T20:47:21Z"
+   },
+   {
+    "position": 47,
+    "title": "Mahindra Thar OG On Road Price Manali Sep 2026 - ₹11.60L",
+    "source": {
+     "name": "ZigWheels.com",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.zigwheels.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.zigwheels.com/mahindra-cars/thar-og/on-road-price-manali/",
+    "thumbnail": "https://media.zigcdn.com/media/model/2026/Sep/new-thar-275545_360x240.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhVVU52Y0cxdVkzQmhjMDB3VFJEd0FSam9BaWdLTWdtSlVaS25LZWhFemdF",
+    "date": "09/27/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-27T07:00:00Z"
+   },
+   {
+    "position": 48,
+    "title": "Honda CB500 Price in Manali",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bikewale.com/honda-bikes/cb500/price-in-manali/",
+    "thumbnail": "https://imgd.aeplcdn.com/310x174/n/cw/ec/1/versions/honda-cb500-alloy1789994574536.jpg?q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJOREJzUld0TVJUaDFZMGgyVFJDdUFSaTJBaWdLTWdZWms0eHN0UVU",
+    "date": "09/23/2026, 02:27 AM, +0000 UTC",
+    "iso_date": "2026-09-23T02:27:13Z"
+   },
+   {
+    "position": 49,
+    "title": "Manali Petrochemicals Ltd. Key Financial Ratios – Valuation, Profitability & More",
+    "source": {
+     "name": "Value Research",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.valueresearchonline.com/stocks/43200/manali-petrochemicals-ltd/key-ratios/",
+    "date": "09/23/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-23T07:00:00Z"
+   },
+   {
+    "position": 50,
+    "title": "25/09/2026 - Partly Cloudy and Pleasant Weather in Manali | Rain and Cloudy Conditions Across the Himalayan Treks | Heavy Rain Expected in Sandakphu–Phalut | Trek Teams Continue Their Movements | Trek News",
+    "source": {
+     "name": "Indiahikes",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://indiahikes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://indiahikes.com/news/indiahikes-weather-update-latest-25-september-2026",
+    "thumbnail": "https://images.prismic.io/indiahike/IThCS39pyNl99RzD_Kotgaon.jpeg?auto=format,compress",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVjbVp5VmtkdGRXeEhabWhMVFJDb0FSaXNBaWdCTWdZQkVZVkoxUUk",
+    "date": "09/25/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-25T07:00:00Z"
+   },
+   {
+    "position": 51,
+    "title": "Fresh snowfall blankets Manali peaks, brings chill to hill town",
+    "source": {
+     "name": "The News Mill",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://thenewsmill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://thenewsmill.com/2026/09/fresh-snowfall-blankets-manali-peaks-brings-chill-to-hill-town/",
+    "thumbnail": "https://thenewsmill.com/wp-content/uploads/2026/09/fresh-snowfall-blankets-manali-peaks-brings-chill-to-hill-town.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtaSFZJWlcxWFJrVjNRMFpLVFJEZ0F4aUFCU2dLTWdNOXNBWQ",
+    "date": "09/29/2026, 03:32 AM, +0000 UTC",
+    "iso_date": "2026-09-29T03:32:09Z"
+   },
+   {
+    "position": 52,
+    "title": "Manali Dakshini Profile",
+    "source": {
+     "name": "Cricinfo",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.cricinfo.com/cricketers/manali-dakshini-799381",
+    "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/304200/304246.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtNUzExYTFGaldsOXdPWGhUVFJESUFSaklBU2dLTWdhZFJJYXJLUVU",
+    "date": "06/16/2026, 11:41 PM, +0000 UTC",
+    "iso_date": "2026-06-16T23:41:10Z"
+   },
+   {
+    "position": 53,
+    "title": "Honda QC3 Price in Manali",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bikewale.com/honda-bikes/qc3/price-in-manali/",
+    "thumbnail": "https://imgd.aeplcdn.com/310x174/n/cw/ec/1/versions/honda-qc3-standard1790145812680.jpg?q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUVOVWhJTUUxeU1GVkViRlJxVFJDdUFSaTJBaWdLTWdtWlk0eHdwV2FLY0FF",
+    "date": "09/23/2026, 02:18 AM, +0000 UTC",
+    "iso_date": "2026-09-23T02:18:51Z"
+   },
+   {
+    "position": 54,
+    "title": "HR&CE Minister inspects Northeast monsoon preparedness in Tiruvottiyur and Manali",
+    "source": {
+     "name": "The Hindu",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.thehindu.com/news/cities/chennai/hrce-minister-inspects-northeast-monsoon-preparedness-in-tiruvottiyur-and-manali/article71460615.ece",
+    "thumbnail": "https://th-i.thgim.com/public/elections/tamil-nadu-assembly/t8mlie/article71460592.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-12%20at%2017.41.25.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdVRzVCTFdWT1QzcEhOQzFKVFJDZkF4ampCU2dLTWdhVk1aNVBuUW8",
+    "date": "09/13/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-13T07:00:00Z"
+   },
+   {
+    "position": 55,
+    "title": "22/09/2026 - Sunny and Clear Conditions Across Manali, Gangotri and Raithal | Overcast Weather in Karchi and Pench | Rain Expected Across Janglikh and Rupin Pass | Trek Teams Continue Their Movements | Trek News",
+    "source": {
+     "name": "Indiahikes",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://indiahikes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://indiahikes.com/news/indiahikes-weather-update-latest-22-september-2026",
+    "thumbnail": "https://images.prismic.io/indiahike/JbB8ea6NKzceV4fw_raithal22.jpeg?auto=format,compress",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTRUbE0zU25CMlFsRmxaV3N4VFJEZ0F4aUFCU2dLTWdOSlVRRQ",
+    "date": "09/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-22T07:00:00Z"
+   },
+   {
+    "position": 56,
+    "title": "Home Kalon Palden Dhondup Concludes Official Visit to Kullu-Manali, Mandi, Sundernagar, and Tsopema",
+    "source": {
+     "name": "Central Tibetan Administration",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tibet.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://tibet.net/home-kalon-palden-dhondup-concludes-official-visit-to-kullu-manali-mandi-sundernagar-and-tsopema/",
+    "thumbnail": "https://tibet.net/wp-content/uploads/2026/08/Ngari-Chithun-association.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpUblJ3ZFc5WFNHaGljVEJZVFJEZ0F4aUFCU2dLTWdZQm9JeXBQQVU",
+    "date": "08/06/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-06T07:00:00Z"
+   },
+   {
+    "position": 57,
+    "title": "Rainy Conditions Continue Across the Mountain Slopes | Moderate Showers in Manali and Karchi | Trek Teams Continue Their Movements | Trek News",
+    "source": {
+     "name": "Indiahikes",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://indiahikes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://indiahikes.com/news/indiahikes-weather-update-latest-08-august-2026",
+    "thumbnail": "https://images.prismic.io/indiahike/JqakKJYQK6gzffmU_manali08.jpeg?auto=format,compress",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXVSVGhZYjFGU1IydFNWV1oyVFJDb0FSaXNBaWdCTWdNRm9Bdw",
+    "date": "08/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-08T07:00:00Z"
+   },
+   {
+    "position": 58,
+    "title": "Manali Is Getting A Village Of Art, Open-Air Cinema & 3 Days Of Stories With HIFAF 2026",
+    "source": {
+     "name": "Homegrown",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://homegrown.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://homegrown.co.in/homegrown-explore/manali-is-getting-a-village-of-art-open-air-cinema-3-days-of-stories-with-hifaf-2026",
+    "thumbnail": "https://media.assettype.com/homegrown/2026-09-17/k3ivdlub/hif1.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJObXBSZEhKeVVHaHZlblZZVFJDZkF4ampCU2dLTWdtQklaTEVzcWRNeEFJ",
+    "date": "09/17/2026, 08:30 AM, +0000 UTC",
+    "iso_date": "2026-09-17T08:30:00Z"
+   },
+   {
+    "position": 59,
+    "title": "Manali Petrochemicals shareholders approve all AGM resolutions",
+    "source": {
+     "name": "scanx.trade",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://scanx.trade/stock-market-news/companies/manali-petrochemicals-adopts-fy26-financials-declares-10-dividend/52154245",
+    "thumbnail": "https://news-images.dhan.co/manali-petrochemicals-adopts-fy26-financials-declares-10-dividend.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVZVFJCVmpGRlNGTlpSbFZtVFJDaUF4amRCU2dLTWdhUkJJb01GZ3M",
+    "date": "09/28/2026, 03:20 PM, +0000 UTC",
+    "iso_date": "2026-09-28T15:20:29Z"
+   },
+   {
+    "position": 60,
+    "title": "Kiratpur-Manali highway: Two tunnels to open on Sept 11, ease congestion | Hindustan Times",
+    "source": {
+     "name": "Hindustan Times",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Dar Ovais"
+     ]
+    },
+    "link": "https://www.hindustantimes.com/cities/chandigarh-news/kiratpurmanali-highway-two-tunnels-to-open-on-sept-11-ease-congestion-101789061963452.html",
+    "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/09/10/1600x900/logo/Traffic-tunnels-Dayod-and-Hanogi-will-be-opened-fr_1789061960475_2ef75731-6f7d-4d0a-8224-6135ec7c3435.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRPVkpXVm5seVNGSnpOMFJwVFJDZkF4ampCU2dLTWdrdElKb1JKU2dQWVFN",
+    "date": "09/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-11T07:00:00Z"
+   },
+   {
+    "position": 61,
+    "title": "6 on board HRTC bus injured in Kullu accident",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://timesofindia.indiatimes.com/city/chandigarh/6-on-board-hrtc-bus-injured-in-kullu-accident/articleshow/134664020.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/msid-134664287,width-1280,height-720,imgsize-4736938,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhRMU55TUROd1JrdFJWR2gwVFJDZkF4ampCU2dLTWdZSlJZYXNIUWs",
+    "date": "10/03/2026, 05:58 PM, +0000 UTC",
+    "iso_date": "2026-10-03T17:58:00Z"
+   },
+   {
+    "position": 62,
+    "title": "Hyundai Creta 2020-2024 On Road Price Manali Sep 2026 - ₹11.07L",
+    "source": {
+     "name": "ZigWheels.com",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.zigwheels.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.zigwheels.com/hyundai-cars/creta-2020-2024/on-road-price-manali/",
+    "thumbnail": "https://media.zigcdn.com/media/model/2022/May/creta-3_930x620.jpg?tr=w-1200,h-630",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVUVkZMTjJGYVgwVnhjMnBmVFJDUkF4ajhCU2dLTWdZVmc0NXJzUVk",
+    "date": "09/19/2026, 12:34 AM, +0000 UTC",
+    "iso_date": "2026-09-19T00:34:03Z"
+   },
+   {
+    "position": 63,
+    "title": "Gen Z Man Left Delhi To Settle In Manali, Returned Just 2 Months Later. Here's Why",
+    "source": {
+     "name": "NDTV",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Nikhil Pandey"
+     ]
+    },
+    "link": "https://www.ndtv.com/offbeat/this-gen-z-left-delhi-to-settle-in-manali-returned-just-2-months-later-heres-why-11924122",
+    "thumbnail": "https://c.ndtvimg.com/2026-08/q67s28a4_this-gen-z-left-delhi-to-settle-in-manali-returned-just-2-months-later-heres-why_625x300_18_August_26.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVORE14Tm1NMFRYY3RSbTFwVFJDZkF4ampCU2dLTWdhQkVvd1RHUWs",
+    "date": "08/18/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-18T07:00:00Z"
+   },
+   {
+    "position": 64,
+    "title": "Manali Air Quality Index (AQI) and India Air Pollution",
+    "source": {
+     "name": "IQAir",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.iqair.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.iqair.com/air-quality/india/himachal-pradesh/manali",
+    "date": "06/23/2026, 06:17 AM, +0000 UTC",
+    "iso_date": "2026-06-23T06:17:38Z"
+   },
+   {
+    "position": 65,
+    "title": "Sikyong Penpa Tsering Concludes Two-Day Official Assessment Visit to Tibetan Settlements in Kullu-Manali",
+    "source": {
+     "name": "Central Tibetan Administration",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tibet.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://tibet.net/sikyong-penpa-tsering-concludes-two-day-official-assessment-visit-to-tibetan-settlements-in-kullu-manali/",
+    "thumbnail": "https://tibet.net/wp-content/uploads/2026/07/DIR2570.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFObEV0UmtWbVlucGpORFp3VFJEb0FoalNCaWdLTWdZQm9ZeHNQUVU",
+    "date": "07/15/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-15T07:00:00Z"
+   },
+   {
+    "position": 66,
+    "title": "Income Investors Should Know That Manali Petrochemicals Limited (NSE:MANALIPETC) Goes Ex-Dividend Soon",
+    "source": {
+     "name": "Simply Wall Street",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://simplywall.st/stocks/in/materials/nse-manalipetc/manali-petrochemicals-shares/news/income-investors-should-know-that-manali-petrochemicals-limi",
+    "thumbnail": "https://images.simplywall.st/asset/industry/2024000-choice2-card/1788937676869?w=1600&h=900&fit=cover",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhTREZDUzBKd05ESnNTRmxtVFJDZkF4ampCU2dLTWdZQmNZYkV6UU0",
+    "date": "09/17/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-17T07:00:00Z"
+   },
+   {
+    "position": 67,
+    "title": "Kiratpur-Manali highway: HP govt told to ensure work is not obstructed",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Rohit Mullick"
+     ]
+    },
+    "link": "https://timesofindia.indiatimes.com/city/chandigarh/kiratpur-manali-highway-hp-govt-told-to-ensure-work-is-not-obstructed/articleshow/134341749.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/msid-134319412,width-1280,height-720,imgsize-1878739,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWllSGhOUlZOZmFFWTBPR0ZaVFJDZ0F4amlCU2dLTWdZcFk0aXZxUWM",
+    "date": "09/18/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-18T07:00:00Z"
+   },
+   {
+    "position": 68,
+    "title": "Manali Petrochemicals posts sharp first-quarter profit surge on stronger sales",
+    "source": {
+     "name": "Indiatimes",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=http://chemicals.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "http://chemicals.economictimes.indiatimes.com/news/petrochemicals/manali-petrochemicals-posts-sharp-first-quarter-profit-surge-on-stronger-sales/133341273",
+    "thumbnail": "https://etimg.etb2bimg.com/photo/133341272.cms",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFVbmhZWkVOa2QwNXVSalpoVFJEYkF4aUZCU2dLTWdrQlVJb3NKZVkxcmdF",
+    "date": "08/20/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-20T07:00:00Z"
+   },
+   {
+    "position": 69,
+    "title": "Manali Air Quality Index (AQI) and India Air Pollution",
+    "source": {
+     "name": "IQAir",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.iqair.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.iqair.com/in-en/air-quality/india/himachal-pradesh/manali",
+    "date": "06/24/2026, 08:34 AM, +0000 UTC",
+    "iso_date": "2026-06-24T08:34:58Z"
+   },
+   {
+    "position": 70,
+    "title": "Manali Dakshini Debut and last played matches in Tests, ODIs, T20Is and other formats",
+    "source": {
+     "name": "Cricinfo",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.cricinfo.com/cricketers/manali-dakshini-799381/matches",
+    "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/304200/304246.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhTMlJGYkdob1NXWklZVXBFVFJEckFSaWdBU2dLTWdZWmxJYXJPUVU",
+    "date": "08/11/2026, 08:41 AM, +0000 UTC",
+    "iso_date": "2026-08-11T08:41:30Z"
+   },
+   {
+    "position": 71,
+    "title": "Sunny Starts Across Most Slopes | Afternoon Showers Likely in Several Regions | Trek Teams Progressing as Scheduled | Trek News",
+    "source": {
+     "name": "Indiahikes",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://indiahikes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://indiahikes.com/news/latest-weather-update-28-june-2026-indiahikes",
+    "thumbnail": "https://images.prismic.io/indiahike/akC3gFbRV8_Qf8BN_WhatsAppImage2026-06-28at9.39.28AM.jpeg?auto=format,compress",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVXVGRHVVdkVGRGRnNUa3hOVFJESkFSajdBU2dCTWdZMUE0RXdXUUE",
+    "date": "06/28/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-28T07:00:00Z"
+   },
+   {
+    "position": 72,
+    "title": "Delhi man cancels Manali trek over heavy rain warning, ‘denied’ refund, wins payout",
+    "source": {
+     "name": "The Indian Express",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ashish Shaji"
+     ]
+    },
+    "link": "https://indianexpress.com/article/legal-news/delhi-man-manali-trek-heavy-rain-warning-denied-refund-payout-10832968/",
+    "thumbnail": "https://images.indianexpress.com/2026/08/Manali-treking.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpjSGsxUTNBNVZ6SnpWV3BDVFJDZkF4ampCU2dLTWdZWkFLcFpCQTA",
+    "date": "08/14/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-14T07:00:00Z"
+   },
+   {
+    "position": 73,
+    "title": "Simple Wave On Road Price Manali Sep 2026 - ₹1.21L",
+    "source": {
+     "name": "ZigWheels.com",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.zigwheels.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.zigwheels.com/simple-energy-bikes/wave/on-road-price-manali/",
+    "thumbnail": "https://media.zigcdn.com/media/model/2026/Sep/simple1-wave-right-side-view_360x240.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFaWHBmYXpkWVdsUmpOV3BoVFJEd0FSam9BaWdLTWdtWkU0eHJNZWFLaFFJ",
+    "date": "09/09/2026, 10:35 AM, +0000 UTC",
+    "iso_date": "2026-09-09T10:35:01Z"
+   },
+   {
+    "position": 74,
+    "title": "Manali Dakshini Photos | Image Gallery and Match Pictures",
+    "source": {
+     "name": "Cricinfo",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cricinfo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.cricinfo.com/cricketers/manali-dakshini-799381/photos",
+    "thumbnail": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_960,q_50/lsci/db/PICTURES/CMS/304200/304248.9.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZPWE5tVjBKS1QyWldZVTl0VFJDZkF4ampCU2dLTWdZcFpvVHRNUVk",
+    "date": "07/03/2026, 01:18 PM, +0000 UTC",
+    "iso_date": "2026-07-03T13:18:34Z"
+   },
+   {
+    "position": 75,
+    "title": "Delhi man's emotional goodbye to Manali after months of living alone goes viral",
+    "source": {
+     "name": "India Today",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.indiatoday.in/trending-news/story/delhi-man-emotional-goodbye-to-manali-after-months-of-living-alone-goes-viral-2973892-2026-08-18",
+    "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/delhi-mans-emotional-goodbye-to-manali-after-months-of-living-alone-goes-viral-photos-ajay-sharma-182933662-16x9_0.jpg?VersionId=hCaXn71tdsAimAnwFElQYn90YcFuuDKe&size=1280:720",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHlaM28xVlZkamVtRktWWFF0VFJDZkF4ampCU2dLTWd1QkFwQURveWM5am1rdXdR",
+    "date": "08/18/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-18T07:00:00Z"
+   },
+   {
+    "position": 76,
+    "title": "Indian Oil Subsidiary CPCL Plans 280,000 Bpd Manali Refinery",
+    "source": {
+     "name": "Crude Oil Prices Today | OilPrice.com",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://oilprice.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Oil-Subsidiary-CPCL-Plans-280000-Bpd-Manali-Refinery.html",
+    "thumbnail": "https://d32r1sh890xpii.cloudfront.net/news/1200x900/2026-08-03_rhokgculqc.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNTazVFTVhFMU1Ya3dNMjVtVFJEZ0F4aUFCU2dLTWdZQm9JZ0ZQZ1U",
+    "date": "08/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-03T07:00:00Z"
+   },
+   {
+    "position": 77,
+    "title": "Manali Petrochemicals Ltd. Shareholding Pattern – Promoters, FIIs & DIIs",
+    "source": {
+     "name": "Value Research",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.valueresearchonline.com/stocks/43200/manali-petrochemicals-ltd/shareholding/",
+    "date": "08/30/2026, 11:24 AM, +0000 UTC",
+    "iso_date": "2026-08-30T11:24:08Z"
+   },
+   {
+    "position": 78,
+    "title": "Manali Air Quality Index (AQI) and India Air Pollution",
+    "source": {
+     "name": "IQAir",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.iqair.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.iqair.com/air-quality/india/tamil-nadu/manali",
+    "date": "06/24/2026, 03:24 AM, +0000 UTC",
+    "iso_date": "2026-06-24T03:24:17Z"
+   },
+   {
+    "position": 79,
+    "title": "Manali Hotel Refuses Stay To Family With Confirmed Booking, Court Orders Rs 31,000 Compensation",
+    "source": {
+     "name": "NDTV",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Jigyasa Kakwani"
+     ]
+    },
+    "link": "https://www.ndtv.com/travel/manali-hotel-refuses-stay-to-family-with-confirmed-booking-court-orders-rs-31-000-compensation-11835986",
+    "thumbnail": "https://c.ndtvimg.com/2026-07/c4gmnoao_manali-pexels_625x300_29_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJjR2xSUTBweVVrUm9NVWhZVFJDZkF4ampCU2dLTWdZTndZSUpVZ00",
+    "date": "07/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-29T07:00:00Z"
+   },
+   {
+    "position": 80,
+    "title": "Denied stay in Manali resort despite advance booking, Gurgaon family wins Rs 31,000",
+    "source": {
+     "name": "The Indian Express",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Jagriti Rai"
+     ]
+    },
+    "link": "https://indianexpress.com/article/legal-news/denied-stay-manali-resort-advance-booking-gurgaon-man-win-rs-31000-10805242/",
+    "thumbnail": "https://images.indianexpress.com/2026/07/hotel-resort-check-in-manali-himachal-pradesh-refund-consumer-news.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5SR1ZvYlUxNmJYcGxhVkp2VFJDZkF4ampCU2dLTWdZVmM0eHFzUVU",
+    "date": "07/27/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-27T07:00:00Z"
+   },
+   {
+    "position": 81,
+    "title": "'Mountain living dream different from reality': Gen-Z employee who moved to Manali from Delhi moves back t",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://m.economictimes.com/news/new-updates/mountain-living-dream-different-from-reality-gen-z-employee-who-moved-to-manali-from-delhi-moves-back-to-national-capital-citing-multiple-reasons/articleshow/133337997.cms",
+    "thumbnail": "https://m.economictimes.com/thumb/msid-133338356,width-1200,height-900,resizemode-4,imgsize-32372/mountain-living.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRRM2xLVXpaR09VRTVaWGw2VFJEZ0F4aUFCU2dLTWdNSmdCQQ",
+    "date": "08/19/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-19T07:00:00Z"
+   },
+   {
+    "position": 82,
+    "title": "Himachal connectivity boost: Two tunnels on Kiratpur-Manali highway to open on September 11",
+    "source": {
+     "name": "The New Indian Express",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Harpreet Bajwa"
+     ]
+    },
+    "link": "https://www.newindianexpress.com/india/2026/Sep/10/himachal-connectivity-boost-two-tunnels-on-kiratpur-manali-highway-to-open-on-september-11",
+    "thumbnail": "https://cf-images.assettype.com/newindianexpress/2026-09-10/jhjauizo/20250703137L.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNW1VR0YzYUdGQmFIZDNMWFZZVFJDZkF4ampCU2dLTWdzQmdJNEF1Q1VHYXdwc1ZR",
+    "date": "09/10/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-10T07:00:00Z"
+   },
+   {
+    "position": 83,
+    "title": "Lemon Tree Hotels brings Keys Lite to Manali",
+    "source": {
+     "name": "Hotelier India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.hotelierindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.hotelierindia.com/development/lemon-tree-hotels-brings-keys-lite-to-manali",
+    "thumbnail": "https://www.hotelierindia.com/wp-content/uploads/cloud/2026/08/06/Signing-Keys-Lite-by-Lemon-Tree-Hotels-Manali-1200x671.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZjRE4zTTFSSlpIVlVYMWxaVFJDZUF4amxCU2dLTWdrWk01SW9vdWhFcHdJ",
+    "date": "08/06/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-06T07:00:00Z"
+   },
+   {
+    "position": 84,
+    "title": "Tunnels open on Kiratpur-Manali highway, Pandoh jams set to ease",
+    "source": {
+     "name": "The Tribune",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Dipender Manta"
+     ]
+    },
+    "link": "https://www.tribuneindia.com/news/himachal/tunnels-open-on-kiratpur-manali-highway-pandoh-jams-set-to-ease/",
+    "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTRlYjAyZjkwLWFlMWQtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRaMGxQUjNkMWVWRmZXVTVZVFJEREF4aW5CU2dLTWdZQk1JYUpIUWc",
+    "date": "09/12/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-12T07:00:00Z"
+   },
+   {
+    "position": 85,
+    "title": "Cloudy Conditions and Intermittent Rain Expected Across Most Slopes | Trek Teams Progressing as Planned | Trek News",
+    "source": {
+     "name": "Indiahikes",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://indiahikes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://indiahikes.com/news/latest-weather-update-13-june-2026-indiahikes",
+    "thumbnail": "https://images.prismic.io/indiahike/aiz-FY1P9HI4Uacz_weatherupdate13june26.jpg?auto=format,compress",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVRjRXhJY1ZwMlEzbzRNMWxPVFJDb0FSaXNBaWdCTWdPaGhRRQ",
+    "date": "06/13/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-13T07:00:00Z"
+   },
+   {
+    "position": 86,
+    "title": "Manali Air Quality Index (AQI) and India Air Pollution | IQAir Saudi Arabia",
+    "source": {
+     "name": "IQAir",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.iqair.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.iqair.com/sa/air-quality/india/himachal-pradesh/manali",
+    "date": "06/28/2026, 08:32 AM, +0000 UTC",
+    "iso_date": "2026-06-28T08:32:16Z"
+   },
+   {
+    "position": 87,
+    "title": "Air quality in Manali",
+    "source": {
+     "name": "IQAir",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.iqair.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.iqair.com/au/air-quality/india/himachal-pradesh/manali",
+    "date": "06/23/2026, 09:47 PM, +0000 UTC",
+    "iso_date": "2026-06-23T21:47:35Z"
+   },
+   {
+    "position": 88,
+    "title": "Potholes, Slips, Stalled Journeys: Left Bank Road Deterioration Hits Kullu-Manali Tourism Hard",
+    "source": {
+     "name": "Hill Post",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hillpost.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://hillpost.in/2026/08/potholes-slips-stalled-journeys-left-bank-road-deterioration-hits-kullu-manali-tourism-hard/169482/",
+    "thumbnail": "https://hillpost.in/wp-content/uploads/2026/08/Manali-25-370x658.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFiRzVOWkRWb2IxcFBabGh2VFJDU0JSanlBaWdLTWdZQlVKcktLQWc",
+    "date": "08/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-07T07:00:00Z"
+   },
+   {
+    "position": 89,
+    "title": "National Lok Adalat to be held in Kullu, Manali, Banjar on September 12",
+    "source": {
+     "name": "The Tribune",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.tribuneindia.com/news/himachal/national-lok-adalat-to-be-held-in-kullu-manali-banjar-on-september-12/",
+    "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJmNDUyNjEwLWFkOGQtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZkMGxWV1hoYWRYY3lhMUJhVFJERUF4aW5CU2dLTWdtSlFKQmxQbVkxNWdF",
+    "date": "09/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-11T07:00:00Z"
+   },
+   {
+    "position": 90,
+    "title": "Kiratpur-Manali highway blocked by shooting stones; 118 roads shut across Himachal Pradesh",
+    "source": {
+     "name": "The New Indian Express",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Harpreet Bajwa"
+     ]
+    },
+    "link": "https://www.newindianexpress.com/india/2026/Aug/09/kiratpur-manali-highway-blocked-by-shooting-stones-118-roads-shut-across-himachal-pradesh",
+    "thumbnail": "https://cf-images.assettype.com/TNIE/import/2023/7/10/original/Kullu.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU5kRGhaTlZoTlNtMU5YMEZmVFJDWEF4anhCU2dLTWdNVmtCSQ",
+    "date": "08/09/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-09T07:00:00Z"
+   },
+   {
+    "position": 91,
+    "title": "In Old Manali, this homestay is a rustic mountain cabin on the riverside",
+    "source": {
+     "name": "Condé Nast Traveller India",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cntraveller.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sitara Cariappa"
+     ]
+    },
+    "link": "https://www.cntraveller.in/story/the-barn-manali-homestay/",
+    "thumbnail": "https://assets.cntraveller.in/photos/6a4b7776d275994cb27120d8/master/w_2560%2Cc_limit/RK_06421%2520(1).jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBMVFpXWTBaNFZWSXlUVVZ4VFJERUF4aW1CU2dLTWdZQlVJcW1wUU0",
+    "date": "07/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-11T07:00:00Z"
+   },
+   {
+    "position": 92,
+    "title": "Manali Air Quality Index (AQI) and India Air Pollution | IQAir United Kingdom",
+    "source": {
+     "name": "IQAir",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.iqair.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.iqair.com/gb/air-quality/india/himachal-pradesh/manali",
+    "date": "06/23/2026, 10:18 AM, +0000 UTC",
+    "iso_date": "2026-06-23T10:18:09Z"
+   },
+   {
+    "position": 93,
+    "title": "Traffic halted on Kiratpur-Manali highway as rockfall hits Mandi stretch",
+    "source": {
+     "name": "The New Indian Express",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Harpreet Bajwa"
+     ]
+    },
+    "link": "https://www.newindianexpress.com/india/2026/Aug/07/traffic-halted-on-kiratpur-manali-highway-as-rockfall-hits-mandi-stretch",
+    "thumbnail": "https://cf-images.assettype.com/TNIE/import/2023/7/10/original/Kullu.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU5kRGhaTlZoTlNtMU5YMEZmVFJDWEF4anhCU2dLTWdNVmtCSQ",
+    "date": "08/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-07T07:00:00Z"
+   },
+   {
+    "position": 94,
+    "title": "Manali Petrochemicals Q1 profit jumps 349% to Rs 64.36 Cr",
+    "source": {
+     "name": "Indian Chemical News",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indianchemicalnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.indianchemicalnews.com/petro-chemical/manali-petrochemicals-q1-profit-jumps-349-to-rs-6436-cr-31501",
+    "thumbnail": "https://www.indianchemicalnews.com/public/thumbs/news/2026/08/31501/Manali_Petrochemical.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBNMlJHVjJkNmFFRllVM0YxVFJDM0FSaVRBaWdCTWdrQmtKQ2x1R2FwU3dJ",
+    "date": "08/14/2026, 04:50 AM, +0000 UTC",
+    "iso_date": "2026-08-14T04:50:50Z"
+   },
+   {
+    "position": 95,
+    "title": "Gang carries out deadly attack on 27-year-old man near Manali",
+    "source": {
+     "name": "The Hindu",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.thehindu.com/news/cities/chennai/gang-carries-out-deadly-attack-on-27-year-old-man-near-manali/article71365083.ece",
+    "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+    "date": "08/19/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-19T07:00:00Z"
+   },
+   {
+    "position": 96,
+    "title": "Successful trial run for tunnel route on Manali four-lane highway",
+    "source": {
+     "name": "News On AIR",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://newsonair.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://newsonair.gov.in/successful-trial-run-for-tunnel-route-on-manali-four-lane-highway/",
+    "date": "09/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-07T07:00:00Z"
+   },
+   {
+    "position": 97,
+    "title": "‘Rs 15,000 rent, Rs 1,000 electricity’: Couple shares how much it costs to ‘live in the mountains’",
+    "source": {
+     "name": "The Indian Express",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://indianexpress.com/article/trending/trending-in-india/manali-living-cost-couple-monthly-expenses-10828436/",
+    "thumbnail": "https://images.indianexpress.com/2026/08/cost-of-living-in-mountains.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhUVUo0VW1nMk9YZEpVREoxVFJDZkF4ampCU2dLTWdZQmNZNjFNQWM",
+    "date": "08/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-11T07:00:00Z"
+   },
+   {
+    "position": 98,
+    "title": "Man killed, two injured in knife attack in Manali",
+    "source": {
+     "name": "The Hindu",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.thehindu.com/news/cities/chennai/man-killed-two-injured-in-knife-attack-in-manali/article71439330.ece",
+    "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+    "date": "09/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-08T07:00:00Z"
+   },
+   {
+    "position": 99,
+    "title": "Manali Petrochemicals Q1 FY27 consolidated net profit rises over 4x",
+    "source": {
+     "name": "BusinessLine",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.thehindubusinessline.com/companies/manali-petrochemicals-q1-fy27-consolidated-net-profit-rises-over-4x/article71341503.ece",
+    "thumbnail": "https://bl-i.thgim.com/public/news/kxtwv7/article71342024.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-13%20at%2020.10.24.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRRa2RoY1ROVVpHTk9lbGgxVFJDZkF4ampCU2dLTWdZeEZaeXZGUW8",
+    "date": "08/13/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-13T07:00:00Z"
+   },
+   {
+    "position": 100,
+    "title": "Bajaj Old Generation Pulsar 220 F [2025] 2023 Price in Manali",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bikewale.com/bajaj-bikes/old-generation-pulsar-220-f-2025-2023/price-in-manali/",
+    "thumbnail": "https://imgd.aeplcdn.com/1200x900/n/cw/ec/142305/pulsar-220-right-side-view-17.png?isig=0",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVRWek5MT1ZGRlZISkhVWFkzVFJEZ0F4aUFCU2dLTWdB",
+    "date": "07/12/2026, 05:23 AM, +0000 UTC",
+    "iso_date": "2026-07-12T05:23:17Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "India",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+   },
+   {
+    "title": "World",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Your local news",
+    "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+   },
+   {
+    "title": "Business",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Technology",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Entertainment",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Sports",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Science",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Health",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+   }
+  ]
+ }
+}

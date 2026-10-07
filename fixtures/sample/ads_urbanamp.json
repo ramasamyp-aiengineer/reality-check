@@ -1,0 +1,48 @@
+{
+ "params": {
+  "engine": "google_ads_transparency_center",
+  "text": "UrbanAmp",
+  "region": "2356"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "ad_creatives": [
+   {
+    "advertiser": "UrbanAmp Electric (sample)",
+    "advertiser_id": "ARURBANAMP",
+    "format": "image",
+    "first_shown": 1790408720,
+    "last_shown": 1791272720,
+    "details_link": "https://adstransparency.google.com/sample/UrbanAmp/1"
+   },
+   {
+    "advertiser": "UrbanAmp Electric (sample)",
+    "advertiser_id": "ARURBANAMP",
+    "format": "video",
+    "first_shown": 1790322320,
+    "last_shown": 1791186320,
+    "details_link": "https://adstransparency.google.com/sample/UrbanAmp/2"
+   },
+   {
+    "advertiser": "UrbanAmp Electric (sample)",
+    "advertiser_id": "ARURBANAMP",
+    "format": "text",
+    "first_shown": 1790149520,
+    "last_shown": 1791013520,
+    "details_link": "https://adstransparency.google.com/sample/UrbanAmp/4"
+   },
+   {
+    "advertiser": "UrbanAmp Electric (sample)",
+    "advertiser_id": "ARURBANAMP",
+    "format": "image",
+    "first_shown": 1789976720,
+    "last_shown": 1790840720,
+    "details_link": "https://adstransparency.google.com/sample/UrbanAmp/6"
+   }
+  ]
+ }
+}

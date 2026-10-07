@@ -1,0 +1,913 @@
+{
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "Ather store Bengaluru",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fba745a66a8f2b66c3d7",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/RXU0bcqyx9KqeS-8Tl_TnXy-AlGhRRAvHb0KEBf7oi0/6ac5fba745a66a8f2b66c3d7.json",
+   "markdown_endpoint": "https://serpapi.com/searches/RXU0bcqyx9KqeS-8Tl_TnXy-AlGhRRAvHb0KEBf7oi0/6ac5fba745a66a8f2b66c3d7.md",
+   "created_at": "2026-10-07 07:58:31 UTC",
+   "processed_at": "2026-10-07 07:58:31 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/Ather+store+Bengaluru//data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+   "raw_html_file": "https://serpapi.com/searches/RXU0bcqyx9KqeS-8Tl_TnXy-AlGhRRAvHb0KEBf7oi0/6ac5fba745a66a8f2b66c3d7.html",
+   "prettify_html_file": "https://serpapi.com/searches/RXU0bcqyx9KqeS-8Tl_TnXy-AlGhRRAvHb0KEBf7oi0/6ac5fba745a66a8f2b66c3d7.prettify",
+   "total_time_taken": 1.0
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "Ather store Bengaluru",
+   "google_domain": "google.com",
+   "hl": "en"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "Ather store Bengaluru"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "Ather Grid Charging Station",
+    "place_id": "ChIJdy9Q3DwXrjsRl6ejIvbCcio",
+    "data_id": "0x3bae173cdc502f77:0x2a72c2f622a3a797",
+    "data_cid": "3058721459336882071",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae173cdc502f77%3A0x2a72c2f622a3a797&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae173cdc502f77%3A0x2a72c2f622a3a797&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.971406,
+     "longitude": 77.595799
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdy9Q3DwXrjsRl6ejIvbCcio",
+    "provider_id": "/g/11kjcqpjn2",
+    "rating": 2.3,
+    "reviews": 6,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "UB City, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+    "country": "India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+     "wednesday": "10 AM–9 PM",
+     "thursday": "10 AM–9 PM",
+     "friday": "10 AM–9 PM",
+     "saturday": "10 AM–9 PM",
+     "sunday": "10 AM–9 PM",
+     "monday": "10 AM–9 PM",
+     "tuesday": "10 AM–9 PM"
+    },
+    "phone": "+91 76766 00900",
+    "website": "https://www.atherenergy.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOKSE7GHjkoBZQcrHojrKbfyRjIYxUhdNOkQ9skC-aw529Kguw2HObICqfgM9SeZnDS9ba9-45epEx_XVYlQTIYkU6jekn1_n1YGlbGCwshxWzgQMOruWZvaEVQC2ZyG-TVMVq_Su9WI2-x=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/-qy-CXicHcTbboMgAADQL6JeellosoeOGjXGGWqr0xejlEKEggWtdj-55_3Nkp2H8_vDx3Gwe8eRfL1iWjNJJ0sN0WqkalwRfXeYaa0FxDoH9BzkPUvy4C2MeqE_akxMpHuTdLfXqY-r5cKvn5nA0AoE2nnrw4RNsx9lXYweN5bCnNbqmMOuhWCzpUOwNF9FJfE5rsRl11OhvEZ5VSi7EM2WL-U3w2lmprJ-tkGBkV-_QnAu0uLR5BMsYx8s77Pnui7g_xOg_gA9bkh5"
+   },
+   {
+    "position": 2,
+    "title": "Ather Grid Charging Station",
+    "place_id": "ChIJHytsRPcXrjsRrlqN6YfY6qE",
+    "data_id": "0x3bae17f7446c2b1f:0xa1ead887e98d5aae",
+    "data_cid": "11667375862907230894",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17f7446c2b1f%3A0xa1ead887e98d5aae&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17f7446c2b1f%3A0xa1ead887e98d5aae&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.975856499999999,
+     "longitude": 77.58836199999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHytsRPcXrjsRrlqN6YfY6qE",
+    "provider_id": "/g/11sjyk952d",
+    "rating": 1.9,
+    "reviews": 9,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "Bescom Corporate Office, Nunegundlapalli, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+    "country": "India",
+    "open_state": "Open · Closes 5:30 PM",
+    "hours": "Open · Closes 5:30 PM",
+    "operating_hours": {
+     "wednesday": "10 AM–5:30 PM",
+     "thursday": "10 AM–5:30 PM",
+     "friday": "10 AM–5:30 PM",
+     "saturday": "10 AM–5:30 PM",
+     "sunday": "Closed",
+     "monday": "10 AM–5:30 PM",
+     "tuesday": "10 AM–5:30 PM"
+    },
+    "phone": "+91 76766 00900",
+    "website": "https://www.atherenergy.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOxovZhOES7Wk4vDdXuBUspewNA88zFGLFcMgkufifjQhA08gHVLTDls6_3pHH8f3WIw4X3yJqhGkHkQ1FBqQIWAOn5MoEdTd3vab99h0YadmW5vWTDvf8UhvXVPO8ltR55QVBW=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/g_kVDnicHcRdboIwAADgEwE1lVlN9gDjT4NDJlC2F8MKtEqhaEtxXtAz7DZL9j18v0-m1Cg3lsUZNKkQlDeTbG5EDKoZlElEb9FbJaVBpOW86ZH3yV3oL5b4xxXultqry8nN5djM7w5CjyCMA7Kn3dSe20vKHIBoVMSZx-XLCY5RhFqIt_OyhD-7Kwu7qEsXgXtNt9hJBnsv_Dqroa6-12sGPqu6x7bGmadblDNdFocEcfVh22nh4td5AQAw2P_EGP4AynlE4A"
+   },
+   {
+    "position": 3,
+    "title": "Ather Grid Charging Station",
+    "place_id": "ChIJUS7nvZQVrjsR5GtlO0HfDC4",
+    "data_id": "0x3bae1594bde72e51:0x2e0cdf413b656be4",
+    "data_cid": "3318272496727583716",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1594bde72e51%3A0x2e0cdf413b656be4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1594bde72e51%3A0x2e0cdf413b656be4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.942616,
+     "longitude": 77.5802576
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUS7nvZQVrjsR5GtlO0HfDC4",
+    "provider_id": "/g/11w4tpfd2s",
+    "rating": 3,
+    "reviews": 13,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "WHVJ+24R, Garuthaman Park Rd, 2nd Block, Jaya Nagar East, Jayanagar, Bengaluru, Karnataka 560004, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "website": "https://www.atherenergy.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPH45-d6xnfnP7ejQrbrfQaRUeJKbqb8LI-kj7kvrybIbyr8pTIFzcFty0o1MgDIudZbcXY4I9mo0ymQA-NrRwW_DomMLrFq8Vvoj41raypj5G9XGnsHO3by0luvB8FubHVdJwkWmnryozw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/yeU9o3icHcTdboIwGADQJ6qUCBNNduFmkDp1YvzbbhZaKgRoP_xaYPUlvfZtluxcnOejtLY1M89ryvGoACga2RmJArSV2o4EKK_AzBgijDd_79tG7ZIgJPnLr77q3URWKXK8ptn-KFcf_MajNSN1Nal7dJxxh1F7YPFdxNZR8DfFgnX5NxeXr4BNFVCn0jnZ4n44_yxAbdYY36JTD1XgY-baKlxOL0ttks8xd7Tp-rco7nhyyldDfVYaHdyH18GnlJLyf0H0H4I1ShY"
+   },
+   {
+    "position": 4,
+    "title": "Ather Grid Charging Station",
+    "place_id": "ChIJNwMLzvsVrjsRlvw4n59fxn8",
+    "data_id": "0x3bae15fbce0b0337:0x7fc65f9f9f38fc96",
+    "data_cid": "9207151627381308566",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15fbce0b0337%3A0x7fc65f9f9f38fc96&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15fbce0b0337%3A0x7fc65f9f9f38fc96&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.957825,
+     "longitude": 77.568471
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNwMLzvsVrjsRlvw4n59fxn8",
+    "provider_id": "/g/11y6ntb555",
+    "rating": 4,
+    "reviews": 18,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "No 13 & 14, 4th Main, 2nd Cross Rd, Chamrajpet, Bengaluru, Karnataka 560018, India",
+    "country": "India",
+    "website": "https://www.atherenergy.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPHbnQiV9FaNKrhkdCemTcNyw2h5yGjOouiEcMhGLideCqKbdikLkm-yL1MRPUgkuAKhbE3B63xkkMUTi5FiOnXc08udM906reEwWwJTugFJFFIx65PjSETt8jAinlceWg-vTh4jLSNfWfH=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/5zBVynicHcRLcoIwAADQE0WiFEY70wUyxA8faY3FrYSYhEBiSSJyyq69jTO-xXv-c2tv5tPzOu7PmNaso87QgWhlqbIzonuPDRdjADFeFN9vXV9ua_UtflfoUqQDl01Me0yKaVzwYNq0B-1EQnK-yURD47-0boTMZA-mbJ7_lCcmXZTyOvHXof-QMj9hESBxUGcCl67JVzAcaDJW4x47hvYI7R5hULbHBNtlGwnVEVoxcMf8o82OxbW6br_GOYQQ8PcEqBdui0i6"
+   },
+   {
+    "position": 5,
+    "title": "Ather Grid Charging Station",
+    "place_id": "ChIJ-3S_SvoXrjsRVIGXaLq7Mfs",
+    "data_id": "0x3bae17fa4abf74fb:0xfb31bbba68978154",
+    "data_cid": "18100454786671804756",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17fa4abf74fb%3A0xfb31bbba68978154&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17fa4abf74fb%3A0xfb31bbba68978154&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.973695099999999,
+     "longitude": 77.58710239999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-3S_SvoXrjsRVIGXaLq7Mfs",
+    "provider_id": "/g/11txx_r2mp",
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "Metro Cash & Carry, No 69/1 & 69/2, ITPL Main Rd, near Phoenix Marketcity, Whitefield, Nunegundlapalli, Ambedkar Veedhi, Mahadevapura, Bengaluru, Karnataka 560001, India",
+    "country": "India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+     "wednesday": "10 AM–9 PM",
+     "thursday": "10 AM–9 PM",
+     "friday": "10 AM–9 PM",
+     "saturday": "10 AM–9 PM",
+     "sunday": "10 AM–9 PM",
+     "monday": "10 AM–9 PM",
+     "tuesday": "10 AM–9 PM"
+    },
+    "phone": "+91 76766 00900",
+    "website": "https://atherenergy.com/",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vxfTTAnl_13YZ7W58jB2dw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=124.88653&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/CfTeyXicHc3bDcIgAADAbfiTR2sVTYjRGZoY_WkopYChQAChruNWbqNxgbvPW-cc0hGhlKOUuRhZg1mlTZvAofJeWcmDSVD4BRWCsn4uo-PGngJ33kysrHPfn50dSHu7768dfVyaqQIxDsIa6TJLkkehoao_MfoJqshTApVRDDQ7NODFKyPNFlK661oQTBaaYfB_Zl8YwfgL6V06Jg"
+   },
+   {
+    "position": 6,
+    "title": "Ather Grid Charging Station",
+    "place_id": "ChIJb9ZJseAVrjsR8Crp_zUsOjg",
+    "data_id": "0x3bae15e0b149d66f:0x383a2c35ffe92af0",
+    "data_cid": "4051599425211542256",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15e0b149d66f%3A0x383a2c35ffe92af0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15e0b149d66f%3A0x383a2c35ffe92af0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.961294599999999,
+     "longitude": 77.58390539999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJb9ZJseAVrjsR8Crp_zUsOjg",
+    "provider_id": "/g/11y6nxr47m",
+    "rating": 4.2,
+    "reviews": 5,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "Dhanalakshmi Bank, MSR Building, JC Rd, Kumbaragundi, Kalasipalya, Bengaluru, Karnataka 560002, India",
+    "country": "India",
+    "website": "https://www.atherenergy.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOvp4OUmdMrue4j59RqUG-DEHxPk0g9jU6irfRpu8eRWRsX8r3F_0vLGCiTztviMyyy74gszCY3dagmK-tyDjZDpPM7XdMo2NIzY_wH96kuR1ftIRBNlWjqid8E_63lR5w6TcZmFa04IAw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/pKtSb3icHcTbboIwAADQLypUuQgme3DghWyoaSQqL4SUWsCW1rbA4CN9398s2Xk4v-_aGKnXts1qx6JCUEZ6TRQWnSGdsbDgNlWl1gBrexMNkvHTIN1TxqtU9cRtvRC9sj2It4ef8xPSsM38Rj2Q7AOCrkjfAuXsCjh876PmMpuhSadpWrlUz9HdqUrKv4CZ4jaP5Tld3apULI_JfC_GQ-g_e7R4mAR9Htm1fTVVsC18hyFv9C8457sSuslm_BgXEEJQ_49B9wf4lEf4"
+   },
+   {
+    "position": 7,
+    "title": "Ather Grid Charging Station",
+    "place_id": "ChIJT5uU9-8VrjsRLDtPdVggaMs",
+    "data_id": "0x3bae15eff7949b4f:0xcb682058754f3b2c",
+    "data_cid": "14657000551574616876",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15eff7949b4f%3A0xcb682058754f3b2c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15eff7949b4f%3A0xcb682058754f3b2c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.954813999999999,
+     "longitude": 77.57419
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT5uU9-8VrjsRLDtPdVggaMs",
+    "provider_id": "/g/11xsndc78j",
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "XH3F+WMG, Krishna Rajendra Rd, Parvathipuram, Vishweshwarapura, Basavanagudi, Bengaluru, Karnataka 560004, India",
+    "country": "India",
+    "phone": "+91 76766 00900",
+    "website": "https://www.atherenergy.com/",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GL_KvNBRwbnpzSTlY3Mm0w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=63.315636&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/u5uT-XicHc09DsIgGADQ27AJVGKjJsTExcGfQV2cGkq_AgkFAgjqcbyVt9F4gfc-b51zSGtCUo4AuRiowTzAplkQWHmvLIhgEpZ-IqUhWd-n3gljN0E4bwa-O3T7ctqea-_C63K1N3acaEWy76Q14DJPIKLUWNWfGP2AVRQpocqXFGm-mqOnqLxlmDWLlrUomCw1p-j_jL7whtIvEos6pw"
+   },
+   {
+    "position": 8,
+    "title": "Mercedes-Benz Charging Station",
+    "place_id": "ChIJ0QQxoXAWrjsRtAome8c1doU",
+    "data_id": "0x3bae1670a13104d1:0x857635c77b260ab4",
+    "data_cid": "9616933185177127604",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1670a13104d1%3A0x857635c77b260ab4&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1670a13104d1%3A0x857635c77b260ab4&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9740436,
+     "longitude": 77.5960676
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0QQxoXAWrjsRtAome8c1doU",
+    "provider_id": "/g/11x01knsmc",
+    "rating": 5,
+    "reviews": 11,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "107, Kasturba Rd, opp. Venkatappa Art Gallery, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "website": "https://mercedesbenzhpc.com/",
+    "user_review": "\"Comfortable parking slot right near the entrance.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOpy0zuzmozyjfRaRYetrXAhq5hfdfygGi5PJmqVhZDsZQDlNQMwTa8RHAT7hh1NB2LFQgHOZxPfspsYEtog9tO6NfejSkl4vM162T6EpCPBZMxe8_H0oRiZr7Ce8WaGP7-IdT1QyZz5-dT=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/aXwEvnicHcTJjoIwAADQL6oUHZYx8QC4MGZYpxm1F0Ogi06hldYFftKzf2My7_BeT26M0nPLEnw2YVIyQa6a9LXsDOnMpJatxfpKa1BrK4huSrSZGuB4HVs5DmdaVuWBmH4f8IvDaUMHtjk5-ba9_HK81LhYirRI7qjyyzhAHud2Gk6_1wWLM_zIqVb6sDKSfZrMTSk5__yJj1tiu1PkrlSUhzh5EP8YQ1mecO9FxN9Vm9wDXw2yiwGPDmjQ4m5DCAH_vwbdG9IGSKY"
+   },
+   {
+    "position": 9,
+    "title": "Statiq Charging Station",
+    "place_id": "ChIJezitHNgVrjsRuUTlB2v4WK8",
+    "data_id": "0x3bae15d81cad387b:0xaf58f86b07e544b9",
+    "data_cid": "12635121893165581497",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d81cad387b%3A0xaf58f86b07e544b9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d81cad387b%3A0xaf58f86b07e544b9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.966550999999999,
+     "longitude": 77.596008
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJezitHNgVrjsRuUTlB2v4WK8",
+    "provider_id": "/g/11lzxhbqst",
+    "rating": 4.6,
+    "reviews": 5,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "Basement Exit, Itc Gardenia, Near, 1, Residency Rd, Bengaluru, Karnataka 560025, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "phone": "+91 80707 43743",
+    "website": "https://onelink.to/5695dc",
+    "extensions": [
+     {
+      "payments": [
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO7Q0F4ALBnkTqDN3VjtFWVDFIY9dIizM2eOMzmsqMlZgWggUZUeiyAJCkaP4LxrTZv08if5sXvzea2XlNrE__o0-BSJVXImsaLvo0A59erPb2AiBXmSiTKkbSWe17Rd5wp303qnWzPiqg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/zWwloHicHcTNboIwAADgJ0IqSJxLPBSVBAVlAwG5EMBaOvoDbcXJQ3r3bZbsO3zvV6t1rz5Nk7b2DAuBKborJBvBNeJ61ghmYlkpZTTKhJuxp-y0_ALeAgYu75Jhe7TTH-1l6dbzL6urT6bQQqdwYmoIaYEzjM_FGZEn3G-6KloEvzIpRvBBbo7KxwlVVk6PcleWAhhuvE9zn6kqGAWAzgrJqLYgcXMWk-TQ1XGG5svvq_PobWAPPJsiMuD1Yw4AMNr_G4P_Aa27R88"
+   },
+   {
+    "position": 10,
+    "title": "Electric Vehicle Charging Station",
+    "place_id": "ChIJW23GUo4VrjsRQ1YrUfuLCM8",
+    "data_id": "0x3bae158e52c66d5b:0xcf088bfb512b5643",
+    "data_cid": "14918327677179614787",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae158e52c66d5b%3A0xcf088bfb512b5643&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae158e52c66d5b%3A0xcf088bfb512b5643&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.939632999999999,
+     "longitude": 77.5749719
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW23GUo4VrjsRQ1YrUfuLCM8",
+    "provider_id": "/g/11khzn4xrw",
+    "rating": 1,
+    "reviews": 3,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "9, Old Veterinary Hospital Rd, Basavanagudi, Bengaluru, Karnataka 560004, India",
+    "country": "India",
+    "phone": "+91 81470 60222",
+    "website": "https://electricpe.com/ev-charging-station/pankaj-savani?utm_source=google_map_listing&utm_medium=referral",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_hSMwRRdzdRUR9hkrV2mLQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=187.69789&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/u0dXWXicHc3BDcIgFADQbbgJtAdbTIgL6EGMXhsKCKS0EPgWdRy3chuNC7z3eTuAVHaEFMjGwOpNTf5hQtkkiW2MNhiZfMEqzmRtCLj7PC7Sh32SS_SaD-58rELolxYXwdyUr-18OCE1Dip4swAvRmblsK0_MUeNbZaloMp7ihxnLXrKypu-w1vW9QwlD8pxiv7PLa68ofQLGZQ6xA"
+   },
+   {
+    "position": 11,
+    "title": "Statiq Charging Station",
+    "place_id": "ChIJg77zKtEVrjsRTb0FYBnyDtg",
+    "data_id": "0x3bae15d12af3be83:0xd80ef2196005bd4d",
+    "data_cid": "15568647152665476429",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d12af3be83%3A0xd80ef2196005bd4d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d12af3be83%3A0xd80ef2196005bd4d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.96162,
+     "longitude": 77.59929699999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg77zKtEVrjsRTb0FYBnyDtg",
+    "provider_id": "/g/11wnr5b1dq",
+    "rating": 3.2,
+    "reviews": 15,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "Divyasree Chambers, 11, O Shaughnessy Rd, Akkithimana Halli, Lang, Bengaluru, Karnataka 560027, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "website": "https://onelink.to/5695dc",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMgK0E-tyfAcAzgxC4cwxBhTAGm2QoUotYpyvMXrOcoubwbUIVR3BhSpDDXj42Exc_9BSRrhQxJjEJK78jTe9JLI_4aZHHMtoSOm-fpIkfQwFXENkUTshOCHJVwhRueykAqqkh6Yg=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/wN1eEHicHcTbboIwGADgJ6owJW6aeFEQBzgkHIO7MdqU_uHUSosF33CP4NuY7Lv4Xn-glJBbw2hhtWCcs5aOkg6E94r2akF4Z7DhKiUi0sDOQ7RdyI6mi9RcYYKfbHIsoicbMvzdLWOec3UW8yMsh4jw8aZvuV8kKxtSsd-XtbV0J3LZ2GkyQDwFtRscP7_qjG6CH_9iXX89L1Q8jTpUCb-pYn0o3VOTZxIixwsKDclI5wbf7w2sz2ynP0zTRPA_Qf0bsPxHQA"
+   },
+   {
+    "position": 12,
+    "title": "Fortum Charge & Drive Charging Station",
+    "place_id": "ChIJMV4CmVQXrjsRGaGnbqHMhr8",
+    "data_id": "0x3bae175499025e31:0xbf86cca16ea7a119",
+    "data_cid": "13800943101841744153",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae175499025e31%3A0xbf86cca16ea7a119&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae175499025e31%3A0xbf86cca16ea7a119&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9703232,
+     "longitude": 77.6006015
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMV4CmVQXrjsRGaGnbqHMhr8",
+    "provider_id": "/g/11vwlp1sxr",
+    "rating": 2,
+    "reviews": 8,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "XJC2+46, Audi, UB Plaza, No 1 & 2, Vittal Mallya Rd, Bengaluru, Karnataka 560001, India",
+    "country": "India",
+    "open_state": "Open · Closes 6:30 PM",
+    "hours": "Open · Closes 6:30 PM",
+    "operating_hours": {
+     "wednesday": "9:30 AM–6:30 PM",
+     "thursday": "9:30 AM–6:30 PM",
+     "friday": "9:30 AM–6:30 PM",
+     "saturday": "9:30 AM–6:30 PM",
+     "sunday": "10 AM–5 PM",
+     "monday": "9:30 AM–6:30 PM",
+     "tuesday": "9:30 AM–6:30 PM"
+    },
+    "phone": "+91 1800 120 3578",
+    "website": "https://www.fortum.in/",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMuRlEayIeJY9EvX9TfHMQ1TAiDZ4ca1QUjtFf-YSn18bt32GFdaGmNTGDUEDzZuna95FkOsBsln4qwOu7wJ3Y1pQtbG9TrfEDci5uQFCPvcy6Zwb8SPib9bowhnei0_h-tUvCifhipNhr9=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/uNSKbHicHcTbbsIgAADQL8KWVZ0s8UF720y8VNtk7YsBpIWNQlegxP3knv0bk52H8_jj1g7mLQgkj2ad1p1kzrCRamWZsjOq-6AbsTGAmmATT4Ps9-4sU3z_YLsapdMnKtv3fQHLjUiaOcWwqL5s1oL6ouCK2Oglz2447w9lnlRp8ts4hdEi-z6arZFq_uOP7tXvohoOhSU5Ksc2TahYuCKLTxO9LxtPVpeTIIhozxUT4ZUDW02xaLkYDnxEaw_DMAT8fwrUE9toSGQ"
+   },
+   {
+    "position": 13,
+    "title": "Bolt.Earth - Electric Vehicle Charging Station",
+    "place_id": "ChIJ12DDNycVrjsRmT3ILrqbD0I",
+    "data_id": "0x3bae152737c360d7:0x420f9bba2ec83d99",
+    "data_cid": "4760194555105000857",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae152737c360d7%3A0x420f9bba2ec83d99&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae152737c360d7%3A0x420f9bba2ec83d99&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.960133599999999,
+     "longitude": 77.5684364
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ12DDNycVrjsRmT3ILrqbD0I",
+    "provider_id": "/g/11vk76163k",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "Royan circle, No. 48/3, Jain Service Station, 2nd Cross, 1st Main Rd, Chamrajpet, Bengaluru, Karnataka 560018, India",
+    "country": "India",
+    "open_state": "Open · Closes 10 PM",
+    "hours": "Open · Closes 10 PM",
+    "operating_hours": {
+     "wednesday": "10:30 AM–10 PM",
+     "thursday": "10:30 AM–10 PM",
+     "friday": "10:30 AM–10 PM",
+     "saturday": "10:30 AM–10 PM",
+     "sunday": "10:30 AM–10 PM",
+     "monday": "10:30 AM–10 PM",
+     "tuesday": "10:30 AM–10 PM"
+    },
+    "phone": "+91 80 4568 8448",
+    "website": "https://bolt.earth/",
+    "extensions": [
+     {
+      "payments": [
+       "NFC mobile payments"
+      ]
+     }
+    ],
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SZLqZWbnQlFOBJ4XPVEWRA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=349.7293&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/MnPbIHicHc1dCsIgAADg2_iWuh-oBRIL6iGC_qDFXsI5U8Gpqc06TsfqNkUX-L7PW8bowhyhED3ncVQ8OfXkOkwchcJaoTl1KkBmBzRmKMrH0Bmq9MJRY1VPTu323jadOej1brkpL_vzqjnWgHVXphU3kQROPZNQpJ_obQ-FpyGARGYYSFLl4EUTKcoKTvOqAE5FJgkG_-ZmR5Jh_AWpgjne"
+   },
+   {
+    "position": 14,
+    "title": "Adani Charging Station",
+    "place_id": "ChIJeeZLEtYVrjsR-kXJITlxXEs",
+    "data_id": "0x3bae15d6124be679:0x4b5c713921c945fa",
+    "data_cid": "5430339740895888890",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d6124be679%3A0x4b5c713921c945fa&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d6124be679%3A0x4b5c713921c945fa&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.964739499999999,
+     "longitude": 77.5996438
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeeZLEtYVrjsR-kXJITlxXEs",
+    "provider_id": "/g/11m6lg15z1",
+    "rating": 5,
+    "reviews": 3,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "The Pride Hotel, 93, Richmond Rd, Langford Gardens, Bengaluru, Karnataka 560025, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "website": "https://www.adanielectricity.com/",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMAiVjE9SQgz9xY9tQrLtycFERH9EsoLwMtfVOET8j03_2v-7WhMy8k4DN3wrlsYRMdWgDAtUXfq3ZdVRVqCfEWKvHZfIUFNPZKO3b3ZY7sBn9iofFxHBpkHQf6FZhSwj38i-6j-P4YYH04=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4CrrD3icHcTBboIwAADQL6rUlShd4gG1pEZRwQm2l2WrtAWRIq2g-8md9zdLfIf396uda-2759UajZQxqi7utuiEaVzRuJEwV091X9YCYb1w0bf1NQ7LrCL4kKgf_GDYJd3GPUVEUoqJNZshdjLbkY-ggujzrQfTXMfP4OIvt2joasvS-JyrZeiOJ3lD_Jyl2W0hSb7uKZerY7Td8_UOfSPOpnbe4NLI6EHn7YUmchJxfRgqFJRgUoG9zxiF_mwYQwiBfi1A8w_oPEbo"
+   },
+   {
+    "position": 15,
+    "title": "ChargeZone Charging Station",
+    "place_id": "ChIJ24eYXXcWrjsRD-YW-x4meV4",
+    "data_id": "0x3bae16775d9887db:0x5e79261efb16e60f",
+    "data_cid": "6807514226250671631",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae16775d9887db%3A0x5e79261efb16e60f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae16775d9887db%3A0x5e79261efb16e60f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.971980199999999,
+     "longitude": 77.5952468
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ24eYXXcWrjsRD-YW-x4meV4",
+    "provider_id": "/g/11ptq6zwfl",
+    "rating": 4.4,
+    "reviews": 17,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "UB City, Vittal Mallya Rd, nearby Jw Marriott Hotel, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "phone": "+91 1800 121 2025",
+    "website": "https://ev-stations.chargezone.co.in/near-me/bengaluru/Ashok-Nagar/chargezone-charging-station-in-Ashok-Nagar-bengaluru--4gVU81/home",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNI5OMxO7jTf6CeDS8lhOXbF0KUvwNL_TSx11R4g9GfPK9bV8Z_uUGqsyI40xw-My74ilPooM0oajL-8_WI6695yn4bAPHuMczuqjZaiQabxOn3w_XQOglR3_ZQ-yCv65AQrxaS9x24XgOw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/2wXU33icHcTBboIwAADQL6qUURCW7EBYVKJYEN0Il6Y0WCS1VQq07Cd33t-Y7B3e3283jg_97jii81ZcKS7aSbcDU3Js5bhi6u7wgWoNmHbiZH6I-zH1cWbxuj9fg6T9LEPR4arZwP1lNscDOZfWdU-IR9trvo-ar7Am02X71EuKoDUgW9boJnKlMqhofwAh-U6DIPIXiZo4300Z-5mefU1vBW0slp4hVYG5OHmkLsCSzIEfF4OlZWTfUMWx-TAuhBB0_zMgX5UiRz8"
+   },
+   {
+    "position": 16,
+    "title": "ChargeZone EV Charging Station",
+    "place_id": "ChIJTVRxISMXrjsREpdVPXc6_r8",
+    "data_id": "0x3bae17232171544d:0xbffe3a773d559712",
+    "data_cid": "13834559389133281042",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17232171544d%3A0xbffe3a773d559712&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17232171544d%3A0xbffe3a773d559712&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9840549,
+     "longitude": 77.576273
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTVRxISMXrjsREpdVPXc6_r8",
+    "provider_id": "/g/11y1fg__2c",
+    "rating": 3.7,
+    "reviews": 10,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "No 17, Race Course Rd, nearby Renaissance Hotel, Madhava Nagar, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Closed",
+     "tuesday": "Open 24 hours"
+    },
+    "phone": "+91 1800 121 2025",
+    "website": "https://ev-stations.chargezone.co.in/near-me/bengaluru/Gandhi-Nagar/chargezone-charging-station-in-Gandhi-Nagar-bengaluru--2T55tq/home",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMGGRZBM-KqA_JuY0O75N9tXXWYZBYe58wbFXalQO2yrJUFqFiDs6GQAu3UVY6sMwMw1S-c2sJ_gTT7rAJxA-KUJO9RTb1P0bRaMTeyz1kV663XTcyU7C7i28hbsnZsViqnvM3WEPLLtIfo=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/QnsJkHicHcTBboIwGADgJ6oUiKBLdqhOyKodigWBi4GmAzJshb_I8CV33tss2Xf4fn8aY-7wYlld4y5qretOjiAHoZWRyiyEvln1UAIgARbZPu7djYVhXGwY2vfkSsccR_7yY22y7JIXm1wuV1MVZGV3ipx5oEnQB-0beOGJjG6S5h6wiU32GQkH6LXm3B8I_SZon9BoHfPKPuIqLhmX89P-Sj3PzbiYE3_rt86qqUAVkLa9ejD3sjseDub9U79ONsYYNf8LpP4APDtGTA"
+   },
+   {
+    "position": 17,
+    "title": "Bolt.Earth Charging Station",
+    "place_id": "ChIJVc4MAEw_rjsR2KlFUlGAjtE",
+    "data_id": "0x3bae3f4c000cce55:0xd18e80515245a9d8",
+    "data_cid": "15100147687380855256",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3f4c000cce55%3A0xd18e80515245a9d8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3f4c000cce55%3A0xd18e80515245a9d8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9641068,
+     "longitude": 77.5542028
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVc4MAEw_rjsR2KlFUlGAjtE",
+    "provider_id": "/g/11ysp9ysnz",
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station",
+     "Electric vehicle charging station contractor"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station",
+     "electric_vehicle_charging_station_contractor"
+    ],
+    "address": "41, Hosahalli Main Rd, Padarayana Pura, Bengaluru, Karnataka 560026, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "phone": "+91 84477 46385",
+    "website": "https://boltearth.app.link/AOW7xpoV4Zb",
+    "extensions": [
+     {
+      "accessibility": [
+       "Assisted listening devices",
+       "Assistive hearing loop"
+      ]
+     },
+     {
+      "amenities": [
+       "Gender-neutral restroom"
+      ]
+     },
+     {
+      "crowd": [
+       "LGBTQ+ friendly"
+      ]
+     },
+     {
+      "payments": [
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     },
+     {
+      "parking": [
+       "Free parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNj51sqABfaKuOCGkNsWl4PzZM3MeihdzGX-zEiR5h_DgWmapV3LL3hRKcFwNNfqZMzX-U2P_EIWlyfvgSggeHdLor4KBpHxoa4fnOjpexrucvKmIuSewYexYvqWwEpPoCGsXV2kcms9aGx=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/1Lw1UHicHcRLDoIwFADAE1VQYKGJC0VEw0eiUdANaWpp1ZYWHj-5pGtvY-Is5vvhTaNhYRiCWxOmFBO0BVoTVTa0bCZESYPVGAARMFZup4WMn84UqtW6wEF7cP1XDKmwk_EWWRF98PvoZ2j0HkeH5xuWSqwvVhha_BiQbR_HRXWLxgydZ0nu7VPxLjp2Yozu7qGq7WCtd4PCdlEenpoOdUu6QO7bE-2vdLh2Vdp7OlGuD9ll9iIS5tgflv3UNE3E_xNU_gCUiEqa"
+   },
+   {
+    "position": 18,
+    "title": "Bescom Charging Station",
+    "place_id": "ChIJXQOrH78XrjsRibdIkzMPIDE",
+    "data_id": "0x3bae17bf1fab035d:0x31200f339348b789",
+    "data_cid": "3539846021301974921",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17bf1fab035d%3A0x31200f339348b789&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17bf1fab035d%3A0x31200f339348b789&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9763013,
+     "longitude": 77.5883898
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXQOrH78XrjsRibdIkzMPIDE",
+    "provider_id": "/g/11sjyj9vg0",
+    "rating": 2.1,
+    "reviews": 11,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "XHGQ+G9C, Nunegundlapalli, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "phone": "+91 80739 93648",
+    "website": "https://pulseenergy.io/",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOAXTCFi5xBV907p1dCrhbX8x_6B5VUUZQ0MujSAz55emDZHfPvb5-GBTZwy3UVTGpvg86iMuZRCSyi8HmO3NE2pRmK4r2gDwbw02qed641lqq-OKc7UZW6pjg0bhuy4pSdZdKG=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/tx7q0nicHcRLjoIwAADQE1XKp8iYzAJQMSHKKB9NN0ZKbTEUCuUjc0HP4G1MfIv3fvG-l2qlaRU3F6xpWEUHRTvS1D2t-wVphMa6m1KAKM31R1mJyL0k_rZETy_7gUupF37H84vzvNoeytIUH-F-eMTuP0JUrPHu_jfmCARegqfZTLMkkCNz7HI_4JMfz6WzE5F52BjyJEKrM9h6yidotLSwLb1qWxCFZJnisy0fDOZ8mC0ZF7gIg99JhxAC_p2A-gMjvkPy"
+   },
+   {
+    "position": 19,
+    "title": "Kazam Charging Station",
+    "place_id": "ChIJ3__MRoIVrjsR2ylhlqYJIMI",
+    "data_id": "0x3bae158246ccffdf:0xc22009a6966129db",
+    "data_cid": "13988191053704931803",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae158246ccffdf%3A0xc22009a6966129db&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae158246ccffdf%3A0xc22009a6966129db&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.956925,
+     "longitude": 77.5830182
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3__MRoIVrjsR2ylhlqYJIMI",
+    "provider_id": "/g/11q96jjdn6",
+    "rating": 3.8,
+    "reviews": 6,
+    "unclaimed_listing": true,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station"
+    ],
+    "address": "No. 12, 4/2, 1 Cross, Cross, JC Rd, Journalist Colony, Kalasipalya, Bengaluru, Karnataka 560027, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "phone": "+91 97428 77732",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMzkY4GkCP2W_h222jcyDO8yro3zF24FL5xwvlfXjmxYs6mY7yyxKu7MDnJ8rus1BwN9QGQIod4EQKUkDmxnLjNNtbqXlsgNPoHmouazQVmjI4ieGTVziqhL5hltkqF-rq2x4A2OLPSlU3W=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/N6v6-nicHcTbEoFAAADQL0rZ1nXGA1IuSQ2hJ8NKq_ai3U1bP-nZ35hxHs73g5V6ybFpEmx3Ms4zklYyFYgzlTLVQZyambhKaSBpTufvF6HbtkigV8xDcLpgAECOGmc3bAS3WxdA1-_p-k0e55zqRPZpMmgavakGW4eth6KS3VkdjCIvWvE7XESbuHCoZn4eBOpWnonMgpAvKa-ubXSk-Qo-U-9wbJ8l9nuYqKJ0DVECDadg54d7EtunSd21LMvA_5HBfnWOSXo"
+   },
+   {
+    "position": 20,
+    "title": "Bolt.Earth",
+    "place_id": "ChIJqYJU86sXrjsRsf5hC7ABtdE",
+    "data_id": "0x3bae17abf35482a9:0xd1b501b00b61feb1",
+    "data_cid": "15110985980328410801",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17abf35482a9%3A0xd1b501b00b61feb1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17abf35482a9%3A0xd1b501b00b61feb1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9785492,
+     "longitude": 77.5809111
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqYJU86sXrjsRsf5hC7ABtdE",
+    "provider_id": "/g/11ms_6m2fl",
+    "rating": 3.7,
+    "reviews": 3,
+    "type": "Electric vehicle charging station",
+    "types": [
+     "Electric vehicle charging station",
+     "Electric vehicle charging station contractor"
+    ],
+    "type_id": "electric_vehicle_charging_station",
+    "type_ids": [
+     "electric_vehicle_charging_station",
+     "electric_vehicle_charging_station_contractor"
+    ],
+    "address": "Freedom Park, Seshadri Rd, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+    "country": "India",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+     "wednesday": "Open 24 hours",
+     "thursday": "Open 24 hours",
+     "friday": "Open 24 hours",
+     "saturday": "Open 24 hours",
+     "sunday": "Open 24 hours",
+     "monday": "Open 24 hours",
+     "tuesday": "Open 24 hours"
+    },
+    "phone": "+91 84477 46385",
+    "website": "https://boltearth.app.link/AOW7xpoV4Zb",
+    "extensions": [
+     {
+      "accessibility": [
+       "Assisted listening devices",
+       "Assistive hearing loop"
+      ]
+     },
+     {
+      "amenities": [
+       "Gender-neutral restroom",
+       "Restroom"
+      ]
+     },
+     {
+      "crowd": [
+       "LGBTQ+ friendly"
+      ]
+     },
+     {
+      "payments": [
+       "Debit cards",
+       "NFC mobile payments"
+      ]
+     },
+     {
+      "parking": [
+       "Free parking lot"
+      ]
+     }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMZk23N-Zw3q5oqJnwXgGVay8zv0a3s5nVX0cSkQMsi8_81d4brtg1927xuCaUjAahcnNh0HJl9KXhy9ExeL5YxYQiavoFjC4L1yLG07gNwUVmIbawgrxEUoT7v3WnL5m9otU9cTxr4CEY=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/nYsm1HicHcTNDoIgAADgJzIxdEpbh-bs19xaaeqlETmoFApIsIfs3tu09R2-74dp_VAT120ZHFEhaNu8VCOJ4LrhekRE51KJlXKIcmdx_2i7bX0fw8ypDXwG4rnmpqSLAg_RuwcYqoAXJSD7-26rrtEp8i7-WWrqoXFoXzHObzPMCM8YWK5btCnZgBLbpEFlq90V92J-i_3UG9IFCGlm8qJbnbGh0ia5OIQ9PPI06JDQOSIHK_04qabGAwA47D9x-A-6okfN"
+   }
+  ],
+  "serpapi_pagination": {
+   "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&q=Ather+store+Bengaluru&start=20&type=search"
+  }
+ }
+}

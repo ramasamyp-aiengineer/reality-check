@@ -1,0 +1,49 @@
+{
+ "params": {
+  "engine": "google_news",
+  "q": "electric scooter India",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "news_results": [
+   {
+    "title": "ZipVolt launches S2 electric scooter with 140 km range in Bengaluru",
+    "source": {
+     "name": "Sample Auto"
+    },
+    "iso_date": "2026-10-01T07:45:20Z",
+    "link": "https://news.example.com/sample/zipvolt-s2"
+   },
+   {
+    "title": "Electric scooter sales up 32% this festive season, Karnataka leads",
+    "source": {
+     "name": "Sample Business"
+    },
+    "iso_date": "2026-09-26T07:45:20Z",
+    "link": "https://news.example.com/sample/ev-sales"
+   },
+   {
+    "title": "UrbanAmp announces price cut of Rs 8,000 on X2 model",
+    "source": {
+     "name": "Sample Wheels"
+    },
+    "iso_date": "2026-09-20T07:45:20Z",
+    "link": "https://news.example.com/sample/urbanamp-price-cut"
+   },
+   {
+    "title": "Owners flag long waits at EV service centres in metro cities",
+    "source": {
+     "name": "Sample Daily"
+    },
+    "iso_date": "2026-09-12T07:45:20Z",
+    "link": "https://news.example.com/sample/ev-service"
+   }
+  ]
+ }
+}

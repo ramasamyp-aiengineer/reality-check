@@ -1,0 +1,160 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "Mavalli Tiffin Rooms reviews complaints",
+  "num": "20",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fa721fad3646ab8fa5e3",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/p0CrpQzeDKRQ423MzYXTHBVtMankU6kz3zCuAYmdezI/6ac5fa721fad3646ab8fa5e3.json",
+   "markdown_endpoint": "https://serpapi.com/searches/p0CrpQzeDKRQ423MzYXTHBVtMankU6kz3zCuAYmdezI/6ac5fa721fad3646ab8fa5e3.md",
+   "created_at": "2026-10-07 07:53:22 UTC",
+   "processed_at": "2026-10-07 07:53:22 UTC",
+   "google_light_url": "https://www.google.com/search?q=Mavalli+Tiffin+Rooms+reviews+complaints&oq=Mavalli+Tiffin+Rooms+reviews+complaints&hl=en&gl=in&sourceid=chrome&ie=UTF-8&gbv=1",
+   "raw_html_file": "https://serpapi.com/searches/p0CrpQzeDKRQ423MzYXTHBVtMankU6kz3zCuAYmdezI/6ac5fa721fad3646ab8fa5e3.html",
+   "total_time_taken": 18.26
+  },
+  "search_parameters": {
+   "engine": "google_light",
+   "q": "Mavalli Tiffin Rooms reviews complaints",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Mavalli Tiffin Rooms reviews complaints",
+   "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "MAVALLI TIFFIN ROOMS, Bengaluru - #14 Lalbagh Rd, Cubbon Park",
+    "link": "https://www.tripadvisor.com/Restaurant_Review-g297628-d1067832-Reviews-or1940-MTR_Mavalli_Tiffin_Rooms-Bengaluru_Bangalore_District_Karnataka.html",
+    "displayed_link": "www.tripadvisor.com › ... › Bengaluru › Bengaluru Restaurants",
+    "snippet": "Good food at affordable price. But, very surprisingly, the service is poor. We visited twice and tried various items. We were satisfied with the quality of food ...",
+    "extensions": [
+     "Rating",
+     "4.2(2,719)",
+     "$$ - $$$"
+    ]
+   },
+   {
+    "position": 2,
+    "title": "MAVALLI TIFFIN ROOMS, Bengaluru - #14 Lalbagh Rd, Cubbon Park",
+    "link": "https://www.tripadvisor.com.au/Restaurant_Review-g297628-d1067832-Reviews-MTR_Mavalli_Tiffin_Rooms-Bengaluru_Bangalore_District_Karnataka.html",
+    "displayed_link": "www.tripadvisor.com.au › ... › Bengaluru › Bengaluru Restaurants",
+    "snippet": "The rava idli was good -- a meal in itself for us but the dosa was thick as a towel. Couldn't finish, didn't want to. The coffee came way after we'd finished, ...",
+    "extensions": [
+     "Rating",
+     "4.2(2,719)",
+     "$$ - $$$"
+    ]
+   },
+   {
+    "position": 3,
+    "title": "Hands Down Chandrahara - MTR - Mavalli Tiffin Rooms - Tripadvisor",
+    "link": "https://www.tripadvisor.in/ShowUserReviews-g297628-d1067832-r438031685-MTR_Mavalli_Tiffin_Rooms-Bengaluru_Bangalore_District_Karnataka.html",
+    "displayed_link": "www.tripadvisor.in › ... › MTR - Mavalli Tiffin Rooms",
+    "snippet": "It's a great place to experience the food extravaganza. Amazing food and hospitality. If you come to Bangalore as a tourist MTR is a must go ...",
+    "extensions": [
+     "Rating",
+     "4.0",
+     "Review by sreevishnua"
+    ],
+    "date": "17 Nov 2016"
+   },
+   {
+    "position": 4,
+    "title": "MTR - MAVALLI TIFFIN ROOMS, Bengaluru - 44 B 1st Main, J.P. ...",
+    "link": "https://www.tripadvisor.ie/Restaurant_Review-g297628-d5028571-Reviews-MTR_Mavalli_Tiffin_Rooms-Bengaluru_Bangalore_District_Karnataka.html",
+    "displayed_link": "www.tripadvisor.ie › ... › Bengaluru › Bengaluru Restaurants",
+    "snippet": "We were very much disappointed with quality and taste of food. They are running only on their brand name. If they don't improve then it is not worth visiting.",
+    "extensions": [
+     "Rating",
+     "3.8(140)",
+     "€€ - €€€"
+    ]
+   },
+   {
+    "position": 5,
+    "title": "Reviews of Mavalli Tiffin Room (MTR), Lalbagh Road, Bangalore",
+    "link": "https://www.zomato.com/it/bangalore/mavalli-tiffin-room-mtr-basavanagudi-bangalore/reviews",
+    "displayed_link": "www.zomato.com › ... › Basavanagudi › Mavalli Tiffin Room (MTR)",
+    "snippet": "Over hyped place with very average food, long wait time and rude staff. The food may have been great some 40 to 50 years back but definitely doesn't meet ...",
+    "extensions": [
+     "Rating",
+     "4.4(3,260)"
+    ]
+   },
+   {
+    "position": 6,
+    "title": "Find list of Mavalli Tiffin Room in Delhi - Mtr near me - Justdial",
+    "link": "https://www.justdial.com/Delhi/Mavalli-Tiffin-Room/nct-11985008",
+    "displayed_link": "www.justdial.com › Delhi › Restaurants in Delhi",
+    "snippet": "I had an excellent experience at Mavalli Tiffin Room. The food was delicious and fresh, and the authentic cuisine was definitely worth the money. I visited on a ..."
+   },
+   {
+    "position": 7,
+    "title": "Evening snacky visit - Reviews, Photos - MTR - Mavalli Tiffin Rooms",
+    "link": "https://www.tripadvisor.in/ShowUserReviews-g297628-d5028571-r429514778-MTR_Mavalli_Tiffin_Rooms-Bengaluru_Bangalore_District_Karnataka.html",
+    "displayed_link": "www.tripadvisor.in › ... › MTR - Mavalli Tiffin Rooms",
+    "snippet": "Everybody knows MTR, it being a long-time institution in Bangalore. I had visited the original location near Lalbagh and was underwhelmed. Food was OK, but ...",
+    "extensions": [
+     "Rating",
+     "3.0",
+     "Review by BALAJI K"
+    ]
+   },
+   {
+    "position": 8,
+    "title": "MAVALLI TIFFIN ROOMS, Bengaluru - 44 B 1st Main, J.P. Nagar",
+    "link": "https://en.tripadvisor.com.hk/Restaurant_Review-g297628-d5028571-Reviews-or75-MTR_Mavalli_Tiffin_Rooms-Bengaluru_Bangalore_District_Karnataka.html",
+    "displayed_link": "en.tripadvisor.com.hk › ... › Bengaluru › Bengaluru Restaurants",
+    "snippet": "A very simple place with simple decor with no show-sharaba at all. I had little high expectations on this aspect at least. The ambiance is good ...",
+    "extensions": [
+     "Rating",
+     "3.8(140)",
+     "$$ - $$$"
+    ],
+    "date": "7 Jan 2016"
+   },
+   {
+    "position": 9,
+    "title": "MTR - Mavalli Tiffin Rooms, Bengaluru - #14 Lalbagh Rd, Cubbon ...",
+    "link": "https://www.tripadvisor.com.sg/Restaurant_Review-g297628-d1067832-Reviews-MTR_Mavalli_Tiffin_Rooms-Bengaluru_Bangalore_District_Karnataka.html",
+    "displayed_link": "www.tripadvisor.com.sg › ... › Bengaluru › Bengaluru Restaurants",
+    "snippet": "Overrated, grungy and terrible service ... Heard so much about this place for years, so when my sister came visiting, decided to take her there for good south ...",
+    "extensions": [
+     "Rating",
+     "4.2(2,719)",
+     "$$ - $$$"
+    ]
+   },
+   {
+    "position": 10,
+    "title": "MAVALLI TIFFIN ROOM (MTR), Bengaluru - Indiranagar - Tripadvisor",
+    "link": "https://www.tripadvisor.co.nz/Restaurant_Review-g297628-d4304516-Reviews-Mavalli_Tiffin_Room_MTR-Bengaluru_Bangalore_District_Karnataka.html",
+    "displayed_link": "www.tripadvisor.co.nz › ... › Bengaluru › Bengaluru Restaurants",
+    "snippet": "Service can be speeded up but food and waiters come in slowly and at paced time. Is it their kitchen cannot handle the load? The food taste quality still ...",
+    "extensions": [
+     "Rating",
+     "4.0(195)",
+     "$$ - $$$"
+    ]
+   }
+  ],
+  "answer_box": {
+   "type": "organic_result",
+   "title": "Rating 4.2(2,719) · $$ - $$$Good food at affordable price. But, very surprisingly, the service is poor. We visited twice and tried various items. We were satisfied with the quality of food ..."
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=in&google_domain=google.com&hl=en&q=Mavalli+Tiffin+Rooms+reviews+complaints&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+  }
+ }
+}

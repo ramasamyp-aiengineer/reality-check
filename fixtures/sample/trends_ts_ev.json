@@ -1,0 +1,904 @@
+{
+ "params": {
+  "engine": "google_trends",
+  "q": "electric scooter,ZipVolt,UrbanAmp",
+  "geo": "IN",
+  "date": "today 12-m",
+  "data_type": "TIMESERIES"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "interest_over_time": {
+   "timeline_data": [
+    {
+     "date": "Oct 08, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 36
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 14
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 10
+      }
+     ]
+    },
+    {
+     "date": "Oct 15, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 42
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 15
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 8
+      }
+     ]
+    },
+    {
+     "date": "Oct 22, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 37
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 10
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 10
+      }
+     ]
+    },
+    {
+     "date": "Oct 29, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 43
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 12
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 10
+      }
+     ]
+    },
+    {
+     "date": "Nov 05, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 38
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 16
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 11
+      }
+     ]
+    },
+    {
+     "date": "Nov 12, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 45
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 15
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 11
+      }
+     ]
+    },
+    {
+     "date": "Nov 19, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 38
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 15
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 9
+      }
+     ]
+    },
+    {
+     "date": "Nov 26, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 46
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 16
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 11
+      }
+     ]
+    },
+    {
+     "date": "Dec 03, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 46
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 13
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 11
+      }
+     ]
+    },
+    {
+     "date": "Dec 10, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 41
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 16
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "Dec 17, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 43
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 16
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 10
+      }
+     ]
+    },
+    {
+     "date": "Dec 24, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 44
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 17
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 9
+      }
+     ]
+    },
+    {
+     "date": "Dec 31, 2025",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 43
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 13
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 10
+      }
+     ]
+    },
+    {
+     "date": "Jan 07, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 50
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 18
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 10
+      }
+     ]
+    },
+    {
+     "date": "Jan 14, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 49
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 15
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 13
+      }
+     ]
+    },
+    {
+     "date": "Jan 21, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 49
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 18
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 9
+      }
+     ]
+    },
+    {
+     "date": "Jan 28, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 53
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 14
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 13
+      }
+     ]
+    },
+    {
+     "date": "Feb 04, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 48
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 14
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 11
+      }
+     ]
+    },
+    {
+     "date": "Feb 11, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 52
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 15
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "Feb 18, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 51
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 16
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "Feb 25, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 50
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 18
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 9
+      }
+     ]
+    },
+    {
+     "date": "Mar 04, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 56
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 17
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "Mar 11, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 55
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 19
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 11
+      }
+     ]
+    },
+    {
+     "date": "Mar 18, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 51
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 19
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 11
+      }
+     ]
+    },
+    {
+     "date": "Mar 25, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 53
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 20
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 13
+      }
+     ]
+    },
+    {
+     "date": "Apr 01, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 54
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 17
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "Apr 08, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 55
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 17
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 11
+      }
+     ]
+    },
+    {
+     "date": "Apr 15, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 56
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 21
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 13
+      }
+     ]
+    },
+    {
+     "date": "Apr 22, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 61
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 20
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "Apr 29, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 59
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 16
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "May 06, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 58
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 20
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 13
+      }
+     ]
+    },
+    {
+     "date": "May 13, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 59
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 19
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "May 20, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 60
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 22
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 14
+      }
+     ]
+    },
+    {
+     "date": "May 27, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 58
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 18
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 13
+      }
+     ]
+    },
+    {
+     "date": "Jun 03, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 63
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 20
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 14
+      }
+     ]
+    },
+    {
+     "date": "Jun 10, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 65
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 22
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "Jun 17, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 61
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 18
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "Jun 24, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 64
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 23
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "Jul 01, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 64
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 22
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 12
+      }
+     ]
+    },
+    {
+     "date": "Jul 08, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 67
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 22
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 13
+      }
+     ]
+    },
+    {
+     "date": "Jul 15, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 67
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 19
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 15
+      }
+     ]
+    },
+    {
+     "date": "Jul 22, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 69
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 20
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 14
+      }
+     ]
+    },
+    {
+     "date": "Jul 29, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 65
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 25
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 14
+      }
+     ]
+    },
+    {
+     "date": "Aug 05, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 65
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 21
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 16
+      }
+     ]
+    },
+    {
+     "date": "Aug 12, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 68
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 25
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 15
+      }
+     ]
+    },
+    {
+     "date": "Aug 19, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 73
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 24
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 16
+      }
+     ]
+    },
+    {
+     "date": "Aug 26, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 73
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 24
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 15
+      }
+     ]
+    },
+    {
+     "date": "Sep 02, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 85
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 26
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 15
+      }
+     ]
+    },
+    {
+     "date": "Sep 09, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 89
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 25
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 15
+      }
+     ]
+    },
+    {
+     "date": "Sep 16, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 84
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 23
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 15
+      }
+     ]
+    },
+    {
+     "date": "Sep 23, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 89
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 25
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 16
+      }
+     ]
+    },
+    {
+     "date": "Sep 30, 2026",
+     "values": [
+      {
+       "query": "electric scooter",
+       "extracted_value": 86
+      },
+      {
+       "query": "ZipVolt",
+       "extracted_value": 22
+      },
+      {
+       "query": "UrbanAmp",
+       "extracted_value": 14
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

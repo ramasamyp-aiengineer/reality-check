@@ -1,0 +1,37 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "Pearlcrest Dental Clinic reviews complaints",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "organic_results": [
+   {
+    "title": "Pearlcrest Dental Clinic - Koramangala, Bengaluru",
+    "link": "https://www.pearlcrest.example",
+    "snippet": "Root canal, implants, aligners and family dentistry since 2012."
+   },
+   {
+    "title": "Pearlcrest Dental Clinic | Doctor directory profile (sample)",
+    "link": "https://doctors.example/sample/pearlcrest",
+    "snippet": "4.7 rating, 300+ patient stories. Book an appointment online."
+   },
+   {
+    "title": "Best dental clinics in Koramangala 2026",
+    "link": "https://city-guide.example/sample/dentists-koramangala",
+    "snippet": "Pearlcrest Dental Clinic is known for painless treatment."
+   },
+   {
+    "title": "Pearlcrest Dental Clinic - local listings (sample)",
+    "link": "https://listings.example/sample/pearlcrest",
+    "snippet": "Opening hours, address and patient ratings."
+   }
+  ]
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "trip_timing",
+  "name": "Trip Timing",
+  "description": "Is this the right time and price to go? Reads live hotel rates, destination news and search demand.",
+  "category": "travel",
+  "tags": ["travel", "hotels"],
+  "input_kind": "text",
+  "input_placeholder": "Destination and dates",
+  "sample_input": {"text": "Manali hotel package for New Year at Rs 4,999 per night"},
+  "nodes": [
+    {"id": "intent", "agent": "intent"},
+    {"id": "travel_price", "agent": "travel_price", "params": {"mode": "hotels", "location": "Manali"}},
+    {"id": "news_timeline", "agent": "news_timeline", "params": {"query": "Manali"}},
+    {"id": "demand_trend", "agent": "demand_trend", "params": {"query": "Manali", "regions": false, "related": false}},
+    {"id": "verdict", "agent": "verdict"}
+  ],
+  "edges": [
+    ["intent", "travel_price"], ["intent", "news_timeline"], ["intent", "demand_trend"],
+    ["travel_price", "verdict"], ["news_timeline", "verdict"], ["demand_trend", "verdict"]
+  ]
+}

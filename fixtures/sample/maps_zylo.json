@@ -1,0 +1,16 @@
+{
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "Zylo Global Solutions Pvt Ltd.",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "local_results": []
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "params": {
+  "engine": "google_play_product",
+  "product_id": "com.quickrupee.instantloan.sample",
+  "store": "apps"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "product_info": {
+   "title": "QuickRupee - Instant Loan App",
+   "authors": [
+    {
+     "name": "QR Digital Services"
+    }
+   ],
+   "rating": 3.9,
+   "reviews": "12,480",
+   "downloads": "500K+",
+   "category": "Finance"
+  },
+  "about_this_app": {
+   "info": {
+    "updated_on": "Sep 28, 2026"
+   }
+  }
+ }
+}

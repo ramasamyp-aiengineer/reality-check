@@ -1,0 +1,47 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "QuickRupee reviews complaints",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "organic_results": [
+   {
+    "title": "QuickRupee loan app harassment complaint - Consumer Complaints",
+    "link": "https://www.consumercomplaints.in/sample/quickrupee",
+    "snippet": "Recovery agents of QuickRupee are calling my contacts. Complaint registered..."
+   },
+   {
+    "title": "Is QuickRupee a scam? : r/IndiaInvestments",
+    "link": "https://www.reddit.com/r/sample/quickrupee",
+    "snippet": "Beware of QuickRupee, illegal loan app charging hidden fees..."
+   },
+   {
+    "title": "QuickRupee reviews | MouthShut",
+    "link": "https://www.mouthshut.com/sample/quickrupee",
+    "snippet": "1.4 rating. Users report fraud and harassment."
+   },
+   {
+    "title": "QuickRupee - Instant Loan App - Apps on Google Play",
+    "link": "https://play.google.com/store/apps/details?id=com.quickrupee.instantloan.sample",
+    "snippet": "Get instant personal loans up to Rs 50,000."
+   },
+   {
+    "title": "Instant loan apps list 2026 - comparison",
+    "link": "https://example-finance-blog.in/sample/loan-apps",
+    "snippet": "We compare popular instant loan apps..."
+   },
+   {
+    "title": "QuickRupee customer care number complaint",
+    "link": "https://www.voxya.com/sample/quickrupee",
+    "snippet": "Complaint against QuickRupee for harassment and fake charges."
+   }
+  ]
+ }
+}

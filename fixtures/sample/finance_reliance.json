@@ -1,0 +1,27 @@
+{
+ "params": {
+  "engine": "google_finance",
+  "q": "RELIANCE:NSE",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "summary": {
+   "title": "Reliance Industries Ltd (sample quote)",
+   "stock": "RELIANCE",
+   "exchange": "NSE",
+   "price": "₹1,400.00",
+   "extracted_price": 1400.0,
+   "currency": "₹",
+   "price_movement": {
+    "percentage": 0.4,
+    "value": 5.6,
+    "movement": "Up"
+   }
+  }
+ }
+}

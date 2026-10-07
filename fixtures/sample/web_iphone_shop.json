@@ -1,0 +1,32 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "iphone-sale-deals.shop reviews complaints",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "organic_results": [
+   {
+    "title": "iphone-sale-deals.shop scam? Never received order",
+    "link": "https://www.reddit.com/r/sample/iphone-sale-deals",
+    "snippet": "Paid via UPI, website stopped responding. Beware, fake site."
+   },
+   {
+    "title": "iphone-sale-deals.shop Reviews | Scam Detector",
+    "link": "https://www.scam-detector.example/sample",
+    "snippet": "Low trust score. Domain registered recently."
+   },
+   {
+    "title": "Complaint against iphone-sale-deals.shop",
+    "link": "https://www.consumercomplaints.in/sample/iphone-sale-deals",
+    "snippet": "Fraud website selling iPhones at unrealistic prices."
+   }
+  ]
+ }
+}

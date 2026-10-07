@@ -1,0 +1,12 @@
+{
+  "registry": "sebi_ia_ra",
+  "title": "SEBI registered Investment Advisers and Research Analysts",
+  "source_url": "https://www.sebi.gov.in/ (Intermediaries > Registered Investment Advisers / Research Analysts)",
+  "checked_at": "2026-10-07T00:00:00Z",
+  "is_sample": true,
+  "note": "SAMPLE snapshot with fictional entries. Import the official SEBI lists: python -m evidence_agents.tools.import_registry sebi_ia_ra <export.csv|xlsx>",
+  "entries": [
+    {"name": "Example Research Analyst (sample)", "registration_no": "INH000000000"},
+    {"name": "Sample Investment Advisers LLP (sample)", "registration_no": "INA000000000"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+ "params": {
+  "engine": "google_play",
+  "q": "QuickRupee",
+  "store": "apps",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "organic_results": [
+   {
+    "title": "Apps",
+    "items": [
+     {
+      "title": "QuickRupee - Instant Loan App",
+      "product_id": "com.quickrupee.instantloan.sample",
+      "author": "QR Digital Services",
+      "rating": 3.9,
+      "link": "https://play.google.com/store/apps/details?id=com.quickrupee.instantloan.sample"
+     },
+     {
+      "title": "Quick Rupay Wallet",
+      "product_id": "com.sample.quickrupay",
+      "author": "Sample Wallet Labs",
+      "rating": 4.2,
+      "link": "https://play.google.com/store/apps/details?id=com.sample.quickrupay"
+     }
+    ]
+   }
+  ]
+ }
+}

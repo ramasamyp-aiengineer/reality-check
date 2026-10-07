@@ -1,0 +1,21 @@
+{
+  "id": "job_offer_check",
+  "name": "Job Offer Check",
+  "description": "Is the employer real and actually hiring? Checks Google Jobs, Google Maps and web reputation before you pay anything.",
+  "category": "trust",
+  "tags": ["jobs", "scam"],
+  "input_kind": "text",
+  "input_placeholder": "Paste the job message",
+  "sample_input": {"text": "Work from home and earn Rs 3,000 daily! Part time data entry job with Zylo Global Solutions Pvt Ltd. Pay Rs 1,500 registration fee to start."},
+  "nodes": [
+    {"id": "intent", "agent": "intent"},
+    {"id": "jobs_demand", "agent": "jobs_demand"},
+    {"id": "place_reality", "agent": "place_reality"},
+    {"id": "web_reputation", "agent": "web_reputation"},
+    {"id": "verdict", "agent": "verdict"}
+  ],
+  "edges": [
+    ["intent", "jobs_demand"], ["intent", "place_reality"], ["intent", "web_reputation"],
+    ["jobs_demand", "verdict"], ["place_reality", "verdict"], ["web_reputation", "verdict"]
+  ]
+}

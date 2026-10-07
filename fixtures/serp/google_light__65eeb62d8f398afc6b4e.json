@@ -1,0 +1,109 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "Ather official website",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fba7ec900d861a43b379",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/4t8lrkO__9NiHIJnnUNlUzrYO8qfTVdQPBzUP2kzAdI/6ac5fba7ec900d861a43b379.json",
+   "markdown_endpoint": "https://serpapi.com/searches/4t8lrkO__9NiHIJnnUNlUzrYO8qfTVdQPBzUP2kzAdI/6ac5fba7ec900d861a43b379.md",
+   "created_at": "2026-10-07 07:58:31 UTC",
+   "processed_at": "2026-10-07 07:58:31 UTC",
+   "google_light_url": "https://www.google.com/search?q=Ather+official+website&oq=Ather+official+website&hl=en&gl=in&sourceid=chrome&ie=UTF-8&gbv=1",
+   "raw_html_file": "https://serpapi.com/searches/4t8lrkO__9NiHIJnnUNlUzrYO8qfTVdQPBzUP2kzAdI/6ac5fba7ec900d861a43b379.html",
+   "total_time_taken": 6.39
+  },
+  "search_parameters": {
+   "engine": "google_light",
+   "q": "Ather official website",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Ather official website",
+   "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Ather Electric Scooters: Buy 450X, 450S & Rizta - Flipkart",
+    "link": "https://www.flipkart.com/vehicles/bikes-scooters/electric-bikes-scooters/electric-bikes/electric-scooters/ather~brand/pr?sid=7dk,0aj,kuz,gyu,bbh",
+    "displayed_link": "www.flipkart.com › vehicles › electric-bikes › electric-scooters › ather~brand",
+    "snippet": "Discover Ather electric scooters on Flipkart. Explore 450X, 450S, and Rizta with smart features, IP67 batteries, and fast charging. , and a sleek look."
+   },
+   {
+    "position": 2,
+    "title": "Configure Ather Rizta Family Electric Scooter",
+    "link": "https://www.atherenergy.com/rizta/configurator",
+    "displayed_link": "www.atherenergy.com › Rizta",
+    "snippet": "Configure your Ather Rizta family electric scooter. Select colours and accessories, check pricing and book your spacious EV Scooter online."
+   },
+   {
+    "position": 3,
+    "title": "Ather Energy - LinkedIn",
+    "link": "https://in.linkedin.com/company/ather-energy",
+    "displayed_link": "in.linkedin.com › company › ather-energy",
+    "snippet": "India's first smart and connected electric scooters, Website http://www.atherenergy.com. Founded 2013 Specialties Two wheeler, Electric vehicle, Battery ..."
+   },
+   {
+    "position": 4,
+    "title": "Ather Energy - Electric Scooters",
+    "link": "https://www.atherenergy.com/about",
+    "displayed_link": "www.atherenergy.com › about",
+    "snippet": "Experience the future of mobility with Ather Energy's premium electric scooters. Discover our range of smart, connected electric vehicles."
+   },
+   {
+    "position": 5,
+    "title": "Ather Bikes Price 2026 - Check Images, Showrooms & Specs in India",
+    "link": "https://www.bikedekho.com/ather-energy-bikes",
+    "displayed_link": "www.bikedekho.com › ather-energy-bikes",
+    "snippet": "Ather Bikes offer 5 models in India, Price List starting from Rs 1,01999. Check new Ather Bikes, on-road price, reviews, images & showrooms for Ather."
+   },
+   {
+    "position": 6,
+    "title": "Ather Energy Press Kit | Official News, Media Assets & Brand ...",
+    "link": "https://www.atherenergy.com/press",
+    "displayed_link": "www.atherenergy.com › press",
+    "snippet": "The official Ather Energy press hub. Access the latest press releases, high-res product portfolios, logo trademarks, and brand assets for editorial use."
+   },
+   {
+    "position": 7,
+    "title": "Ather Corporate Program | Ather Energy",
+    "link": "https://www.atherenergy.com/ather-corporate-program",
+    "displayed_link": "www.atherenergy.com › ather-corporate-program",
+    "snippet": "Ather Corporate Program is designed to help the future forward organisations that believe in driving the adoption of electric mobility."
+   },
+   {
+    "position": 8,
+    "title": "Ather App FAQs",
+    "link": "https://www.atherenergy.com/faq/owning-ather/ather-app",
+    "displayed_link": "www.atherenergy.com › Faq › Owning Ather",
+    "snippet": "Learn how to download, install and log in to the Ather App on Android and iOS. Check minimum phone requirements, multi-device login and account support."
+   },
+   {
+    "position": 9,
+    "title": "Ather Energy | Ather Electric Scooters in Nepal",
+    "link": "https://atherenergy.com.np/",
+    "displayed_link": "atherenergy.com.np",
+    "snippet": "Explore the best electric scooters - the Ather 450 - with features like 150 km range, 90 kmph top speed, fast charging, Google Maps navigation and more."
+   },
+   {
+    "position": 10,
+    "title": "Ather Konarc Price 2026 - Range, Charging Time, Speed, Images ...",
+    "link": "https://www.bikedekho.com/ather-energy/konarc",
+    "displayed_link": "www.bikedekho.com › Ather Scooters",
+    "snippet": "The Ather Konarc is a thoughtfully designed electric scooter aimed squarely at the Indian family. It successfully packages Ather's reputable engineering and ..."
+   }
+  ],
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=in&google_domain=google.com&hl=en&q=Ather+official+website&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+  }
+ }
+}

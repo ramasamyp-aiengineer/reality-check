@@ -1,0 +1,2189 @@
+{
+ "params": {
+  "engine": "amazon",
+  "k": "Apple iPhone 16 Pro 256GB",
+  "amazon_domain": "amazon.in"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fa8afbbebb9c59fe5eb5",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/XGCrZm-dE2Vz244p3iStITEcAfV4Yuf0MUkE-NqinaI/6ac5fa8afbbebb9c59fe5eb5.json",
+   "markdown_endpoint": "https://serpapi.com/searches/XGCrZm-dE2Vz244p3iStITEcAfV4Yuf0MUkE-NqinaI/6ac5fa8afbbebb9c59fe5eb5.md",
+   "created_at": "2026-10-07 07:53:46 UTC",
+   "processed_at": "2026-10-07 07:53:46 UTC",
+   "amazon_url": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB",
+   "raw_html_file": "https://serpapi.com/searches/XGCrZm-dE2Vz244p3iStITEcAfV4Yuf0MUkE-NqinaI/6ac5fa8afbbebb9c59fe5eb5.html",
+   "total_time_taken": 1.53
+  },
+  "search_parameters": {
+   "engine": "amazon",
+   "k": "Apple iPhone 16 Pro 256GB",
+   "amazon_domain": "amazon.in",
+   "device": "desktop"
+  },
+  "search_information": {
+   "total_results": 87,
+   "query_displayed": "Apple iPhone 16 Pro 256GB",
+   "store": "gateway",
+   "page": 1
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "asin": "B0GZ7QJK57",
+    "sponsored": true,
+    "variants": {
+     "more_variants": "+2 other colors/patterns",
+     "more_variants_link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfYXRmOjMwMTM0MjUwNDI5NzMzMjo6MDo6&url=%2FFind-Midnight-Hasselblad-Dimensity-SUPERVOOC%2Fdp%2FB0GZ7QJK57%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-1-spons%26aref%3DZx0hpmDKMN%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Zx0hpmDKMN&sp_cr=ZAZ"
+    },
+    "brand": "OPPO",
+    "title": "Find X9s 5G (Midnight Grey, 12GB, 256GB) | Hasselblad 50MP Triple Camera | 120× Super Zoom | MediaTek Dimensity 9500s | 7025mAh 80W SUPERVOOC | ColorOS 16",
+    "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfYXRmOjMwMTM0MjUwNDI5NzMzMjo6MDo6&url=%2FFind-Midnight-Hasselblad-Dimensity-SUPERVOOC%2Fdp%2FB0GZ7QJK57%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-1-spons%26aref%3DZx0hpmDKMN%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=Zx0hpmDKMN&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.in/dp/B0GZ7QJK57/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0GZ7QJK57&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71duVqldlZL._AC_UY218_.jpg",
+    "rating": 4.5,
+    "reviews": 104,
+    "bought_last_month": "50+ bought in past month",
+    "price": "₹84,999",
+    "extracted_price": 84999,
+    "old_price": "₹1,39,999",
+    "extracted_old_price": 139999,
+    "offers": [
+     "Flat INR 8500 Off on ALL Banks Cards"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow, 8 Oct"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹84,999",
+      "extracted_primary_price": 84999,
+      "secondary_price": "Flat INR 8500 Off on ALL Banks CardsFlat INR 8500 Off on ALL Banks CardsFlat INR 8500 Off on ALL Banks CardsFlat INR 8500 Off on ALL Banks Cards",
+      "extracted_secondary_price": 8500,
+      "old_primary_price": "₹1,39,999",
+      "extracted_old_primary_price": 139999
+     }
+    ]
+   },
+   {
+    "position": 2,
+    "asin": "B0H5BWKJ6T",
+    "sponsored": true,
+    "variants": {
+     "more_variants": "+2 other colors/patterns",
+     "more_variants_link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfYXRmOjMwMTM0MjI3Mzc0OTQzMjo6MDo6&url=%2FTwilight-Telephoto-Collage-Snapdragon-SUPERVOOC%2Fdp%2FB0H5BWKJ6T%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-2-spons%26aref%3Dx9Cy6aQQb0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=x9Cy6aQQb0&sp_cr=ZAZ"
+    },
+    "brand": "OPPO",
+    "title": "Reno16 5G (Twilight Violet, 8GB, 256GB) | 50MP 3.5X Telephoto Camera | 4K 60fps HDR Video | AI Remix Collage | Snapdragon 7 Gen 4 | 6700mAh 80W SUPERVOOC | ColorOS 16 | IP69K",
+    "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfYXRmOjMwMTM0MjI3Mzc0OTQzMjo6MDo6&url=%2FTwilight-Telephoto-Collage-Snapdragon-SUPERVOOC%2Fdp%2FB0H5BWKJ6T%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-2-spons%26aref%3Dx9Cy6aQQb0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&aref=x9Cy6aQQb0&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.in/dp/B0H5BWKJ6T/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0H5BWKJ6T&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71KlDrbh2yL._AC_UY218_.jpg",
+    "rating": 3.8,
+    "reviews": 55,
+    "price": "₹66,999",
+    "extracted_price": 66999,
+    "old_price": "₹89,999",
+    "extracted_old_price": 89999,
+    "offers": [
+     "Flat INR 6700 Off on ALL Banks Cards"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹66,999",
+      "extracted_primary_price": 66999,
+      "secondary_price": "Flat INR 6700 Off on ALL Banks CardsFlat INR 6700 Off on ALL Banks CardsFlat INR 6700 Off on ALL Banks CardsFlat INR 6700 Off on ALL Banks Cards",
+      "extracted_secondary_price": 6700,
+      "old_primary_price": "₹89,999",
+      "extracted_old_primary_price": 89999
+     }
+    ]
+   },
+   {
+    "position": 3,
+    "asin": "B0DGHZWBYB",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0DGHZWBYB",
+       "title": "White",
+       "link": "https://www.amazon.in/iPhone-16-128-GB-Control/dp/B0DGHZWBYB/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-3"
+      },
+      {
+       "position": 2,
+       "asin": "B0DGJ7TGDR",
+       "title": "Ultramarine",
+       "link": "https://www.amazon.in/iPhone-16-128-GB-Control/dp/B0DGJ7TGDR/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-3"
+      }
+     ]
+    },
+    "brand": "Apple",
+    "title": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; White",
+    "link": "https://www.amazon.in/iPhone-16-128-GB-Control/dp/B0DGHZWBYB/ref=sr_1_3?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-3",
+    "link_clean": "https://www.amazon.in/iPhone-16-128-GB-Control/dp/B0DGHZWBYB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0DGHZWBYB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61d88xzrklL._AC_UY218_.jpg",
+    "rating": 4.5,
+    "reviews": 2700,
+    "bought_last_month": "300+ bought in past month",
+    "price": "₹86,900",
+    "extracted_price": 86900,
+    "old_price": "₹89,900",
+    "extracted_old_price": 89900,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹86,900",
+      "extracted_primary_price": 86900,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5,
+      "old_primary_price": "₹89,900",
+      "extracted_old_primary_price": 89900
+     }
+    ]
+   },
+   {
+    "position": 4,
+    "asin": "B0FQFV2XKS",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0FQFV2XKS",
+       "title": "Deep Blue",
+       "link": "https://www.amazon.in/iPhone-Pro-Max-256-Promotion/dp/B0FQFV2XKS/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-4"
+      },
+      {
+       "position": 2,
+       "asin": "B0HCZZ7616",
+       "title": "Cosmic Orange",
+       "link": "https://www.amazon.in/iPhone-Pro-Max-256-Promotion/dp/B0HCZZ7616/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-4"
+      },
+      {
+       "position": 3,
+       "asin": "B0HCZSX983",
+       "title": "Silver",
+       "link": "https://www.amazon.in/iPhone-Pro-Max-256-Promotion/dp/B0HCZSX983/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-4"
+      }
+     ]
+    },
+    "brand": "Apple",
+    "title": "iPhone 17 Pro Max 256 GB: 17.42 cm (6.9″) Display with Promotion, A19 Pro Chip, Best Battery Life in Any iPhone Ever, Pro Fusion Camera System, Center Stage Front Camera; Deep Blue",
+    "link": "https://www.amazon.in/iPhone-Pro-Max-256-Promotion/dp/B0FQFV2XKS/ref=sr_1_4?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-4",
+    "link_clean": "https://www.amazon.in/iPhone-Pro-Max-256-Promotion/dp/B0FQFV2XKS/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0FQFV2XKS&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71R8VsJ07nL._AC_UY218_.jpg",
+    "rating": 4.7,
+    "reviews": 663,
+    "bought_last_month": "50+ bought in past month",
+    "price": "₹1,42,490",
+    "extracted_price": 142490,
+    "old_price": "₹1,49,900",
+    "extracted_old_price": 149900,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹1,42,490",
+      "extracted_primary_price": 142490,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5,
+      "old_primary_price": "₹1,49,900",
+      "extracted_old_primary_price": 149900
+     }
+    ]
+   },
+   {
+    "position": 5,
+    "asin": "B0G81P4MPG",
+    "sponsored": true,
+    "variants": {
+     "more_variants": "+1 other color/pattern",
+     "more_variants_link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfbXRmOjMwMTM4NjA3NjI3NDYzMjo6MDo6&url=%2FSamsung-Sapphire-Storage-Upgrades-Lag-Free%2Fdp%2FB0G81P4MPG%2Fref%3Dsr_1_5_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-5-spons%26aref%3D0C2ZO5lQry%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=0C2ZO5lQry&sp_cr=ZAZ"
+    },
+    "brand": "Samsung",
+    "title": "Galaxy M17 5G Mobile (Sapphire Black, 6GB RAM, 128GB Storage) | 50MP OIS Triple Camera | Super AMOLED Display | Gorilla Glass Victus | 6 Gen OS Upgrades | Knox Security | AI",
+    "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfbXRmOjMwMTM4NjA3NjI3NDYzMjo6MDo6&url=%2FSamsung-Sapphire-Storage-Upgrades-Lag-Free%2Fdp%2FB0G81P4MPG%2Fref%3Dsr_1_5_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-5-spons%26aref%3D0C2ZO5lQry%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=0C2ZO5lQry&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.in/dp/B0G81P4MPG/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0G81P4MPG&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71XcRGQyImL._AC_UY218_.jpg",
+    "rating": 4.1,
+    "reviews": 803,
+    "bought_last_month": "500+ bought in past month",
+    "price": "₹24,999",
+    "extracted_price": 24999,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹24,999",
+      "extracted_primary_price": 24999,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5
+     }
+    ]
+   },
+   {
+    "position": 6,
+    "asin": "B0H4L92YY7",
+    "sponsored": true,
+    "variants": {
+     "more_variants": "+1 other color/pattern",
+     "more_variants_link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfbXRmOjMwMTE4MjM0NDg2NDUzMjo6MDo6&url=%2FSamsung-Storage-Snapdragon-Processor-Security%2Fdp%2FB0H4L92YY7%2Fref%3Dsr_1_6_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-6-spons%26aref%3DMQhAyIJ6ry%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=MQhAyIJ6ry&sp_cr=ZAZ"
+    },
+    "brand": "Samsung",
+    "title": "Galaxy M47 5G Mobile (Rogue Red, 8GB RAM, 128GB Storage, 6000mAh Battery)| 50MP OIS| Snapdragon Processor| LPDDR5X RAM,UFS 3.1 Storage| Gorilla Glass Victus+| sAMOLED| Knox Security| AI",
+    "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfbXRmOjMwMTE4MjM0NDg2NDUzMjo6MDo6&url=%2FSamsung-Storage-Snapdragon-Processor-Security%2Fdp%2FB0H4L92YY7%2Fref%3Dsr_1_6_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-6-spons%26aref%3DMQhAyIJ6ry%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=MQhAyIJ6ry&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.in/dp/B0H4L92YY7/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0H4L92YY7&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71AOmUsJnJL._AC_UY218_.jpg",
+    "rating": 3.7,
+    "reviews": 441,
+    "price": "₹39,999",
+    "extracted_price": 39999,
+    "old_price": "₹49,999",
+    "extracted_old_price": 49999,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹39,999",
+      "extracted_primary_price": 39999,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5,
+      "old_primary_price": "₹49,999",
+      "extracted_old_primary_price": 49999
+     }
+    ]
+   },
+   {
+    "position": 7,
+    "asin": "B0HJBCGNFM",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0HJBCGNFM",
+       "title": "Silver",
+       "link": "https://www.amazon.in/iPhone-18-Pro-256-GB/dp/B0HJBCGNFM/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-7"
+      },
+      {
+       "position": 2,
+       "asin": "B0HLL18KV6",
+       "title": "Black",
+       "link": "https://www.amazon.in/iPhone-18-Pro-256-GB/dp/B0HLL18KV6/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-7"
+      },
+      {
+       "position": 3,
+       "asin": "B0HLKSJMG3",
+       "title": "Burgundy",
+       "link": "https://www.amazon.in/iPhone-18-Pro-256-GB/dp/B0HLKSJMG3/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-7"
+      },
+      {
+       "position": 4,
+       "asin": "B0HLKXFSN8",
+       "title": "Glacier",
+       "link": "https://www.amazon.in/iPhone-18-Pro-256-GB/dp/B0HLKXFSN8/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-7"
+      }
+     ]
+    },
+    "title": "iPhone 18 Pro (256 GB) - Silver",
+    "link": "https://www.amazon.in/iPhone-18-Pro-256-GB/dp/B0HJBCGNFM/ref=sr_1_7?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-7",
+    "link_clean": "https://www.amazon.in/iPhone-18-Pro-256-GB/dp/B0HJBCGNFM/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0HJBCGNFM&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71E-J09sb6L._AC_UY218_.jpg",
+    "rating": 4.1,
+    "reviews": 23,
+    "price": "₹1,64,900",
+    "extracted_price": 164900,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹1,64,900",
+      "extracted_primary_price": 164900,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5
+     }
+    ]
+   },
+   {
+    "position": 8,
+    "asin": "B0FQFTV1NP",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0FQFTV1NP",
+       "title": "Light Gold",
+       "link": "https://www.amazon.in/iPhone-Air-256-GB-Promotion/dp/B0FQFTV1NP/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-8"
+      },
+      {
+       "position": 2,
+       "asin": "B0GTYZ4RW6",
+       "title": "Cloud White",
+       "link": "https://www.amazon.in/iPhone-Air-256-GB-Promotion/dp/B0GTYZ4RW6/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-8"
+      },
+      {
+       "position": 3,
+       "asin": "B0GTYTD6PD",
+       "title": "Sky Blue",
+       "link": "https://www.amazon.in/iPhone-Air-256-GB-Promotion/dp/B0GTYTD6PD/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-8"
+      },
+      {
+       "position": 4,
+       "asin": "B0FQFBDQJ1",
+       "title": "Space Black",
+       "link": "https://www.amazon.in/iPhone-Air-256-GB-Promotion/dp/B0FQFBDQJ1/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-8"
+      }
+     ]
+    },
+    "brand": "Apple",
+    "title": "iPhone Air (256 GB) - Light Gold",
+    "link": "https://www.amazon.in/iPhone-Air-256-GB-Promotion/dp/B0FQFTV1NP/ref=sr_1_8?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-8",
+    "link_clean": "https://www.amazon.in/iPhone-Air-256-GB-Promotion/dp/B0FQFTV1NP/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0FQFTV1NP&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/614MsdnfBxL._AC_UY218_.jpg",
+    "rating": 4.5,
+    "reviews": 412,
+    "bought_last_month": "100+ bought in past month",
+    "price": "₹1,19,900",
+    "extracted_price": 119900,
+    "old_price": "₹1,49,900",
+    "extracted_old_price": 149900,
+    "offers": [
+     "Save extra with No Cost EMI"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹1,19,900",
+      "extracted_primary_price": 119900,
+      "old_primary_price": "₹1,49,900",
+      "extracted_old_primary_price": 149900
+     }
+    ]
+   },
+   {
+    "position": 9,
+    "asin": "B0H1X9D2VG",
+    "sponsored": true,
+    "variants": {
+     "more_variants": "+4 other colors/patterns",
+     "more_variants_link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfbXRmOjMwMTE3ODcwNzM1NTgzMjo6MDo6&url=%2FSamsung-Midnight-Complete-Processor-Security%2Fdp%2FB0H1X9D2VG%2Fref%3Dsr_1_9_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-9-spons%26aref%3DBErUZtSl0o%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=BErUZtSl0o&sp_cr=ZAZ"
+    },
+    "brand": "Samsung",
+    "title": "Galaxy A56 5G Mobile (Awesome Midnight Blue, 8GB, 256GB) | Segment Most Complete Triple Camera | 50MP | AI Editing | 4nm Processor | sAMOLED | 5000mAh | Gorilla Glass Victus+| Knox Security",
+    "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfbXRmOjMwMTE3ODcwNzM1NTgzMjo6MDo6&url=%2FSamsung-Midnight-Complete-Processor-Security%2Fdp%2FB0H1X9D2VG%2Fref%3Dsr_1_9_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-9-spons%26aref%3DBErUZtSl0o%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=BErUZtSl0o&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.in/dp/B0H1X9D2VG/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0H1X9D2VG&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Bh5lnt-iL._AC_UY218_.jpg",
+    "rating": 4.4,
+    "reviews": 761,
+    "bought_last_month": "500+ bought in past month",
+    "price": "₹40,999",
+    "extracted_price": 40999,
+    "old_price": "₹52,999",
+    "extracted_old_price": 52999,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹40,999",
+      "extracted_primary_price": 40999,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5,
+      "old_primary_price": "₹52,999",
+      "extracted_old_primary_price": 52999
+     }
+    ]
+   },
+   {
+    "position": 10,
+    "asin": "B0GN1J78Z2",
+    "sponsored": true,
+    "variants": {
+     "more_variants": "+1 other color/pattern",
+     "more_variants_link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfbXRmOjMwMDk4ODgwNzY0MTYzMjo6MDo6&url=%2FSamsung-Storage-Smoothest-Refresh-Upgrades%2Fdp%2FB0GN1J78Z2%2Fref%3Dsr_1_10_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-10-spons%26aref%3DdnlumQbrNm%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=dnlumQbrNm&sp_cr=ZAZ"
+    },
+    "brand": "Samsung",
+    "title": "Galaxy M17e 5G Mobile (Blitz Blue, 6GB RAM, 128GB Storage, Monster 6000mAh Battery) | 120 Hz Refresh Rate | IP54 Rating | 6 Gen OS Upgrades | 50MP Dual Camera | Knox Security | AI",
+    "link": "https://www.amazon.in/sspa/click?ie=UTF8&spc=MTo1Mjg1NDI5NDg0MTcwNjY2OjE3OTEzNTk2Mjc6c3BfbXRmOjMwMDk4ODgwNzY0MTYzMjo6MDo6&url=%2FSamsung-Storage-Smoothest-Refresh-Upgrades%2Fdp%2FB0GN1J78Z2%2Fref%3Dsr_1_10_sspa%3Fdib%3DeyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU%26dib_tag%3Dse%26keywords%3DApple%2BiPhone%2B16%2BPro%2B256GB%26qid%3D1791359627%26sr%3D8-10-spons%26aref%3DdnlumQbrNm%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1&aref=dnlumQbrNm&sp_cr=ZAZ",
+    "link_clean": "https://www.amazon.in/dp/B0GN1J78Z2/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0GN1J78Z2&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71YYuRGQ4qL._AC_UY218_.jpg",
+    "rating": 4.1,
+    "reviews": 1200,
+    "bought_last_month": "200+ bought in past month",
+    "price": "₹22,999",
+    "extracted_price": 22999,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹22,999",
+      "extracted_primary_price": 22999,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5
+     }
+    ]
+   },
+   {
+    "position": 11,
+    "asin": "B0FQFYYPZF",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0FQFYYPZF",
+       "title": "Deep Blue",
+       "link": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQFYYPZF/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-11"
+      },
+      {
+       "position": 2,
+       "asin": "B0FQG1LPVF",
+       "title": "Cosmic Orange",
+       "link": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQG1LPVF/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-11"
+      },
+      {
+       "position": 3,
+       "asin": "B0FQFNQTTK",
+       "title": "Silver",
+       "link": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQFNQTTK/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-11"
+      }
+     ]
+    },
+    "brand": "Apple",
+    "title": "iPhone 17 Pro 256 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera; Deep Blue",
+    "link": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQFYYPZF/ref=sr_1_11?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-11",
+    "link_clean": "https://www.amazon.in/iPhone-Pro-256-Promotion-Breakthrough/dp/B0FQFYYPZF/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0FQFYYPZF&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/618vU2qKXQL._AC_UY218_.jpg",
+    "rating": 4.5,
+    "reviews": 646,
+    "bought_last_month": "300+ bought in past month",
+    "price": "₹1,28,490",
+    "extracted_price": 128490,
+    "old_price": "₹1,34,900",
+    "extracted_old_price": 134900,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹1,28,490",
+      "extracted_primary_price": 128490,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5,
+      "old_primary_price": "₹1,34,900",
+      "extracted_old_primary_price": 134900
+     }
+    ]
+   },
+   {
+    "position": 12,
+    "asin": "B0GQVL6STN",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0GQVL6STN",
+       "title": "Black",
+       "link": "https://www.amazon.in/Apple-iPhone-17e-256-GB/dp/B0GQVL6STN/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-12"
+      },
+      {
+       "position": 2,
+       "asin": "B0H4VVS6HN",
+       "title": "Soft Pink",
+       "link": "https://www.amazon.in/Apple-iPhone-17e-256-GB/dp/B0H4VVS6HN/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-12"
+      },
+      {
+       "position": 3,
+       "asin": "B0H4VM1XLD",
+       "title": "White",
+       "link": "https://www.amazon.in/Apple-iPhone-17e-256-GB/dp/B0H4VM1XLD/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-12"
+      }
+     ]
+    },
+    "brand": "Apple",
+    "title": "iPhone 17e 256 GB: 15.40 cm (6.1″) Super Retina XDR Display, A19 Chip, All-Day Battery Life, 48MP Fusion Camera, 256GB Starting Storage; Black",
+    "link": "https://www.amazon.in/Apple-iPhone-17e-256-GB/dp/B0GQVL6STN/ref=sr_1_12?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-12",
+    "link_clean": "https://www.amazon.in/Apple-iPhone-17e-256-GB/dp/B0GQVL6STN/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0GQVL6STN&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61ULimPWODL._AC_UY218_.jpg",
+    "rating": 4.4,
+    "reviews": 172,
+    "bought_last_month": "200+ bought in past month",
+    "price": "₹79,900",
+    "extracted_price": 79900,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹79,900",
+      "extracted_primary_price": 79900,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5
+     }
+    ]
+   },
+   {
+    "position": 13,
+    "asin": "B0GQVQY8B7",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0GQVQY8B7",
+       "title": "Soft Pink",
+       "link": "https://www.amazon.in/Apple-iPhone-17e-256-GB/dp/B0GQVQY8B7/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-13"
+      },
+      {
+       "position": 2,
+       "asin": "B0H4W16NKC",
+       "title": "Black",
+       "link": "https://www.amazon.in/Apple-iPhone-17e-256-GB/dp/B0H4W16NKC/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-13"
+      },
+      {
+       "position": 3,
+       "asin": "B0H4VM1XLD",
+       "title": "White",
+       "link": "https://www.amazon.in/Apple-iPhone-17e-256-GB/dp/B0H4VM1XLD/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-13"
+      }
+     ]
+    },
+    "brand": "Apple",
+    "title": "iPhone 17e 256 GB: 15.40 cm (6.1″) Super Retina XDR Display, A19 Chip, All-Day Battery Life, 48MP Fusion Camera, 256GB Starting Storage; Soft Pink",
+    "link": "https://www.amazon.in/Apple-iPhone-17e-256-GB/dp/B0GQVQY8B7/ref=sr_1_13?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-13",
+    "link_clean": "https://www.amazon.in/Apple-iPhone-17e-256-GB/dp/B0GQVQY8B7/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0GQVQY8B7&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61zVFiTawKL._AC_UY218_.jpg",
+    "rating": 4.4,
+    "reviews": 172,
+    "bought_last_month": "100+ bought in past month",
+    "price": "₹79,900",
+    "extracted_price": 79900,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹79,900",
+      "extracted_primary_price": 79900,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5
+     }
+    ]
+   },
+   {
+    "position": 14,
+    "asin": "B0DSKNQW8F",
+    "brand": "Samsung",
+    "title": "Galaxy S25 Ultra 5G AI Smartphone (Titanium Black, 12GB RAM, 256GB Storage), 200MP Camera, 5000mAh Ultra Long Battery, QHD+ Dynamic AMOLED 2X, Galaxy AI, Knox Security, S Pen Included",
+    "link": "https://www.amazon.in/Samsung-Smartphone-Titanium-Snapdragon-ProVisual/dp/B0DSKNQW8F/ref=sr_1_14?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-14",
+    "link_clean": "https://www.amazon.in/Samsung-Smartphone-Titanium-Snapdragon-ProVisual/dp/B0DSKNQW8F/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0DSKNQW8F&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71vxhQYsvKL._AC_UY218_.jpg",
+    "rating": 4.5,
+    "reviews": 2800,
+    "bought_last_month": "200+ bought in past month",
+    "price": "₹99,999",
+    "extracted_price": 99999,
+    "old_price": "₹1,29,999",
+    "extracted_old_price": 129999,
+    "offers": [
+     "Save extra with No Cost EMI"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹99,999",
+      "extracted_primary_price": 99999,
+      "old_primary_price": "₹1,29,999",
+      "extracted_old_primary_price": 129999
+     }
+    ]
+   },
+   {
+    "position": 15,
+    "asin": "B0GQVHNX7R",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0GQVHNX7R",
+       "title": "Soft Pink",
+       "link": "https://www.amazon.in/Apple-iPhone-17e-512-GB/dp/B0GQVHNX7R/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-15"
+      },
+      {
+       "position": 2,
+       "asin": "B0H4VVQHKW",
+       "title": "Black",
+       "link": "https://www.amazon.in/Apple-iPhone-17e-512-GB/dp/B0H4VVQHKW/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-15"
+      },
+      {
+       "position": 3,
+       "asin": "B0H4W2RPPF",
+       "title": "White",
+       "link": "https://www.amazon.in/Apple-iPhone-17e-512-GB/dp/B0H4W2RPPF/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-15"
+      }
+     ]
+    },
+    "brand": "Apple",
+    "title": "iPhone 17e 512 GB: 15.40 cm (6.1″) Super Retina XDR Display, A19 Chip, All-Day Battery Life, 48MP Fusion Camera, 256GB Starting Storage; Soft Pink",
+    "link": "https://www.amazon.in/Apple-iPhone-17e-512-GB/dp/B0GQVHNX7R/ref=sr_1_15?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-15",
+    "link_clean": "https://www.amazon.in/Apple-iPhone-17e-512-GB/dp/B0GQVHNX7R/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0GQVHNX7R&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61zVFiTawKL._AC_UY218_.jpg",
+    "rating": 4.4,
+    "reviews": 172,
+    "price": "₹1,04,900",
+    "extracted_price": 104900,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow, 8 Oct"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹1,04,900",
+      "extracted_primary_price": 104900,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5
+     }
+    ]
+   },
+   {
+    "position": 16,
+    "asin": "B0F5WTG8RG",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0F5WTG8RG",
+       "title": "Green Silk",
+       "link": "https://www.amazon.in/OnePlus-Snapdragon%C2%AE-Battery-Lifetime-Warranty/dp/B0F5WTG8RG/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-16"
+      },
+      {
+       "position": 2,
+       "asin": "B0F5WRTGCG",
+       "title": "Black Velvet",
+       "link": "https://www.amazon.in/OnePlus-Snapdragon%C2%AE-Battery-Lifetime-Warranty/dp/B0F5WRTGCG/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-16"
+      }
+     ]
+    },
+    "brand": "OnePlus",
+    "title": "13s | Snapdragon® 8 Elite | Smarter with OnePlus AI | Lifetime Display Warranty | 12GB+256GB | Green Silk",
+    "link": "https://www.amazon.in/OnePlus-Snapdragon%C2%AE-Battery-Lifetime-Warranty/dp/B0F5WTG8RG/ref=sr_1_16?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-16",
+    "link_clean": "https://www.amazon.in/OnePlus-Snapdragon%C2%AE-Battery-Lifetime-Warranty/dp/B0F5WTG8RG/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0F5WTG8RG&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61EUYqQSoTL._AC_UY218_.jpg",
+    "rating": 4.5,
+    "reviews": 1800,
+    "bought_last_month": "500+ bought in past month",
+    "price": "₹54,999",
+    "extracted_price": 54999,
+    "old_price": "₹57,999",
+    "extracted_old_price": 57999,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹54,999",
+      "extracted_primary_price": 54999,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5,
+      "old_primary_price": "₹57,999",
+      "extracted_old_primary_price": 57999
+     }
+    ]
+   },
+   {
+    "position": 17,
+    "asin": "B09794YHBS",
+    "brand": "Apple",
+    "title": "20W USB-C Power Adapter (for iPhone, iPad & AirPods)",
+    "link": "https://www.amazon.in/Apple-USB-C-Adapter-iPhone-AirPods/dp/B09794YHBS/ref=sr_1_17?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-17",
+    "link_clean": "https://www.amazon.in/Apple-USB-C-Adapter-iPhone-AirPods/dp/B09794YHBS/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B09794YHBS&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/41aAXonVlQL._AC_UY218_.jpg",
+    "rating": 4.5,
+    "reviews": 12000,
+    "bought_last_month": "6K+ bought in past month",
+    "price": "₹1,699",
+    "extracted_price": 1699,
+    "old_price": "₹1,900",
+    "extracted_old_price": 1900,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct",
+     "Or fastest delivery Tomorrow 8 am - 12 pm"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹1,699",
+      "extracted_primary_price": 1699,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5,
+      "old_primary_price": "₹1,900",
+      "extracted_old_primary_price": 1900
+     }
+    ]
+   },
+   {
+    "position": 18,
+    "asin": "B0DGHH7S34",
+    "options": "See options",
+    "options_link": "https://www.amazon.in/Apple-iPhone-Clear-Case-MagSafe/dp/B0DGHH7S34/ref=sr_1_18_so_CELLULAR_PHONE_CASE?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-18",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0DGHH7S34",
+       "title": "Clear",
+       "link": "https://www.amazon.in/Apple-iPhone-Clear-Case-MagSafe/dp/B0DGHH7S34/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-18"
+      },
+      {
+       "position": 2,
+       "asin": "B0DGHKP48R",
+       "title": "Black",
+       "link": "https://www.amazon.in/Apple-iPhone-Clear-Case-MagSafe/dp/B0DGHKP48R/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-18"
+      }
+     ]
+    },
+    "brand": "Apple",
+    "title": "iPhone 16 Pro Clear Case with MagSafe ​​​​​​​",
+    "link": "https://www.amazon.in/Apple-iPhone-Clear-Case-MagSafe/dp/B0DGHH7S34/ref=sr_1_18?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-18",
+    "link_clean": "https://www.amazon.in/Apple-iPhone-Clear-Case-MagSafe/dp/B0DGHH7S34/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0DGHH7S34&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71vZ5g0-+uL._AC_UY218_.jpg",
+    "rating": 4.3,
+    "reviews": 1500,
+    "no_featured_offers_available": true,
+    "more_buying_choices": "₹5,900 (2 new offers)",
+    "more_buying_choices_link": "https://www.amazon.in/gp/offer-listing/B0DGHH7S34/ref=sr_1_18_olp?keywords=Apple+iPhone+16+Pro+256GB&dib_tag=se&dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&qid=1791359627&sr=8-18",
+    "purchase_options": [
+     {
+      "no_featured_offers": true,
+      "more_buying_choices": "₹5,900 (2 new offers)",
+      "more_buying_choices_link": "https://www.amazon.in/gp/offer-listing/B0DGHH7S34/ref=sr_1_18_olp?keywords=Apple+iPhone+16+Pro+256GB&dib_tag=se&dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&qid=1791359627&sr=8-18"
+     }
+    ]
+   },
+   {
+    "position": 19,
+    "asin": "B0FDL3VZR8",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0FDL3VZR8",
+       "title": "Blue Shadow",
+       "link": "https://www.amazon.in/Samsung-Smartphone-Storage-Powerful-Snapdragon/dp/B0FDL3VZR8/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-19"
+      },
+      {
+       "position": 2,
+       "asin": "B0FH1MW3B3",
+       "title": "JetBlack",
+       "link": "https://www.amazon.in/Samsung-Smartphone-Storage-Powerful-Snapdragon/dp/B0FH1MW3B3/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-19"
+      },
+      {
+       "position": 3,
+       "asin": "B0FGDBVKSQ",
+       "title": "Silver Shadow",
+       "link": "https://www.amazon.in/Samsung-Smartphone-Storage-Powerful-Snapdragon/dp/B0FGDBVKSQ/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-19"
+      }
+     ]
+    },
+    "brand": "Samsung",
+    "title": "Galaxy Z Fold7 5G Mobile with Galaxy AI (Blue Shadow, 12GB RAM, 256GB Storage), Ultra Sleek Design with 200MP Camera, Ultra-Smooth Gaming with Powerful Snapdragon 8 Elite, Google Gemini",
+    "link": "https://www.amazon.in/Samsung-Smartphone-Storage-Powerful-Snapdragon/dp/B0FDL3VZR8/ref=sr_1_19_mod_primary_new?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-19",
+    "link_clean": "https://www.amazon.in/Samsung-Smartphone-Storage-Powerful-Snapdragon/dp/B0FDL3VZR8/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0FDL3VZR8&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/619Z1QHCy-L._AC_UY218_.jpg",
+    "rating": 4.5,
+    "reviews": 111,
+    "price": "₹1,73,490",
+    "extracted_price": 173490,
+    "old_price": "₹1,89,999",
+    "extracted_old_price": 189999,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card",
+     "Save extra with No Cost EMI"
+    ],
+    "delivery": [
+     "FREE delivery Sun, 11 Oct"
+    ],
+    "stock": "Only 1 left in stock.",
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹1,73,490",
+      "extracted_primary_price": 173490,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5,
+      "old_primary_price": "₹1,89,999",
+      "extracted_old_primary_price": 189999
+     },
+     {
+      "type": "Get it faster",
+      "free_with_subscription": true,
+      "primary_price": "₹1,74,999",
+      "extracted_primary_price": 174999,
+      "old_primary_price": "₹2,04,999",
+      "extracted_old_primary_price": 204999
+     }
+    ]
+   },
+   {
+    "position": 20,
+    "asin": "B0G6KWRZQD",
+    "variants": {
+     "options": [
+      {
+       "position": 1,
+       "asin": "B0G6KWRZQD",
+       "title": "Silver",
+       "link": "https://www.amazon.in/Apple-iPhone-Pro-512GB-AppleCare/dp/B0G6KWRZQD/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-20"
+      },
+      {
+       "position": 2,
+       "asin": "B0G6L1TR2R",
+       "title": "Cosmic Orange",
+       "link": "https://www.amazon.in/Apple-iPhone-Pro-512GB-AppleCare/dp/B0G6L1TR2R/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-20"
+      },
+      {
+       "position": 3,
+       "asin": "B0G6L77C2T",
+       "title": "Deep Blue",
+       "link": "https://www.amazon.in/Apple-iPhone-Pro-512GB-AppleCare/dp/B0G6L77C2T/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-20"
+      }
+     ]
+    },
+    "brand": "Apple",
+    "title": "iPhone 17 Pro (512GB) - Silver with Protect+ with AppleCare Services",
+    "link": "https://www.amazon.in/Apple-iPhone-Pro-512GB-AppleCare/dp/B0G6KWRZQD/ref=sr_1_20?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-20",
+    "link_clean": "https://www.amazon.in/Apple-iPhone-Pro-512GB-AppleCare/dp/B0G6KWRZQD/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0G6KWRZQD&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/41v0ucu0f1L._AC_UY218_.jpg",
+    "rating": 5.0,
+    "reviews": 1,
+    "price": "₹1,71,899",
+    "extracted_price": 171899,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "Delivery Sat, 10 Oct"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹1,71,899",
+      "extracted_primary_price": 171899,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5
+     }
+    ]
+   },
+   {
+    "position": 21,
+    "asin": "B07RZYNZKB",
+    "brand": "IDISKK",
+    "title": "256GB MFi USB3.0 Photo Stick &Memory Drive for iPhone/iPad/Android",
+    "link": "https://www.amazon.in/iDiskk-USB3-0-Memory-iPhone-Android/dp/B07RZYNZKB/ref=sr_1_21?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-21",
+    "link_clean": "https://www.amazon.in/iDiskk-USB3-0-Memory-iPhone-Android/dp/B07RZYNZKB/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B07RZYNZKB&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/61y5yYoqIPL._AC_UY218_.jpg",
+    "rating": 4.2,
+    "reviews": 3100,
+    "price": "₹8,299",
+    "extracted_price": 8299,
+    "old_price": "₹9,899",
+    "extracted_old_price": 9899,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Sun, 11 Oct",
+     "Or fastest delivery Sat, 10 Oct"
+    ],
+    "stock": "Only 2 left in stock.",
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹8,299",
+      "extracted_primary_price": 8299,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5,
+      "old_primary_price": "₹9,899",
+      "extracted_old_primary_price": 9899
+     }
+    ]
+   },
+   {
+    "position": 22,
+    "asin": "B0HLWB4H19",
+    "title": "Apple-Imagine iPhone 16 Pro (256GB) - Natural Titanium Free Combo with Case",
+    "link": "https://www.amazon.in/dp/B0HLWB4H19/ref=sr_1_22?dib=eyJ2IjoiMSJ9.-5c5MWC4oo5lto84SURnVi6Pc27h_d_KU33lZ2Lv2NjWHcrZE_BmgwV00hrsd3ODMDkLnkpIfnpGqQQwYS6nJ3vTUw7npL6O5ffr4UnGKH2e2lXdAUym_o18YDidFy_1PlyukbswUsXaIAv4FlpqrjxaiTEW4c8p4VOlqJBArHPRwQkY_z6lW7mdPnCjytlkVjoZa77TkvqEEUL_TOk-Zfz-2WLI9UREARb3-QYjnuc.LBLzcpcuBUfZJb5VRDX2NAZ8YSdQCKamAjdBJfNAkIU&dib_tag=se&keywords=Apple+iPhone+16+Pro+256GB&qid=1791359627&sr=8-22",
+    "link_clean": "https://www.amazon.in/dp/B0HLWB4H19/",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&asin=B0HLWB4H19&device=desktop&engine=amazon_product",
+    "thumbnail": "https://m.media-amazon.com/images/I/71kjIHpccwL._AC_UY218_.jpg",
+    "price": "₹1,20,807",
+    "extracted_price": 120807,
+    "offers": [
+     "Up to 5% back with Amazon Pay ICICI card"
+    ],
+    "delivery": [
+     "FREE delivery Fri, 9 Oct"
+    ],
+    "purchase_options": [
+     {
+      "free_with_subscription": true,
+      "primary_price": "₹1,20,807",
+      "extracted_primary_price": 120807,
+      "secondary_price": "Up to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI cardUp to 5% back with Amazon Pay ICICI card",
+      "extracted_secondary_price": 5
+     }
+    ]
+   }
+  ],
+  "sponsored_brands": {
+   "title": "Brands related to your search",
+   "brands": [
+    {
+     "position": 1,
+     "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/bff264f7-821d-48d9-a103-d30ee6fcfbbd._CR0,0,1200,628_SX920_CB1169409_QL70_.png",
+     "name": "HarperCollins Publishers",
+     "headline": "Graphic Novels By Amruta Patil",
+     "link": "https://sponsored-ads.amazon.in/clk/?_encoding=UTF8&p=eAFdUMtu00AUVVseJTwUZVGkrKJIZFGYZDy2Y7vIQmPHefSRBqdtwBvLsSexwbGnM-O0ZdE98AHs-AE2SHwEXwB_whqUFpDg6CyudO7RPfeUws33Pz58v1W5j5F0tOseHw-Vvd5JfU3a3pqRLDn3T_rwsbQsaLoPHa9fTHa2Ek91HE2PJy6Nw4LvvYpSUczdu0hpN1dUm9BbH1vTTewc9R13MK48LN2OCH8tclq5dzx0HfuwNxx4Tqf6dq20uVL8qZhV7gSL4E2eNZOs-ijmAWAkzBcLkkWBSPIMcMKWSUgAJwELYzAVs_pNkvmD4TZaFKlIwJQFWQRCRgKRLAn4fRGEAYs4oEGSCcJAmGeCZAKVDyzbl0fjfb_jjPeODkd1rbQGyx_fffr28-uNavmPexVEpjytP0AQShpSkaob0NDRxmDo7mzYI3v7sPK0Y2GbdgdAw5fW6TXm-NJ6zgo9LfC_uLTmV8TXQ7Vsz53z3u4yxIndYueKib6slz6vx0JQvtNqnZ2dNf8W0-IiZ4S3aDAnLbmLNYSwBGxNsoGCujrAyGkDGatOp6tZ0NHlZ1cGn5GZObZ8DJGiItVA3gSp3snYcb0JBhgqqi7JCHXGLwdG37AM7O42aOSzyKdpHDFTNGIe-CHzk8iUoIIU2FY0iBop9QOeZNzUJQ0hWZOg_MSQVQUhrS0ZK_m0IOzCxJSmpJaM4jwjNaldG7G8htR2z1qt8DQX5v91N3hE_SDy5ywvqIkgRIYiaZKKoKE3EjOgvBGsnpK7k5wc4BcX2S-mY97I&v=c1&r=https%3A%2F%2Fwww.amazon.in%2Fstores%2Fpage%2F3FA722A1-C71C-42F8-A2E6-3A5EDF7B0E83%3Fstore_ref%3DSB_A02452592ZW25ZVSERZWA-A04581322DSYI9H9B9ARJ%26pd_rd_plhdr%3Dt%26hsa_cr_id%3D10424064702%26lp_asins%3D8172237103%2C9354227619%26lp_query%3DApple%20iPhone%2016%20Pro%20256GB%26lp_slot%3Ddesktop-hsa-3psl%26sdp_ad_group%3D20029417152098%26i%3Daps%26aref%3D3FWoeMAXyn&ref_=sbx_be_s_3psl_mbd_mb0_bkgd&pd_rd_w=4HSS3&content-id=amzn1.sym.e3b1209d-74b7-4fc9-bd01-2d594919a892%3Aamzn1.sym.e3b1209d-74b7-4fc9-bd01-2d594919a892&pf_rd_p=e3b1209d-74b7-4fc9-bd01-2d594919a892&pf_rd_r=KM18S3F9KH9ZNBG07EHZ&pd_rd_wg=jDFkD&pd_rd_r=f4c2fd28-4e40-4408-adc7-beae4805db39",
+     "logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/45baad38-e2c0-4fad-beac-d44fbc97b0f2._CR0,0,1200,1200_AC_SX278_SY200_CB1169409_QL70_.jpg"
+    },
+    {
+     "position": 2,
+     "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/53badce6-aee5-4012-912d-a3f8956b730c._CR0,0,1200,628_SX920_CB1169409_QL70_.png",
+     "name": "Gabit",
+     "headline": "Titanium built, water resistant, 7 days+ battery",
+     "link": "https://sponsored-ads.amazon.in/clk/?_encoding=UTF8&p=eAFdUMtu00AUVVsBJYCIsihSVlEksihMMn7FTpGFxo-66cNxnKQV3VgTe5JYdezpjJ2kXXSLEB_AL7BgAxKCL-FP2KO0gARHZ3Gke47uvacUbr__-eHH_coTJArDQ380cuUj57S-IezuTEgar4LTA_hCWBQ0OYb2-UFxtrez6njO8hpcOcpqOPeyIy9xL_yp_0iU2801lSY83xwY421kDw9svzuoPCs9iAi_yDNaeTxyfdvsOW733Laq7zZK2-tJMM4nlYd4jq-ztBmn1eczjgEjYTafkzTCeZylgBO2iEMCOMEsnIFxPqnfI2nQdXfFeZHkMRgznEYgZATn8YKA3xtBiFnEAcVxmhMGwizNSZqL5RPDDCRvcBxY9uBo2PPqWmlDKH__-Pbb509WtfwnvT5EojypP5UghDJUVQ1CRZLa4lbX9fe2TM_c7VVeWQYy6X4XqOjGuLzDFN0YfVZoSYH-xY0xvSW6E9WyObVXzuEiRLHZYitZF79ulr5szvKc8r1Wa7lcNv820-J5xghvUTwlLUVVbQnZArBUCQJZ7XQAQm0BaAq0bGTakoE6r28DASMTfWAECGqqJGmq2HcUZHod5IvHPYBgW5ahqgkn3TeufCr5VqdvNmgUsCigySxiet6YcRyELIgjHTYSGmAep1w3oOUo-8LgRHm5ln1H2_ekO2kYw76xdl4WhF3piNKE1GJvlqWkJrRrHstqotJ2bi08yXL9_8IbPKIBjoIpywqqSxAKsN2RFQhVWZIbsY4pb-D1W3ZyOUrlhYaEX9mi4CE&v=c1&r=https%3A%2F%2Fwww.amazon.in%2Fstores%2Fpage%2F577E3AE1-D730-4799-AA61-850DEACE3BA9%3Fstore_ref%3DSB_A08733872QG5ACP9AR2LO-A06440781MIYN4V3RD9QC%26pd_rd_plhdr%3Dt%26hsa_cr_id%3D0%26lp_asins%3DB0DG5F1SM5%2CB0DGQG8FP3%2CB0DGQBBTQB%26lp_query%3DApple%20iPhone%2016%20Pro%20256GB%26lp_slot%3Ddesktop-hsa-3psl%26sdp_ad_group%3D300106945007434%26i%3Daps%26aref%3DElqUn4v8A1&ref_=sbx_be_s_3psl_mbd_mb1_bkgd&pd_rd_w=4HSS3&content-id=amzn1.sym.e3b1209d-74b7-4fc9-bd01-2d594919a892%3Aamzn1.sym.e3b1209d-74b7-4fc9-bd01-2d594919a892&pf_rd_p=e3b1209d-74b7-4fc9-bd01-2d594919a892&pf_rd_r=KM18S3F9KH9ZNBG07EHZ&pd_rd_wg=jDFkD&pd_rd_r=f4c2fd28-4e40-4408-adc7-beae4805db39",
+     "logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/910ed092-d6b7-4ef5-98c8-06d847187822._CR0,0,600,600_AC_SX278_SY200_CB1169409_QL70_.jpg"
+    },
+    {
+     "position": 3,
+     "image": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/70a8a4ee-b2cf-4be9-a9cc-654582281a72._CR0,65,1672,876_SX920_CB1169409_QL70_.png",
+     "name": "Xiaomi Phones",
+     "headline": "Xiaomi 17T | Leica 5x High-Definition Camera",
+     "link": "https://sponsored-ads.amazon.in/clk/?_encoding=UTF8&p=eAFdUMtu00AUVVsBJYCIsihSVlEksihMMh4_4hRZyHbcPJt30jQba2JPEoNjT2fGaemie8QH8BlISKzgMxA7_gL2KC0gwdFZHOmeo3vvSXn7736-_3Y388hE0qg5GI87Sqs2ye9IhwcLEgWX7qQOn0mbhIZt6MzqyenRQTegg_5ouunz5rQxXjJdbkDYHzxAilbcUi3C2e7Qmu-bzqjuDBrDzJPUPZ_w1yKmmYfjzsCxu7VOY-ZUs293UvvbiTsXi8x9vMZXcVQMouzTFceAES9er0nkYxHEEeCEbQKPAE4w81ZgLhb5OyRyG51DtE5CEYA5w5EPPEawCDYE_N4IPMx8DigOIkEY8OJIkEig9Illu3Jv2HarzrA16vbyemoHpX98_v71w5dqNv0nvT1EpjzMP0YQwrImIxmVNVWR0F6jMzjas3v2YTfzomqZNj1ugLJ5bZ3fYmleW32W6GFi_otra3lD81Zk0_bSuaw1N54Z2CV2qRjo027q4-5KCMqPSqWLi4vi32ZKXMSM8BLFS1JCummaumQBW4EOUCS5AqyK5QAHVSTzWJOgLldf3gRcRhbG0HJNqCkIIU1GkqqOJKc8rk7bwIRKWdO0ilxT1WanP9FPjttOgfou810arnxmiMKKY9djbuAbsBBSF_Mg4oYFa2dn-qzTk59v5el0cirZN3Kq1qtNbes8Twh7Y5iUhiQX9FZxRHKSluuxOIdUrWZtLTyMhfF_4QXuUxf77pLFCTVkCCVdVmEZIoRkpRAYmPIC3r519SpoXdXrQmr9AsUa4Oc&v=c1&r=https%3A%2F%2Fwww.amazon.in%2Fstores%2Fpage%2F28AAA81B-C40E-4139-B9BE-E291AF61083D%3Fstore_ref%3DSB_A064222632155T1E7UDXL-A04766693G55JNQV8MFLE%26pd_rd_plhdr%3Dt%26hsa_cr_id%3D0%26lp_asins%3DB0GYY8ZNP3%2CB0GYWXVW1C%2CB0GYX5HDJ6%26lp_query%3DApple%20iPhone%2016%20Pro%20256GB%26lp_slot%3Ddesktop-hsa-3psl%26sdp_ad_group%3D300183507022234%26i%3Daps%26aref%3DzjiKzHHt1K&ref_=sbx_be_s_3psl_mbd_mb2_bkgd&pd_rd_w=4HSS3&content-id=amzn1.sym.e3b1209d-74b7-4fc9-bd01-2d594919a892%3Aamzn1.sym.e3b1209d-74b7-4fc9-bd01-2d594919a892&pf_rd_p=e3b1209d-74b7-4fc9-bd01-2d594919a892&pf_rd_r=KM18S3F9KH9ZNBG07EHZ&pd_rd_wg=jDFkD&pd_rd_r=f4c2fd28-4e40-4408-adc7-beae4805db39",
+     "logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/ca1f84c9-c64f-455c-97ed-eadf4b1e3a0d._CR0,0,4513,4513_AC_SX278_SY200_CB1169409_QL70_.png"
+    }
+   ]
+  },
+  "categories": [
+   {
+    "position": 1,
+    "name": "Mobiles",
+    "link": "https://www.amazon.in/mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles",
+    "node": "1389401031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=1389401031"
+   },
+   {
+    "position": 2,
+    "name": "Electronics",
+    "link": "https://www.amazon.in/electronics/b/?ie=UTF8&node=976419031&ref_=nav_cs_electronics",
+    "node": "976419031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=976419031"
+   },
+   {
+    "position": 3,
+    "name": "Computers",
+    "link": "https://www.amazon.in/computers-and-accessories/b/?ie=UTF8&node=976392031&ref_=nav_cs_pc",
+    "node": "976392031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=976392031"
+   },
+   {
+    "position": 4,
+    "name": "Video Games",
+    "link": "https://www.amazon.in/video-games/b/?ie=UTF8&node=976460031&ref_=nav_cs_video_games",
+    "node": "976460031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=976460031"
+   },
+   {
+    "position": 5,
+    "name": "Home & Kitchen",
+    "link": "https://www.amazon.in/Home-Kitchen/b/?ie=UTF8&node=976442031&ref_=nav_cs_home",
+    "node": "976442031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=976442031"
+   },
+   {
+    "position": 6,
+    "name": "Grocery & Gourmet Foods",
+    "link": "https://www.amazon.in/Gourmet-Specialty-Foods/b/?ie=UTF8&node=2454178031&ref_=nav_cs_grocery",
+    "node": "2454178031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=2454178031"
+   },
+   {
+    "position": 7,
+    "name": "Baby",
+    "link": "https://www.amazon.in/Baby/b/?ie=UTF8&node=1571274031&ref_=nav_cs_baby",
+    "node": "1571274031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=1571274031"
+   },
+   {
+    "position": 8,
+    "name": "Books",
+    "link": "https://www.amazon.in/Books/b/?ie=UTF8&node=976389031&ref_=nav_cs_books",
+    "node": "976389031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=976389031"
+   },
+   {
+    "position": 9,
+    "name": "Kindle eBooks",
+    "link": "https://www.amazon.in/Kindle-eBooks/b/?ie=UTF8&node=1634753031&ref_=nav_cs_kindle_books",
+    "node": "1634753031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=1634753031"
+   },
+   {
+    "position": 10,
+    "name": "Sports, Fitness & Outdoors",
+    "link": "https://www.amazon.in/Sports/b/?ie=UTF8&node=1984443031&ref_=nav_cs_sports",
+    "node": "1984443031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=1984443031"
+   },
+   {
+    "position": 11,
+    "name": "Toys & Games",
+    "link": "https://www.amazon.in/Toys-Games/b/?ie=UTF8&node=1350380031&ref_=nav_cs_toys",
+    "node": "1350380031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=1350380031"
+   },
+   {
+    "position": 12,
+    "name": "Car & Motorbike",
+    "link": "https://www.amazon.in/Car-Motorbike-Store/b/?ie=UTF8&node=4772060031&ref_=nav_cs_automotive",
+    "node": "4772060031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=4772060031"
+   },
+   {
+    "position": 13,
+    "name": "Pet Supplies",
+    "link": "https://www.amazon.in/Pet-Supplies/b/?ie=UTF8&node=2454181031&ref_=nav_cs_pets",
+    "node": "2454181031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=2454181031"
+   },
+   {
+    "position": 14,
+    "name": "Custom Products",
+    "link": "https://www.amazon.in/Amazon-Custom/b/?ie=UTF8&node=32615889031&ref_=nav_cs_custom",
+    "node": "32615889031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=32615889031"
+   },
+   {
+    "position": 15,
+    "name": "Beauty & Personal Care",
+    "link": "https://www.amazon.in/beauty/b/?ie=UTF8&node=1355016031&ref_=nav_cs_beauty",
+    "node": "1355016031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=1355016031"
+   },
+   {
+    "position": 16,
+    "name": "Gift Cards",
+    "link": "https://www.amazon.in/gift-card-store/b/?ie=UTF8&node=3704982031&ref_=nav_cs_gc",
+    "node": "3704982031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=3704982031"
+   },
+   {
+    "position": 17,
+    "name": "Home Improvement",
+    "link": "https://www.amazon.in/Home-Improvement/b/?ie=UTF8&node=4286640031&ref_=nav_cs_hi",
+    "node": "4286640031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=4286640031"
+   },
+   {
+    "position": 18,
+    "name": "AmazonBasics",
+    "link": "https://www.amazon.in/b/?node=6637738031&ref_=nav_cs_amazonbasics",
+    "node": "6637738031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=6637738031"
+   },
+   {
+    "position": 19,
+    "name": "Audible",
+    "link": "https://www.amazon.in/Audible-Books-and-Originals/b/?ie=UTF8&node=17941593031&ref_=nav_cs_audible",
+    "node": "17941593031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=17941593031"
+   },
+   {
+    "position": 20,
+    "name": "Health, Household & Personal Care",
+    "link": "https://www.amazon.in/health-and-personal-care/b/?ie=UTF8&node=1350384031&ref_=nav_cs_hpc",
+    "node": "1350384031",
+    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&node=1350384031"
+   }
+  ],
+  "filters": {
+   "popular_shopping_ideas": [
+    {
+     "position": 1,
+     "name": "512gb",
+     "link": "https://www.amazon.in/s?k=apple+iphone+16+pro+512gb&ref=sr_nr_p_rag_integrated_qb_0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=apple+iphone+16+pro+512gb"
+    },
+    {
+     "position": 2,
+     "name": "Pro Max",
+     "link": "https://www.amazon.in/s?k=apple+iphone+16+pro+max+256gb&ref=sr_nr_p_rag_integrated_qb_1",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=apple+iphone+16+pro+max+256gb"
+    },
+    {
+     "position": 3,
+     "name": "Case",
+     "link": "https://www.amazon.in/s?k=apple+iphone+16+pro+256gb+case&ref=sr_nr_p_rag_integrated_qb_2",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=apple+iphone+16+pro+256gb+case"
+    },
+    {
+     "position": 4,
+     "name": "Power Bank",
+     "link": "https://www.amazon.in/s?k=apple+iphone+power+bank+wireless&ref=sr_nr_p_rag_integrated_qb_3",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=apple+iphone+power+bank+wireless"
+    },
+    {
+     "position": 5,
+     "name": "Charger",
+     "link": "https://www.amazon.in/s?k=apple+iphone+16+charger+original&ref=sr_nr_p_rag_integrated_qb_4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=apple+iphone+16+charger+original"
+    },
+    {
+     "position": 6,
+     "name": "Spigen",
+     "link": "https://www.amazon.in/s?k=apple+iphone+16+pro+spigen+case&ref=sr_nr_p_rag_integrated_qb_5",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=apple+iphone+16+pro+spigen+case"
+    }
+   ],
+   "delivery_day": [
+    {
+     "position": 1,
+     "name": "Get It Today",
+     "rh": "p_90:6741117031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_90%3A6741117031&dc&qid=1791359627&rnid=6741116031&ref=sr_nr_p_90_1&ds=v1%3A1n5Uwhxkg%2BnDlTlycV7hT3Q8lby62WoIPiMS7PMPTos",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_90%3A6741117031"
+    },
+    {
+     "position": 2,
+     "name": "Get It by Tomorrow",
+     "rh": "p_90:6741118031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_90%3A6741118031&dc&qid=1791359627&rnid=6741116031&ref=sr_nr_p_90_2&ds=v1%3AjSnIVWPt2kCcQp1jD%2BdkJ5WLE4%2BK0j5qcKBhvosL5Q4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_90%3A6741118031"
+    },
+    {
+     "position": 3,
+     "name": "Get It in 2 Days",
+     "rh": "p_90:20912642031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_90%3A20912642031&dc&qid=1791359627&rnid=6741116031&ref=sr_nr_p_90_3&ds=v1%3Aqfz62pRd6CmnfMV4fW%2B8%2BKK3aEfhapr95DE5pQt2%2BvI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_90%3A20912642031"
+    },
+    {
+     "position": 4,
+     "name": "Free Shipping",
+     "description": "Get FREE Shipping on eligible orders shipped by Amazon",
+     "rh": "p_n_free_shipping_eligible:205563695031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_free_shipping_eligible%3A205563695031&dc&qid=1791359627&rnid=205563694031&ref=sr_nr_p_n_free_shipping_eligible_1&ds=v1%3A5KY15dd%2BtfRqe5XYjorXGChtcqvIfWL1CG5RJ3%2BhScM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_free_shipping_eligible%3A205563695031"
+    }
+   ],
+   "eligible_for_free_delivery": [
+    {
+     "position": 1,
+     "name": "Free Shipping",
+     "description": "Get FREE Shipping on eligible orders shipped by Amazon",
+     "rh": "p_n_free_shipping_eligible:205563695031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_free_shipping_eligible%3A205563695031&dc&qid=1791359627&rnid=205563694031&ref=sr_nr_p_n_free_shipping_eligible_1&ds=v1%3A5KY15dd%2BtfRqe5XYjorXGChtcqvIfWL1CG5RJ3%2BhScM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_free_shipping_eligible%3A205563695031"
+    }
+   ],
+   "brands": [
+    {
+     "position": 1,
+     "name": "Apple",
+     "rh": "p_123:110955",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_123%3A110955&dc&qid=1791359627&rnid=91049095031&ref=sr_nr_p_123_1&ds=v1%3A2UlnqB7nlXa%2Fgty7MEYdVSALO3x0FwOEg8lr9Kz3pJU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_123%3A110955"
+    },
+    {
+     "position": 2,
+     "name": "OnePlus",
+     "rh": "p_123:253649",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_123%3A253649&dc&qid=1791359627&rnid=91049095031&ref=sr_nr_p_123_2&ds=v1%3AFxoeq9ahWtGamvnEVnk2USQOmNLj3GwNCZcOecLteXI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_123%3A253649"
+    }
+   ],
+   "storage_capacity": [
+    {
+     "position": 1,
+     "name": "128 GB",
+     "rh": "p_n_g-1003492455111:81332994031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003492455111%3A81332994031&dc&qid=1791359627&rnid=44349045031&ref=sr_nr_p_n_g-1003492455111_1&ds=v1%3AEgt%2FMIHOkCIDS92%2FC0q7sp18BhlXCfLBD6FD04UPx5U",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003492455111%3A81332994031"
+    },
+    {
+     "position": 2,
+     "name": "256 GB",
+     "rh": "p_n_g-1003492455111:81332996031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003492455111%3A81332996031&dc&qid=1791359627&rnid=44349045031&ref=sr_nr_p_n_g-1003492455111_2&ds=v1%3A%2FyLZcH8xWmmvnrRQJms4gSkQfOYw8mz%2FslXUl1wFMLw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003492455111%3A81332996031"
+    },
+    {
+     "position": 3,
+     "name": "512 GB & above",
+     "rh": "p_n_g-1003492455111:92070749031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003492455111%3A92070749031&dc&qid=1791359627&rnid=44349045031&ref=sr_nr_p_n_g-1003492455111_3&ds=v1%3AIwRGZt2EDi8VoipZkPF55IJL1Rm72kHtme0nnJ00Sbs",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003492455111%3A92070749031"
+    }
+   ],
+   "item_condition": [
+    {
+     "position": 1,
+     "name": "New",
+     "rh": "p_n_condition-type:8609960031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_condition-type%3A8609960031&dc&qid=1791359627&rnid=8609959031&ref=sr_nr_p_n_condition-type_1&ds=v1%3AZAaPCvpc5MzWzeOlAXeSwJhFe5VjnhijiTx9v%2FA02lc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_condition-type%3A8609960031"
+    }
+   ],
+   "customer_reviews": [
+    {
+     "position": 1,
+     "name": "& Up",
+     "rh": "p_72:1318476031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_72%3A1318476031&dc&qid=1791359627&rnid=1318475031&ref=sr_nr_p_72_1&ds=v1%3AfXyTNjfrkyGlwlo8WIsQ9dZn9%2BxuKhagpPzSzFa4ouY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_72%3A1318476031"
+    }
+   ],
+   "discount": [
+    {
+     "position": 1,
+     "name": "10% Off or more",
+     "rh": "p_n_pct-off-with-tax:2665399031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_pct-off-with-tax%3A2665399031&dc&qid=1791359627&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_1&ds=v1%3ASTQHeuZ3QJPreNOentCZQq%2BTNCQD4wChRX2lNjsfKQQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_pct-off-with-tax%3A2665399031"
+    },
+    {
+     "position": 2,
+     "name": "25% Off or more",
+     "rh": "p_n_pct-off-with-tax:2665400031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_pct-off-with-tax%3A2665400031&dc&qid=1791359627&rnid=2665398031&ref=sr_nr_p_n_pct-off-with-tax_2&ds=v1%3ArM8ubnkE5FjUIbnu2v03lzt4yF45WG1DC0w8YW%2BWRgU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_pct-off-with-tax%3A2665400031"
+    },
+    {
+     "position": 3,
+     "name": "35% Off or more",
+     "rh": "p_n_pct-off-with-tax:2665402031"
+    },
+    {
+     "position": 4,
+     "name": "50% Off or more",
+     "rh": "p_n_pct-off-with-tax:2665401031"
+    },
+    {
+     "position": 5,
+     "name": "60% Off or more",
+     "rh": "p_n_pct-off-with-tax:27060456031"
+    },
+    {
+     "position": 6,
+     "name": "70% Off or more",
+     "rh": "p_n_pct-off-with-tax:27060457031"
+    }
+   ],
+   "cellular_technology": [
+    {
+     "position": 1,
+     "name": "5G",
+     "rh": "p_n_g-1003469290111:33962382031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003469290111%3A33962382031&dc&qid=1791359627&rnid=33962288031&ref=sr_nr_p_n_g-1003469290111_1&ds=v1%3A1CI7knsWE5TErrIPSGG4aikiInAeIggfUz%2BuC2MVk6w",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003469290111%3A33962382031"
+    }
+   ],
+   "price": [
+    {
+     "position": 1,
+     "name": "All Discounts",
+     "rh": "p_n_deal_type:26921226031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_deal_type%3A26921226031&dc&qid=1791359627&rnid=26921223031&ref=sr_nr_p_n_deal_type_1&ds=v1%3AcXWBiJ1YE3mYdc5jb31fDBvmVX3yMUahujYy82jDVdo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_deal_type%3A26921226031"
+    },
+    {
+     "position": 2,
+     "name": "Buy More, Save More",
+     "rh": "p_n_deal_type:210770213031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_deal_type%3A210770213031&dc&qid=1791359627&rnid=26921223031&ref=sr_nr_p_n_deal_type_2&ds=v1%3AJ2ZTqFaPQJXpUphr9cbi4cvzYtUc8sG1IAT8zzQvDJM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_deal_type%3A210770213031"
+    },
+    {
+     "position": 3,
+     "name": "Coupons",
+     "rh": "p_n_deal_type:210770212031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_deal_type%3A210770212031&dc&qid=1791359627&rnid=26921223031&ref=sr_nr_p_n_deal_type_3&ds=v1%3ASFuo0PaMoOTOLoZ5bJ19p2oJ9A%2FefWtGGrPT%2BOsXaqg",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_deal_type%3A210770212031"
+    },
+    {
+     "position": 4,
+     "name": "Today's Deals",
+     "rh": "p_n_deal_type:26921224031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_deal_type%3A26921224031&dc&qid=1791359627&rnid=26921223031&ref=sr_nr_p_n_deal_type_4&ds=v1%3AgpsD3HWsiqOas1Ix97H%2Fv0eVt8ubpDzlWcMxlwML8OA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_deal_type%3A26921224031"
+    }
+   ],
+   "availability": [
+    {
+     "position": 1,
+     "name": "Include Out of Stock",
+     "rh": "p_n_availability:1318485031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_availability%3A1318485031&dc&qid=1791359627&rnid=1318483031&ref=sr_nr_p_n_availability_2&ds=v1%3A7H4vP4pRdbVk83%2F4Ttu2MnA3u26hm5cN6FQMos7TVP0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_availability%3A1318485031"
+    }
+   ],
+   "ram_size": [
+    {
+     "position": 1,
+     "name": "Up to 1.9 GB",
+     "rh": "p_n_g-1003495121111:44897294031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003495121111%3A44897294031&dc&qid=1791359627&rnid=44897277031&ref=sr_nr_p_n_g-1003495121111_1&ds=v1%3ALBshUk7i8ghqDH8fq%2FOpEjdIW8mzMGAkdMRr6gISVG4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003495121111%3A44897294031"
+    },
+    {
+     "position": 2,
+     "name": "8 to 9.9 GB",
+     "rh": "p_n_g-1003495121111:44897288031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003495121111%3A44897288031&dc&qid=1791359627&rnid=44897277031&ref=sr_nr_p_n_g-1003495121111_2&ds=v1%3Au0n%2Fle5I7eB%2BjuCE79qJ2%2BJaez41JADv0lfaTM9pOKc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003495121111%3A44897288031"
+    },
+    {
+     "position": 3,
+     "name": "10 GB & Above",
+     "rh": "p_n_g-1003495121111:44897292031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003495121111%3A44897292031&dc&qid=1791359627&rnid=44897277031&ref=sr_nr_p_n_g-1003495121111_3&ds=v1%3A879iQUy4xkK2TJxDatpMXP6wP6QUu8y8Es35sKlzwnY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003495121111%3A44897292031"
+    }
+   ],
+   "battery_capacity": [
+    {
+     "position": 1,
+     "name": "Up to 2,999 mAh",
+     "rh": "p_n_g-101015098008111:91805328031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015098008111%3A91805328031&dc&qid=1791359627&rnid=91805324031&ref=sr_nr_p_n_g-101015098008111_1&ds=v1%3AVzGYX%2BwYC3lpd4W2RWxOx86YVLee7GSMQQr%2FebKm%2FVg",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015098008111%3A91805328031"
+    },
+    {
+     "position": 2,
+     "name": "4,000 to 4,999 mAh",
+     "rh": "p_n_g-101015098008111:91805325031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015098008111%3A91805325031&dc&qid=1791359627&rnid=91805324031&ref=sr_nr_p_n_g-101015098008111_2&ds=v1%3AnNEy0L7slUWndgHdz9nxgxTweA7egImWSrE0NRdO3PM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015098008111%3A91805325031"
+    },
+    {
+     "position": 3,
+     "name": "5,000 to 5,999 mAh",
+     "rh": "p_n_g-101015098008111:91805326031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015098008111%3A91805326031&dc&qid=1791359627&rnid=91805324031&ref=sr_nr_p_n_g-101015098008111_3&ds=v1%3AszYRvZ1S%2FQzIdTkkuJwyhuE92QhXiF1sNGgAPZSQT2c",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015098008111%3A91805326031"
+    },
+    {
+     "position": 4,
+     "name": "6,000 mAh & Above",
+     "rh": "p_n_g-101015098008111:92071917031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015098008111%3A92071917031&dc&qid=1791359627&rnid=91805324031&ref=sr_nr_p_n_g-101015098008111_4&ds=v1%3A7HC75efrfPS8yO4xULlznwBxrvTVx6SIptDShHeBv%2Fk",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015098008111%3A92071917031"
+    }
+   ],
+   "screen_size": [
+    {
+     "position": 1,
+     "name": "15 to 17.9 cm",
+     "rh": "p_n_feature_browse-bin:212266964031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_browse-bin%3A212266964031&dc&qid=1791359627&rnid=212266959031&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3A%2FNhVq2HehfNsD4GADN7sZ%2BG33wcpeKgZXV5IC%2F%2FWurs",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_browse-bin%3A212266964031"
+    },
+    {
+     "position": 2,
+     "name": "18 cm & above",
+     "rh": "p_n_feature_browse-bin:212266967031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_browse-bin%3A212266967031&dc&qid=1791359627&rnid=212266959031&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3AahaTZvLyEw3%2FMJ5rZj5rDmJqOrMKADeXT6C0tsTJ7Ck",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_browse-bin%3A212266967031"
+    }
+   ],
+   "colour": [
+    {
+     "position": 1,
+     "name": "Black",
+     "image": "https://m.media-amazon.com/images/G/31/nav2/images/gui/standardcolorsprite._CB484712618_.png",
+     "rh": "p_n_size_two_browse-vebin:15563995031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15563995031&dc&qid=1791359627&rnid=15563994031&ref=sr_nr_p_n_size_two_browse-vebin_1&ds=v1%3AmaNMymtyQkOdD0bLRUb2V4pvwxtfPhnOvPvNL469ZAY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15563995031"
+    },
+    {
+     "position": 2,
+     "name": "White",
+     "image": "https://m.media-amazon.com/images/G/31/nav2/images/gui/standardcolorsprite._CB484712618_.png",
+     "rh": "p_n_size_two_browse-vebin:15563997031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15563997031&dc&qid=1791359627&rnid=15563994031&ref=sr_nr_p_n_size_two_browse-vebin_2&ds=v1%3AbhqaxhLqajLSvHWR1mLBtbjgrKTL3cJOMjPpb2dAIJ8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15563997031"
+    },
+    {
+     "position": 3,
+     "name": "Orange",
+     "image": "https://m.media-amazon.com/images/G/31/nav2/images/gui/standardcolorsprite._CB484712618_.png",
+     "rh": "p_n_size_two_browse-vebin:15564002031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564002031&dc&qid=1791359627&rnid=15563994031&ref=sr_nr_p_n_size_two_browse-vebin_3&ds=v1%3AN3GfG4stwSRKXx7izKplshVN2hx58%2BtYiG%2BAbh7VgH8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564002031"
+    },
+    {
+     "position": 4,
+     "name": "Silver",
+     "image": "https://m.media-amazon.com/images/G/31/nav2/images/gui/standardcolorsprite._CB484712618_.png",
+     "rh": "p_n_size_two_browse-vebin:15564010031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564010031&dc&qid=1791359627&rnid=15563994031&ref=sr_nr_p_n_size_two_browse-vebin_4&ds=v1%3AqVXeWMl5y%2BIrwPGBkJOGefWv%2BO5oMMP2PpEWKNsPkyY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564010031"
+    },
+    {
+     "position": 5,
+     "name": "Grey",
+     "image": "https://m.media-amazon.com/images/G/31/nav2/images/gui/standardcolorsprite._CB484712618_.png",
+     "rh": "p_n_size_two_browse-vebin:15563996031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15563996031&dc&qid=1791359627&rnid=15563994031&ref=sr_nr_p_n_size_two_browse-vebin_5&ds=v1%3AYm5xKyns%2B04W1nRFNrwOikojcrbbdBrgT%2F998Oc6UcQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15563996031"
+    },
+    {
+     "position": 6,
+     "name": "Pink",
+     "image": "https://m.media-amazon.com/images/G/31/nav2/images/gui/standardcolorsprite._CB484712618_.png",
+     "rh": "p_n_size_two_browse-vebin:15564001031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564001031&dc&qid=1791359627&rnid=15563994031&ref=sr_nr_p_n_size_two_browse-vebin_6&ds=v1%3A%2BwhsXQ7fPAWH7NUPI68uApMTOfIUvnGX%2BkbndvZhK7Q",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564001031"
+    },
+    {
+     "position": 7,
+     "name": "Green",
+     "image": "https://m.media-amazon.com/images/G/31/nav2/images/gui/standardcolorsprite._CB484712618_.png",
+     "rh": "p_n_size_two_browse-vebin:15564005031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564005031&dc&qid=1791359627&rnid=15563994031&ref=sr_nr_p_n_size_two_browse-vebin_7&ds=v1%3AfsRq%2FhD8F30y2cz%2FvQ%2BgD6IxvXd9fiphVmxV6geVBec",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564005031"
+    },
+    {
+     "position": 8,
+     "name": "Blue",
+     "image": "https://m.media-amazon.com/images/G/31/nav2/images/gui/standardcolorsprite._CB484712618_.png",
+     "rh": "p_n_size_two_browse-vebin:15564007031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564007031&dc&qid=1791359627&rnid=15563994031&ref=sr_nr_p_n_size_two_browse-vebin_8&ds=v1%3ACiFbK0Fbm8924t1PB4%2FwYVs2GJNIVXSjuEvRx949QKs",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564007031"
+    },
+    {
+     "position": 9,
+     "name": "Purple",
+     "image": "https://m.media-amazon.com/images/G/31/nav2/images/gui/standardcolorsprite._CB484712618_.png",
+     "rh": "p_n_size_two_browse-vebin:15564008031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564008031&dc&qid=1791359627&rnid=15563994031&ref=sr_nr_p_n_size_two_browse-vebin_9&ds=v1%3A11AK6Duf%2BrAEMCApGVcbiAZIWgV1UXk4MC3%2B0SCGUtk",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_size_two_browse-vebin%3A15564008031"
+    }
+   ],
+   "sim_card_slot_count": [
+    {
+     "position": 1,
+     "name": "Dual SIM",
+     "rh": "p_n_g-1002989427111:27179459031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002989427111%3A27179459031&dc&qid=1791359627&rnid=27179439031&ref=sr_nr_p_n_g-1002989427111_1&ds=v1%3AK7w%2BSAgfXOVuoUB2Djaf5DGYDoOEPstDMRtHIVtz9b0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002989427111%3A27179459031"
+    },
+    {
+     "position": 2,
+     "name": "E Sim",
+     "rh": "p_n_g-1002989427111:207962372031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002989427111%3A207962372031&dc&qid=1791359627&rnid=27179439031&ref=sr_nr_p_n_g-1002989427111_2&ds=v1%3AEakCzOob9y0bZxf8zjZeZEiO5gr3WEYFQiRoxX6e5iM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002989427111%3A207962372031"
+    }
+   ],
+   "pay_on_delivery": [
+    {
+     "position": 1,
+     "name": "Eligible for Pay On Delivery",
+     "rh": "p_n_is_cod_eligible:4931671031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_is_cod_eligible%3A4931671031&dc&qid=1791359627&rnid=4931670031&ref=sr_nr_p_n_is_cod_eligible_1&ds=v1%3Ak6iK72dJZ5zCheRNNnfATbbs05k9Wdc8kOOJ9nLDp0I",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_is_cod_eligible%3A4931671031"
+    }
+   ],
+   "mobile_phone_primary_camera_resolution": [
+    {
+     "position": 1,
+     "name": "Up to 3.9 MP",
+     "rh": "p_n_feature_fourteen_browse-bin:21329551031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_fourteen_browse-bin%3A21329551031&dc&qid=1791359627&rnid=21345983031&ref=sr_nr_p_n_feature_fourteen_browse-bin_1&ds=v1%3AfYCcjTqqhSUfV%2B3UZfObUIm8INIoFHSXqb393dX4sJE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_fourteen_browse-bin%3A21329551031"
+    },
+    {
+     "position": 2,
+     "name": "32 MP & Above",
+     "rh": "p_n_feature_fourteen_browse-bin:21329559031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_fourteen_browse-bin%3A21329559031&dc&qid=1791359627&rnid=21345983031&ref=sr_nr_p_n_feature_fourteen_browse-bin_2&ds=v1%3AqzFkF8q6lEZHnobBoJ10TMUpR0YggbPqVywseo7MvkQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_fourteen_browse-bin%3A21329559031"
+    }
+   ],
+   "camera_resolution": [
+    {
+     "position": 1,
+     "name": "Up to 2.9 MP",
+     "rh": "p_n_g-1004151207091:1898703031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1004151207091%3A1898703031&dc&qid=1791359627&rnid=1898694031&ref=sr_nr_p_n_g-1004151207091_1&ds=v1%3ATr%2FN1JOYaZ4z0FDfYvY3RmyV%2FN58KR%2F7DQ84ZRl2yhI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1004151207091%3A1898703031"
+    },
+    {
+     "position": 2,
+     "name": "20 MP & above",
+     "rh": "p_n_g-1004151207091:1898707031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1004151207091%3A1898707031&dc&qid=1791359627&rnid=1898694031&ref=sr_nr_p_n_g-1004151207091_2&ds=v1%3APFkADrkIQ0xJOLnciq6U93yoDrckSLO2eI8z8e8rFqQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1004151207091%3A1898707031"
+    }
+   ],
+   "connector_type": [
+    {
+     "position": 1,
+     "name": "USB Type C",
+     "rh": "p_n_g-1002085485111:27403491031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002085485111%3A27403491031&dc&qid=1791359627&rnid=27403487031&ref=sr_nr_p_n_g-1002085485111_1&ds=v1%3ASrvgK0GrZkoHHsGWifGaiDE%2FvS%2FlbqQEmUOVGTBJjlo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002085485111%3A27403491031"
+    }
+   ],
+   "display_type": [
+    {
+     "position": 1,
+     "name": "AMOLED",
+     "rh": "p_n_g-101013595158111:66009619031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013595158111%3A66009619031&dc&qid=1791359627&rnid=66009617031&ref=sr_nr_p_n_g-101013595158111_1&ds=v1%3AQqw8wm2SUY3od%2BWfBYqFfND6cFIseDhqsxXMb9BLlkI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013595158111%3A66009619031"
+    },
+    {
+     "position": 2,
+     "name": "OLED",
+     "rh": "p_n_g-101013595158111:66009620031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013595158111%3A66009620031&dc&qid=1791359627&rnid=66009617031&ref=sr_nr_p_n_g-101013595158111_2&ds=v1%3AQ3hEgO0CUnzMl9xe%2F3wFOMsW%2F6LZbIq5sjuf2uhPZw0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013595158111%3A66009620031"
+    }
+   ],
+   "seller": [
+    {
+     "position": 1,
+     "name": "Clicktech Retail Private Ltd",
+     "rh": "p_6:AJ6SIZC8YQDZX",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AAJ6SIZC8YQDZX&dc&qid=1791359627&rnid=1318474031&ref=sr_nr_p_6_1&ds=v1%3Adqjt729ziwTeijOvLXbm1aOanl7dF2xb%2BeFtAWpfhVU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AAJ6SIZC8YQDZX"
+    },
+    {
+     "position": 2,
+     "name": "Imagine Store Tresor",
+     "rh": "p_6:ATY36TLA2H8R6",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AATY36TLA2H8R6&dc&qid=1791359627&rnid=1318474031&ref=sr_nr_p_6_2&ds=v1%3A43rR0TYNKt0eHmL2VR9UTCZgLkBSbxhFaUnvbm3KptY",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AATY36TLA2H8R6"
+    },
+    {
+     "position": 3,
+     "name": "Clicktech Business",
+     "rh": "p_6:A34RBS7MAVZ4G4",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AA34RBS7MAVZ4G4&dc&qid=1791359627&rnid=1318474031&ref=sr_nr_p_6_3&ds=v1%3A5IWePRtP%2B4WtbAgUHTTrw8I%2F6zBdhws9%2F%2FuBd2XNz7o",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AA34RBS7MAVZ4G4"
+    },
+    {
+     "position": 4,
+     "name": "Dawntech Etel!",
+     "rh": "p_6:AQUYM0O99MFUT",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AAQUYM0O99MFUT&dc&qid=1791359627&rnid=1318474031&ref=sr_nr_p_6_4&ds=v1%3AFzqGw4%2BA46jx1vzIYBgWTTVW8ErmoB1tz9Cx5pBThh0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AAQUYM0O99MFUT"
+    },
+    {
+     "position": 5,
+     "name": "Sarco-Mobicell",
+     "rh": "p_6:A1XSW4FPV4UVTY",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AA1XSW4FPV4UVTY&dc&qid=1791359627&rnid=1318474031&ref=sr_nr_p_6_5&ds=v1%3Azkdq%2BQhg5qCIRhX4e%2F1%2B4jxaDppN%2Ft23ao5XApkdtJ0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AA1XSW4FPV4UVTY"
+    },
+    {
+     "position": 6,
+     "name": "Dawntech Electronics!",
+     "rh": "p_6:A23AODI1X2CEAE",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AA23AODI1X2CEAE&dc&qid=1791359627&rnid=1318474031&ref=sr_nr_p_6_6&ds=v1%3AuhoYKO2SNXJvVRyYNMj7iivvZTmqX3KGBEN9Ttfoy6A",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AA23AODI1X2CEAE"
+    },
+    {
+     "position": 7,
+     "name": "Dawntech Mobiles!",
+     "rh": "p_6:A1K6XQ7KUWCZYH",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AA1K6XQ7KUWCZYH&dc&qid=1791359627&rnid=1318474031&ref=sr_nr_p_6_7&ds=v1%3AIEN3X0OkgD%2Fe%2BuQgXWEAeDsd6JJqJREii6Ygr7YagrQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_6%3AA1K6XQ7KUWCZYH"
+    }
+   ],
+   "processor_speed": [
+    {
+     "position": 1,
+     "name": "Less Than 0.99 GHz",
+     "rh": "p_n_feature_nine_browse-bin:8561128031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_nine_browse-bin%3A8561128031&dc&qid=1791359627&rnid=8561123031&ref=sr_nr_p_n_feature_nine_browse-bin_1&ds=v1%3AX2eGbeLhQf%2FH8Uz%2FZnpYqQAfC%2BpSZ7dNCd1EHIgPROc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_nine_browse-bin%3A8561128031"
+    },
+    {
+     "position": 2,
+     "name": "2.5 GHz & Above",
+     "rh": "p_n_feature_nine_browse-bin:8561127031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_nine_browse-bin%3A8561127031&dc&qid=1791359627&rnid=8561123031&ref=sr_nr_p_n_feature_nine_browse-bin_2&ds=v1%3AuK2uTSP%2BDTYO4FRmfK%2FtEyemxu38H5n6%2BVLAeWn25L0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_feature_nine_browse-bin%3A8561127031"
+    }
+   ],
+   "camera_modes": [
+    {
+     "position": 1,
+     "name": "Macro",
+     "rh": "p_n_g-1002252610111:27316769031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002252610111%3A27316769031&dc&qid=1791359627&rnid=27316761031&ref=sr_nr_p_n_g-1002252610111_1&ds=v1%3ATXJ35XisIIgqFjFM5hr4lXdwRj4B26QsMGUJtfD9yz0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002252610111%3A27316769031"
+    }
+   ],
+   "country_of_origin": [
+    {
+     "position": 1,
+     "name": "India",
+     "rh": "p_country_of_origin-bin:IN",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_country_of_origin-bin%3AIN&dc&qid=1791359627&rnid=215263484031&ref=sr_nr_p_country_of_origin-bin_1&ds=v1%3AGobcL%2FBryHi9ce%2B3SFhhUunHCGwjLiUtn96yF2LRW5o",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_country_of_origin-bin%3AIN"
+    },
+    {
+     "position": 2,
+     "name": "China",
+     "rh": "p_country_of_origin-bin:CN",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_country_of_origin-bin%3ACN&dc&qid=1791359627&rnid=215263484031&ref=sr_nr_p_country_of_origin-bin_2&ds=v1%3AP8q3tdLFGBw1NlyauGtEPLwi9N%2FZYfBd8iuXCc%2BrWIw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_country_of_origin-bin%3ACN"
+    }
+   ],
+   "sim_card_size": [
+    {
+     "position": 1,
+     "name": "eSIM",
+     "rh": "p_n_g-1002989370111:27179453031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002989370111%3A27179453031&dc&qid=1791359627&rnid=27179438031&ref=sr_nr_p_n_g-1002989370111_1&ds=v1%3ARQ5zqUGCCQLizUNQqeQ6KhOUdPZM5JfWaZoV40mERXE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002989370111%3A27179453031"
+    },
+    {
+     "position": 2,
+     "name": "Nano",
+     "rh": "p_n_g-1002989370111:27179455031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002989370111%3A27179455031&dc&qid=1791359627&rnid=27179438031&ref=sr_nr_p_n_g-1002989370111_2&ds=v1%3AC6utQMyVf166a6TcP7GF1Ued5ktrcbcP5cozqzE0apA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002989370111%3A27179455031"
+    }
+   ],
+   "aspect_ratio": [
+    {
+     "position": 1,
+     "name": "16:9",
+     "rh": "p_n_g-101015688486111:204879948031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015688486111%3A204879948031&dc&qid=1791359627&rnid=204879945031&ref=sr_nr_p_n_g-101015688486111_1&ds=v1%3AbJrouiPe2AWmQ5v3gY1D43wZC4bvTMnNtR7FaC9kGHo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015688486111%3A204879948031"
+    }
+   ],
+   "weight": [
+    {
+     "position": 1,
+     "name": "142 to 197.9 g",
+     "rh": "p_n_g-1003491669111:42659588031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003491669111%3A42659588031&dc&qid=1791359627&rnid=42659587031&ref=sr_nr_p_n_g-1003491669111_1&ds=v1%3A6r%2BFbR7AFv3bYi2TnUTq0xWAr3kNgYZjbYa4HrbLG6U",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003491669111%3A42659588031"
+    },
+    {
+     "position": 2,
+     "name": "198 to 254.9 g",
+     "rh": "p_n_g-1003491669111:42659589031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003491669111%3A42659589031&dc&qid=1791359627&rnid=42659587031&ref=sr_nr_p_n_g-1003491669111_2&ds=v1%3A333cJfuyayT13k4eqoO0LLOn6zCXq3AYxMoOXSZNeSU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003491669111%3A42659589031"
+    }
+   ],
+   "front_camera_resolution": [
+    {
+     "position": 1,
+     "name": "10.0 to 12.9 MP",
+     "rh": "p_n_g-1003565058111:61505199031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003565058111%3A61505199031&dc&qid=1791359627&rnid=61505195031&ref=sr_nr_p_n_g-1003565058111_1&ds=v1%3AUhTYWRz6kbUnJ8IWGpXEj32BDZTw1s6lsm7bDEFuAS8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003565058111%3A61505199031"
+    },
+    {
+     "position": 2,
+     "name": "13.0 MP & above",
+     "rh": "p_n_g-1003565058111:61505197031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003565058111%3A61505197031&dc&qid=1791359627&rnid=61505195031&ref=sr_nr_p_n_g-1003565058111_2&ds=v1%3AGCkvb7MUAb8589X%2FFHM7h2C029%2BHEr1jP0cwnTEl3yI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003565058111%3A61505197031"
+    }
+   ],
+   "connectivity": [
+    {
+     "position": 1,
+     "name": "Bluetooth",
+     "rh": "p_n_g-1002112230111:27363277031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002112230111%3A27363277031&dc&qid=1791359627&rnid=27363274031&ref=sr_nr_p_n_g-1002112230111_1&ds=v1%3Aq1A1UvjqYZdWRs6Yq8IH%2Bun%2BOmzsEyJlVbnFB7xYZ6E",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002112230111%3A27363277031"
+    },
+    {
+     "position": 2,
+     "name": "NFC",
+     "rh": "p_n_g-1002112230111:27363279031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002112230111%3A27363279031&dc&qid=1791359627&rnid=27363274031&ref=sr_nr_p_n_g-1002112230111_2&ds=v1%3AxtwqRrqf9mSEZ17TU%2FHD%2FP8i5K3AZd5pkMkG%2FUh%2B2IQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002112230111%3A27363279031"
+    },
+    {
+     "position": 3,
+     "name": "USB",
+     "rh": "p_n_g-1002112230111:27363276031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002112230111%3A27363276031&dc&qid=1791359627&rnid=27363274031&ref=sr_nr_p_n_g-1002112230111_3&ds=v1%3AXMQ1A0nBnDD4qRveTp1OpK1%2BA3eogv7qyKQK4bzVN8I",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002112230111%3A27363276031"
+    },
+    {
+     "position": 4,
+     "name": "Wi-Fi",
+     "rh": "p_n_g-1002112230111:27363278031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002112230111%3A27363278031&dc&qid=1791359627&rnid=27363274031&ref=sr_nr_p_n_g-1002112230111_4&ds=v1%3Awl0w%2FXrJfT7%2FOIszYo4YGGhmSyVmAh9R%2Bc35xXN3IEM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002112230111%3A27363278031"
+    }
+   ],
+   "battery_type": [
+    {
+     "position": 1,
+     "name": "Lithium-Ion",
+     "rh": "p_n_g-101015500034111:100427319031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015500034111%3A100427319031&dc&qid=1791359627&rnid=100427310031&ref=sr_nr_p_n_g-101015500034111_1&ds=v1%3ApWMo5CD0hRTSMIizbkElovUlcxxdJFGUn8mI6WivNJQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015500034111%3A100427319031"
+    }
+   ],
+   "security_feature": [
+    {
+     "position": 1,
+     "name": "Face Recognition",
+     "rh": "p_n_g-1002085472111:27355807031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002085472111%3A27355807031&dc&qid=1791359627&rnid=27355796031&ref=sr_nr_p_n_g-1002085472111_1&ds=v1%3ATXxRBq2epK5B1UEVJEmNKc2RENyHG4uHu%2FxgjTBjhjU",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002085472111%3A27355807031"
+    },
+    {
+     "position": 2,
+     "name": "Fingerprint Recognition",
+     "rh": "p_n_g-1002085472111:27355812031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002085472111%3A27355812031&dc&qid=1791359627&rnid=27355796031&ref=sr_nr_p_n_g-1002085472111_2&ds=v1%3A%2BVgS9sczETrH0umjgd%2FDcJy3b2dJUKcxTS%2BOymKXZV8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002085472111%3A27355812031"
+    }
+   ],
+   "included_components": [
+    {
+     "position": 1,
+     "name": "Quick Start Guide",
+     "rh": "p_n_g-101013594324111:213480632031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A213480632031&dc&qid=1791359627&rnid=66008593031&ref=sr_nr_p_n_g-101013594324111_1&ds=v1%3AYkw9pw3UFBge1Sr71aqQ61CAD1mO8rRW%2BWvrUTjbJu4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A213480632031"
+    },
+    {
+     "position": 2,
+     "name": "USB Cable",
+     "rh": "p_n_g-101013594324111:66008618031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A66008618031&dc&qid=1791359627&rnid=66008593031&ref=sr_nr_p_n_g-101013594324111_2&ds=v1%3AP8CPuqZXFpNyF%2BfCaRjgNbxht7s2h1uO4RahAyTUi%2FA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A66008618031"
+    },
+    {
+     "position": 3,
+     "name": "Phone Case",
+     "rh": "p_n_g-101013594324111:66008623031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A66008623031&dc&qid=1791359627&rnid=66008593031&ref=sr_nr_p_n_g-101013594324111_3&ds=v1%3AunHgOAJwdFlBGwwAxu0mrzTtPcRIgw4QQ65Ca85P0Z8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A66008623031"
+    },
+    {
+     "position": 4,
+     "name": "Power Adapter",
+     "rh": "p_n_g-101013594324111:66008624031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A66008624031&dc&qid=1791359627&rnid=66008593031&ref=sr_nr_p_n_g-101013594324111_4&ds=v1%3AmgtNJHSY9JLgKof6bMTCrCPoOyQ5XAbeI8bi%2FqKOojQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A66008624031"
+    },
+    {
+     "position": 5,
+     "name": "SIM Tray Ejector",
+     "rh": "p_n_g-101013594324111:66008617031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A66008617031&dc&qid=1791359627&rnid=66008593031&ref=sr_nr_p_n_g-101013594324111_5&ds=v1%3Amrqgc%2BimAlaFlx9GTJkUyGOdZ2pmef5HBOnK8TbM218",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A66008617031"
+    },
+    {
+     "position": 6,
+     "name": "Screen Protector",
+     "rh": "p_n_g-101013594324111:66008622031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A66008622031&dc&qid=1791359627&rnid=66008593031&ref=sr_nr_p_n_g-101013594324111_6&ds=v1%3AzDKuMoY6jEjVVKfs2qAh%2Fp6aU3bf1TM4voI9YXZ%2FVaQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101013594324111%3A66008622031"
+    }
+   ],
+   "flash": [
+    {
+     "position": 1,
+     "name": "LED",
+     "rh": "p_n_g-101015500208111:100427321031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015500208111%3A100427321031&dc&qid=1791359627&rnid=100427311031&ref=sr_nr_p_n_g-101015500208111_1&ds=v1%3A%2FrqsmH1mkpUaSv7SXEpgfuKageztBiA8BPGEpOAlHP4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015500208111%3A100427321031"
+    }
+   ],
+   "wireless_network_technology": [
+    {
+     "position": 1,
+     "name": "GSM",
+     "rh": "p_n_g-101015498571111:100436155031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A100436155031&dc&qid=1791359627&rnid=100436133031&ref=sr_nr_p_n_g-101015498571111_1&ds=v1%3AwQ%2BFStnYqfZ2SCHGSPRpNFt4UTo58STVB%2FYhDaNYSUQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A100436155031"
+    },
+    {
+     "position": 2,
+     "name": "LTE",
+     "rh": "p_n_g-101015498571111:100436153031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A100436153031&dc&qid=1791359627&rnid=100436133031&ref=sr_nr_p_n_g-101015498571111_2&ds=v1%3AhzMh8H8tuz%2B9bmMqHwg9o5J55HFkibI%2BS%2BboimhbvQ4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A100436153031"
+    },
+    {
+     "position": 3,
+     "name": "Wi-Fi",
+     "rh": "p_n_g-101015498571111:100436151031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A100436151031&dc&qid=1791359627&rnid=100436133031&ref=sr_nr_p_n_g-101015498571111_3&ds=v1%3A2g0MddOjORXsMOjPDtBakWLMql989cru4bh47K6hye8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A100436151031"
+    },
+    {
+     "position": 4,
+     "name": "UMTS",
+     "rh": "p_n_g-101015498571111:100436157031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A100436157031&dc&qid=1791359627&rnid=100436133031&ref=sr_nr_p_n_g-101015498571111_4&ds=v1%3ANTU5R0VcAvgespBe8Ta5s%2FZZERG%2FZGInPHq34vxg8hQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A100436157031"
+    },
+    {
+     "position": 5,
+     "name": "Bluetooth",
+     "rh": "p_n_g-101015498571111:207962825031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A207962825031&dc&qid=1791359627&rnid=100436133031&ref=sr_nr_p_n_g-101015498571111_5&ds=v1%3Ar%2FlUYG8xHzb%2FpQaDD1TaRfBLl7fSwVB%2BMkqIYMxv0Rk",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A207962825031"
+    },
+    {
+     "position": 6,
+     "name": "NFC",
+     "rh": "p_n_g-101015498571111:207962824031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A207962824031&dc&qid=1791359627&rnid=100436133031&ref=sr_nr_p_n_g-101015498571111_6&ds=v1%3A6DgzbBsi13QvEEMN9UxPdbRh2Awlh%2FXEQv2ND4NuDD4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498571111%3A207962824031"
+    }
+   ],
+   "battery_life": [
+    {
+     "position": 1,
+     "name": "7 to 12.9 h",
+     "rh": "p_n_g-1003486052111:42062131031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003486052111%3A42062131031&dc&qid=1791359627&rnid=42062008031&ref=sr_nr_p_n_g-1003486052111_1&ds=v1%3AZzz5krxUh%2FNQwgEnzVuAjWsVOIq%2BGISIzDdEiKcQn40",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003486052111%3A42062131031"
+    },
+    {
+     "position": 2,
+     "name": "13 to 18.9 h",
+     "rh": "p_n_g-1003486052111:42062132031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003486052111%3A42062132031&dc&qid=1791359627&rnid=42062008031&ref=sr_nr_p_n_g-1003486052111_2&ds=v1%3AbdWHW80GKXo0YLinyc0axBB7aGKdC8F9tFc9Mu%2F189w",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003486052111%3A42062132031"
+    },
+    {
+     "position": 3,
+     "name": "19 h & above",
+     "rh": "p_n_g-1003486052111:42062130031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003486052111%3A42062130031&dc&qid=1791359627&rnid=42062008031&ref=sr_nr_p_n_g-1003486052111_3&ds=v1%3AmULiPhaDVtF018lRnlelzMwrNBdq%2FSuBmZ7DqMJKFPM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003486052111%3A42062130031"
+    }
+   ],
+   "video_capture_resolution": [
+    {
+     "position": 1,
+     "name": "1080p",
+     "rh": "p_n_g-1003305462111:28430295031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003305462111%3A28430295031&dc&qid=1791359627&rnid=28430291031&ref=sr_nr_p_n_g-1003305462111_1&ds=v1%3AMl%2BlMfvePSwZvnni%2BT2PP4RMQKygB8gpcVNDVQKEu1Y",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003305462111%3A28430295031"
+    },
+    {
+     "position": 2,
+     "name": "4k",
+     "rh": "p_n_g-1003305462111:28430294031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003305462111%3A28430294031&dc&qid=1791359627&rnid=28430291031&ref=sr_nr_p_n_g-1003305462111_2&ds=v1%3AkYj1NrL819DKLTeGjQwXE0%2F0VRpzN8Q6N0xLOy4p2qo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003305462111%3A28430294031"
+    },
+    {
+     "position": 3,
+     "name": "720p",
+     "rh": "p_n_g-1003305462111:28430293031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003305462111%3A28430293031&dc&qid=1791359627&rnid=28430291031&ref=sr_nr_p_n_g-1003305462111_3&ds=v1%3A6H1v5PpSWl8NFGWw4bhgeT5dVtGBBnirynxEcErQhU0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003305462111%3A28430293031"
+    },
+    {
+     "position": 4,
+     "name": "8k",
+     "rh": "p_n_g-1003305462111:28430296031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003305462111%3A28430296031&dc&qid=1791359627&rnid=28430291031&ref=sr_nr_p_n_g-1003305462111_4&ds=v1%3A5rN3nQhfaFts%2FBpP9QisrDL7CerfQNxPcnisqbY0l3I",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003305462111%3A28430296031"
+    }
+   ],
+   "input": [
+    {
+     "position": 1,
+     "name": "Touchscreen",
+     "rh": "p_n_g-1002097072111:27362061031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002097072111%3A27362061031&dc&qid=1791359627&rnid=27362059031&ref=sr_nr_p_n_g-1002097072111_1&ds=v1%3ASIK4AD9cO1H%2FA7oLsOOqS7JSG6ajQMFyRcunaguFfdE",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002097072111%3A27362061031"
+    },
+    {
+     "position": 2,
+     "name": "Touchscreen with Stylus Support",
+     "rh": "p_n_g-1002097072111:27362074031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002097072111%3A27362074031&dc&qid=1791359627&rnid=27362059031&ref=sr_nr_p_n_g-1002097072111_2&ds=v1%3AjchLekd8gjXgBJI4G9LHFrmgadTSNySozYN9%2FdJhesc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002097072111%3A27362074031"
+    }
+   ],
+   "purpose": [
+    {
+     "position": 1,
+     "name": "Gaming",
+     "rh": "p_n_g-101016756045111:207854436031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101016756045111%3A207854436031&dc&qid=1791359627&rnid=207854435031&ref=sr_nr_p_n_g-101016756045111_1&ds=v1%3AKdlIdEQnmplcJ%2BTv1bE8ldxLPldrUlEBDGCP%2FtiuEjQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101016756045111%3A207854436031"
+    },
+    {
+     "position": 2,
+     "name": "Photography",
+     "rh": "p_n_g-101016756045111:207854437031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101016756045111%3A207854437031&dc&qid=1791359627&rnid=207854435031&ref=sr_nr_p_n_g-101016756045111_2&ds=v1%3AUcbvB7KExCl1rE6DqvnJMhxvl%2FQsA4E7DMAYrz04Xpk",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101016756045111%3A207854437031"
+    },
+    {
+     "position": 3,
+     "name": "Streaming",
+     "rh": "p_n_g-101016756045111:207854438031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101016756045111%3A207854438031&dc&qid=1791359627&rnid=207854435031&ref=sr_nr_p_n_g-101016756045111_3&ds=v1%3AB87%2B92QfYKK4umBrKPX36YliV1Aw6aobPlFbFuIZDs4",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101016756045111%3A207854438031"
+    },
+    {
+     "position": 4,
+     "name": "Video Conferencing",
+     "rh": "p_n_g-101016756045111:207854439031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101016756045111%3A207854439031&dc&qid=1791359627&rnid=207854435031&ref=sr_nr_p_n_g-101016756045111_4&ds=v1%3AySfygHbfupCfYWwjtQK%2Ba6xrHkfI8HTUi1warxXmBpc",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101016756045111%3A207854439031"
+    }
+   ],
+   "rear_camera_photo_sensor_resolution": [
+    {
+     "position": 1,
+     "name": "10 to 12.9 MP",
+     "rh": "p_n_g-1003477899111:42253777031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003477899111%3A42253777031&dc&qid=1791359627&rnid=42253749031&ref=sr_nr_p_n_g-1003477899111_1&ds=v1%3AaX9RLUN34U62xWYFhd%2FKe32UWB3gOJBnTDcrY8UET4I",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003477899111%3A42253777031"
+    },
+    {
+     "position": 2,
+     "name": "16 MP & Above",
+     "rh": "p_n_g-1003477899111:42253778031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003477899111%3A42253778031&dc&qid=1791359627&rnid=42253749031&ref=sr_nr_p_n_g-1003477899111_2&ds=v1%3ArNN4cowzJ2KOWU%2FCU6QwtcVMWjKehZnuHd2CHZPpmdg",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1003477899111%3A42253778031"
+    }
+   ],
+   "gps_navigation": [
+    {
+     "position": 1,
+     "name": "False",
+     "rh": "p_n_g-101015364874111:96329644031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015364874111%3A96329644031&dc&qid=1791359627&rnid=96329629031&ref=sr_nr_p_n_g-101015364874111_1&ds=v1%3ATKKtV0Ygx4f5ZRZJnpcGBLdNyrsflULq5mB4yFyAWWw",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015364874111%3A96329644031"
+    },
+    {
+     "position": 2,
+     "name": "True",
+     "rh": "p_n_g-101015364874111:96329643031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015364874111%3A96329643031&dc&qid=1791359627&rnid=96329629031&ref=sr_nr_p_n_g-101015364874111_2&ds=v1%3A2sCK3DBUamnk5koVxpV3ehJm25lnMTFLQWz73rzB1N0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015364874111%3A96329643031"
+    }
+   ],
+   "supported_satellite_navigation_system": [
+    {
+     "position": 1,
+     "name": "GPS",
+     "rh": "p_n_g-101015498432111:100424905031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498432111%3A100424905031&dc&qid=1791359627&rnid=100424895031&ref=sr_nr_p_n_g-101015498432111_1&ds=v1%3AWoi4jY1lPY%2FCHzf4QTYKoM%2FQVhcEiYzeIgpNpwc4TEQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498432111%3A100424905031"
+    },
+    {
+     "position": 2,
+     "name": "BeiDou",
+     "rh": "p_n_g-101015498432111:100424900031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498432111%3A100424900031&dc&qid=1791359627&rnid=100424895031&ref=sr_nr_p_n_g-101015498432111_2&ds=v1%3ArDw2MIw0gETbwbZg5fF%2B9mL%2BVRSGVVJUUmQ5LtOMlQQ",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498432111%3A100424900031"
+    },
+    {
+     "position": 3,
+     "name": "GLONASS",
+     "rh": "p_n_g-101015498432111:100424903031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498432111%3A100424903031&dc&qid=1791359627&rnid=100424895031&ref=sr_nr_p_n_g-101015498432111_3&ds=v1%3AnhXOlCNNcGLWq4BhURu3ZE9HUNSXzXmzQtqpCRAY2fM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498432111%3A100424903031"
+    },
+    {
+     "position": 4,
+     "name": "Galileo",
+     "rh": "p_n_g-101015498432111:100424904031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498432111%3A100424904031&dc&qid=1791359627&rnid=100424895031&ref=sr_nr_p_n_g-101015498432111_4&ds=v1%3AEIk1ObGSNR9sET5CAGu0QI%2B1ulkTbn24AxTbugSik%2F8",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101015498432111%3A100424904031"
+    }
+   ],
+   "gen_ai_model": [
+    {
+     "position": 1,
+     "name": "Galaxy AI",
+     "rh": "p_n_g-101016978070111:211735166031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101016978070111%3A211735166031&dc&qid=1791359627&rnid=211735163031&ref=sr_nr_p_n_g-101016978070111_1&ds=v1%3Aa7mrdhQUOsFj1q8Sv9Izdw7tEUfMAyzC41czEmm786w",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101016978070111%3A211735166031"
+    }
+   ],
+   "display_refresh_rate_in_hertz": [
+    {
+     "position": 1,
+     "name": "120",
+     "rh": "p_n_g-101017397158111:214852071031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101017397158111%3A214852071031&dc&qid=1791359627&rnid=214852064031&ref=sr_nr_p_n_g-101017397158111_1&ds=v1%3AwCx2CB2em036FMEq5J2IxulO8n5yoOQXSUkmqrq9OEI",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101017397158111%3A214852071031"
+    },
+    {
+     "position": 2,
+     "name": "144",
+     "rh": "p_n_g-101017397158111:214852068031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101017397158111%3A214852068031&dc&qid=1791359627&rnid=214852064031&ref=sr_nr_p_n_g-101017397158111_2&ds=v1%3A1z6OKoBk01qBrtIZQ3q%2FSEqwsOT6AFembSgpmfM8ARA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-101017397158111%3A214852068031"
+    }
+   ],
+   "display_resolution": [
+    {
+     "position": 1,
+     "name": "1080 x 2400",
+     "rh": "p_n_g-1002090229111:27345186031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002090229111%3A27345186031&dc&qid=1791359627&rnid=27345181031&ref=sr_nr_p_n_g-1002090229111_1&ds=v1%3A9bDFE1n4YGh3crUAUKJxLht7uUEDPKAZI9JMlpWT0Jo",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002090229111%3A27345186031"
+    },
+    {
+     "position": 2,
+     "name": "2532 x 1170",
+     "rh": "p_n_g-1002090229111:56611000031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002090229111%3A56611000031&dc&qid=1791359627&rnid=27345181031&ref=sr_nr_p_n_g-1002090229111_2&ds=v1%3AXduTPmbqAxY51CMDdgKunE26%2FiwfSpz0WA6EnmRLEi0",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002090229111%3A56611000031"
+    },
+    {
+     "position": 3,
+     "name": "3120 x 1440",
+     "rh": "p_n_g-1002090229111:27345243031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002090229111%3A27345243031&dc&qid=1791359627&rnid=27345181031&ref=sr_nr_p_n_g-1002090229111_3&ds=v1%3A0HkMlT9Xj9K1bEpsUlc7Vty2hx6f7U5dxpSuckgQcjM",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_g-1002090229111%3A27345243031"
+    }
+   ],
+   "new_arrivals": [
+    {
+     "position": 1,
+     "name": "Last 30 days",
+     "rh": "p_n_date_first_available_absolute:1318487031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_date_first_available_absolute%3A1318487031&dc&qid=1791359627&rnid=1318486031&ref=sr_nr_p_n_date_first_available_absolute_1&ds=v1%3A6OI0Jin87SeXGOJ4Twbi%2Biup86dXn9Oe5UIl3BfxtGs",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_date_first_available_absolute%3A1318487031"
+    },
+    {
+     "position": 2,
+     "name": "Last 90 days",
+     "rh": "p_n_date_first_available_absolute:1318488031",
+     "link": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+256GB&rh=p_n_date_first_available_absolute%3A1318488031&dc&qid=1791359627&rnid=1318486031&ref=sr_nr_p_n_date_first_available_absolute_2&ds=v1%3AhVGyiJXvpDJuyi1OG4A%2B49xWT%2BIll2NVfRAft%2BXtl%2BA",
+     "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&rh=p_n_date_first_available_absolute%3A1318488031"
+    }
+   ]
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?amazon_domain=amazon.in&device=desktop&engine=amazon&k=Apple+iPhone+16+Pro+256GB&page=2"
+  }
+ }
+}

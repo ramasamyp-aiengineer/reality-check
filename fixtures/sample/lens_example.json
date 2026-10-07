@@ -1,0 +1,52 @@
+{
+ "params": {
+  "engine": "google_lens",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg",
+  "type": "exact_matches",
+  "hl": "en",
+  "country": "in"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "exact_matches": [
+   {
+    "title": "Stock photo: payment received screenshot template",
+    "source": "stock-images.example",
+    "link": "https://stock-images.example/sample/payment-template",
+    "date": "Mar 3, 2023"
+   },
+   {
+    "title": "Winner proof - Lucky Spin Rewards",
+    "source": "luckyspin-rewards.example",
+    "link": "https://luckyspin-rewards.example/sample/winners",
+    "date": "Aug 19, 2024"
+   },
+   {
+    "title": "Mega Prize Club payment proof",
+    "source": "megaprize.example",
+    "link": "https://megaprize.example/sample/proof",
+    "date": "Jan 7, 2025"
+   },
+   {
+    "title": "Daily Cash Draw winners list",
+    "source": "dailycashdraw.example",
+    "link": "https://dailycashdraw.example/sample/winners"
+   },
+   {
+    "title": "How scammers reuse fake payment screenshots",
+    "source": "news.example.com",
+    "link": "https://news.example.com/sample/fake-payment-screenshots",
+    "date": "Jun 2, 2025"
+   },
+   {
+    "title": "Telegram channel post: today's winner",
+    "source": "t.me",
+    "link": "https://t.me/s/sample_channel"
+   }
+  ]
+ }
+}

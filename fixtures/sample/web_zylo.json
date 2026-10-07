@@ -1,0 +1,37 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "Zylo Global Solutions Pvt Ltd. reviews complaints",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "organic_results": [
+   {
+    "title": "Zylo Global Solutions data entry job scam - registration fee",
+    "link": "https://www.reddit.com/r/sample/zylo-global",
+    "snippet": "Paid Rs 1,500 registration fee, then they asked for more and stopped replying."
+   },
+   {
+    "title": "Zylo Global Solutions complaint - salary not paid",
+    "link": "https://www.consumercomplaints.in/sample/zylo",
+    "snippet": "Fake work-from-home offer, no payment after 2 weeks of work."
+   },
+   {
+    "title": "Zylo Global Solutions reviews | MouthShut",
+    "link": "https://www.mouthshut.com/sample/zylo",
+    "snippet": "Users warn: beware of upfront fees for part time jobs."
+   },
+   {
+    "title": "How to spot fake work-from-home job offers",
+    "link": "https://news.example.com/sample/wfh-job-scams",
+    "snippet": "Genuine employers never charge a registration fee."
+   }
+  ]
+ }
+}

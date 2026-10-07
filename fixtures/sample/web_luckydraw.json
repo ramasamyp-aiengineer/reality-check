@@ -1,0 +1,42 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "Lucky Draw India reviews complaints",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "organic_results": [
+   {
+    "title": "Lucky Draw India asked me to pay tax to release prize - scam?",
+    "link": "https://www.reddit.com/r/sample/lucky-draw-india",
+    "snippet": "They sent a payment proof screenshot and asked for Rs 6,500 GST."
+   },
+   {
+    "title": "Lucky Draw India complaint - prize money never received",
+    "link": "https://www.consumercomplaints.in/sample/lucky-draw-india",
+    "snippet": "Fake winner message on WhatsApp, paid processing fee."
+   },
+   {
+    "title": "Lucky Draw India reviews | MouthShut",
+    "link": "https://www.mouthshut.com/sample/lucky-draw-india",
+    "snippet": "1.2 rating. Users say they were cheated after paying a release fee."
+   },
+   {
+    "title": "Cyber cell advisory on lottery and lucky draw messages",
+    "link": "https://news.example.com/sample/lottery-advisory",
+    "snippet": "Beware of messages claiming you won a lucky draw you never entered."
+   },
+   {
+    "title": "What is a lucky draw? Rules and legality in India",
+    "link": "https://law-blog.example/sample/lucky-draw-rules",
+    "snippet": "Prize competitions are regulated by state laws."
+   }
+  ]
+ }
+}

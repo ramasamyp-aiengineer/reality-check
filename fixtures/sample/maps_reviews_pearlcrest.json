@@ -1,0 +1,185 @@
+{
+ "params": {
+  "engine": "google_maps_reviews",
+  "data_id": "0xsample:pearlcrest",
+  "sort_by": "newestFirst",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "place_info": {
+   "rating": 4.7,
+   "reviews": 412
+  },
+  "topics": [
+   {
+    "keyword": "root canal",
+    "mentions": 54
+   },
+   {
+    "keyword": "clean",
+    "mentions": 41
+   },
+   {
+    "keyword": "staff",
+    "mentions": 33
+   }
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "snippet": "Painless root canal, the doctor explained every step. Very clean clinic.",
+    "iso_date": "2026-10-07T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Got my teeth cleaned here, friendly staff and on time.",
+    "iso_date": "2026-10-05T19:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Excellent treatment for my son's braces, transparent pricing.",
+    "iso_date": "2026-10-04T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Doctor is patient and gentle. Highly recommend for wisdom tooth removal.",
+    "iso_date": "2026-10-02T19:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Modern equipment and hygienic. Appointment slots are easy to book.",
+    "iso_date": "2026-10-01T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Good experience overall, waiting time was a bit long on Saturday.",
+    "iso_date": "2026-09-29T19:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Painless root canal, the doctor explained every step. Very clean clinic.",
+    "iso_date": "2026-09-28T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Got my teeth cleaned here, friendly staff and on time.",
+    "iso_date": "2026-09-26T19:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Excellent treatment for my son's braces, transparent pricing.",
+    "iso_date": "2026-09-25T07:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Doctor is patient and gentle. Highly recommend for wisdom tooth removal.",
+    "iso_date": "2026-09-23T19:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Modern equipment and hygienic. Appointment slots are easy to book.",
+    "iso_date": "2026-09-22T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Good experience overall, waiting time was a bit long on Saturday.",
+    "iso_date": "2026-09-20T19:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Painless root canal, the doctor explained every step. Very clean clinic.",
+    "iso_date": "2026-09-19T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Got my teeth cleaned here, friendly staff and on time.",
+    "iso_date": "2026-09-17T19:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Excellent treatment for my son's braces, transparent pricing.",
+    "iso_date": "2026-09-16T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Doctor is patient and gentle. Highly recommend for wisdom tooth removal.",
+    "iso_date": "2026-09-14T19:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Modern equipment and hygienic. Appointment slots are easy to book.",
+    "iso_date": "2026-09-13T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Good experience overall, waiting time was a bit long on Saturday.",
+    "iso_date": "2026-09-11T19:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Painless root canal, the doctor explained every step. Very clean clinic.",
+    "iso_date": "2026-09-10T07:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Got my teeth cleaned here, friendly staff and on time.",
+    "iso_date": "2026-09-08T19:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Excellent treatment for my son's braces, transparent pricing.",
+    "iso_date": "2026-09-07T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Doctor is patient and gentle. Highly recommend for wisdom tooth removal.",
+    "iso_date": "2026-09-05T19:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Modern equipment and hygienic. Appointment slots are easy to book.",
+    "iso_date": "2026-09-04T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Good experience overall, waiting time was a bit long on Saturday.",
+    "iso_date": "2026-09-02T19:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Painless root canal, the doctor explained every step. Very clean clinic.",
+    "iso_date": "2026-09-01T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Got my teeth cleaned here, friendly staff and on time.",
+    "iso_date": "2026-08-30T19:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Excellent treatment for my son's braces, transparent pricing.",
+    "iso_date": "2026-08-29T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Doctor is patient and gentle. Highly recommend for wisdom tooth removal.",
+    "iso_date": "2026-08-27T19:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Modern equipment and hygienic. Appointment slots are easy to book.",
+    "iso_date": "2026-08-26T07:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Good experience overall, waiting time was a bit long on Saturday.",
+    "iso_date": "2026-08-24T19:45:20Z"
+   }
+  ]
+ }
+}

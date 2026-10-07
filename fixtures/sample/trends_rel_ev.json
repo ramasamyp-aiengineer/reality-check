@@ -1,0 +1,58 @@
+{
+ "params": {
+  "engine": "google_trends",
+  "q": "electric scooter",
+  "geo": "IN",
+  "date": "today 12-m",
+  "data_type": "RELATED_QUERIES"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "related_queries": {
+   "rising": [
+    {
+     "query": "electric scooter subsidy 2026",
+     "value": "+450%"
+    },
+    {
+     "query": "best electric scooter 2026",
+     "value": "+320%"
+    },
+    {
+     "query": "electric scooter 150 km range",
+     "value": "+250%"
+    },
+    {
+     "query": "ev scooter service center",
+     "value": "+180%"
+    },
+    {
+     "query": "zipvolt s1 price",
+     "value": "+140%"
+    }
+   ],
+   "top": [
+    {
+     "query": "electric scooter price",
+     "value": "100"
+    },
+    {
+     "query": "ev scooter",
+     "value": "82"
+    },
+    {
+     "query": "electric bike",
+     "value": "60"
+    },
+    {
+     "query": "zipvolt",
+     "value": "31"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "Ola Electric official website",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fbb1d08cfe7b08186362",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/FjBY6dOMn5U9n_FhN-CSrKqDLJr_y5Ju-9wrh_IDdTA/6ac5fbb1d08cfe7b08186362.json",
+   "markdown_endpoint": "https://serpapi.com/searches/FjBY6dOMn5U9n_FhN-CSrKqDLJr_y5Ju-9wrh_IDdTA/6ac5fbb1d08cfe7b08186362.md",
+   "created_at": "2026-10-07 07:58:41 UTC",
+   "processed_at": "2026-10-07 07:58:41 UTC",
+   "google_light_url": "https://www.google.com/search?q=Ola+Electric+official+website&oq=Ola+Electric+official+website&hl=en&gl=in&sourceid=chrome&ie=UTF-8&gbv=1",
+   "raw_html_file": "https://serpapi.com/searches/FjBY6dOMn5U9n_FhN-CSrKqDLJr_y5Ju-9wrh_IDdTA/6ac5fbb1d08cfe7b08186362.html",
+   "total_time_taken": 11.79
+  },
+  "search_parameters": {
+   "engine": "google_light",
+   "q": "Ola Electric official website",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Ola Electric official website",
+   "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Ola Electric Begins S1 Gen 3 Scooter Deliveries Across India",
+    "link": "https://www.angelone.in/news/share-market/ola-electric-begins-s1-gen-3-scooter-deliveries-across-india",
+    "displayed_link": "www.angelone.in › news › share-market › ola-electric-begins-s1-gen-3-sco...",
+    "snippet": "Ola Electric starts S1 Gen 3 scooter deliveries, offering better power, range & safety. prices starting at ₹74,999 for the base model and going ...",
+    "date": "24 Mar 2025"
+   },
+   {
+    "position": 2,
+    "title": "India's Ola Electric unit settles dues with registration agency - Reuters",
+    "link": "https://www.reuters.com/business/autos-transportation/indias-ola-electric-settles-all-dues-with-rosmerta-group-2025-03-25/",
+    "displayed_link": "www.reuters.com › business › autos-transportation › indias-ola-electric-settl...",
+    "snippet": "A unit of Ola Electric , an Indian electric scooter maker, has settled dues worth 267.5 million rupees ($3.1 million) with vehicle ...",
+    "date": "24 Mar 2025"
+   },
+   {
+    "position": 3,
+    "title": "[PDF] OLA ELECTRIC MOBILITY LIMITED (Please scan the QR code - NSE",
+    "link": "https://nsearchives.nseindia.com/web/sites/default/files/inline-files/BasisOfAllotment_OLA.pdf",
+    "displayed_link": "nsearchives.nseindia.com › files › inline-files › BasisOfAllotment_OLA",
+    "snippet": "Tel: +91 80 3544 0050; Website: www.olaelectric.com; Contact person: Pramendra Tomar, Company Secretary and Compliance Officer; E-mail: ipo ...",
+    "date": "23 Dec 2021"
+   },
+   {
+    "position": 4,
+    "title": "Ola Electric Gets Approval for Commercial EV Scooter - StartupTalky",
+    "link": "https://startuptalky.com/news/ola-electric-gets-regulatory-green-light/",
+    "displayed_link": "startuptalky.com › news › ola-electric-gets-regulatory-green-light",
+    "snippet": "Ola Electric has reportedly secured regulatory approval for a commercial electric scooter targeting India&#39;s delivery and fleet market. ...",
+    "date": "27 May 2026"
+   },
+   {
+    "position": 5,
+    "title": "Ola Electric Scooter Launch Today at 2pm - The Quint",
+    "link": "https://www.thequint.com/tech-and-auto/ola-electric-scooter-launch-at-2pm-how-when-and-where-to-watch-the-launch-live-stream-online",
+    "displayed_link": "www.thequint.com › tech and auto",
+    "snippet": "Ola Electric Scooter can be watched live online on Ola Electric's official website: olaelectric.com. · Ola electric started the bookings of ...",
+    "date": "15 Aug 2021"
+   },
+   {
+    "position": 6,
+    "title": "Ola electric scooters test ride & delivery update",
+    "link": "https://electricvehicles.in/ola-electric-scooters-test-ride-delivery-update/",
+    "displayed_link": "electricvehicles.in › Electric Vehicles News",
+    "snippet": "People who are looking forward to buy this electric scooter can now test ride and then book it through its website for Rs 499.",
+    "date": "7 Nov 2021"
+   },
+   {
+    "position": 7,
+    "title": "Ola Electric scooter customers to get 'Hypercharger' support in 400 ...",
+    "link": "https://auto.hindustantimes.com/auto/two-wheelers/ola-electric-scooter-customers-to-get-hypercharger-support-in-400-cities-41627100124798.html",
+    "displayed_link": "auto.hindustantimes.com › Auto › Two-Wheelers",
+    "snippet": "Ola Electric scooter customers will get charging support from its Hypercharger setup installed in 400 Indian cities with over 100,000 locations/ ...",
+    "date": "24 Jul 2021"
+   },
+   {
+    "position": 8,
+    "title": "OLA Electric and the lessons in EV ownership - Moneycontrol.com",
+    "link": "https://www.moneycontrol.com/news/business/ola-electric-and-the-lessons-in-ev-ownership-8424251.html",
+    "displayed_link": "www.moneycontrol.com › NEWS › BUSINESS",
+    "snippet": "According to the web page, Ola Electric does receive real time information about your whereabouts to provide navigation-based services",
+    "date": "28 Apr 2022"
+   }
+  ],
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=in&google_domain=google.com&hl=en&q=Ola+Electric+official+website&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+  }
+ }
+}

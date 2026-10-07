@@ -1,0 +1,124 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "iphone-sale-deals.shop reviews complaints",
+  "num": "20",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fa85018c48056603ae97",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/YgRWv2T6D5DlmaWuxRA-FyiMZOVHo7RT8y3E7ehOZNo/6ac5fa85018c48056603ae97.json",
+   "markdown_endpoint": "https://serpapi.com/searches/YgRWv2T6D5DlmaWuxRA-FyiMZOVHo7RT8y3E7ehOZNo/6ac5fa85018c48056603ae97.md",
+   "created_at": "2026-10-07 07:53:41 UTC",
+   "processed_at": "2026-10-07 07:53:41 UTC",
+   "google_light_url": "https://www.google.com/search?q=iphone-sale-deals.shop+reviews+complaints&oq=iphone-sale-deals.shop+reviews+complaints&hl=en&gl=in&sourceid=chrome&ie=UTF-8&gbv=1",
+   "raw_html_file": "https://serpapi.com/searches/YgRWv2T6D5DlmaWuxRA-FyiMZOVHo7RT8y3E7ehOZNo/6ac5fa85018c48056603ae97.html",
+   "total_time_taken": 14.78
+  },
+  "search_parameters": {
+   "engine": "google_light",
+   "q": "iphone-sale-deals.shop reviews complaints",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "iphone-sale-deals.shop reviews complaints",
+   "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "IPhone 11 Only 1500/- Sach Or Jhut? IPhone Scam Delhi - YouTube",
+    "link": "https://www.youtube.com/watch?v=xhAdLLMQG5A",
+    "displayed_link": "www.youtube.com › watch",
+    "snippet": "Jai Jinendra Ji IPhone 11 Only 1500/- Sach Or Jhut? IPhone Scam Delhi FLIPKART OFFERS ... Biggest sale iPhone big sale phone low price shop.",
+    "date": "29 Jan 2025"
+   },
+   {
+    "position": 2,
+    "title": "iPhone 11 for ₹6900 on Cashify – Real or Scam? Unboxing ...",
+    "link": "https://www.youtube.com/watch?v=GpWjqN1WWqY",
+    "displayed_link": "www.youtube.com › watch",
+    "snippet": "... Sale iPhone 11 Cashify Sale iPhone 11 for 6900 Cashify iPhone ... reviews and tech deals to you. Thanks for watching!",
+    "date": "8 May 2025"
+   },
+   {
+    "position": 3,
+    "title": "Check this on your new iPhone before 7 days - YouTube",
+    "link": "https://www.youtube.com/watch?v=4eMboJLg8xY",
+    "displayed_link": "www.youtube.com › watch",
+    "snippet": "... deals : https://t.me/technikindia Free Prime membership : https ... review Should You Buy the IPhone 15 in Flipkart bbd sale. MR TECH ...",
+    "date": "26 Sept 2024"
+   },
+   {
+    "position": 4,
+    "title": "iPhone Buying Guide in BBD SALE & Amazon Sale - YouTube",
+    "link": "https://www.youtube.com/watch?v=bWjMGOU4HNI",
+    "displayed_link": "www.youtube.com › watch",
+    "snippet": "iPhone Buying Guide for BBD SALE & Amazon Sale: Which Model Should You Choose? Get the Best Deals on iPhone 15, iPhone 14, iPhone 13, ...",
+    "date": "30 Sept 2023"
+   },
+   {
+    "position": 5,
+    "title": "Do not buy an iPhone in this SALE!! - YouTube",
+    "link": "https://www.youtube.com/watch?v=vjyG3n3O7Eg",
+    "displayed_link": "www.youtube.com › watch",
+    "snippet": "Do not buy an iPhone in this SALE!! @aravindkaasu494 likes10K views1 year ago more. Subscribe. Comments. 107. Comment.",
+    "date": "25 Sept 2024"
+   },
+   {
+    "position": 6,
+    "title": "Promosphone.com Full Review – Get Apple Products at Huge ...",
+    "link": "https://www.youtube.com/watch?v=Wkfuv3RYkOA",
+    "displayed_link": "www.youtube.com › watch",
+    "snippet": "Promosphone.com Full Review – Get Apple Products at Huge Discounts? @TheMARY-World399 likes9.3K views6 months ago",
+    "date": "30 Mar 2026"
+   },
+   {
+    "position": 7,
+    "title": "2nd Second Hand Cheapest Price Used iPhone Shop Barrackpore Kol",
+    "link": "https://www.youtube.com/watch?v=lstkgyTa4O8",
+    "displayed_link": "www.youtube.com › watch",
+    "snippet": "Second Hand Mobile in Kolkata | Buy Cheapest Price 2nd Second Hand iPhone | Best Smartphones 2nd Hand Old Used Mobile Phones Dealers in ...",
+    "date": "16 Jan 2024"
+   },
+   {
+    "position": 8,
+    "title": "iPhone 13 ₹ 51,990 *Croma Sale* Online or Offline [Don't Buy on ...",
+    "link": "https://www.youtube.com/watch?v=R4p6MauxSZA",
+    "displayed_link": "www.youtube.com › watch",
+    "snippet": "iPhone 13 ₹ 51,990 *Croma Sale* Online or Offline [Don't Buy on Flipkart?]Apple Diwali Sale · Comments.",
+    "date": "25 Sept 2022"
+   },
+   {
+    "position": 9,
+    "title": "You're Buying iPhones Wrong - YouTube",
+    "link": "https://www.youtube.com/watch?v=Su-wd5tqqeQ",
+    "displayed_link": "www.youtube.com › watch",
+    "snippet": "Comments · The ONLY 3 IPhone Actually Worth Buying in 2026 · are Walmarts NEW iPhones a Scam? · I bought EVERY refurbished iPhone! · iPhone 13 vs ...",
+    "date": "31 Jan 2022"
+   },
+   {
+    "position": 10,
+    "title": "I buy a Refurbished Iphone from online website || Real Truth",
+    "link": "https://www.youtube.com/watch?v=jngq45lDoIg",
+    "displayed_link": "www.youtube.com › watch",
+    "snippet": "I buy a Refurbished Iphone from online website || Real Truth buy from here https://mobilegoo.shop.",
+    "date": "20 May 2023"
+   }
+  ],
+  "answer_box": {
+   "type": "organic_result",
+   "title": "29 Jan 2025 · Jai Jinendra Ji IPhone 11 Only 1500/- Sach Or Jhut? IPhone Scam Delhi FLIPKART OFFERS ... Biggest sale iPhone big sale phone low price shop."
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=in&google_domain=google.com&hl=en&q=iphone-sale-deals.shop+reviews+complaints&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+  }
+ }
+}

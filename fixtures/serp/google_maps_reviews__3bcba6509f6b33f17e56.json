@@ -1,0 +1,174 @@
+{
+ "params": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x3bae173cdc502f77:0x2a72c2f622a3a797",
+  "sort_by": "newestFirst",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5faec22abf7d535bd6296",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/OoZ8JnI6u_YQQQo8k__AjvvjKCBjv9rGU6_BqW2QUms/6ac5faec22abf7d535bd6296.json",
+   "markdown_endpoint": "https://serpapi.com/searches/OoZ8JnI6u_YQQQo8k__AjvvjKCBjv9rGU6_BqW2QUms/6ac5faec22abf7d535bd6296.md",
+   "created_at": "2026-10-07 07:55:24 UTC",
+   "processed_at": "2026-10-07 07:55:24 UTC",
+   "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae173cdc502f77:0x2a72c2f622a3a797!5m2!4m1!1i2!9m1!1b1?hl=en",
+   "raw_html_file": "https://serpapi.com/searches/OoZ8JnI6u_YQQQo8k__AjvvjKCBjv9rGU6_BqW2QUms/6ac5faec22abf7d535bd6296.html",
+   "prettify_html_file": "https://serpapi.com/searches/OoZ8JnI6u_YQQQo8k__AjvvjKCBjv9rGU6_BqW2QUms/6ac5faec22abf7d535bd6296.prettify",
+   "total_time_taken": 1.21
+  },
+  "search_parameters": {
+   "engine": "google_maps_reviews",
+   "data_id": "0x3bae173cdc502f77:0x2a72c2f622a3a797",
+   "hl": "en",
+   "sort_by": "newestFirst"
+  },
+  "place_info": {
+   "title": "Ather Grid Charging Station",
+   "address": "UB City, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+   "rating": 2.3,
+   "reviews": 6,
+   "type": "Electric vehicle charging station"
+  },
+  "reviews": [
+   {
+    "position": 1,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGeFNEQTVibHAyVUY5Rk1tZDBOM2x0WjBZM09VRRAB!2m1!1s0x0:0x2a72c2f622a3a797!3m1!1s2@1:CAIQACodChtycF9oOlFxSDA5blp2UF9FMmd0N3ltZ0Y3OUE%7C%7C?hl=en-GB",
+    "rating": 1.0,
+    "date": "a month ago",
+    "iso_date": "2026-09-05T17:04:21Z",
+    "iso_date_of_last_edit": "2026-09-05T17:04:21Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGeFNEQTVibHAyVUY5Rk1tZDBOM2x0WjBZM09VRRAB",
+    "user": {
+     "name": "dinesh jangra Jangra",
+     "link": "https://www.google.com/maps/contrib/117091228245305892451?hl=en-GB",
+     "contributor_id": "117091228245305892451",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJX3MOyVTlfVoXAEGfxqFp7AMybYa4_rUjPbQ1ZAu47iKsVjv8=s120-c-rp-mo-br100",
+     "local_guide": true,
+     "reviews": 2,
+     "photos": 0
+    },
+    "snippet": "Worst stall including bank financing also no call reyecting they just make people timepass",
+    "extracted_snippet": {
+     "original": "Worst stall including bank financing also no call reyecting they just make people timepass"
+    },
+    "likes": 0
+   },
+   {
+    "position": 2,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1d2JVUkpTRWhGYzE5dlFrOWFibXR2TUhoU2FIYxAB!2m1!1s0x0:0x2a72c2f622a3a797!3m1!1s2@1:CAIQACodChtycF9oOk5wbURJSEhFc19vQk9abmtvMHhSaHc%7C%7C?hl=en-GB",
+    "rating": 1.0,
+    "date": "4 months ago",
+    "iso_date": "2026-06-06T11:29:18Z",
+    "iso_date_of_last_edit": "2026-06-06T11:29:18Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1d2JVUkpTRWhGYzE5dlFrOWFibXR2TUhoU2FIYxAB",
+    "user": {
+     "name": "nagavendra chamaraju",
+     "link": "https://www.google.com/maps/contrib/107432701175298073085?hl=en-GB",
+     "contributor_id": "107432701175298073085",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLALHVKZA1zVrWn8Et8qSK6ITRs0SDpiuP51u30_I56uUtJhg=s120-c-rp-mo-br100",
+     "local_guide": true,
+     "reviews": 3,
+     "photos": 0
+    },
+    "snippet": "This is like charging in home it is useless",
+    "extracted_snippet": {
+     "original": "This is like charging in home it is useless"
+    },
+    "likes": 0
+   },
+   {
+    "position": 3,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1TlEyWTJSM0ZUVEZaT2FVOW5ZbFExYW1aeVEzYxAB!2m1!1s0x0:0x2a72c2f622a3a797!3m1!1s2@1:CAIQACodChtycF9oOk5NQ2Y2R3FTTFZOaU9nYlQ1amZyQ3c%7C%7C?hl=en-GB",
+    "rating": 1.0,
+    "date": "5 months ago",
+    "iso_date": "2026-04-23T04:27:36Z",
+    "iso_date_of_last_edit": "2026-04-23T04:27:36Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TlEyWTJSM0ZUVEZaT2FVOW5ZbFExYW1aeVEzYxAB",
+    "user": {
+     "name": "Gowtham Gowda",
+     "link": "https://www.google.com/maps/contrib/104542717351492986991?hl=en-GB",
+     "contributor_id": "104542717351492986991",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ4NJRSfd8fu-xb126095FfGW_0zBVTZpnN2ReNL8cXcP_yAg=s120-c-rp-mo-br100",
+     "local_guide": true,
+     "reviews": 4,
+     "photos": 1
+    },
+    "likes": 0
+   },
+   {
+    "position": 4,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VLVExfS3pSMnU3aEVREAE!2m1!1s0x0:0x2a72c2f622a3a797!3m1!1s2@1:CIHM0ogKEKTL_KzR2u7hEQ%7C%7C?hl=en-GB",
+    "rating": 1.0,
+    "date": "a year ago",
+    "iso_date": "2025-05-27T18:15:28Z",
+    "iso_date_of_last_edit": "2025-05-27T18:15:28Z",
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VLVExfS3pSMnU3aEVREAE",
+    "user": {
+     "name": "Jeetu Dhansinghani",
+     "link": "https://www.google.com/maps/contrib/102311374378318873586?hl=en-GB",
+     "contributor_id": "102311374378318873586",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVPOANN3Z4WRRcPZwxAcDUZshmXS-L2Pt966fUaAGUvYB8viih1=s120-c-rp-mo-ba12-br100",
+     "local_guide": true,
+     "reviews": 175,
+     "photos": 391
+    },
+    "snippet": "This is some weird new charging point .. u have to bring your own charger I think ..",
+    "extracted_snippet": {
+     "original": "This is some weird new charging point .. u have to bring your own charger I think .."
+    },
+    "details": {
+     "status": "Unable to charge",
+     "issues": "Charging did not start",
+     "finding_the_charger": "Very difficult"
+    },
+    "likes": 0
+   },
+   {
+    "position": 5,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUQzNVlIUkNBEAE!2m1!1s0x0:0x2a72c2f622a3a797!3m1!1s2@1:CIHM0ogKEICAgID35YHRCA%7C%7C?hl=en-GB",
+    "rating": 5.0,
+    "date": "a year ago",
+    "iso_date": "2024-11-17T03:27:23Z",
+    "iso_date_of_last_edit": "2024-11-17T03:27:23Z",
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzNVlIUkNBEAE",
+    "user": {
+     "name": "Abhinav Bs",
+     "link": "https://www.google.com/maps/contrib/112672240205572593784?hl=en-GB",
+     "contributor_id": "112672240205572593784",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX4-qijjhipRVGIUFWYmrM13DweBgewjRU3_zCKRInxtQzX8oFF=s120-c-rp-mo-br100",
+     "local_guide": true,
+     "reviews": 0,
+     "photos": 3
+    },
+    "likes": 0
+   },
+   {
+    "position": 6,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNUOTRxRWJ3EAE!2m1!1s0x0:0x2a72c2f622a3a797!3m1!1s2@1:CIHM0ogKEICAgICT94qEbw%7C%7C?hl=en-GB",
+    "rating": 5.0,
+    "date": "2 years ago",
+    "iso_date": "2024-05-20T09:54:54Z",
+    "iso_date_of_last_edit": "2024-05-20T09:54:54Z",
+    "source": "Google",
+    "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUOTRxRWJ3EAE",
+    "user": {
+     "name": "Lokesh Goel",
+     "link": "https://www.google.com/maps/contrib/114158648109395732357?hl=en-GB",
+     "contributor_id": "114158648109395732357",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUzCZRjhyuU0USIDy7pfC8tyhgGIibNkvL6rCjyYomsL9FCMVQB4A=s120-c-rp-mo-ba12-br100",
+     "local_guide": true,
+     "reviews": 94,
+     "photos": 53
+    },
+    "likes": 0
+   }
+  ]
+ }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "buy_decision",
+  "name": "Buy Decision",
+  "description": "Is this deal real? Compares the claimed price with live prices from Google Shopping India, the full store list and Amazon.in, and checks the seller's web reputation.",
+  "category": "commerce",
+  "tags": ["price", "deal", "shopping"],
+  "featured": true,
+  "input_kind": "text",
+  "input_placeholder": "Paste the deal, e.g. 'iPhone 16 Pro 256GB at Rs 19,999 only'",
+  "sample_input": {"text": "Mega Diwali sale! Apple iPhone 16 Pro 256GB at Rs 19,999 only. Order on https://iphone-sale-deals.shop before stock ends!"},
+  "nodes": [
+    {"id": "intent", "agent": "intent"},
+    {"id": "price_reality", "agent": "price_reality"},
+    {"id": "web_reputation", "agent": "web_reputation"},
+    {"id": "verdict", "agent": "verdict"}
+  ],
+  "edges": [["intent", "price_reality"], ["intent", "web_reputation"], ["price_reality", "verdict"], ["web_reputation", "verdict"]]
+}

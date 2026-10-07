@@ -1,0 +1,38 @@
+{
+ "params": {
+  "engine": "google_immersive_product",
+  "page_token": "sample_token_iphone",
+  "more_stores": "true"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "product_results": {
+   "stores": [
+    {
+     "name": "Flipkart",
+     "extracted_price": 120400,
+     "link": "https://shop.example.com/sample/st/0"
+    },
+    {
+     "name": "Croma",
+     "extracted_price": 122400,
+     "link": "https://shop.example.com/sample/st/1"
+    },
+    {
+     "name": "Reliance Digital",
+     "extracted_price": 120400,
+     "link": "https://shop.example.com/sample/st/2"
+    },
+    {
+     "name": "Vijay Sales",
+     "extracted_price": 118990,
+     "link": "https://shop.example.com/sample/st/3"
+    }
+   ]
+  }
+ }
+}

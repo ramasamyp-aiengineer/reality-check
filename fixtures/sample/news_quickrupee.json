@@ -1,0 +1,49 @@
+{
+ "params": {
+  "engine": "google_news",
+  "q": "QuickRupee loan app",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "news_results": [
+   {
+    "title": "Cyber police block 40 illegal loan apps including QuickRupee after harassment complaints",
+    "source": {
+     "name": "Sample City Times"
+    },
+    "iso_date": "2026-09-16T07:45:20Z",
+    "link": "https://news.example.com/sample/loan-apps-blocked"
+   },
+   {
+    "title": "Victims of instant loan app QuickRupee approach police over extortion calls",
+    "source": {
+     "name": "Sample Daily"
+    },
+    "iso_date": "2026-08-20T07:45:20Z",
+    "link": "https://news.example.com/sample/loan-app-victims"
+   },
+   {
+    "title": "How to spot fake loan apps: RBI's digital lending directory explained",
+    "source": {
+     "name": "Sample Money"
+    },
+    "iso_date": "2026-07-29T07:45:20Z",
+    "link": "https://news.example.com/sample/rbi-dla-explained"
+   },
+   {
+    "title": "Loan app complaint: woman harassed with morphed photos, FIR filed",
+    "source": {
+     "name": "Sample Express"
+    },
+    "iso_date": "2026-07-04T07:45:20Z",
+    "link": "https://news.example.com/sample/fir-loan-app"
+   }
+  ]
+ }
+}

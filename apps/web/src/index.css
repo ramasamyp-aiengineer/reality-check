@@ -1,0 +1,166 @@
+@import "tailwindcss";
+@import "@xyflow/react/dist/style.css";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #f6f7fb;
+  --surface: #ffffff;
+  --surface-2: #f0f2f7;
+  --surface-3: #e7eaf2;
+  --border: #e1e5ee;
+  --border-strong: #cdd3df;
+  --foreground: #0d1424;
+  --muted: #5a6478;
+  --subtle: #8a93a6;
+  --brand: #4f46e5;
+  --brand-hover: #4338ca;
+  --brand-fg: #ffffff;
+  --brand-soft: #eef0ff;
+  --brand-line: #c7cbff;
+  --ok: #15803d;
+  --ok-soft: #e7f6ec;
+  --ok-line: #9fd8b3;
+  --bad: #dc2626;
+  --bad-soft: #fdecec;
+  --bad-line: #f3b0b0;
+  --warn: #b45309;
+  --warn-soft: #fdf3e2;
+  --warn-line: #f0cf95;
+  --na: #64748b;
+  --na-soft: #eef1f5;
+  --na-line: #cbd3de;
+  --ring: #6366f1;
+  --shadow: 0 1px 2px rgb(15 23 42 / 0.06), 0 4px 16px rgb(15 23 42 / 0.06);
+  --canvas-dot: #d5dae4;
+}
+
+.dark {
+  --background: #080b12;
+  --surface: #0e131d;
+  --surface-2: #141a26;
+  --surface-3: #1b2231;
+  --border: #1f2737;
+  --border-strong: #2c3548;
+  --foreground: #e7eaf1;
+  --muted: #94a0b5;
+  --subtle: #66718a;
+  --brand: #6366f1;
+  --brand-hover: #7476f4;
+  --brand-fg: #ffffff;
+  --brand-soft: #1a1c3d;
+  --brand-line: #34378a;
+  --ok: #22c55e;
+  --ok-soft: #0e2418;
+  --ok-line: #1d5a35;
+  --bad: #f04444;
+  --bad-soft: #2a1114;
+  --bad-line: #6e2128;
+  --warn: #f5a524;
+  --warn-soft: #2a1d0b;
+  --warn-line: #6b4a14;
+  --na: #8190a8;
+  --na-soft: #161c27;
+  --na-line: #313b4e;
+  --ring: #818cf8;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 24px rgb(0 0 0 / 0.35);
+  --canvas-dot: #1e2636;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-subtle: var(--subtle);
+  --color-brand: var(--brand);
+  --color-brand-hover: var(--brand-hover);
+  --color-brand-fg: var(--brand-fg);
+  --color-brand-soft: var(--brand-soft);
+  --color-brand-line: var(--brand-line);
+  --color-ok: var(--ok);
+  --color-ok-soft: var(--ok-soft);
+  --color-ok-line: var(--ok-line);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-bad-line: var(--bad-line);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-warn-line: var(--warn-line);
+  --color-na: var(--na);
+  --color-na-soft: var(--na-soft);
+  --color-na-line: var(--na-line);
+  --color-ring: var(--ring);
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono Variable", ui-monospace, monospace;
+  --shadow-card: var(--shadow);
+  --animate-pulse-ring: pulse-ring 1.6s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  --animate-shimmer: shimmer 1.6s linear infinite;
+}
+
+@keyframes pulse-ring {
+  0% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--brand) 55%, transparent); }
+  70% { box-shadow: 0 0 0 10px color-mix(in srgb, var(--brand) 0%, transparent); }
+  100% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--brand) 0%, transparent); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+
+@keyframes dash {
+  to { stroke-dashoffset: -20; }
+}
+
+@layer base {
+  * { border-color: var(--border); }
+  html, body, #root { height: 100%; }
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    font-feature-settings: "cv11", "ss01";
+    -webkit-font-smoothing: antialiased;
+  }
+  ::selection { background: color-mix(in srgb, var(--brand) 35%, transparent); }
+  :focus-visible { outline: 2px solid var(--ring); outline-offset: 2px; }
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-thumb { background: var(--surface-3); border-radius: 8px; border: 2px solid var(--background); }
+  ::-webkit-scrollbar-track { background: transparent; }
+}
+
+@utility tabular { font-variant-numeric: tabular-nums; }
+
+.skeleton {
+  background: linear-gradient(90deg, var(--surface-2) 0px, var(--surface-3) 80px, var(--surface-2) 160px);
+  background-size: 800px 100%;
+  animation: shimmer 1.6s linear infinite;
+}
+
+/* React Flow theme */
+.react-flow { --xy-background-color: transparent; }
+.react-flow__attribution { display: none; }
+.react-flow__edge-path { stroke: var(--border-strong); stroke-width: 1.6; }
+.react-flow__edge.animated .react-flow__edge-path,
+.rc-edge-live .react-flow__edge-path { stroke: var(--brand); stroke-dasharray: 6 4; animation: dash 0.6s linear infinite; }
+.rc-edge-done .react-flow__edge-path { stroke: color-mix(in srgb, var(--ok) 70%, var(--border-strong)); }
+.rc-edge-contradiction .react-flow__edge-path { stroke: var(--bad); stroke-width: 2; }
+.rc-edge-support .react-flow__edge-path { stroke: var(--ok); stroke-width: 2; }
+.rc-edge-gap .react-flow__edge-path { stroke: var(--warn); stroke-dasharray: 4 4; }
+.react-flow__handle { width: 8px; height: 8px; background: var(--surface-3); border: 1.5px solid var(--border-strong); }
+.react-flow__handle:hover { background: var(--brand); border-color: var(--brand); }
+.react-flow__controls { box-shadow: var(--shadow); border-radius: 10px; overflow: hidden; border: 1px solid var(--border); }
+.react-flow__controls-button { background: var(--surface); border-bottom: 1px solid var(--border); fill: var(--muted); color: var(--muted); }
+.react-flow__controls-button:hover { background: var(--surface-2); }
+.react-flow__minimap { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; }
+.react-flow__node.selected > div { outline: 2px solid var(--brand); outline-offset: 2px; border-radius: 14px; }
+.react-flow__pane { cursor: default; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; }
+}

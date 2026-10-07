@@ -1,0 +1,17 @@
+{
+  "id": "image_check",
+  "name": "Image Provenance Check",
+  "description": "Is that 'proof' screenshot or product photo original? Google Lens exact matches show where else it appears.",
+  "category": "trust",
+  "tags": ["lens", "image"],
+  "input_kind": "text",
+  "input_placeholder": "Describe the claim and paste a public image URL",
+  "sample_input": {"text": "Payment proof screenshot from Lucky Draw India", "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Example.jpg"},
+  "nodes": [
+    {"id": "intent", "agent": "intent"},
+    {"id": "visual_provenance", "agent": "visual_provenance"},
+    {"id": "web_reputation", "agent": "web_reputation"},
+    {"id": "verdict", "agent": "verdict"}
+  ],
+  "edges": [["intent", "visual_provenance"], ["intent", "web_reputation"], ["visual_provenance", "verdict"], ["web_reputation", "verdict"]]
+}

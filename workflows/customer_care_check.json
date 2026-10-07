@@ -1,0 +1,17 @@
+{
+  "id": "customer_care_check",
+  "name": "Customer Care Number Check",
+  "description": "Found a helpline number online? Checks whether it belongs to the business on Google Maps and what the web says about it.",
+  "category": "trust",
+  "tags": ["helpline", "phone"],
+  "input_kind": "text",
+  "input_placeholder": "Paste the company name and number",
+  "sample_input": {"text": "NimbusPay Bank customer care toll free 1800-000-0000 for refund and KYC update. Share OTP with our executive to verify."},
+  "nodes": [
+    {"id": "intent", "agent": "intent"},
+    {"id": "web_reputation", "agent": "web_reputation"},
+    {"id": "place_reality", "agent": "place_reality"},
+    {"id": "verdict", "agent": "verdict"}
+  ],
+  "edges": [["intent", "web_reputation"], ["intent", "place_reality"], ["web_reputation", "verdict"], ["place_reality", "verdict"]]
+}

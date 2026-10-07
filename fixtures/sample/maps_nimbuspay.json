@@ -1,0 +1,35 @@
+{
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "NimbusPay Bank",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "local_results": [
+   {
+    "title": "NimbusPay Bank",
+    "data_id": "0xsample:nimbuspay",
+    "rating": 4.0,
+    "reviews": 1280,
+    "address": "12 Residency Rd, Bengaluru (sample)",
+    "phone": "080 4000 0000",
+    "type": "Bank",
+    "website": "https://www.nimbuspay.example"
+   },
+   {
+    "title": "NimbusPay Bank ATM",
+    "data_id": "0xsample:nimbuspay-atm",
+    "rating": 3.6,
+    "reviews": 88,
+    "address": "Brigade Rd, Bengaluru (sample)",
+    "type": "ATM"
+   }
+  ]
+ }
+}

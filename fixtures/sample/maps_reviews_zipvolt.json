@@ -1,0 +1,235 @@
+{
+ "params": {
+  "engine": "google_maps_reviews",
+  "data_id": "0xsample:zipvolt",
+  "sort_by": "newestFirst",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "place_info": {
+   "rating": 4.1,
+   "reviews": 640
+  },
+  "topics": [
+   {
+    "keyword": "service",
+    "mentions": 88
+   },
+   {
+    "keyword": "range",
+    "mentions": 61
+   },
+   {
+    "keyword": "battery",
+    "mentions": 47
+   }
+  ],
+  "reviews": [
+   {
+    "rating": 5,
+    "snippet": "Great scooter but after sales service is poor. Workshop always busy.",
+    "iso_date": "2026-10-07T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Great scooter but after sales service is poor. Workshop always busy.",
+    "iso_date": "2026-10-06T07:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Service center takes 2 weeks for a simple repair, spares not available.",
+    "iso_date": "2026-10-05T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Range drops to 90 km in real use, battery degrades fast.",
+    "iso_date": "2026-10-04T07:45:20Z"
+   },
+   {
+    "rating": 2,
+    "snippet": "Range drops to 90 km in real use, battery degrades fast.",
+    "iso_date": "2026-10-03T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Love the design and pickup.",
+    "iso_date": "2026-10-02T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Range drops to 90 km in real use, battery degrades fast.",
+    "iso_date": "2026-10-01T07:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Range drops to 90 km in real use, battery degrades fast.",
+    "iso_date": "2026-09-30T07:45:20Z"
+   },
+   {
+    "rating": 2,
+    "snippet": "Charging takes too long and the charger broke in 3 months.",
+    "iso_date": "2026-09-29T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Charging takes too long and the charger broke in 3 months.",
+    "iso_date": "2026-09-28T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Smooth ride, good value for money.",
+    "iso_date": "2026-09-27T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Charging takes too long and the charger broke in 3 months.",
+    "iso_date": "2026-09-26T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Service center takes 2 weeks for a simple repair, spares not available.",
+    "iso_date": "2026-09-25T07:45:20Z"
+   },
+   {
+    "rating": 2,
+    "snippet": "Delivery delayed by a month after booking.",
+    "iso_date": "2026-09-24T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Charging takes too long and the charger broke in 3 months.",
+    "iso_date": "2026-09-23T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Delivery delayed by a month after booking.",
+    "iso_date": "2026-09-22T07:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Love the design and pickup.",
+    "iso_date": "2026-09-21T07:45:20Z"
+   },
+   {
+    "rating": 2,
+    "snippet": "Delivery delayed by a month after booking.",
+    "iso_date": "2026-09-20T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Delivery delayed by a month after booking.",
+    "iso_date": "2026-09-19T07:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Charging takes too long and the charger broke in 3 months.",
+    "iso_date": "2026-09-18T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Service center takes 2 weeks for a simple repair, spares not available.",
+    "iso_date": "2026-09-17T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Great scooter but after sales service is poor. Workshop always busy.",
+    "iso_date": "2026-09-16T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Delivery delayed by a month after booking.",
+    "iso_date": "2026-09-15T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Delivery delayed by a month after booking.",
+    "iso_date": "2026-09-14T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Delivery delayed by a month after booking.",
+    "iso_date": "2026-09-13T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Smooth ride, good value for money.",
+    "iso_date": "2026-09-12T07:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Love the design and pickup.",
+    "iso_date": "2026-09-11T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Smooth ride, good value for money.",
+    "iso_date": "2026-09-10T07:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Range drops to 90 km in real use, battery degrades fast.",
+    "iso_date": "2026-09-09T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Range drops to 90 km in real use, battery degrades fast.",
+    "iso_date": "2026-09-08T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Great scooter but after sales service is poor. Workshop always busy.",
+    "iso_date": "2026-09-07T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Charging takes too long and the charger broke in 3 months.",
+    "iso_date": "2026-09-06T07:45:20Z"
+   },
+   {
+    "rating": 2,
+    "snippet": "Charging takes too long and the charger broke in 3 months.",
+    "iso_date": "2026-09-05T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Great scooter but after sales service is poor. Workshop always busy.",
+    "iso_date": "2026-09-04T07:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Love the design and pickup.",
+    "iso_date": "2026-09-03T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Love the design and pickup.",
+    "iso_date": "2026-09-02T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Range drops to 90 km in real use, battery degrades fast.",
+    "iso_date": "2026-09-01T07:45:20Z"
+   },
+   {
+    "rating": 3,
+    "snippet": "Range drops to 90 km in real use, battery degrades fast.",
+    "iso_date": "2026-08-31T07:45:20Z"
+   },
+   {
+    "rating": 4,
+    "snippet": "Smooth ride, good value for money.",
+    "iso_date": "2026-08-30T07:45:20Z"
+   },
+   {
+    "rating": 5,
+    "snippet": "Service center takes 2 weeks for a simple repair, spares not available.",
+    "iso_date": "2026-08-29T07:45:20Z"
+   }
+  ]
+ }
+}

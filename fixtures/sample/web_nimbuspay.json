@@ -1,0 +1,47 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "NimbusPay Bank reviews complaints",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "organic_results": [
+   {
+    "title": "NimbusPay Bank - Official Website | Contact Us",
+    "link": "https://www.nimbuspay.example/contact",
+    "snippet": "Our only customer care number is 080-4000-0000. We never ask for OTP, PIN or passwords."
+   },
+   {
+    "title": "Beware of fake NimbusPay Bank customer care numbers on search ads",
+    "link": "https://www.reddit.com/r/sample/nimbuspay-fake-care",
+    "snippet": "Called a 1800 number from a search result, they asked me to share OTP and money was debited."
+   },
+   {
+    "title": "NimbusPay Bank fake helpline complaint - Consumer Complaints",
+    "link": "https://www.consumercomplaints.in/sample/nimbuspay-helpline",
+    "snippet": "Fraudsters posing as NimbusPay customer care took Rs 24,000 after a KYC update call."
+   },
+   {
+    "title": "NimbusPay Bank warns customers about fake KYC update calls",
+    "link": "https://news.example.com/sample/nimbuspay-kyc-warning",
+    "snippet": "Warning: the bank says it never calls customers for KYC over phone."
+   },
+   {
+    "title": "NimbusPay Bank savings account review",
+    "link": "https://money-blog.example/sample/nimbuspay-review",
+    "snippet": "Interest rates, branch network and app experience compared."
+   },
+   {
+    "title": "NimbusPay Bank - Apps on Google Play",
+    "link": "https://play.google.com/store/apps/details?id=com.nimbuspay.sample",
+    "snippet": "Official mobile banking app of NimbusPay Bank."
+   }
+  ]
+ }
+}

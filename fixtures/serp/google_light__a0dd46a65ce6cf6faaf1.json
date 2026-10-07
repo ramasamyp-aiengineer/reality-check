@@ -1,0 +1,157 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "Profit Kings Advisory reviews complaints",
+  "num": "20",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fa966b036fffd17a7537",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/ero6RNDcEIc9pK52VHXNE8DZ-slUnW4XVCnM48Mabs4/6ac5fa966b036fffd17a7537.json",
+   "markdown_endpoint": "https://serpapi.com/searches/ero6RNDcEIc9pK52VHXNE8DZ-slUnW4XVCnM48Mabs4/6ac5fa966b036fffd17a7537.md",
+   "created_at": "2026-10-07 07:53:58 UTC",
+   "processed_at": "2026-10-07 07:53:58 UTC",
+   "google_light_url": "https://www.google.com/search?q=Profit+Kings+Advisory+reviews+complaints&oq=Profit+Kings+Advisory+reviews+complaints&hl=en&gl=in&sourceid=chrome&ie=UTF-8&gbv=1",
+   "raw_html_file": "https://serpapi.com/searches/ero6RNDcEIc9pK52VHXNE8DZ-slUnW4XVCnM48Mabs4/6ac5fa966b036fffd17a7537.html",
+   "total_time_taken": 18.85
+  },
+  "search_parameters": {
+   "engine": "google_light",
+   "q": "Profit Kings Advisory reviews complaints",
+   "google_domain": "google.com",
+   "hl": "en",
+   "gl": "in",
+   "device": "desktop"
+  },
+  "search_information": {
+   "query_displayed": "Profit Kings Advisory reviews complaints",
+   "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+   {
+    "position": 1,
+    "title": "Kings Research Reviews in Pune | Glassdoor",
+    "link": "https://www.glassdoor.co.in/Reviews/Kings-Research-Pune-Reviews-EI_IE8249360.0,14_IL.15,19_IC2856202.htm",
+    "displayed_link": "www.glassdoor.co.in › Reviews › Kings-Research-Pune-Reviews-EI_IE824...",
+    "snippet": "Structural Failure: AI-Generated Domain Deficit, Wage Theft, and Zero Stability · Low pay · This is good work and culturally appropriate.",
+    "extensions": [
+     "Rating",
+     "3.4(13)"
+    ]
+   },
+   {
+    "position": 2,
+    "title": "Working at King of Kings: Employee Reviews about Pay and benefits",
+    "link": "https://www.indeed.com/cmp/King-of-Kings/reviews?ftopic=paybenefits",
+    "displayed_link": "www.indeed.com › ... › King of Kings › Employee Reviews",
+    "snippet": "Overall rating 3.4 Based on 9 reviews 5. Work-life balance 3.7. Pay and benefits 3.7. Job security and advancement 3.4 … s his employees to forego family time,",
+    "extensions": [
+     "Rating",
+     "3.4(9)"
+    ]
+   },
+   {
+    "position": 3,
+    "title": "FinAKS Advisory Services Finance Executive reviews in Bangalore",
+    "link": "https://www.glassdoor.co.in/Reviews/FinAKS-Advisory-Services-Finance-Executive-Bangalore-Reviews-EI_IE2544665.0,24_KO25,42_IL.43,52_IM1091.htm",
+    "displayed_link": "www.glassdoor.co.in › Reviews › FinAKS-Advisory-Services-Finance-Exe...",
+    "snippet": "Company is run by one person and all decisions are made him alone - Company hires without proper interview/screening process - Many false promises on ...",
+    "extensions": [
+     "Rating",
+     "3.3(3)"
+    ]
+   },
+   {
+    "position": 4,
+    "title": "KRP Global Advisory Review | AmbitionBox",
+    "link": "https://www.ambitionbox.com/reviews/krp-global-advisory-reviews/financial-research-analyst",
+    "displayed_link": "www.ambitionbox.com › Reviews › KRP Global Advisory Reviews",
+    "snippet": "The ratings are based on a small number of reviews or all reviews are older than a year, so it may not fully reflect the overall employee experience.",
+    "extensions": [
+     "Rating",
+     "4.0(1)"
+    ]
+   },
+   {
+    "position": 5,
+    "title": "The Prop Advisory Review | AmbitionBox",
+    "link": "https://www.ambitionbox.com/reviews/the-prop-advisory-reviews",
+    "displayed_link": "www.ambitionbox.com › Reviews",
+    "snippet": "Overall Rating info based on 1 review 4.0/5. Employers cannot manipulate reviews. Dislikes: Everything was fine. This job involves Travel ...",
+    "extensions": [
+     "Rating",
+     "4.0(1)"
+    ],
+    "date": "21 Sept 2024"
+   },
+   {
+    "position": 6,
+    "title": "RBK BUSINESS WORLD Financial Consultant Review - AmbitionBox",
+    "link": "https://www.ambitionbox.com/reviews/rbk-business-world-reviews/financial-consultant",
+    "displayed_link": "www.ambitionbox.com › Reviews › RBK BUSINESS WORLD Reviews",
+    "snippet": "Overall Rating info based on 1 review 5.0/5 5.0 Company Culture 5.0 Job Security 5.0 Salary 5.0 Work-Life Balance 5.0 Skill Development 5.0 Promotions 5.0. ...",
+    "extensions": [
+     "Rating",
+     "5.0(7)"
+    ]
+   },
+   {
+    "position": 7,
+    "title": "Royal Kings Pte Review | AmbitionBox",
+    "link": "https://www.ambitionbox.com/reviews/royal-kings-pte-reviews",
+    "displayed_link": "www.ambitionbox.com › Reviews",
+    "snippet": "Likes. It gave me long-term exposure to end to end accounting responsibilities in an international business environment.",
+    "extensions": [
+     "Rating",
+     "4.0(1)"
+    ],
+    "date": "16 Jan 2026"
+   },
+   {
+    "position": 8,
+    "title": "Life at King's Kraft : Culture, Salary, Reviews, Interviews & more",
+    "link": "https://www.ambitionbox.com/overview/kings-kraft-overview",
+    "displayed_link": "www.ambitionbox.com › List of Companies",
+    "snippet": "Get an inside look of King's Kraft — culture, pay, reviews, interview questions, job openings, corporate offices, peer comparison and more on AmbitionBox.",
+    "extensions": [
+     "Rating",
+     "2.0(3)"
+    ]
+   },
+   {
+    "position": 9,
+    "title": "Equentis Research and Ranking Wealth Advisor Review",
+    "link": "https://www.ambitionbox.com/reviews/equentis-research-and-ranking-reviews/wealth-advisor",
+    "displayed_link": "www.ambitionbox.com › Reviews › Equentis Research and Ranking Reviews",
+    "snippet": "Likes. All departments are good, balanced work life except sales department. Dislikes. 10-11 hrs working fake promises to client that our ...",
+    "extensions": [
+     "Rating",
+     "2.2(13)"
+    ],
+    "date": "16 Jun 2025"
+   },
+   {
+    "position": 10,
+    "title": "PropKey Advisors Reviews by 4 Employees | Rated 4.5/5",
+    "link": "https://www.ambitionbox.com/reviews/propkey-advisors-reviews",
+    "displayed_link": "www.ambitionbox.com › Reviews",
+    "snippet": "However, with an overall rating of 4.5 out of 5 from over 4 employee reviews, it's clear that most employees have a positive experience working at PropKey ...",
+    "extensions": [
+     "Rating",
+     "4.5(4)"
+    ]
+   }
+  ],
+  "answer_box": {
+   "type": "organic_result",
+   "title": "Rating 3.4(13)Structural Failure: AI-Generated Domain Deficit, Wage Theft, and Zero Stability · Low pay · This is good work and culturally appropriate."
+  },
+  "serpapi_pagination": {
+   "current": 1,
+   "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&gl=in&google_domain=google.com&hl=en&q=Profit+Kings+Advisory+reviews+complaints&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+  }
+ }
+}

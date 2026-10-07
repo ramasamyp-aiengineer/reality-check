@@ -1,0 +1,40 @@
+{
+ "params": {
+  "engine": "google_ads_transparency_center",
+  "text": "QuickRupee",
+  "region": "2356"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "ad_creatives": [
+   {
+    "advertiser": "Lucky Star Marketing Solutions",
+    "advertiser_id": "AR000SAMPLE1",
+    "format": "image",
+    "first_shown": 1788767120,
+    "last_shown": 1791186320,
+    "details_link": "https://adstransparency.google.com/sample/1"
+   },
+   {
+    "advertiser": "Lucky Star Marketing Solutions",
+    "advertiser_id": "AR000SAMPLE1",
+    "format": "video",
+    "first_shown": 1789631120,
+    "last_shown": 1791272720,
+    "details_link": "https://adstransparency.google.com/sample/2"
+   },
+   {
+    "advertiser": "Apex Growth Media",
+    "advertiser_id": "AR000SAMPLE2",
+    "format": "text",
+    "first_shown": 1790322320,
+    "last_shown": 1791099920,
+    "details_link": "https://adstransparency.google.com/sample/3"
+   }
+  ]
+ }
+}

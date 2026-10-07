@@ -1,0 +1,410 @@
+{
+ "params": {
+  "engine": "google_news",
+  "q": "Profit Kings Advisory",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fa96d5fd74b19c9c2c98",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/wNGptfRZBSvQefzcNPEVMISvaHXkIE0HKsgTo7cDPp4/6ac5fa96d5fd74b19c9c2c98.json",
+   "markdown_endpoint": "https://serpapi.com/searches/wNGptfRZBSvQefzcNPEVMISvaHXkIE0HKsgTo7cDPp4/6ac5fa96d5fd74b19c9c2c98.md",
+   "created_at": "2026-10-07 07:53:58 UTC",
+   "processed_at": "2026-10-07 07:53:58 UTC",
+   "google_news_url": "https://news.google.com/search?q=Profit+Kings+Advisory&hl=en&gl=IN",
+   "raw_html_file": "https://serpapi.com/searches/wNGptfRZBSvQefzcNPEVMISvaHXkIE0HKsgTo7cDPp4/6ac5fa96d5fd74b19c9c2c98.html",
+   "total_time_taken": 0.49
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "in",
+   "hl": "en",
+   "q": "Profit Kings Advisory"
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "Passive income kings! Consider these 7 shares with an average 6.6% yield",
+    "source": {
+     "name": "The Twelfth Magpie",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.twelfthmagpie.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Royston Wild"
+     ]
+    },
+    "link": "https://www.twelfthmagpie.com/2026/07/18/passive-income-kings-consider-these-7-shares-with-an-average-6-6-yield/",
+    "thumbnail": "https://www.twelfthmagpie.com/wp-content/uploads/2024/05/Colourful-piggy-banks-1200x800.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWllbTlrYWpOaE5tWXhlRFpWVFJERUF4aW1CU2dLTWdrQkFJUWdrYWE0TXdF",
+    "date": "07/18/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-18T07:00:00Z"
+   },
+   {
+    "position": 2,
+    "title": "Restaurant Brands International earnings beat as Burger King's U.S. business soars",
+    "source": {
+     "name": "CNBC",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Amelia Lucas"
+     ]
+    },
+    "link": "https://www.cnbc.com/2026/08/06/restaurant-brands-international-q2-2026-earnings.html",
+    "thumbnail": "https://image.cnbcfm.com/api/v1/image/108345415-1785946653581-gettyimages-2259539837-dsc_3200_aplgpzhx.jpeg?v=1786133542&w=1600&h=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhhSFpEVFVWcFdrVjVOM2x1VFJDZkF4ampCU2dLTWdZUlFKb0xMZ2c",
+    "date": "08/06/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-06T07:00:00Z"
+   },
+   {
+    "position": 3,
+    "title": "DraftKings Reports First Quarter Revenue of $1,646 Million",
+    "source": {
+     "name": "Business Wire",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.businesswire.com/news/home/20260507550662/en/DraftKings-Reports-First-Quarter-Revenue-of-%241646-Million",
+    "thumbnail": "https://mms.businesswire.com/media/20260507550662/en/2799105/22/DraftKings_Linear_Logo_FC.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJSUzFrV1hjMFMxUnBZekJCVFJDSEF4aVBCaWdLTWdZQnNKQ2l1Z1U",
+    "date": "05/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-07T07:00:00Z"
+   },
+   {
+    "position": 4,
+    "title": "Burger King's $700 Million Fix Is Paying Off for Restaurant Brands International",
+    "source": {
+     "name": "Yahoo Finance",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://finance.yahoo.com/markets/stocks/articles/burger-kings-700-million-fix-193500167.html",
+    "thumbnail": "https://s.yimg.com/lo/mysterio/api/e4d2c48dbe41531a37d4db836f2c048d3b81d0f29488947053324734fa4f4073/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F616c9442d594e847be852cb77759eb30.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJTRzl4UVZSYVRubDZaVmRCVFJERUF4aW1CU2dLTWdtQk1aanNuYWcxU2dJ",
+    "date": "08/20/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-20T07:00:00Z"
+   },
+   {
+    "position": 5,
+    "title": "Students gain early insight into the world of accountancy",
+    "source": {
+     "name": "Greater Birmingham Chambers of Commerce",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.greaterbirminghamchambers.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.greaterbirminghamchambers.com/resource/students-gain-early-insight-into-the-world-of-accountancy.html",
+    "thumbnail": "https://www.greaterbirminghamchambers.com/static/c4e85b0e-acf5-402a-8fb78c8297212ed8/resourcedetailfeatureimage_8e345d47e6db852945ffa488814c1540_4a7c7e45a350/Kings-Trust01.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpielpQVld4c1gzWlJZVEZ3VFJEU0F4aVNCU2dLTWdB",
+    "date": "04/20/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-20T07:00:00Z"
+   },
+   {
+    "position": 6,
+    "title": "9 Best Dividend Stocks to Buy and Hold for October 2026",
+    "source": {
+     "name": "The Motley Fool",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Rachel L. Warren"
+     ]
+    },
+    "link": "https://www.fool.com/investing/stock-market/types-of-stocks/dividend-stocks/",
+    "thumbnail": "https://m.foolcdn.com/media/dubs/original_images/dividend-stocks-infographic.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZhbTl1WDBkSmJsVjRTSEE0VFJDSEF4aVBCaWdLTWdrRkFZaW1xaWNzZ1FN",
+    "date": "04/17/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-17T07:00:00Z"
+   },
+   {
+    "position": 7,
+    "title": "These Household Names Are Dividend Kings. They’re Rock-Solid For Income.",
+    "source": {
+     "name": "Barron's",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Elizabeth O'Brien"
+     ]
+    },
+    "link": "https://www.barrons.com/articles/retirement-dividend-income-stocks-559e8ee9",
+    "thumbnail": "https://images.barrons.com/im-16060092?width=700&height=466",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpkWEpZZEVZeVJuUnBSbEF0VFJERUF4aW5CU2dLTWdZQkVJUm1xQWM",
+    "date": "06/28/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-28T07:00:00Z"
+   },
+   {
+    "position": 8,
+    "title": "The 5 Safest Dividend Kings Are the Only Stocks to Buy Now",
+    "source": {
+     "name": "24/7 Wall St.",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lee Jackson"
+     ]
+    },
+    "link": "https://247wallst.com/investing/2026/03/13/the-five-safest-dividend-kings-are-the-only-stocks-to-buy-now/",
+    "thumbnail": "https://247wallst.com/wp-content/uploads/2024/11/shutterstock-2470994751-huge-licensed-scaled.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVibGswVmtOU1kyMWFVMHMyVFJERUF4aW1CU2dLTWdZWkk0Nk5IUWM",
+    "date": "03/13/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-13T07:00:00Z"
+   },
+   {
+    "position": 9,
+    "title": "DraftKings on track for first profitable year as US sports betting expands",
+    "source": {
+     "name": "S&P Global",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.spglobal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2025/08/draftkings-on-track-for-first-profitable-year-as-us-sports-betti",
+    "thumbnail": "https://www.capitaliq.spglobal.com/Articles/431283178.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXBja05tWXpoaVlrbGhNM3AwVFJDREJCalRCQ2dLTWdNQlVBNA",
+    "date": "09/05/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-09-05T07:00:00Z"
+   },
+   {
+    "position": 10,
+    "title": "Kings XI Punjab's FY20 operating income declined 43% to Rs 214.84 cr",
+    "source": {
+     "name": "Exchange4Media",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.exchange4media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Javed Farooqui"
+     ]
+    },
+    "link": "https://www.exchange4media.com/ipl-news/kings-xi-punjabs-fy20-operating-income-declined-43-to-rs-21484-cr-110402.html",
+    "thumbnail": "https://exchange4media.gumlet.io/news-photo/110402-image-2021-01-21T142003.756.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNYMk5tVjBKTk5HUkVRUzF3VFJDZkF4ampCU2dLTWdZcEJZck9GUWM",
+    "date": "01/21/2021, 08:00 AM, +0000 UTC",
+    "iso_date": "2021-01-21T08:00:00Z"
+   },
+   {
+    "position": 11,
+    "title": "IPL 2025 drives new signings, over 20% more sponsorship revenue as teams remain on the front foot",
+    "source": {
+     "name": "Moneycontrol.com",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Maryam Farooqui"
+     ]
+    },
+    "link": "https://www.moneycontrol.com/sports/ipl-2025-drives-new-signings-over-20-more-sponsorship-revenue-as-teams-remain-on-the-front-foot-article-12965962.html",
+    "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/02/20250216114039_IPL-trophy-1.jpg?impolicy=website&width=1600&height=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRVM0ZEUVRSSFZtdHJUVXBmVFJDZkF4ampCU2dLTWdhdEpJS1BuUVk",
+    "date": "03/17/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-03-17T07:00:00Z"
+   },
+   {
+    "position": 12,
+    "title": "DraftKings Shares Jump on Fourth Quarter Results, New Revenue Data",
+    "source": {
+     "name": "Sportico.com",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sportico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Eben Novy-williams"
+     ]
+    },
+    "link": "https://www.sportico.com/business/sports-betting/2025/draftkings-igaming-revenue-fourth-quarter-2024-1234828204/",
+    "thumbnail": "https://www.sportico.com/wp-content/uploads/2025/02/GettyImages-1256703545-e1739484439105.webp",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdlazEyYVdoR0xUSjFRa05LVFJDZkF4amlCU2dLTWdhaFU1cE1wUWc",
+    "date": "02/13/2025, 08:00 AM, +0000 UTC",
+    "iso_date": "2025-02-13T08:00:00Z"
+   },
+   {
+    "position": 13,
+    "title": "Business class flights to be repaid following probe into King’s School regatta trip",
+    "source": {
+     "name": "SMH.com.au",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.smh.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lucy Carroll"
+     ]
+    },
+    "link": "https://www.smh.com.au/national/nsw/business-class-flights-to-be-repaid-following-probe-into-king-s-school-regatta-trip-20230810-p5dvec.html",
+    "thumbnail": "https://static.ffx.io/images/$zoom_1.0347%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_metro_no_label_social_wm/l_text:PT%20Sans_25_bold_italic:%20from%20%2Cg_north_west%2Cy_7%2Cx_30%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55:%202023%20%2Cg_north_west%2Cy_32%2Cx_20%2Cco_rgb:0a1633/9e724aeb55e2b87b89f25e53af85366f74aaf8a7",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVaamhzVjBKWWJYVjRaMWhYVFJDUUF4ai1CU2dLTWdrQk1vYUVUcU0xWndJ",
+    "date": "08/10/2023, 07:00 AM, +0000 UTC",
+    "iso_date": "2023-08-10T07:00:00Z"
+   },
+   {
+    "position": 14,
+    "title": "Kingswood acquires IFA for £12.4m",
+    "source": {
+     "name": "Money Marketing",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.moneymarketing.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Michael Klimes"
+     ]
+    },
+    "link": "https://www.moneymarketing.co.uk/news/kingswood-acquires-ifa-for-12-4m/",
+    "thumbnail": "https://cdn.moneymarketing.co.uk/content/uploads/2021/06/23093828/shutterstock_1493961467-750x500.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBlaTFJUjNCUmMzbzFSbGR0VFJERUF4aW1CU2dLTWdrWlE0cE50ZVZNYVFJ",
+    "date": "12/01/2022, 08:00 AM, +0000 UTC",
+    "iso_date": "2022-12-01T08:00:00Z"
+   },
+   {
+    "position": 15,
+    "title": "Diddy's Earnings: $64 Million In 2018",
+    "source": {
+     "name": "Forbes",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Zack O'Malley Greenburg"
+     ]
+    },
+    "link": "https://www.forbes.com/sites/zackomalleygreenburg/2018/09/13/diddys-earnings-64-million-in-2018/",
+    "thumbnail": "https://specials-images.forbesimg.com/dam/imageserve/963873754/960x0.jpg?fit=scale",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpaM0JHWkdzd2RYQkZZVkJHVFJERUF4aW1CU2dLTWdheEZKQ1FGUW8",
+    "date": "09/13/2018, 07:00 AM, +0000 UTC",
+    "iso_date": "2018-09-13T07:00:00Z"
+   },
+   {
+    "position": 16,
+    "title": "Tulare, Kings Counties Have High Rates Of Unsheltered Homeless. One Non-Profit Thinks It Can Help.",
+    "source": {
+     "name": "KVPR",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.kvpr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Laura Tsutsui"
+     ]
+    },
+    "link": "https://www.kvpr.org/community/2019-11-18/tulare-kings-counties-have-high-rates-of-unsheltered-homeless-one-non-profit-thinks-it-can-help",
+    "thumbnail": "https://npr.brightspotcdn.com/dims4/default/ccc5319/2147483647/strip/true/crop/6000x4000+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkvpr%2Ffiles%2F201911%2FAdrianneHillman-homedesigns-20191115.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhSWFZWWDFaMk0ybHBNSE5pVFJDM0FSaVRBaWdCTWdrRnhZRFBZV0xCTXdF",
+    "date": "11/18/2019, 08:00 AM, +0000 UTC",
+    "iso_date": "2019-11-18T08:00:00Z"
+   },
+   {
+    "position": 17,
+    "title": "Aug. 27: Bill Gates Bails on Dem Dark Money Kings",
+    "source": {
+     "name": "Tablet Magazine",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tabletmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Park Macdougald"
+     ]
+    },
+    "link": "https://www.tabletmag.com/the-scroll/articles/scroll-aug-27-bill-gates-arabella-advisors",
+    "thumbnail": "https://tablet-mag-images.b-cdn.net/production/23eb77eb1e4ca3c9c6ce6356513086a5191bddae-8192x5464.jpg?w=1080&q=70&auto=format&dpr=1",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVBPRjh4UVRVeVIxTmpPR0pvVFJERUF4aW1CU2dLTWdB",
+    "date": "08/27/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-08-27T07:00:00Z"
+   },
+   {
+    "position": 18,
+    "title": "Burger King’s profit down amid turnaround push",
+    "source": {
+     "name": "San Diego Union-Tribune",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sandiegouniontribune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.sandiegouniontribune.com/2012/10/29/burger-kings-profit-down-amid-turnaround-push/",
+    "thumbnail": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2012/10/29/00000169-0cef-dbbe-a16f-4eef0c2e0000.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZZemRvU0dGamNHZG9NMVUxVFJERUFoaUFCQ2dLTWdtRlVZNFJNU1hCN1FF",
+    "date": "10/29/2012, 07:00 AM, +0000 UTC",
+    "iso_date": "2012-10-29T07:00:00Z"
+   },
+   {
+    "position": 19,
+    "title": "6 High-Yield Dividend Stocks Under $25 Are the Passive Income Kings",
+    "source": {
+     "name": "24/7 Wall St.",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lee Jackson"
+     ]
+    },
+    "link": "https://247wallst.com/investing/2024/09/20/6-high-yield-dividend-stocks-under-25-are-the-passive-income-kings/",
+    "thumbnail": "https://247wallst.com/wp-content/uploads/2020/12/imageForEntry1-fVg.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVVWFUzVUdkV1pqZHZaV3MzVFJDZkF4ampCU2dLTWdZRlVZd0hLUWc",
+    "date": "09/20/2024, 07:00 AM, +0000 UTC",
+    "iso_date": "2024-09-20T07:00:00Z"
+   },
+   {
+    "position": 20,
+    "title": "King’s School under investigation over possible misuse of public funding",
+    "source": {
+     "name": "SMH.com.au",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.smh.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lucy Carroll"
+     ]
+    },
+    "link": "https://www.smh.com.au/national/nsw/king-s-school-under-investigation-over-possible-misuse-of-public-funding-20221006-p5bns6.html",
+    "thumbnail": "https://static.ffx.io/images/$zoom_0.137%2C$multiply_0.7725%2C$ratio_1.5%2C$width_756%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/65d6c26fdb84705383a9e20cdcdd2a1964c72986",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZWV1pDWVhCalFrOXBXVGhEVFJDRkF4aklCQ2dLTWdiSklKNjFtQWs",
+    "date": "10/06/2022, 07:00 AM, +0000 UTC",
+    "iso_date": "2022-10-06T07:00:00Z"
+   },
+   {
+    "position": 21,
+    "title": "Kings' School Al Barsha Experience",
+    "source": {
+     "name": "WhichSchoolAdvisor.com",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://whichschooladvisor.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://whichschooladvisor.com/uae/school-review/kings-school-al-barsha/experience",
+    "thumbnail": "https://media-whichmedia.s3.ap-southeast-1.amazonaws.com/media/large/7/3/733b35ebb11d.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZUbTlDYVZoVFRIZ3laV3AyVFJERUF4aW1CU2dLTWdhSlFacmxvQWs",
+    "date": "11/06/2017, 03:04 PM, +0000 UTC",
+    "iso_date": "2017-11-06T15:04:43Z"
+   },
+   {
+    "position": 22,
+    "title": "Dmart is dead. Long live Dmart.",
+    "source": {
+     "name": "The Financial Express",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.financialexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Manvi Aggarwal"
+     ]
+    },
+    "link": "https://www.financialexpress.com/market/stock-insights/dmart-is-dead-long-live-dmart/3951370/",
+    "thumbnail": "https://images.financialexpressdigital.com/2025/08/Untitled-design-1-16.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZOWGxQUmpVMmFXaEdjVWRqVFJDZkF4ampCU2dLTWdrZEFJcU54YVFPWUFN",
+    "date": "08/20/2025, 07:00 AM, +0000 UTC",
+    "iso_date": "2025-08-20T07:00:00Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "India",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+   },
+   {
+    "title": "World",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Your local news",
+    "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+   },
+   {
+    "title": "Business",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Technology",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Entertainment",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Sports",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Science",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Health",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+   }
+  ]
+ }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "investment_tip_check",
+  "name": "Investment Tip Check",
+  "description": "A Telegram or WhatsApp stock tip? Checks SEBI's adviser lists, the live NSE quote, web reputation and news.",
+  "category": "trust",
+  "tags": ["sebi", "stocks", "tips"],
+  "input_kind": "text",
+  "input_placeholder": "Paste the tip message",
+  "sample_input": {"text": "Join Profit Kings Advisory for guaranteed returns of 30% a month! Today's multibagger: buy RELIANCE now. Pay Rs 4,999 to join our VIP group."},
+  "nodes": [
+    {"id": "intent", "agent": "intent"},
+    {"id": "registry", "agent": "registry", "params": {"list": "sebi_ia_ra"}},
+    {"id": "market", "agent": "market", "params": {"symbol": "RELIANCE"}},
+    {"id": "web_reputation", "agent": "web_reputation"},
+    {"id": "news_timeline", "agent": "news_timeline"},
+    {"id": "verdict", "agent": "verdict"}
+  ],
+  "edges": [
+    ["intent", "registry"], ["intent", "market"], ["intent", "web_reputation"], ["intent", "news_timeline"],
+    ["registry", "verdict"], ["market", "verdict"], ["web_reputation", "verdict"], ["news_timeline", "verdict"]
+  ]
+}

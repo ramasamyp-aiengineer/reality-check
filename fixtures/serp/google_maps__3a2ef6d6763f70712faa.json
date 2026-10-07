@@ -1,0 +1,1182 @@
+{
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "Mavalli Tiffin Rooms Bengaluru",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fa727ec029d1e3196f8a",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/Uh14Ka13FR7-S9m4TNmExIgsKoZHuCUhsYTH8KXGtso/6ac5fa727ec029d1e3196f8a.json",
+   "markdown_endpoint": "https://serpapi.com/searches/Uh14Ka13FR7-S9m4TNmExIgsKoZHuCUhsYTH8KXGtso/6ac5fa727ec029d1e3196f8a.md",
+   "created_at": "2026-10-07 07:53:22 UTC",
+   "processed_at": "2026-10-07 07:53:22 UTC",
+   "google_maps_url": "https://www.google.com/maps/search/Mavalli+Tiffin+Rooms+Bengaluru//data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+   "raw_html_file": "https://serpapi.com/searches/Uh14Ka13FR7-S9m4TNmExIgsKoZHuCUhsYTH8KXGtso/6ac5fa727ec029d1e3196f8a.html",
+   "prettify_html_file": "https://serpapi.com/searches/Uh14Ka13FR7-S9m4TNmExIgsKoZHuCUhsYTH8KXGtso/6ac5fa727ec029d1e3196f8a.prettify",
+   "total_time_taken": 13.1
+  },
+  "search_parameters": {
+   "engine": "google_maps",
+   "type": "search",
+   "q": "Mavalli Tiffin Rooms Bengaluru",
+   "google_domain": "google.com",
+   "hl": "en"
+  },
+  "search_information": {
+   "local_results_state": "Results for exact spelling",
+   "query_displayed": "Mavalli Tiffin Rooms Bengaluru"
+  },
+  "local_results": [
+   {
+    "position": 1,
+    "title": "MTR",
+    "place_id": "ChIJaaWjpN0VrjsRAsmfiafDlN4",
+    "data_id": "0x3bae15dda4a3a569:0xde94c3a7899fc902",
+    "data_cid": "16038659297309083906",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15dda4a3a569%3A0xde94c3a7899fc902&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15dda4a3a569%3A0xde94c3a7899fc902&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9551821,
+     "longitude": 77.5855569
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaaWjpN0VrjsRAsmfiafDlN4",
+    "provider_id": "/g/1td_93bg",
+    "rating": 4.3,
+    "reviews": 39884,
+    "price": "₹200–400",
+    "extracted_price": 200,
+    "type": "Vegetarian restaurant",
+    "types": [
+     "Vegetarian restaurant",
+     "South Indian restaurant"
+    ],
+    "type_id": "vegetarian_restaurant",
+    "type_ids": [
+     "vegetarian_restaurant",
+     "south_indian_restaurant"
+    ],
+    "address": "14, Lal Bagh Main Rd, Doddamavalli, Sudhama Nagar, Bengaluru, Karnataka 560027, India",
+    "country": "India",
+    "open_state": "Open · Closes 8:30 PM",
+    "hours": "Open · Closes 8:30 PM",
+    "operating_hours": {
+     "wednesday": "6:30–11 AM, 12:30–8:30 PM",
+     "thursday": "6:30–11 AM, 12:30–8:30 PM",
+     "friday": "6:30–11 AM, 12:30–8:30 PM",
+     "saturday": "6:30–11 AM, 12:30–9:30 PM",
+     "sunday": "6:30–11 AM, 12:30–9:30 PM",
+     "monday": "Closed",
+     "tuesday": "6:30–11 AM, 12:30–8:30 PM"
+    },
+    "phone": "+91 98868 94128",
+    "website": "http://www.mavallitiffinrooms.com/",
+    "description": "Low-key option for small Indian bites. Simple restaurant serving classic tiffin dishes, such as rava idli, masala dosa & chandrahara.",
+    "extensions": [
+     {
+      "service_options": [
+       "No-contact delivery",
+       "Delivery",
+       "Onsite services",
+       "Takeout",
+       "Dine-in"
+      ]
+     },
+     {
+      "highlights": [
+       "Great coffee",
+       "Great dessert",
+       "Great tea selection"
+      ]
+     },
+     {
+      "popular_for": [
+       "Breakfast",
+       "Lunch",
+       "Dinner",
+       "Solo dining"
+      ]
+     },
+     {
+      "accessibility": [
+       "Assistive hearing loop"
+      ]
+     },
+     {
+      "offerings": [
+       "All you can eat",
+       "Coffee",
+       "Healthy options",
+       "Private dining room",
+       "Quick bite",
+       "Small plates",
+       "Vegan options",
+       "Vegetarian options",
+       "Vegetarian options only"
+      ]
+     },
+     {
+      "dining_options": [
+       "Breakfast",
+       "Brunch",
+       "Lunch",
+       "Dinner",
+       "Catering",
+       "Dessert",
+       "Seating",
+       "Table service"
+      ]
+     },
+     {
+      "amenities": [
+       "Restroom"
+      ]
+     },
+     {
+      "atmosphere": [
+       "Casual",
+       "Historic",
+       "Trendy"
+      ]
+     },
+     {
+      "crowd": [
+       "College students",
+       "Family-friendly",
+       "Groups",
+       "Tourists"
+      ]
+     },
+     {
+      "planning": [
+       "Brunch reservations recommended",
+       "Lunch reservations recommended",
+       "Dinner reservations recommended",
+       "Accepts reservations",
+       "Usually a wait"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "Google Pay",
+       "NFC mobile payments"
+      ]
+     },
+     {
+      "children": [
+       "Good for kids",
+       "Kids' menu"
+      ]
+     },
+     {
+      "parking": [
+       "Paid parking lot",
+       "Usually difficult to find a space"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     }
+    ],
+    "service_options": {
+     "dine_in": true,
+     "takeout": true,
+     "no_contact_delivery": true
+    },
+    "user_review": "\"At Mavalli Tiffin Room (MTR) in Bangalore, authenticity meets excellence.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhDAs-GBCwXemL8u11YE8SlY0rTLWTeZzc2ClUP525MqoqdyDLXFWlizDebhb4A_oOBj0cucwHoDxU_zrYzeQDC3nsQRN3_yWaK4aYbHo_KJYxNGQPIuRAXf1RT0ZWAilya1IKVA=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/C8DUZHicHcRdDoIgAADgE5mQubW2HlAqTfvRLKUXp0RSoZToTG_YEbpNW9_D9_3wpnmqma4LbowKKQvBWsVqKquGVc2IylIv6kwpjSodIetR-leOkdJWlt0lrPSnLYRkMT0IAurIjyN2HujYFse9OTY3L_m69NhPlrG4DZjlPJ-gVO6sO6At7RyJ38d0qMnAAmwblQrCrZH2ceZNMpI7MvXW5L1dBXu3DVFyhWEEzjG6iT6DrndC8w4CADT-n2rVDw7WRYk"
+   },
+   {
+    "position": 2,
+    "title": "MTR",
+    "place_id": "ChIJI_3LNaUWrjsRWezll-Qmd3k",
+    "data_id": "0x3bae16a535cbfd23:0x797726e497e5ec59",
+    "data_cid": "8752507164060675161",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae16a535cbfd23%3A0x797726e497e5ec59&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae16a535cbfd23%3A0x797726e497e5ec59&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9805563,
+     "longitude": 77.640475
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI_3LNaUWrjsRWezll-Qmd3k",
+    "provider_id": "/g/1tg7_xw6",
+    "rating": 4.2,
+    "reviews": 18519,
+    "price": "₹200–400",
+    "extracted_price": 200,
+    "type": "Vegetarian restaurant",
+    "types": [
+     "Vegetarian restaurant",
+     "South Indian restaurant"
+    ],
+    "type_id": "vegetarian_restaurant",
+    "type_ids": [
+     "vegetarian_restaurant",
+     "south_indian_restaurant"
+    ],
+    "address": "305, 100 Feet Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+    "country": "India",
+    "open_state": "Open · Closes 9:30 PM",
+    "hours": "Open · Closes 9:30 PM",
+    "operating_hours": {
+     "wednesday": "7 AM–9:30 PM",
+     "thursday": "7 AM–9:30 PM",
+     "friday": "7 AM–9:30 PM",
+     "saturday": "7 AM–9:30 PM",
+     "sunday": "7 AM–9:30 PM",
+     "monday": "Closed",
+     "tuesday": "7 AM–9:30 PM"
+    },
+    "phone": "+91 98868 94116",
+    "website": "http://www.mavallitiffinrooms.com/",
+    "extensions": [
+     {
+      "service_options": [
+       "No-contact delivery",
+       "Delivery",
+       "Onsite services",
+       "Takeout",
+       "Dine-in"
+      ]
+     },
+     {
+      "highlights": [
+       "Great coffee",
+       "Great dessert",
+       "Great tea selection"
+      ]
+     },
+     {
+      "popular_for": [
+       "Breakfast",
+       "Lunch",
+       "Dinner",
+       "Solo dining"
+      ]
+     },
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible seating"
+      ]
+     },
+     {
+      "offerings": [
+       "All you can eat",
+       "Coffee",
+       "Healthy options",
+       "Quick bite",
+       "Small plates",
+       "Vegan options",
+       "Vegetarian options",
+       "Vegetarian options only"
+      ]
+     },
+     {
+      "dining_options": [
+       "Breakfast",
+       "Brunch",
+       "Lunch",
+       "Dinner",
+       "Dessert",
+       "Seating",
+       "Table service"
+      ]
+     },
+     {
+      "amenities": [
+       "Restroom"
+      ]
+     },
+     {
+      "atmosphere": [
+       "Casual",
+       "Historic",
+       "Trendy"
+      ]
+     },
+     {
+      "crowd": [
+       "College students",
+       "Family-friendly",
+       "Groups",
+       "LGBTQ+ friendly",
+       "Tourists"
+      ]
+     },
+     {
+      "planning": [
+       "Usually a wait"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "Google Pay",
+       "NFC mobile payments"
+      ]
+     },
+     {
+      "children": [
+       "Good for kids"
+      ]
+     },
+     {
+      "parking": [
+       "Free street parking",
+       "Usually difficult to find a space"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible parking lot"
+      ]
+     },
+     {
+      "planning": [
+       "Accepts reservations"
+      ]
+     }
+    ],
+    "service_options": {
+     "dine_in": true,
+     "takeout": true,
+     "no_contact_delivery": true
+    },
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRnN194dzYYAToDCPAN&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=fvrFaoSkHNzs1e8Ptvyc8Q0&ei=fvrFaoSkHNzs1e8Ptvyc8Q0&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "user_review": "\"Authentic South Indian tiffins, costly but tasty.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6eIF4Qr5CJhZD1D2hTMKOZvw-y-XFnUyndauxFY-_A5Mbe8gPXzxDlzoRuPyuBCXahFtDdY0RPjXcYYwF5_w0wC_Gu1HV300MJVYFSfAnbbiekLlYctfsEz8Sj7nFJJ-YSpqiEQOko2K6=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/txwM63icHcRBjoIwAADAF1WKLmpMPCDYXVEiihLqhUCpVMFWaWuFT-7Z35g4h3n_M6XucmZZDRsNKiGqhmpJWyK4olwNiLhZVZtLCYi0XHdR3zblmK7Qz651vICdfNsfskO43p6eBnQgRfzY8TLXL4RB5jphQadVlPYvv-nFXkedXnhpzpDySwz30TUlGBvkZAYaL_vV9l8ygjAMEozis8uL4kLrTYOJOstlP42vE46CAOD4_rgsd9taDNfjubEhhIB9J4B_ALnnR5Y"
+   },
+   {
+    "position": 3,
+    "title": "MTR",
+    "place_id": "ChIJ3ZIMQ3kWrjsR50bc0zsS8Lg",
+    "data_id": "0x3bae1679430c92dd:0xb8f0123bd3dc46e7",
+    "data_cid": "13326171345556096743",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1679430c92dd%3A0xb8f0123bd3dc46e7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1679430c92dd%3A0xb8f0123bd3dc46e7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9722189,
+     "longitude": 77.60105449999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3ZIMQ3kWrjsR50bc0zsS8Lg",
+    "provider_id": "/g/1thk75f5",
+    "rating": 4.1,
+    "reviews": 9506,
+    "price": "₹200–400",
+    "extracted_price": 200,
+    "type": "Vegetarian restaurant",
+    "types": [
+     "Vegetarian restaurant",
+     "South Indian restaurant"
+    ],
+    "type_id": "vegetarian_restaurant",
+    "type_ids": [
+     "vegetarian_restaurant",
+     "south_indian_restaurant"
+    ],
+    "address": "29, Ground Floor, White House, St Mark's Rd, opposite SBI HQ, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+    "country": "India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+     "wednesday": "8 AM–9 PM",
+     "thursday": "8 AM–9 PM",
+     "friday": "8 AM–9 PM",
+     "saturday": "8 AM–9 PM",
+     "sunday": "8 AM–9 PM",
+     "monday": "8 AM–9 PM",
+     "tuesday": "8 AM–9 PM"
+    },
+    "phone": "+91 98866 58096",
+    "website": "http://www.mavallitiffinrooms.com/",
+    "extensions": [
+     {
+      "service_options": [
+       "No-contact delivery",
+       "Delivery",
+       "Onsite services",
+       "Takeout",
+       "Dine-in"
+      ]
+     },
+     {
+      "highlights": [
+       "Great coffee",
+       "Great dessert",
+       "Great tea selection"
+      ]
+     },
+     {
+      "popular_for": [
+       "Breakfast",
+       "Lunch",
+       "Dinner",
+       "Solo dining"
+      ]
+     },
+     {
+      "offerings": [
+       "Coffee",
+       "Healthy options",
+       "Organic dishes",
+       "Quick bite",
+       "Small plates",
+       "Vegan options",
+       "Vegetarian options",
+       "Vegetarian options only"
+      ]
+     },
+     {
+      "dining_options": [
+       "Breakfast",
+       "Brunch",
+       "Lunch",
+       "Dinner",
+       "Dessert",
+       "Seating",
+       "Table service"
+      ]
+     },
+     {
+      "amenities": [
+       "Gender-neutral restroom",
+       "Restroom"
+      ]
+     },
+     {
+      "atmosphere": [
+       "Casual",
+       "Trendy"
+      ]
+     },
+     {
+      "crowd": [
+       "College students",
+       "Family-friendly",
+       "Groups",
+       "LGBTQ+ friendly",
+       "Tourists"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "Google Pay",
+       "NFC mobile payments"
+      ]
+     },
+     {
+      "children": [
+       "Good for kids"
+      ]
+     },
+     {
+      "parking": [
+       "Free parking lot",
+       "Free street parking",
+       "Paid parking lot"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot",
+       "Wheelchair accessible seating"
+      ]
+     },
+     {
+      "planning": [
+       "Accepts reservations"
+      ]
+     }
+    ],
+    "service_options": {
+     "dine_in": true,
+     "takeout": true,
+     "no_contact_delivery": true
+    },
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRoazc1ZjUYAToDCPAN&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=fvrFaoSkHNzs1e8Ptvyc8Q0&ei=fvrFaoSkHNzs1e8Ptvyc8Q0&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "user_review": "\"The masala dosa, rava idli, filter coffee and vada are must haves!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVYBl2sRm2HtG18VUmPLJ5MipSsvdIFG3AG3YwPVr6xJWY9Mkv-oHzT74JsB_hPULAuXQSSjRAHEfakHCgIL51MHJcIqTNc84ENHZ5nYcLavaEGyDuM9SOM4gxPu7BEwo48uEBVw=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/GCFS03icHcRLcoIwAADQE_ETqOiMi8SmBCZBBEXppsOkNLR8QkkC2hv2CL1NZ3yL9_fbKDXKrWV1jWtyIXhXa1lPTAyqHpTJRG_xqZLSYNICALY9qYsSdiuZ9SusQicozn1KYp9-jrmc36OX0AWhWy5pMT3d4ku5oe1sCPxzWnuxhG9NeiZAX495_pUBjD6qFu95RHyH4phF36eEBR5K8Ks_lIxUc4XC-7Omm_xAPX5L9RqiRXiBRrBYdotj27bRPGbG8A-UYkQJ"
+   },
+   {
+    "position": 4,
+    "title": "MTR",
+    "place_id": "ChIJn8o17U4VrjsRSMVgVifZXMM",
+    "data_id": "0x3bae154eed35ca9f:0xc35cd9275660c548",
+    "data_cid": "14077365298229462344",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae154eed35ca9f%3A0xc35cd9275660c548&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae154eed35ca9f%3A0xc35cd9275660c548&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.916488099999999,
+     "longitude": 77.64459339999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJn8o17U4VrjsRSMVgVifZXMM",
+    "provider_id": "/g/11j0286pgd",
+    "rating": 4.1,
+    "reviews": 8147,
+    "price": "₹200–400",
+    "extracted_price": 200,
+    "type": "Vegetarian restaurant",
+    "types": [
+     "Vegetarian restaurant",
+     "South Indian restaurant"
+    ],
+    "type_id": "vegetarian_restaurant",
+    "type_ids": [
+     "vegetarian_restaurant",
+     "south_indian_restaurant"
+    ],
+    "address": "169, 19th Main Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
+    "country": "India",
+    "open_state": "Open · Closes 9:30 PM",
+    "hours": "Open · Closes 9:30 PM",
+    "operating_hours": {
+     "wednesday": "7 AM–9:30 PM",
+     "thursday": "7 AM–9:30 PM",
+     "friday": "7 AM–9:30 PM",
+     "saturday": "7 AM–9:30 PM",
+     "sunday": "7 AM–9:30 PM",
+     "monday": "Closed",
+     "tuesday": "7 AM–9:30 PM"
+    },
+    "phone": "+91 98867 05959",
+    "website": "http://www.mavallitiffinrooms.com/",
+    "extensions": [
+     {
+      "service_options": [
+       "No-contact delivery",
+       "Delivery",
+       "Onsite services",
+       "Takeout",
+       "Dine-in"
+      ]
+     },
+     {
+      "highlights": [
+       "Great coffee",
+       "Great dessert",
+       "Great tea selection"
+      ]
+     },
+     {
+      "popular_for": [
+       "Breakfast",
+       "Lunch",
+       "Dinner",
+       "Solo dining"
+      ]
+     },
+     {
+      "accessibility": [
+       "Wheelchair accessible restroom"
+      ]
+     },
+     {
+      "offerings": [
+       "All you can eat",
+       "Coffee",
+       "Healthy options",
+       "Quick bite",
+       "Small plates",
+       "Vegan options",
+       "Vegetarian options",
+       "Vegetarian options only"
+      ]
+     },
+     {
+      "dining_options": [
+       "Breakfast",
+       "Brunch",
+       "Lunch",
+       "Dinner",
+       "Dessert",
+       "Seating",
+       "Table service"
+      ]
+     },
+     {
+      "amenities": [
+       "Restroom"
+      ]
+     },
+     {
+      "atmosphere": [
+       "Casual",
+       "Trendy",
+       "Upscale"
+      ]
+     },
+     {
+      "crowd": [
+       "College students",
+       "Family-friendly",
+       "Groups",
+       "LGBTQ+ friendly",
+       "Tourists"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "Google Pay",
+       "NFC mobile payments"
+      ]
+     },
+     {
+      "children": [
+       "Good for kids"
+      ]
+     },
+     {
+      "parking": [
+       "Free street parking",
+       "Paid street parking",
+       "Usually somewhat difficult to find a space"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance"
+      ]
+     },
+     {
+      "planning": [
+       "Accepts reservations"
+      ]
+     }
+    ],
+    "service_options": {
+     "dine_in": true,
+     "takeout": true,
+     "no_contact_delivery": true
+    },
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFqMDI4NnBnZBgBOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=fvrFaoSkHNzs1e8Ptvyc8Q0&ei=fvrFaoSkHNzs1e8Ptvyc8Q0&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "user_review": "\"Mini Tiffin-Butter Dosa-Podi Dosa are items to try.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9wzzjrbGaYj_iQwo2UqBQa5eiv_o0ugc9LSzGfwgMP4nuce-f0e76nEn_CTxyXPPC0tRpe4fWI0YhP377mAFkZY_Z2Fsny0KaHcGreGGyQ7_xdk4zsdvzs7nT_UpbMbEn0bVt=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/bezmlHicHcRbjoIwFADQFSF3lJlGEz_QaGcymoCvGfxpoJQij1ukRaQbdA3uxsTzcZ6P3JhGz1y3yicjqZSsRKdFyxUagWbEVe3KNtba4dr1_UVZb9Jpb23RJjSOCnYJezU-Xhdh_CkuN6agk3y62Vua9XIbeNhx4WQgyBeukC0P9-E_CJZgdo3wsr8fiPJgQkjtr8tzxM7jtcYBfuNvTltB6RASdk9Lz-r0ZjXBAzs2yTZZISQnM-8_AMDJ33MHXzDtRqo"
+   },
+   {
+    "position": 5,
+    "title": "MTR",
+    "place_id": "ChIJJ2h8xxEWrjsRCcZShnFROsk",
+    "data_id": "0x3bae1611c77c6827:0xc93a51718652c609",
+    "data_cid": "14499991498299459081",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1611c77c6827%3A0xc93a51718652c609&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1611c77c6827%3A0xc93a51718652c609&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.9790526,
+     "longitude": 77.5771961
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJ2h8xxEWrjsRCcZShnFROsk",
+    "provider_id": "/g/11b6gm1jvv",
+    "rating": 4.1,
+    "reviews": 7814,
+    "price": "₹200–400",
+    "extracted_price": 200,
+    "type": "Vegetarian restaurant",
+    "types": [
+     "Vegetarian restaurant",
+     "Breakfast restaurant",
+     "South Indian restaurant"
+    ],
+    "type_id": "vegetarian_restaurant",
+    "type_ids": [
+     "vegetarian_restaurant",
+     "breakfast_restaurant",
+     "south_indian_restaurant"
+    ],
+    "address": "39/40, Hansa Pratheek Building, WH Hanumanthappa Rd, opp. Dr. Rajkumar International Hotel, 3rd Block, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+    "country": "India",
+    "open_state": "Open · Closes 9 PM",
+    "hours": "Open · Closes 9 PM",
+    "operating_hours": {
+     "wednesday": "7:30 AM–9 PM",
+     "thursday": "7:30 AM–9 PM",
+     "friday": "7:30 AM–9 PM",
+     "saturday": "7:30 AM–9 PM",
+     "sunday": "7:30 AM–9 PM",
+     "monday": "Closed",
+     "tuesday": "7:30 AM–9 PM"
+    },
+    "phone": "+91 98866 37519",
+    "website": "http://www.mavallitiffinrooms.com/",
+    "extensions": [
+     {
+      "service_options": [
+       "No-contact delivery",
+       "Delivery",
+       "Onsite services",
+       "Takeout",
+       "Dine-in"
+      ]
+     },
+     {
+      "highlights": [
+       "Great coffee",
+       "Great dessert",
+       "Great tea selection"
+      ]
+     },
+     {
+      "popular_for": [
+       "Breakfast",
+       "Lunch",
+       "Dinner",
+       "Solo dining"
+      ]
+     },
+     {
+      "offerings": [
+       "All you can eat",
+       "Coffee",
+       "Healthy options",
+       "Quick bite",
+       "Small plates",
+       "Vegan options",
+       "Vegetarian options",
+       "Vegetarian options only"
+      ]
+     },
+     {
+      "dining_options": [
+       "Breakfast",
+       "Brunch",
+       "Lunch",
+       "Dinner",
+       "Dessert",
+       "Seating",
+       "Table service"
+      ]
+     },
+     {
+      "amenities": [
+       "Restroom"
+      ]
+     },
+     {
+      "atmosphere": [
+       "Casual",
+       "Cozy",
+       "Quiet",
+       "Trendy"
+      ]
+     },
+     {
+      "crowd": [
+       "Family-friendly",
+       "Groups",
+       "LGBTQ+ friendly",
+       "Locals",
+       "Tourists"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "Google Pay",
+       "NFC mobile payments"
+      ]
+     },
+     {
+      "children": [
+       "Good for kids"
+      ]
+     },
+     {
+      "parking": [
+       "Free street parking",
+       "Usually difficult to find a space"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot",
+       "Wheelchair accessible seating"
+      ]
+     },
+     {
+      "planning": [
+       "Accepts reservations"
+      ]
+     }
+    ],
+    "service_options": {
+     "dine_in": true,
+     "takeout": true,
+     "no_contact_delivery": true
+    },
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiNmdtMWp2dhgBOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=fvrFaoSkHNzs1e8Ptvyc8Q0&ei=fvrFaoSkHNzs1e8Ptvyc8Q0&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "user_review": "\"their mini tiffin combo is simply awesome\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfVfcK0B8Kmr_VvZ9-sTFYt4kMQn595DCWt3WhL7uuglGXgRQWEIbp9okf9-VonwY3gz4640n1k6uASsMkAQEPANoNEqafOTp-bQoh3pzrZWMR_v592nICu2M1PkWqIx6VuK1ROlu-jmEEK=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Khpsv3icHcTdzsEwAADQJ6p19kO_xEVRssywkRU3QrO10a2dteWLl3TtbSTOxfm8hbWd-fO8RgQDrjVvKmeqnmllK2UHTLce7y_GAGY8jKeyXdVlzVI4Hadtfy4fJwTMfnG0ocxyFaFoPqM2oGI1co43ywMvckqSa4e0rBEotXoeA_4K4xAqX8YO70wmcU62eK3X5H6pN_sOXHMtgu7Vn2hWnB8RGqpk5oaZv5X0nvzHpUv9YtM4cGsJSSdPH0IIxG8G1BeCPUbI"
+   },
+   {
+    "position": 6,
+    "title": "MTR",
+    "place_id": "ChIJWdsCqQdBrjsR7hb2SWSpcSc",
+    "data_id": "0x3bae4107a902db59:0x2771a96449f616ee",
+    "data_cid": "2842239088050181870",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae4107a902db59%3A0x2771a96449f616ee&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae4107a902db59%3A0x2771a96449f616ee&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.830373,
+     "longitude": 77.5133043
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWdsCqQdBrjsR7hb2SWSpcSc",
+    "provider_id": "/g/11b6r_x126",
+    "rating": 3.9,
+    "reviews": 8495,
+    "price": "₹200–400",
+    "extracted_price": 200,
+    "type": "South Indian restaurant",
+    "types": [
+     "South Indian restaurant",
+     "Breakfast restaurant",
+     "Cafe",
+     "Indian restaurant",
+     "Vegetarian restaurant"
+    ],
+    "type_id": "south_indian_restaurant",
+    "type_ids": [
+     "south_indian_restaurant",
+     "breakfast_restaurant",
+     "cafe",
+     "indian_restaurant",
+     "vegetarian_restaurant"
+    ],
+    "address": "64, Papparapatti - Somanahalli Rd, Agara, Karnataka 560082, India",
+    "country": "India",
+    "open_state": "Open · Closes 9:30 PM",
+    "hours": "Open · Closes 9:30 PM",
+    "operating_hours": {
+     "wednesday": "7 AM–9:30 PM",
+     "thursday": "7 AM–9:30 PM",
+     "friday": "7 AM–9:30 PM",
+     "saturday": "7 AM–9:30 PM",
+     "sunday": "7 AM–9:30 PM",
+     "monday": "Closed",
+     "tuesday": "7 AM–9:30 PM"
+    },
+    "phone": "+91 98868 94147",
+    "website": "http://www.mavallitiffinrooms.com/",
+    "extensions": [
+     {
+      "service_options": [
+       "No-contact delivery",
+       "Delivery",
+       "Onsite services",
+       "Takeout",
+       "Dine-in"
+      ]
+     },
+     {
+      "highlights": [
+       "Great coffee",
+       "Great dessert",
+       "Great tea selection"
+      ]
+     },
+     {
+      "popular_for": [
+       "Breakfast",
+       "Lunch",
+       "Dinner",
+       "Solo dining"
+      ]
+     },
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot"
+      ]
+     },
+     {
+      "offerings": [
+       "All you can eat",
+       "Coffee",
+       "Healthy options",
+       "Organic dishes",
+       "Quick bite",
+       "Small plates",
+       "Vegetarian options",
+       "Vegetarian options only"
+      ]
+     },
+     {
+      "dining_options": [
+       "Breakfast",
+       "Brunch",
+       "Lunch",
+       "Dinner",
+       "Dessert",
+       "Seating"
+      ]
+     },
+     {
+      "amenities": [
+       "Restroom"
+      ]
+     },
+     {
+      "atmosphere": [
+       "Casual",
+       "Trendy"
+      ]
+     },
+     {
+      "crowd": [
+       "College students",
+       "Family-friendly",
+       "Groups",
+       "LGBTQ+ friendly",
+       "Tourists"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "Google Pay",
+       "NFC mobile payments"
+      ]
+     },
+     {
+      "children": [
+       "Good for kids"
+      ]
+     },
+     {
+      "parking": [
+       "Free parking lot",
+       "Free street parking",
+       "On-site parking",
+       "Paid parking lot",
+       "Paid street parking",
+       "Usually plenty of parking"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Assistive hearing loop"
+      ]
+     },
+     {
+      "dining_options": [
+       "Table service"
+      ]
+     },
+     {
+      "planning": [
+       "Accepts reservations"
+      ]
+     }
+    ],
+    "service_options": {
+     "dine_in": true,
+     "takeout": true,
+     "no_contact_delivery": true
+    },
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiNnJfeDEyNhgBOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=fvrFaoSkHNzs1e8Ptvyc8Q0&ei=fvrFaoSkHNzs1e8Ptvyc8Q0&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "user_review": "\"We ordered the special meals, which included unlimited puri, dosa and rice.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7TAhtHqJuXLMLdaTJJWCPjgiI8_3EVFbPwiPkHLCCv-dAHmceByVObhl-AEH-aN3cN4JNuKBWJoOMBN3hWRtsss1VrVPaRPAH_Wi3zUw81LqUdo8mhLJhPSgW5JXteZHxMEQ=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/U_lNxXicHcRdboIwAADgE1Ug1UiW7KEQTO0KVqfU-GKg1JbxU6VluB3QO3gbE7-H7_nQzl3th-e1Gs6UMaqVo5WDML2TvZsJ03lqKKwFwnoIRU1HL8s90g7fyHikKa2KPSE8Zj-qXodnmOSrkk01azCN419QIdwJGf3lm1K3ACUYFBkU2Zxk41fEidmkUQY13zlrbZAPOSt2DOEzr-H_YQoDejtUJuw0JZp9K74gRydP-J4m288p8H0f6PcC9C8AYkPt"
+   },
+   {
+    "position": 7,
+    "title": "MTR",
+    "place_id": "ChIJz2eDjgwVrjsRngsvOiZellE",
+    "data_id": "0x3bae150c8e8367cf:0x51965e263a2f0b9e",
+    "data_cid": "5878989881856691102",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae150c8e8367cf%3A0x51965e263a2f0b9e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae150c8e8367cf%3A0x51965e263a2f0b9e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+     "latitude": 12.911660999999999,
+     "longitude": 77.59900979999999
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz2eDjgwVrjsRngsvOiZellE",
+    "provider_id": "/g/1tdc_3h3",
+    "rating": 4.1,
+    "reviews": 14345,
+    "price": "₹200–400",
+    "extracted_price": 200,
+    "type": "Vegetarian restaurant",
+    "types": [
+     "Vegetarian restaurant",
+     "South Indian restaurant"
+    ],
+    "type_id": "vegetarian_restaurant",
+    "type_ids": [
+     "vegetarian_restaurant",
+     "south_indian_restaurant"
+    ],
+    "address": "Kutchi Bhavan, 44, 1st Main Rd, opposite Mini Forest, Sarakki Industrial Layout, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+    "country": "India",
+    "open_state": "Open · Closes 9:30 PM",
+    "hours": "Open · Closes 9:30 PM",
+    "operating_hours": {
+     "wednesday": "7 AM–9:30 PM",
+     "thursday": "7 AM–9:30 PM",
+     "friday": "7 AM–9:30 PM",
+     "saturday": "7 AM–9:30 PM",
+     "sunday": "7 AM–9:30 PM",
+     "monday": "Closed",
+     "tuesday": "7 AM–9:30 PM"
+    },
+    "phone": "+91 98866 37515",
+    "website": "http://www.mavallitiffinrooms.com/",
+    "extensions": [
+     {
+      "service_options": [
+       "No-contact delivery",
+       "Delivery",
+       "Onsite services",
+       "Takeout",
+       "Dine-in"
+      ]
+     },
+     {
+      "highlights": [
+       "Great coffee",
+       "Great dessert",
+       "Great tea selection",
+       "Rooftop seating"
+      ]
+     },
+     {
+      "popular_for": [
+       "Breakfast",
+       "Lunch",
+       "Dinner",
+       "Solo dining"
+      ]
+     },
+     {
+      "accessibility": [
+       "Wheelchair accessible restroom"
+      ]
+     },
+     {
+      "offerings": [
+       "All you can eat",
+       "Coffee",
+       "Healthy options",
+       "Organic dishes",
+       "Quick bite",
+       "Small plates",
+       "Vegan options",
+       "Vegetarian options",
+       "Vegetarian options only"
+      ]
+     },
+     {
+      "dining_options": [
+       "Breakfast",
+       "Brunch",
+       "Lunch",
+       "Dinner",
+       "Catering",
+       "Dessert",
+       "Seating",
+       "Table service"
+      ]
+     },
+     {
+      "amenities": [
+       "Restroom"
+      ]
+     },
+     {
+      "atmosphere": [
+       "Casual",
+       "Trendy"
+      ]
+     },
+     {
+      "crowd": [
+       "College students",
+       "Family-friendly",
+       "Groups",
+       "LGBTQ+ friendly",
+       "Tourists"
+      ]
+     },
+     {
+      "planning": [
+       "Usually a wait"
+      ]
+     },
+     {
+      "payments": [
+       "Credit cards",
+       "Debit cards",
+       "Google Pay",
+       "NFC mobile payments"
+      ]
+     },
+     {
+      "children": [
+       "Good for kids"
+      ]
+     },
+     {
+      "parking": [
+       "Free street parking"
+      ]
+     }
+    ],
+    "unsupported_extensions": [
+     {
+      "accessibility": [
+       "Wheelchair accessible entrance",
+       "Wheelchair accessible parking lot",
+       "Wheelchair accessible seating"
+      ]
+     },
+     {
+      "planning": [
+       "Accepts reservations"
+      ]
+     }
+    ],
+    "service_options": {
+     "dine_in": true,
+     "takeout": true,
+     "no_contact_delivery": true
+    },
+    "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRkY18zaDMYAToDCPAN&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=fvrFaoSkHNzs1e8Ptvyc8Q0&ei=fvrFaoSkHNzs1e8Ptvyc8Q0&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "user_review": "\"Mini tiffin is great value for money.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdVM2SOEEb0ZGmRDz9RnTkP5UukOkhBqtFTh113dMJqki8DSlcw2aoZejxsw_LEh8lWImrONzc4fLL_UbRNjQxoEr5WgsoJiKk9sxoRukZa-Z4oOVx6nG-4iUNI5l9KxmS_L_o=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Au1SVnicHcTdCoIwGADQJ1pqaWTQRZFFtbQ0C7wRneZsP1-5iaMH7B16m6Bzcb4fqvVTzS2L08moAWh43au6IyB1LfWIgLCarlAKEWUtlysmcHU9jpMoCEo724p4_fZjeWEnL-1ZxOjqpTcX6jiT6rh_sXa2TjgZxgVk9cOoIccBnfHbTnRR-CbuHeM8LePwcTYQdN6tUbBvD8xXBuKeZQXKXIiuZiq3yG3TcOdx_2BEkuMcFoNj2zai_wmSP4LWRZ4"
+   }
+  ]
+ }
+}

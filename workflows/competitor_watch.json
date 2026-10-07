@@ -1,0 +1,22 @@
+{
+  "id": "competitor_watch",
+  "name": "Competitor Watch",
+  "description": "Know when competitors change their ads, news or search demand. Save it as a watch to get alerts on every change.",
+  "category": "business",
+  "tags": ["watch", "competitors", "ads"],
+  "featured": true,
+  "input_kind": "profile",
+  "input_placeholder": "Your topic and competitors",
+  "sample_input": {"profile": {"business_name": "VoltRide Motors", "topic": "electric scooter", "city": "Bengaluru", "competitors": ["Ola Electric", "Ather"]}},
+  "nodes": [
+    {"id": "intent", "agent": "intent"},
+    {"id": "advertiser_identity", "agent": "advertiser_identity", "params": {"competitors": true}},
+    {"id": "news_timeline", "agent": "news_timeline", "params": {"suffix": "India"}},
+    {"id": "demand_trend", "agent": "demand_trend", "params": {"regions": false, "related": false}},
+    {"id": "market_brief", "agent": "market_brief"}
+  ],
+  "edges": [
+    ["intent", "advertiser_identity"], ["intent", "news_timeline"], ["intent", "demand_trend"],
+    ["advertiser_identity", "market_brief"], ["news_timeline", "market_brief"], ["demand_trend", "market_brief"]
+  ]
+}

@@ -1,0 +1,287 @@
+{
+ "params": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x3bae15b4ccf666d7:0xcac455f8e07ff299",
+  "sort_by": "newestFirst",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5fc16d3c5125e3548cd2b",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/0R4x7mO6zFZf14IHGinQgVsG5IT_2ItfiZAB5c03bi8/6ac5fc16d3c5125e3548cd2b.json",
+   "markdown_endpoint": "https://serpapi.com/searches/0R4x7mO6zFZf14IHGinQgVsG5IT_2ItfiZAB5c03bi8/6ac5fc16d3c5125e3548cd2b.md",
+   "created_at": "2026-10-07 08:00:22 UTC",
+   "processed_at": "2026-10-07 08:00:22 UTC",
+   "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bae15b4ccf666d7:0xcac455f8e07ff299!5m2!4m1!1i2!9m1!1b1?hl=en",
+   "raw_html_file": "https://serpapi.com/searches/0R4x7mO6zFZf14IHGinQgVsG5IT_2ItfiZAB5c03bi8/6ac5fc16d3c5125e3548cd2b.html",
+   "prettify_html_file": "https://serpapi.com/searches/0R4x7mO6zFZf14IHGinQgVsG5IT_2ItfiZAB5c03bi8/6ac5fc16d3c5125e3548cd2b.prettify",
+   "total_time_taken": 2.78
+  },
+  "search_parameters": {
+   "engine": "google_maps_reviews",
+   "data_id": "0x3bae15b4ccf666d7:0xcac455f8e07ff299",
+   "hl": "en",
+   "sort_by": "newestFirst"
+  },
+  "place_info": {
+   "title": "Ola Electric Technologies Pvt Ltd",
+   "address": "2, Hosur Rd, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
+   "rating": 3.5,
+   "reviews": 849,
+   "type": "Corporate office"
+  },
+  "topics": [
+   {
+    "keyword": "hypercharger",
+    "mentions": 3,
+    "id": "OwZSl0P9OlE"
+   },
+   {
+    "keyword": "campus",
+    "mentions": 22,
+    "id": "SlFoPNJduaY"
+   },
+   {
+    "keyword": "ola company",
+    "mentions": 2,
+    "id": "A_Jt0w0RWIo"
+   },
+   {
+    "keyword": "location",
+    "mentions": 6,
+    "id": "KlvowLLM6cQ"
+   },
+   {
+    "keyword": "security",
+    "mentions": 2,
+    "id": "AkWMThdQ6oM"
+   },
+   {
+    "keyword": "infrastructure",
+    "mentions": 2,
+    "id": "AAzVsL4Dzco"
+   },
+   {
+    "keyword": "scooter condition",
+    "mentions": 2,
+    "id": "ABTY5NjL7tQ"
+   },
+   {
+    "keyword": "corporate space",
+    "mentions": 2,
+    "id": "BcVnt6KlkKo"
+   },
+   {
+    "keyword": "ambiance",
+    "mentions": 5,
+    "id": "JGvrBjVCxMw"
+   },
+   {
+    "keyword": "consumer court",
+    "mentions": 3,
+    "id": "BBb9fGLdkKs"
+   }
+  ],
+  "reviews": [
+   {
+    "position": 1,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCM1QzaGhVVWxOZFhGMll6RjVSRlJmUVY5TFpsRRAB!2m1!1s0x0:0xcac455f8e07ff299!3m1!1s2@1:CAIQACodChtycF9oOjB3T3hhUUlNdXF2YzF5RFRfQV9LZlE%7C%7C?hl=en-GB",
+    "rating": 1.0,
+    "date": "4 days ago",
+    "iso_date": "2026-10-02T16:52:55Z",
+    "iso_date_of_last_edit": "2026-10-02T16:52:55Z",
+    "images": [
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLdTdcsz-EcAYGPYHNeFjQ7QmYDaAoM3XChlY0vQwtCqh5kcAB_g9TizPz0Nq7Ao7Gm3mdD0WFBYTSJsURantOl-kvcTkJv0J91-GkIMAkJ6qKFYOacMEyL9aUqyBQgFPfr52-v-c8Ey0xdm=k-no",
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLcswe1qiadcZqDADolkv5S42VwVXjePjeWlBEj9QbqvWlpb7shIdIEpluM-89jm0GsIO3UEQ1NbzCEIPk3i_BM_8XcTl38wvbjmunTS6YCYLs2H8vyXSkhkcDmQIuhb4AJb5ILOcQN3S8vo=k-no",
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLdtDpCS7ZjJRoGhzQ5xazMIEhe8UrrdQoev1tLBqUvDmai7Kw95w9kR_TFcM-ZgiI_qenieUece9snxl_RMLE8G0FtIFfBEq8CZykf_KN8xZYNQKLxn6Uux5rEeOLP2pd_jxsYceHoO-47W=k-no",
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLd3SjamIk7AxUNqZJx918KZQxkaZIm7gasqJc_saiFNuBRi3twHGvAsbh6G3HAHQcr2Wpti0Fz2l1YF3iUXTc-GxSuE2HcrMn6CWQKJBD7nWjZh7xg0jhUeTeh2iLgTYJVdU7_vyODjpRE=k-no",
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLd1G28cKISmuYiTOXuSbt6zzEXCqTK_g6y-ROGvGWN6YdoD57WMDiqaMUIJAE1KO8m8zuyg3HlKv9WtBZmWCOTleWPWsXMKULQZqtRukVjTtUswvCuM8hgjvgmMMLdhcLUGAMz4MKvMtTlT=k-no"
+    ],
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCM1QzaGhVVWxOZFhGMll6RjVSRlJmUVY5TFpsRRAB",
+    "user": {
+     "name": "Dipak Gatade",
+     "link": "https://www.google.com/maps/contrib/116186295793249432131?hl=en-GB",
+     "contributor_id": "116186295793249432131",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU_zzGIfpeeidquvBr1VkyjhSEUw2ejq09FUsj_d43Hef0w8_yi=s120-c-rp-mo-ba12-br100",
+     "local_guide": true,
+     "reviews": 13,
+     "photos": 10
+    },
+    "snippet": "3rd class service from ola electric",
+    "extracted_snippet": {
+     "original": "3rd class service from ola electric"
+    },
+    "likes": 0
+   },
+   {
+    "position": 2,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kVlpUWmtTR3B2ZDI1WWFraHZjVTQyU0ZWNU1rRRAB!2m1!1s0x0:0xcac455f8e07ff299!3m1!1s2@1:CAIQACodChtycF9oOndVZTZkSGpvd25YakhvcU42SFV5MkE%7C%7C?hl=en-GB",
+    "rating": 1.0,
+    "date": "4 days ago",
+    "iso_date": "2026-10-02T09:04:01Z",
+    "iso_date_of_last_edit": "2026-10-02T09:04:01Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVlpUWmtTR3B2ZDI1WWFraHZjVTQyU0ZWNU1rRRAB",
+    "user": {
+     "name": "Sangam Devi",
+     "link": "https://www.google.com/maps/contrib/111080576259148921308?hl=en-GB",
+     "contributor_id": "111080576259148921308",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXmhPx9ke_lvhpidJyDYxQ4EwGmGfUmKTdG8Y7uqH3JGmmcbTSd=s120-c-rp-mo-br100",
+     "local_guide": true,
+     "reviews": 2,
+     "photos": 9
+    },
+    "snippet": "Very very bed service and maintenance",
+    "extracted_snippet": {
+     "original": "Very very bed service and maintenance"
+    },
+    "likes": 0
+   },
+   {
+    "position": 3,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Kd0xYQndRbmRpYVU5UVJuZE9jVVV3YkhwTFpVRRAB!2m1!1s0x0:0xcac455f8e07ff299!3m1!1s2@1:CAIQACodChtycF9oOnJwLXBwQndiaU9QRndOcUUwbHpLZUE%7C%7C?hl=en-GB",
+    "rating": 1.0,
+    "date": "6 days ago",
+    "iso_date": "2026-09-30T10:25:30Z",
+    "iso_date_of_last_edit": "2026-09-30T10:25:30Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kd0xYQndRbmRpYVU5UVJuZE9jVVV3YkhwTFpVRRAB",
+    "user": {
+     "name": "Swarup Ray",
+     "link": "https://www.google.com/maps/contrib/108819149570853614352?hl=en-GB",
+     "contributor_id": "108819149570853614352",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK-Aan9IFHjV-mCgAriNnSQyJKCXn6MWyfABwF6rPpPVNqeOg=s120-c-rp-mo-br100",
+     "local_guide": true,
+     "reviews": 0,
+     "photos": 1
+    },
+    "likes": 0
+   },
+   {
+    "position": 4,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214ZlpFUTRhR0ZFVWxGclJXeFhOM1JhVEhGQ1JsRRAB!2m1!1s0x0:0xcac455f8e07ff299!3m1!1s2@1:CAIQACodChtycF9oOmxfZEQ4aGFEUlFrRWxXN3RaTHFCRlE%7C%7C?hl=en-GB",
+    "rating": 1.0,
+    "date": "a week ago",
+    "iso_date": "2026-09-28T12:26:18Z",
+    "iso_date_of_last_edit": "2026-09-28T12:57:14Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214ZlpFUTRhR0ZFVWxGclJXeFhOM1JhVEhGQ1JsRRAB",
+    "user": {
+     "name": "Nitin Rajan",
+     "link": "https://www.google.com/maps/contrib/101773924019696438639?hl=en-GB",
+     "contributor_id": "101773924019696438639",
+     "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJgPEirY3QC9oLsWg33ifvg3g0GSWn3lAAn_hhTH46pLFze4tef=s120-c-rp-mo-ba12-br100",
+     "local_guide": true,
+     "reviews": 23,
+     "photos": 15
+    },
+    "snippet": "Mr Bhavish has employed gangsters in his Indiranagar Store to threaten innocent paid customers who suffer.\nPoorest and worst service in the world.\nCheating the customers and earning money.\nYour good obedient Bhuva ( Branch Sales Manager - Ayyapa Bhakt) & Gautam ( Service Manager) doing their job ( threatening customers who walks-in ) BTW Gautam doesn’t even have respect on you as well Mr Bhavish.\nReally doing a fantastic job. Keep cheating customers.\nEvery one can make product but retaining its quality and customer service must be the core. Don’t just focus on revenue , focus on quality of service as well.\nWhy did u manufacture scooters if you can’t make parts?\nThe companies you mocked once are doing far better than you.\nEmploy good experienced people not gangsters.\nOla electric will never lift up that’s a big truth.",
+    "extracted_snippet": {
+     "original": "Mr Bhavish has employed gangsters in his Indiranagar Store to threaten innocent paid customers who suffer.\nPoorest and worst service in the world.\nCheating the customers and earning money.\nYour good obedient Bhuva ( Branch Sales Manager - Ayyapa Bhakt) & Gautam ( Service Manager) doing their job ( threatening customers who walks-in ) BTW Gautam doesn’t even have respect on you as well Mr Bhavish.\nReally doing a fantastic job. Keep cheating customers.\nEvery one can make product but retaining its quality and customer service must be the core. Don’t just focus on revenue , focus on quality of service as well.\nWhy did u manufacture scooters if you can’t make parts?\nThe companies you mocked once are doing far better than you.\nEmploy good experienced people not gangsters.\nOla electric will never lift up that’s a big truth."
+    },
+    "likes": 0
+   },
+   {
+    "position": 5,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGRGFYRXhVRGxCZEhWeWFFbEhiVUV0WjNoSWMwRRAB!2m1!1s0x0:0xcac455f8e07ff299!3m1!1s2@1:CAIQACodChtycF9oOkFDaXExUDlBdHVyaElHbUEtZ3hIc0E%7C%7C?hl=en-GB",
+    "rating": 1.0,
+    "date": "a week ago",
+    "iso_date": "2026-09-25T17:42:55Z",
+    "iso_date_of_last_edit": "2026-09-25T17:42:55Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRGFYRXhVRGxCZEhWeWFFbEhiVUV0WjNoSWMwRRAB",
+    "user": {
+     "name": "Mr. S K Achari",
+     "link": "https://www.google.com/maps/contrib/112607686704721916302?hl=en-GB",
+     "contributor_id": "112607686704721916302",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXuDsZN7a8TTZOQE4Gpwr7tAfkYDr8dTismVOMLa-As0wjAP54P=s120-c-rp-mo-ba12-br100",
+     "local_guide": true,
+     "reviews": 31,
+     "photos": 8
+    },
+    "snippet": "Website showing open  24 hrs, but its closed for ever...  Very pity ola",
+    "extracted_snippet": {
+     "original": "Website showing open  24 hrs, but its closed for ever...  Very pity ola"
+    },
+    "likes": 0
+   },
+   {
+    "position": 6,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poNVJWSmFaVmhLY3pGYVptaENXVkpMYTI0NVVIYxAB!2m1!1s0x0:0xcac455f8e07ff299!3m1!1s2@1:CAIQACodChtycF9oOjh5RVJaZVhKczFaZmhCWVJLa245UHc%7C%7C?hl=en-GB",
+    "rating": 5.0,
+    "date": "2 weeks ago",
+    "iso_date": "2026-09-22T13:17:35Z",
+    "iso_date_of_last_edit": "2026-09-22T13:17:35Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poNVJWSmFaVmhLY3pGYVptaENXVkpMYTI0NVVIYxAB",
+    "user": {
+     "name": "Aarav Pratap Singh",
+     "link": "https://www.google.com/maps/contrib/110780089599333658887?hl=en-GB",
+     "contributor_id": "110780089599333658887",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUehq0lLKU2Ew0NLnYsKWYuMTnLbg87gmnJuUH8qONUH4cqDGLt=s120-c-rp-mo-ba12-br100",
+     "local_guide": true,
+     "reviews": 19,
+     "photos": 2
+    },
+    "likes": 0
+   },
+   {
+    "position": 7,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xnNE1qQmtSbGhpYlV4eVVITkpkamRaUjNZd1prRRAB!2m1!1s0x0:0xcac455f8e07ff299!3m1!1s2@1:CAIQACodChtycF9oOlg4MjBkRlhibUxyUHNJdjdZR3YwZkE%7C%7C?hl=en-GB",
+    "rating": 1.0,
+    "date": "2 weeks ago",
+    "iso_date": "2026-09-22T06:37:10Z",
+    "iso_date_of_last_edit": "2026-09-22T06:37:10Z",
+    "images": [
+     "https://lh3.googleusercontent.com/grass-cs/AABkmLeJsEHZpxFG8Bm2eTiEz4smnhxx9Y2KOT-3yoPtQKBbN2syQI47StNhjtsI6aPn_ebbjuA6KXt_QuDAuCahcmjhhbqXjSonXwNCpM1jMHkCDfaHqj1Hx2E8G54Kpz-wdOVTdnhJR7Ow46Vu=k-no"
+    ],
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnNE1qQmtSbGhpYlV4eVVITkpkamRaUjNZd1prRRAB",
+    "user": {
+     "name": "Akshaya R A",
+     "link": "https://www.google.com/maps/contrib/103551626288761432416?hl=en-GB",
+     "contributor_id": "103551626288761432416",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWpzIG7h8b6PXEAONXAO3ELAYzu8cN8GXEo79DN4EAf2IFUqbgh=s120-c-rp-mo-br100",
+     "local_guide": true,
+     "reviews": 10,
+     "photos": 5
+    },
+    "snippet": "⭐ 1/5 — BUYER BEWARE: Great Scooter, Terrible Ownership Experience\nThe Ola S1 Pro looks futuristic, rides well and is packed with technology. Unfortunately, the real problem starts after you buy it.\nOla’s after-sales service has been extremely frustrating. Getting a service appointment is a challenge, issues take too long to get addressed, and customer support often leaves you chasing for answers.\nI even paid for Ola Care Plus — supposedly for peace of mind. Instead, it felt like money thrown away. What is the value of a service plan when getting basic service itself becomes a struggle?\nAnd the final punchline: after 4 years of ownership, my “future of mobility” is now being SCRAPPED.\nThat SCRAPPED stamp on the scooter says more about my ownership experience than any Ola advertisement ever could.\nGreat technology means nothing without dependable after-sales support.\nOla needs to understand one simple thing: selling a scooter is not the end of the customer relationship — it’s the beginning.\nS1 Pro: ⭐ 1/5\nTechnology: Impressive\nAfter-sales service: Extremely disappointing\nOla Care Plus: Money wasted, based on my experience\nOwnership experience: Deeply frustrating",
+    "extracted_snippet": {
+     "original": "⭐ 1/5 — BUYER BEWARE: Great Scooter, Terrible Ownership Experience\nThe Ola S1 Pro looks futuristic, rides well and is packed with technology. Unfortunately, the real problem starts after you buy it.\nOla’s after-sales service has been extremely frustrating. Getting a service appointment is a challenge, issues take too long to get addressed, and customer support often leaves you chasing for answers.\nI even paid for Ola Care Plus — supposedly for peace of mind. Instead, it felt like money thrown away. What is the value of a service plan when getting basic service itself becomes a struggle?\nAnd the final punchline: after 4 years of ownership, my “future of mobility” is now being SCRAPPED.\nThat SCRAPPED stamp on the scooter says more about my ownership experience than any Ola advertisement ever could.\nGreat technology means nothing without dependable after-sales support.\nOla needs to understand one simple thing: selling a scooter is not the end of the customer relationship — it’s the beginning.\nS1 Pro: ⭐ 1/5\nTechnology: Impressive\nAfter-sales service: Extremely disappointing\nOla Care Plus: Money wasted, based on my experience\nOwnership experience: Deeply frustrating"
+    },
+    "likes": 0
+   },
+   {
+    "position": 8,
+    "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xcmNYTnFOR054WTNKclIxTklabWQxU0hkdlRVRRAB!2m1!1s0x0:0xcac455f8e07ff299!3m1!1s2@1:CAIQACodChtycF9oOm1rcXNqNGNxY3JrR1NIZmd1SHdvTUE%7C%7C?hl=en-GB",
+    "rating": 1.0,
+    "date": "2 weeks ago",
+    "iso_date": "2026-09-21T10:18:52Z",
+    "iso_date_of_last_edit": "2026-09-21T10:18:52Z",
+    "source": "Google",
+    "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xcmNYTnFOR054WTNKclIxTklabWQxU0hkdlRVRRAB",
+    "user": {
+     "name": "ಚಿರಾಗ್ ರಾಜ್",
+     "link": "https://www.google.com/maps/contrib/114073948105465998508?hl=en-GB",
+     "contributor_id": "114073948105465998508",
+     "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV4LjCVA_OtJbbi4pk-qAkc_T0IGRMOBthYMkJqPYbSlFUZAjBf=s120-c-rp-mo-br100",
+     "local_guide": true,
+     "reviews": 2,
+     "photos": 0
+    },
+    "snippet": "Worest application and services",
+    "extracted_snippet": {
+     "original": "Worest application and services"
+    },
+    "likes": 0
+   }
+  ],
+  "serpapi_pagination": {
+   "next": "https://serpapi.com/search.json?data_id=0x3bae15b4ccf666d7%3A0xcac455f8e07ff299&engine=google_maps_reviews&hl=en&next_page_token=Ci8IARInCgoAP72F88hjv4__EhD8RhKjb1TVm1pgw2cAAAAAGgf_Al88hjv4GAAiAA&sort_by=newestFirst",
+   "next_page_token": "Ci8IARInCgoAP72F88hjv4__EhD8RhKjb1TVm1pgw2cAAAAAGgf_Al88hjv4GAAiAA"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "params": {
+  "engine": "google_news",
+  "q": "Profit Kings Advisory",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "news_results": [
+   {
+    "title": "Investors lose lakhs to 'Profit Kings' Telegram tip group, police complaint filed",
+    "source": {
+     "name": "Sample City Times"
+    },
+    "iso_date": "2026-09-19T07:45:20Z",
+    "link": "https://news.example.com/sample/profit-kings-complaint"
+   },
+   {
+    "title": "Victims of guaranteed-return stock tip groups approach cyber cell",
+    "source": {
+     "name": "Sample Daily"
+    },
+    "iso_date": "2026-08-28T07:45:20Z",
+    "link": "https://news.example.com/sample/tip-group-victims"
+   },
+   {
+    "title": "SEBI cautions investors against unregistered advisers on social media",
+    "source": {
+     "name": "Sample Money"
+    },
+    "iso_date": "2026-08-06T07:45:20Z",
+    "link": "https://news.example.com/sample/sebi-caution"
+   }
+  ]
+ }
+}

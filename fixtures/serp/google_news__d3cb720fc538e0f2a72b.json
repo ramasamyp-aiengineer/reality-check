@@ -1,0 +1,1499 @@
+{
+ "params": {
+  "engine": "google_news",
+  "q": "electric scooter India",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5faea7bf2f9a0a6a0ba6e",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/goOTgl0HdQjX2th8mqumJA9cuwF2ohvXr1-iUMxfm_k/6ac5faea7bf2f9a0a6a0ba6e.json",
+   "markdown_endpoint": "https://serpapi.com/searches/goOTgl0HdQjX2th8mqumJA9cuwF2ohvXr1-iUMxfm_k/6ac5faea7bf2f9a0a6a0ba6e.md",
+   "created_at": "2026-10-07 07:55:22 UTC",
+   "processed_at": "2026-10-07 07:55:22 UTC",
+   "google_news_url": "https://news.google.com/search?q=electric+scooter+India&hl=en&gl=IN",
+   "raw_html_file": "https://serpapi.com/searches/goOTgl0HdQjX2th8mqumJA9cuwF2ohvXr1-iUMxfm_k/6ac5faea7bf2f9a0a6a0ba6e.html",
+   "total_time_taken": 1.06
+  },
+  "search_parameters": {
+   "engine": "google_news",
+   "gl": "in",
+   "hl": "en",
+   "q": "electric scooter India"
+  },
+  "news_results": [
+   {
+    "position": 1,
+    "title": "Electric Two-Wheeler Registrations Cross 2.07 Lakh Units in September 2026; TVS Leads, Bajaj Closes In",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/electric-two-wheeler-sales-september-2026",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_a531cb2777594bd4ab9a51ba4af29182~mv2.png/v1/fill/w_2500,h_3333,al_c/1da610_a531cb2777594bd4ab9a51ba4af29182~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZXRnBrVXpGT1MwNTJiVmxxVFJEX0JCamdBeWdLTWdtRkFJS0hBV3d0ZHdB",
+    "date": "10/05/2026, 06:57 AM, +0000 UTC",
+    "iso_date": "2026-10-05T06:57:04Z"
+   },
+   {
+    "position": 2,
+    "title": "E-scooter travels ‘just 16 km’ on full charge, not promised 85 km, man wins Rs 1.7 lakh",
+    "source": {
+     "name": "The Indian Express",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Jagriti Rai"
+     ]
+    },
+    "link": "https://indianexpress.com/article/legal-news/e-scooter-16-km-full-charge-promised-85-km-man-wins-rs-1-7-lakh-10905300/",
+    "thumbnail": "https://images.indianexpress.com/2026/10/Electric-scooter-battery-replacements-defect-refund-consumer-news.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZka0Z0TTFkWlVXdG5aa0pQVFJDZkF4ampCU2dLTWdZSlU0aW5yUVk",
+    "date": "10/03/2026, 12:13 PM, +0000 UTC",
+    "iso_date": "2026-10-03T12:13:40Z"
+   },
+   {
+    "position": 3,
+    "title": "Building smarter EVs by understanding rider needs",
+    "source": {
+     "name": "Deccan Herald",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Kiran Bagade"
+     ]
+    },
+    "link": "https://www.deccanherald.com/business/building-smarter-evs-by-understanding-rider-needs-4170373",
+    "thumbnail": "https://media.assettype.com/deccanherald%2F2025-12-07%2Fg454iwww%2Fev%20charge%20istock.jpg?rect=0%2C0%2C700%2C394&w=undefined&auto=format%2Ccompress&fit=max",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVhVMWRQUTFWWGVXZFhNRk00VFJDS0F4aThCU2dLTWdNQkV4SQ",
+    "date": "10/04/2026, 08:30 PM, +0000 UTC",
+    "iso_date": "2026-10-04T20:30:39Z"
+   },
+   {
+    "position": 4,
+    "title": "Complainant gets Rs 1.63 lakh payout after electric scooter faced defects, failed to deliver promised mil",
+    "source": {
+     "name": "The Times of India",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://timesofindia.indiatimes.com/legal/news/complainant-gets-rs-1-63-lakh-payout-after-electric-scooter-faced-defects-failed-to-deliver-promised-mileage/articleshow/134686144.cms",
+    "thumbnail": "https://static.toiimg.com/thumb/msid-134686875,width-1280,height-720,imgsize-1715520,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFNbGh3ZFhnMWFXeDFTbVpZVFJDZkF4ampCU2dLTWdZQklJSXBJUWc",
+    "date": "10/05/2026, 05:29 AM, +0000 UTC",
+    "iso_date": "2026-10-05T05:29:00Z"
+   },
+   {
+    "position": 5,
+    "title": "Electric scooters with the lowest seat height in India",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Vishal Venugopal"
+     ]
+    },
+    "link": "https://www.autocarindia.com/auto-features/electric-scooters-with-the-lowest-seat-height-in-india-440787",
+    "thumbnail": "https://asset.autocarindia.com/static/features/images/20260711_185343_07093cd8.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFSRUpKUTFSSVExb3hNbFJ3VFJEREF4aXBCU2dLTWdhRkFZYW1UZ00",
+    "date": "07/12/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-12T07:00:00Z"
+   },
+   {
+    "position": 6,
+    "title": "Simple Wave Electric Scooter Launched in India",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Govind Menon"
+     ]
+    },
+    "link": "https://www.bikewale.com/news/simple-wave-electric-scooter-launched-in-india/",
+    "thumbnail": "https://imgd.aeplcdn.com/370x208/n/cw/ec/226856/simple-wave-left-side-view.jpeg?isig=0&q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhZaTFhZGxsME1tWnBVelJWVFJDb0FSaXNBaWdCTWdrQkFKYktJQ2tlQXdN",
+    "date": "09/02/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-02T07:00:00Z"
+   },
+   {
+    "position": 7,
+    "title": "Ampere’s Nexus EX+ packs 5kW power, 202Nm torque: Check e-scooter's price and smart features",
+    "source": {
+     "name": "Livemint",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.livemint.com/auto-news/amperes-nexus-ex-packs-5kw-power-202nm-torque-check-e-scooters-price-and-smart-features-11791189337132.html",
+    "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/kia1qpo9_1791189881250_VYJP_1791189885294_sYi4_c7c66276-f950-4e2e-a17c-af29704b5d35_xZvE.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRWSEJZVFVkcFlUZEJObUp1VFJDZkF4ampCU2dLTWdhSkVKTG5LQWM",
+    "date": "10/05/2026, 09:38 AM, +0000 UTC",
+    "iso_date": "2026-10-05T09:38:34Z"
+   },
+   {
+    "position": 8,
+    "title": "River raises $120 million to scale electric scooter production in India",
+    "source": {
+     "name": "THE PACK – Electric motorcycle news",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thepack.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://thepack.news/river-raises-120-million-to-scale-electric-scooter-production-in-india/",
+    "thumbnail": "https://thepack.news/wp-content/uploads/2026/08/River_7-1024x751.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhaalUxVm1oVVdXbzBaVFk1VFJEYUF4aUhCU2dLTWdtQklKQ1ZrT3FaeXdF",
+    "date": "08/06/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-06T07:00:00Z"
+   },
+   {
+    "position": 9,
+    "title": "Top 5 Sportiest Electric Scooters You Can Buy In India",
+    "source": {
+     "name": "carandbike",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.carandbike.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Abhishek Nigam"
+     ]
+    },
+    "link": "https://www.carandbike.com/articles/top-5-sportiest-electric-scooters-you-can-buy-in-india-3221434",
+    "thumbnail": "https://images.carandbike.com/cms/Sporty_Scooters_7d0330fd46.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUplR05SYVdNNWREZHdNRlJpVFJERUF4aW1CU2dLTWdhUkE1QnFrUW8",
+    "date": "08/19/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-19T07:00:00Z"
+   },
+   {
+    "position": 10,
+    "title": "4 Upcoming Electric Scooters in India in Next 3-4 Months",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Mayank Gupta"
+     ]
+    },
+    "link": "https://bikeadvice.in/4-upcoming-electric-scooters-in-india-in-next-3-4-months/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2026/07/Honda-QC3-1-853x853.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtlVXd0VG1SRlRFbENjRFZDVFJDcUJCaXFCQ2dLTWdrQk1JNnpMR2Q2WndJ",
+    "date": "07/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-29T07:00:00Z"
+   },
+   {
+    "position": 11,
+    "title": "BREAKING: Aprilia SXR GT 125 & SXR GT 175 Maxi-Scooter Range Launched In India",
+    "source": {
+     "name": "ZigWheels.com",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.zigwheels.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.zigwheels.com/news-features/general-news/breaking-aprilia-sxr-gt-125-sxr-gt-175-maxi-scooter-range-launched-in-india/58324/",
+    "thumbnail": "https://media.zigcdn.com/media/content/2026/Oct/6ac39cb65bd55.png?tr=w-420",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9hVXhVZVhOeGJYRXpNa1pOVFJEc0FSaWtBeWdLTWdhSllJeW1yQVk",
+    "date": "10/05/2026, 12:50 PM, +0000 UTC",
+    "iso_date": "2026-10-05T12:50:30Z"
+   },
+   {
+    "position": 12,
+    "title": "Honda Patents UC3 Electric Scooter in India",
+    "source": {
+     "name": "Autocar Professional",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autocarpro.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autocarpro.in/news/honda-patents-uc3-electric-scooter-in-india-134372",
+    "thumbnail": "https://img.autocarpro.in/autocarpro/7c399d30-fc08-463e-bed3-bd820ceee3e5_image.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJVMjFyVjE5WWQxSmtiVVZYVFJERUF4aW1CU2dLTWdZWk5JNktvUVk",
+    "date": "09/01/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-01T07:00:00Z"
+   },
+   {
+    "position": 13,
+    "title": "Honda QC3 Launched at ₹1.35 Lakh – 145km Range, 3kWh Battery, Bookings Open",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/honda-qc3-launched-at-1-35-lakh-145km-range-3kwh-battery-bookings-open",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_aa15f91bb7fb4eaa9e7a77e6a053c60f~mv2.png/v1/fill/w_568,h_710,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_aa15f91bb7fb4eaa9e7a77e6a053c60f~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJPVlZWTFdKMGNtaENUMVpXVFJEN0FSakpBU2dCTWdrRkFvUXVqU2lTSXdN",
+    "date": "09/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-22T07:00:00Z"
+   },
+   {
+    "position": 14,
+    "title": "VinFast Electric Scooter Design Patented in India",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Govind Menon"
+     ]
+    },
+    "link": "https://www.bikewale.com/news/vinfast-electric-scooter-design-patented-in-india/",
+    "thumbnail": "https://imgd.aeplcdn.com/370x208/n/cw/ec/223760/right-front-three-quarter.jpeg?isig=0&q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJlVVZOWkdkTlpsVnJXV1pFVFJEUUFSanlBaWdLTWdhbFJJNlBJUWM",
+    "date": "06/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-29T07:00:00Z"
+   },
+   {
+    "position": 15,
+    "title": "E3 Trion electric scooter launched at Rs 1 lakh",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autocarindia.com/bike-news/e3-trion-electric-scooter-launched-at-rs-1-lakh-440423",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260806_104739_67c03a5e.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpWazFtVFc1c1IwRnpVelEwVFJEREF4aW9CU2dLTWdrVlVaQXJLU1pVeUFJ",
+    "date": "08/06/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-06T07:00:00Z"
+   },
+   {
+    "position": 16,
+    "title": "Electric Two-Wheeler Sales July 2026: TVS iQube Leads as Top Models Clock 1.69 Lakh Units, Up 168%",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/electric-two-wheeler-sales-july-2026-tvs-iqube-bajaj-chetak",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_c030a51137b94077a8303bed83175a20~mv2.png/v1/fill/w_800,h_1000,al_c,q_90,usm_0.66_1.00_0.01/1da610_c030a51137b94077a8303bed83175a20~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFZbDh6TWxFelMydGxZbTVUVFJEN0FSakpBU2dCTWdhRkFZb0VpZ3M",
+    "date": "08/18/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-18T07:00:00Z"
+   },
+   {
+    "position": 17,
+    "title": "Electric scooter and bike sales cross 1 million units in 2026 so far",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ajit Dalvi"
+     ]
+    },
+    "link": "https://www.autocarindia.com/industry/electric-scooter-and-bike-sales-cross-1-million-units-in-2026-so-far-440147",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260707_072103_2eb80267.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxPRGRtWnpORWVXRndSMTlNVFJEREF4aXBCU2dLTWdZQkFJaUZ5QVE",
+    "date": "07/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-07T07:00:00Z"
+   },
+   {
+    "position": 18,
+    "title": "VinFast Viper e-Scooter Design patented in India",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ajinkya Lad"
+     ]
+    },
+    "link": "https://www.bikewale.com/news/vinfast-viper-e-scooter-design-patented-in-india/",
+    "thumbnail": "https://imgd.aeplcdn.com/370x208/n/cw/ec/224722/viper-left-side-view.png?isig=0&q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVpZV3BZU0U5QmNqQkxlVWhOVFJEUUFSanlBaWdLTWdPVk1ndw",
+    "date": "07/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-22T07:00:00Z"
+   },
+   {
+    "position": 19,
+    "title": "E3 Trion Electric Scooter Launched in India Starting at Rs. 1 Lakh",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Govind Menon"
+     ]
+    },
+    "link": "https://www.bikewale.com/news/e3-trion-electric-scooter-launched-in-india-starting-at-rs-1-lakh/",
+    "thumbnail": "https://imgd.aeplcdn.com/370x208/n/cw/ec/225446/e3-trion-front-view.png?isig=0&q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZTa3RuY3pGTFozRnZZalZDVFJEUUFSanlBaWdLTWdrSkFZNnp2Q1doQXdN",
+    "date": "08/06/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-06T07:00:00Z"
+   },
+   {
+    "position": 20,
+    "title": "Ather Konarc vs Simple Wave vs Ola S1 Z vs TVS iQube vs Bajaj Chetak vs VIDA VX2: Which Electric Scooter Is Best?",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/electric-scooter-comparison-india-2026",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_36834bfe0aaf422c9fc5c83c29e81af3~mv2.png/v1/fill/w_980,h_1470,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_36834bfe0aaf422c9fc5c83c29e81af3~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxaV2haVDNadWVWSjBaV1k1VFJDVEFoaTNBU2dCTWdhRkFvd2xqZ2s",
+    "date": "09/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-07T07:00:00Z"
+   },
+   {
+    "position": 21,
+    "title": "Top 5 Highest Priced Electric Scooters in India",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://bikeadvice.in/top-5-highest-priced-electric-scooters-in-india/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2026/07/Yamaha-Aerox-E-2-853x853.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpObGxNUlhGRlpERk9hR05qVFJDcUJCaXFCQ2dLTWdrQlFKQW1zaVltaVFJ",
+    "date": "07/13/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-13T07:00:00Z"
+   },
+   {
+    "position": 22,
+    "title": "5 New Electric Scooters Launching Later This Year in India",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Mayank Gupta"
+     ]
+    },
+    "link": "https://bikeadvice.in/5-new-electric-scooters-launching-later-this-year-in-india/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2025/12/Vinfast-Feliz-and-Klara.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdlbUpuT0daMFRubHNlVWd4VFJDZkF4ampCU2dLTWdZTlFKQ0h0Z2M",
+    "date": "03/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-11T07:00:00Z"
+   },
+   {
+    "position": 23,
+    "title": "E3 Trion AI-powered electric scooter launched in India: Smartest EV scooter yet? | walkaround |",
+    "source": {
+     "name": "carandbike",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.carandbike.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.carandbike.com/videos/e3-trion-aipowered-electric-scooter-launched-in-india-smartest-ev-scooter-yet-walkaround-737094",
+    "thumbnail": "https://i.ytimg.com/vi/rY3wXGUG6TE/hqdefault.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtNVXRUT1VWb04wMTZiV1kxVFJEb0FoamdBeWdLTWdrQk1KS0FtS2xTRFFJ",
+    "date": "08/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-08T07:00:00Z"
+   },
+   {
+    "position": 24,
+    "title": "Yamaha Aerox-E Electric Scooter Launched in India at ₹2.81 Lakh: 117 km Range, 95.5 km/h Top Speed",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/yamaha-aerox-e-launched-at-2-81-lakh-yamaha-s-performance-focused-electric-scooter-arrives-in-indi",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_ac093b72d49f4d51b80afa1eaf939e03~mv2.png/v1/fill/w_568,h_852,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_ac093b72d49f4d51b80afa1eaf939e03~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdWazFCVTNWaFFuWlpNMTlHVFJDbUJSakVBeWdLTWdZQkFZam5rQW8",
+    "date": "07/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-08T07:00:00Z"
+   },
+   {
+    "position": 25,
+    "title": "Top 5 Electric Scooters Launched in H1 2026 in India",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://bikeadvice.in/top-5-electric-scooters-launched-in-h1-2026-in-india/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2026/02/Yamaha-EC-06-Launch-in-India-1200x675.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVZOblphWm1OTFprTmliRUU0VFJDZkF4ampCU2dLTWd1QlFJcUxPYVhBNllsSGln",
+    "date": "07/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-08T07:00:00Z"
+   },
+   {
+    "position": 26,
+    "title": "2 Upcoming Affordable Electric Scooters Launching in Next 20 Days",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://bikeadvice.in/2-upcoming-affordable-electric-scooters-launching-in-next-20-days/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2026/08/Ather-konarc-1.jpg-853x853.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURaMkpvV2poWmJuTmpUMlJvVFJDcUJCaXFCQ2dLTWdZQnNKQ09PUVk",
+    "date": "08/12/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-12T07:00:00Z"
+   },
+   {
+    "position": 27,
+    "title": "Vinfast Rasad electric maxi-scooter design patented in India",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Vishal Venugopal"
+     ]
+    },
+    "link": "https://www.autocarindia.com/bike-news/vinfast-rasad-electric-maxi-scooter-design-patented-in-india-440443",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260810_081254_8d4d130b.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNlak15UVRaNGJESm5Za2RZVFJEREF4aXBCU2dLTWdhTk1aQUhwUWM",
+    "date": "08/10/2026, 08:14 AM, +0000 UTC",
+    "iso_date": "2026-08-10T08:14:05Z"
+   },
+   {
+    "position": 28,
+    "title": "Honda UC3 electric scooter design patent filed in India",
+    "source": {
+     "name": "Team-BHP",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.team-bhp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tushar Kelshikar"
+     ]
+    },
+    "link": "https://www.team-bhp.com/news/honda-uc3-electric-scooter-design-patent-filed-india",
+    "thumbnail": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/Screenshot%202026-09-01%20175346.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJiVFpoVFhSV1VuVXdXV1pUVFJEbUF4ajNCQ2dLTWdZQko0cUVuZ2s",
+    "date": "09/01/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-01T07:00:00Z"
+   },
+   {
+    "position": 29,
+    "title": "Electric Scooters: Five Checks before Buying",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.bikewale.com/news/electric-scooters-five-checks-before-buying/",
+    "thumbnail": "https://imgd.aeplcdn.com/370x208/n/cw/ec/221818/iqube-left-front-three-quarter.jpeg?isig=0&q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNUpWWE00UzA5WlIwNWxkbEJxVFJEUUFSanlBaWdLTWc0QlVJek10Q2F4WjZyZW10WXlGUQ",
+    "date": "05/12/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-12T07:00:00Z"
+   },
+   {
+    "position": 30,
+    "title": "Electric Two-Wheeler Sales August 2026: TVS Leads as Bajaj Surges 236%; Market Grows 68% YoY",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/electric-two-wheeler-sales-august-2026",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_8612ce58990a42d99516808b0e598d62~mv2.png/v1/fill/w_800,h_1000,al_c,q_90,usm_0.66_1.00_0.01/1da610_8612ce58990a42d99516808b0e598d62~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlTbTVMYmpKaGQweDZNSFZwVFJEN0FSakpBU2dCTWdZQkFwQkdEUXM",
+    "date": "09/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-07T07:00:00Z"
+   },
+   {
+    "position": 31,
+    "title": "3 Upcoming Electric Scooters Launching in Next 6 Months",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://bikeadvice.in/3-upcoming-electric-scooters-launching-in-next-6-months/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2025/10/Ather-EL01-1200x675.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtaRTFHVFU1QmF6QkRaSGcwVFJDZkF4ampCU2dLTWdhVk1ZelNuQWM",
+    "date": "05/26/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-26T07:00:00Z"
+   },
+   {
+    "position": 32,
+    "title": "TVS, Bajaj, Hero, Ather drive 96% of India's e-scooter growth in H1",
+    "source": {
+     "name": "ET Auto",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://auto.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://auto.economictimes.indiatimes.com/news/two-wheelers/leading-manufacturers-drive-96-growth-in-indias-e-scooter-market/132409002",
+    "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-132409002,width-1600,height-900,resizemode-4/.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNaMUJwTFZkZlpVMW5SVzlLVFJDZkF4ampCU2dLTWdZUlVwSUx0UWM",
+    "date": "07/15/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-15T07:00:00Z"
+   },
+   {
+    "position": 33,
+    "title": "Electric scooter market records its second highest monthly sales in June 2026",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ajit Dalvi"
+     ]
+    },
+    "link": "https://www.autocarindia.com/bike-news/electric-scooter-market-records-its-second-highest-monthly-sales-in-june-2026-440096",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260701_110936_13da4e6c.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFZbUkwUVZBd1RsQXlUbVV5VFJEREF4aXBCU2dLTWdrTkVvcG9GdVE4eXdF",
+    "date": "06/30/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-30T07:00:00Z"
+   },
+   {
+    "position": 34,
+    "title": "New Vinfast electric scooter patented in India",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Dinshaw Magol"
+     ]
+    },
+    "link": "https://www.autocarindia.com/bike-news/new-vinfast-electric-scooter-patented-in-india-440075",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260629_091519_31454a40.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRNbTVyU1RWTWJucEJlRWx2VFJEREF4aW9CU2dLTWdZaFU0eHZzUVk",
+    "date": "06/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-29T07:00:00Z"
+   },
+   {
+    "position": 35,
+    "title": "New Yamaha electric scooter details revealed",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Vishal Venugopal"
+     ]
+    },
+    "link": "https://www.autocarindia.com/bike-news/new-yamaha-electric-scooter-details-revealed-440260",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260721_084511_7584e105.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJZM2RRYm5wUlpGSmZja0YwVFJEREF4aW9CU2dLTWdZaEpJNXRvUWM",
+    "date": "07/21/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-21T07:00:00Z"
+   },
+   {
+    "position": 36,
+    "title": "TVS crosses 1 million electric scooter sales",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ajit Dalvi"
+     ]
+    },
+    "link": "https://www.autocarindia.com/bike-news/tvs-crosses-1-million-electric-scooter-sales-439935",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260611_055049_5bae118c.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNkV2xmVWtabE9XVnRjbFpsVFJEREF4aXBCU2dLTWdrQk1ZNjJuR2F4eHdF",
+    "date": "06/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-11T07:00:00Z"
+   },
+   {
+    "position": 37,
+    "title": "VinFast Patents Two New Electric Two-Wheelers In India Ahead Of Market Entry",
+    "source": {
+     "name": "carandbike",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.carandbike.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.carandbike.com/news/vinfast-patents-two-new-electric-twowheelers-in-india-ahead-of-market-entry-3221043",
+    "thumbnail": "https://images.carandbike.com/cms/Vin_Fast_Viper_Electric_Scooter_India_Patent_carandbike_3_d9dfc06d40.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdia1ZSVVV0MFdHMDNPVE15VFJDdEF4akxCU2dLTWdtRmNZNzBxS2FocndF",
+    "date": "07/21/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-21T07:00:00Z"
+   },
+   {
+    "position": 38,
+    "title": "Ather Energy Crosses 7 Lakh Electric Scooter Sales Milestone, Becomes India’s Fourth Largest EV Brand By Cumulative Deliveries",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/ather-energy-crosses-7-lakh-electric-scooter-sales-milestone-becomes-india-s-fourth-largest-ev-bran",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_3bcb66f687d94d24a55d3de7cca10aa5~mv2.png/v1/fill/w_568,h_836,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_3bcb66f687d94d24a55d3de7cca10aa5~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNYMHhhTTFGNE5VNXVSMnhLVFJDZ0JSaklBeWdLTWdZQkFZVEdEUXM",
+    "date": "06/26/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-26T07:00:00Z"
+   },
+   {
+    "position": 39,
+    "title": "Ather Konarc Electric Scooter India Launch on 29 August",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ajinkya Lad"
+     ]
+    },
+    "link": "https://www.bikewale.com/news/ather-konarc-electric-scooter-india-launch-on-29-august/",
+    "thumbnail": "https://imgd.aeplcdn.com/370x208/n/cw/ec/221638/el-scooter-left-front-three-quarter.jpeg?isig=0&isig=0&wm=3&q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRNbWRRWm5aaGVUaEhibnA2VFJDb0FSaXNBaWdCTWdrZFE0cFFzV1o3aUFJ",
+    "date": "08/05/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-05T07:00:00Z"
+   },
+   {
+    "position": 40,
+    "title": "Yamaha launches Aerox E electric scooter in India at ₹2.81 lakh",
+    "source": {
+     "name": "ET Auto",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://auto.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://auto.economictimes.indiatimes.com/news/two-wheelers/yamaha-launches-aerox-e-electric-scooter-in-india-at-2-81-lakh/132263047",
+    "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-132263047,width-1600,height-900,resizemode-4/.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRZMmRXY1MxWVVuSXRVVmhXVFJDZkF4ampCU2dLTWdhWlZKQ3FxUVk",
+    "date": "07/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-08T07:00:00Z"
+   },
+   {
+    "position": 41,
+    "title": "Honda UC3 Electric Scooter Patented In India - 122 km Range, 80 km/h Top Speed",
+    "source": {
+     "name": "RushLane",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.rushlane.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Akshay Kulkarni"
+     ]
+    },
+    "link": "https://www.rushlane.com/honda-uc3-electric-scooter-patented-in-india-122-km-range-80-km-h-top-speed-12554584.html",
+    "thumbnail": "https://www.rushlane.com/wp-content/uploads/2026/08/honda-uc3-electric-scooter-patented-in-india-5.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpVR05sZG5KeVdIQlphbU5HVFJDZkF4ampCU2dLTWdZNVFwQVRvUWM",
+    "date": "08/31/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-31T07:00:00Z"
+   },
+   {
+    "position": 42,
+    "title": "Keeway's First Electric Scooter For India To Feature 14-Inch Wheels And ABS; Launch In June",
+    "source": {
+     "name": "carandbike",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.carandbike.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Amaan Ahmed"
+     ]
+    },
+    "link": "https://www.carandbike.com/news/keeways-first-electric-scooter-for-india-to-feature-14inch-wheels-and-abs-launch-in-june-3220521",
+    "thumbnail": "https://images.carandbike.com/cms/keeway_ezi_hypevolt_electric_scooter_india_launch_in_june_2026_carandbike_1_13615d33c5.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZjMlp2U0Y5MmFGbENhR2RKVFJDdEF4akxCU2dLTWdhUllvb3B2UVU",
+    "date": "05/31/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-05-31T07:00:00Z"
+   },
+   {
+    "position": 43,
+    "title": "VinFast Rasad Electric Maxi-Scooter Patented In India, Signals Bigger Two-Wheeler EV Push",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/vinfast-rasad-electric-scooter-patented-india",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_2af5d8168daf4dc0ab8442ac14583c56~mv2.png/v1/fill/w_568,h_710,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_2af5d8168daf4dc0ab8442ac14583c56~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdZM1ZQVm01alNuRlFXVVpaVFJEckJCanZBeWdLTWdtQkFZcURFaXRFWndJ",
+    "date": "08/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-11T07:00:00Z"
+   },
+   {
+    "position": 44,
+    "title": "Iran war effect - Leading EV two-wheeler makers accelerate expansion amid petrol price worries",
+    "source": {
+     "name": "Spherical Insights",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sphericalinsights.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.sphericalinsights.com/blogs/iran-war-effect-leading-ev-two-wheeler-makers-accelerate-expansion-amid-petrol-price-worries",
+    "thumbnail": "https://www.sphericalinsights.com/images/blog/electric-two-wheeler-market.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXpYMkZ2UmpGbmMxRlJWVVI1VFJERUF4aW1CU2dLTWdB",
+    "date": "05/18/2026, 12:31 PM, +0000 UTC",
+    "iso_date": "2026-05-18T12:31:50Z"
+   },
+   {
+    "position": 45,
+    "title": "Vinfast patents Viper e-scooter and new electric motorcycle in India",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Vishal Venugopal"
+     ]
+    },
+    "link": "https://www.autocarindia.com/bike-news/vinfast-viper-and-new-electric-motorcycle-patented-in-india-440248",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260720_061844_3fc61d43.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlPRzVRTVdKd00wZEhNRVJDVFJEREF4aW9CU2dLTWdZVklZN0xuUVk",
+    "date": "07/20/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-20T07:00:00Z"
+   },
+   {
+    "position": 46,
+    "title": "Vinfast Electric Scooter Design Patent Filed in India",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://bikeadvice.in/vinfast-electric-scooter-design-patent-filed-in-india/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2026/06/Vinfast-Viper-Electric-Scooter-3.jpg-1200x900.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZMVkpNVUVrek5qUnpXVEkxVFJEZ0F4aUFCU2dLTWdrVklveFNwZWR6N2dF",
+    "date": "06/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-29T07:00:00Z"
+   },
+   {
+    "position": 47,
+    "title": "Fuel Prices Rising? 10 Best Electric Scooters To Buy in India (2026)",
+    "source": {
+     "name": "DriveSpark",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.drivespark.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.drivespark.com/two-wheelers/2026/best-electric-scooters-india-ola-ather-tvs-chetak-2026-083175.html",
+    "thumbnail": "https://images.drivespark.com/fit-in/600x338/img/2026/03/evscootersforpetrol2-1774589771.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1jRU5zUVhGWVRrNHRXVmwxVFJEU0FoallCQ2dLTWdZQlVaRHlxQVk",
+    "date": "03/27/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-27T07:00:00Z"
+   },
+   {
+    "position": 48,
+    "title": "Vinfast Electric Motorcycle, Scooter Design Patented in India",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://bikeadvice.in/vinfast-electric-motorcycle-scooter-design-patented-in-india/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2026/03/Vinfast-Viper-Electric-Scooter-853x853.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBhbE5MZEY5b1VFTjVSSGszVFJDcUJCaXFCQ2dLTWdZRlFZd3pJUWc",
+    "date": "07/21/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-21T07:00:00Z"
+   },
+   {
+    "position": 49,
+    "title": "Honda expands electric scooter line-up with QC3",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Vishal Venugopal"
+     ]
+    },
+    "link": "https://www.autocarindia.com/bike-news/honda-expands-electric-scooter-lineup-with-qc3-440287",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260724_081242_f1612665.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFaRlJEUW5JNVpqUXhXVk15VFJEREF4aW9CU2dLTWdhVlFveExvUVk",
+    "date": "07/24/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-24T07:00:00Z"
+   },
+   {
+    "position": 50,
+    "title": "TVS iQube vs Bajaj Chetak: Which Electric Scooter Should You Buy in 2026?",
+    "source": {
+     "name": "BikeJunction",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thebikejunction.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://thebikejunction.com/news/tvs-iqube-vs-bajaj-chetak-which-electric-scooter-should-you-buy-in-2026",
+    "thumbnail": "https://images.tractorjunction.com/TVS_i_Qube_vs_Bajaj_Chetak_Which_Electric_Scooter_Should_You_Buy_in_2026_fbe831a41f.webp?format=webp&quality=40",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJOR0V4ZVhKVVRIa3RjREJpVFJDUUF4ai1CU2dLTWdrRmdJeTFNS2F4ckFF",
+    "date": "07/13/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-13T07:00:00Z"
+   },
+   {
+    "position": 51,
+    "title": "Top 10 Best-Selling Scooters in India – July 2026: TVS iQube, Bajaj Chetak & Ather Rizta Drive Strong Growth",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/top-10-best-selling-scooters-in-india-july-2026-tvs-iqube-bajaj-chetak-ather-rizta-drive-stron",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_3b8bbd198d30407db90b717918a4a6b5~mv2.png/v1/fill/w_980,h_1225,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_3b8bbd198d30407db90b717918a4a6b5~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVkbTVFUkUxMlNqVk1lSHBuVFJEckJCanZBeWdLTWdhQkFvS2xEUXM",
+    "date": "08/17/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-17T07:00:00Z"
+   },
+   {
+    "position": 52,
+    "title": "Honda QC3 Electric Scooter Launched at Rs 1.35 Lakh in India",
+    "source": {
+     "name": "autoX",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.autox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Divyam Dubey"
+     ]
+    },
+    "link": "https://www.autox.com/news/bike-news/honda-qc3-electric-scooter-launched-at-rs-135-lakh-in-india-124628/",
+    "thumbnail": "https://images.autox.com/uploads/2026/07/Honda-QC3-1784882574095-500x261.webp",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhlSGREYzNRNU5FbHFZVlkwVFJDRkFoalFBeWdLTWdZWk1JcHNLUVU",
+    "date": "09/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-22T07:00:00Z"
+   },
+   {
+    "position": 53,
+    "title": "Honda QC3 Electric Scooter Unveiled: Honda Raises the Bar with 145 km Range, Faster Charging and Premium Features",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/honda-qc3-electric-scooter-unveiled-145km-range",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_44109e7544f049078365851542f8993b~mv2.png/v1/fill/w_568,h_852,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_44109e7544f049078365851542f8993b~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTRlako1U0U1VmNIbFdVbTlZVFJDbUJSakVBeWdLTWdzQkFJYkRIcWxFcEZwUFZB",
+    "date": "07/26/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-26T07:00:00Z"
+   },
+   {
+    "position": 54,
+    "title": "Top Electric Scooters Expeditions Recognised by India Book of Records",
+    "source": {
+     "name": "India Book of Records",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://indiabookofrecords.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://indiabookofrecords.in/top-electric-scooters-expeditions-recognised-by-india-book-of-records/",
+    "thumbnail": "https://indiabookofrecords.in/wp-content/uploads/elementor/thumbs/thumb-2-rq5h05p0xkfp292dkguc8vic2t3a29dd5c3f8wcvbo.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdaREpUZFdKR2JXNVBiSFkyVFJDZkF4ampCU2dLTWdZZFFwQnNIUWs",
+    "date": "07/09/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-09T07:00:00Z"
+   },
+   {
+    "position": 55,
+    "title": "India's electric scooter boom: Mass market adoption spreads beyond metros",
+    "source": {
+     "name": "The Economic Times",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Lijee Philip"
+     ]
+    },
+    "link": "https://m.economictimes.com/industry/renewables/indias-electric-scooter-boom-mass-market-adoption-spreads-beyond-metros/articleshow/131557388.cms",
+    "thumbnail": "https://m.economictimes.com/thumb/msid-131557421,width-1200,height-900,resizemode-4,imgsize-4914/indias-electric-scooter-boom-mass-market-adoption-spreads-beyond-metros.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFObFExVFdORU4wUXlaMGxDVFJEZ0F4aUFCU2dLTWdhZFZJeU1yUVU",
+    "date": "06/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-07T07:00:00Z"
+   },
+   {
+    "position": 56,
+    "title": "Ather Konarc Launched at ₹99,999 – New Mass-Market Electric Scooter Offers Up To 200 Km Range",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/ather-konarc-launched-price-range-variants",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_f16bc3028ae24cd4b1ff616106eb63a0~mv2.png/v1/fill/w_980,h_1225,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_f16bc3028ae24cd4b1ff616106eb63a0~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5MVlJ0YlZCVFZYSlJhemswVFJEN0FSakpBU2dCTWdtRkVJanhyS1Z4NVFJ",
+    "date": "08/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-29T07:00:00Z"
+   },
+   {
+    "position": 57,
+    "title": "March 2026 Sees Record EV Sales: Top 5 Electric Scooter Brands In India",
+    "source": {
+     "name": "DriveSpark",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.drivespark.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.drivespark.com/two-wheelers/2026/march-2026-india-top-5-electric-scooter-brands-tvs-bajaj-ather-ola-083467.html",
+    "thumbnail": "https://images.drivespark.com/img/2026/04/atherriztayellow2-1775362652.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZYMHBRUkhBNFVsaEhXR1ZwVFJDZkF4ampCU2dLTWdZZEk0aExyUVU",
+    "date": "04/05/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-05T07:00:00Z"
+   },
+   {
+    "position": 58,
+    "title": "Honda UC3 Electric Scooter Design Patent Filed in India",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Mayank Gupta"
+     ]
+    },
+    "link": "https://bikeadvice.in/honda-uc3-electric-scooter-design-patent-filed-in-india/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2026/08/Honda-UC3-2.jpg-1200x900.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXVhbk5IVjNFNU5VZFFTWFUyVFJEZ0F4aUFCU2dLTWd1QlFaRHZzR1k5aUJyMmdn",
+    "date": "08/31/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-31T07:00:00Z"
+   },
+   {
+    "position": 59,
+    "title": "Yamaha Aerox E Electric Scooter Launched at Rs. 2.81 Lakh",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Govind Menon"
+     ]
+    },
+    "link": "https://www.bikewale.com/news/yamaha-aerox-e-electric-scooter-launched-at-rs-281-lakh/",
+    "thumbnail": "https://imgd.aeplcdn.com/370x208/n/cw/ec/219946/aerox-e-right-front-three-quarter.jpeg?isig=0&wm=3&isig=0&q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZRME4xUWxkU1VIWlROMWRTVFJEUUFSanlBaWdLTWdhTlpvd3BNZ1k",
+    "date": "07/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-08T07:00:00Z"
+   },
+   {
+    "position": 60,
+    "title": "VinFast Electric Scooter India Entry Gets Closer As Dealer Applications Close Today",
+    "source": {
+     "name": "Auto India Daily",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://autoindiadaily.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://autoindiadaily.in/bike-news/vinfast-electric-scooter-india/",
+    "thumbnail": "https://i0.wp.com/autoindiadaily.in/wp-content/uploads/2026/09/VinFast-Electric-Scooter-India-3.webp",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWtZMmxWV0ZWeE5rWk9UeTFmVFJDUkF4ajhCU2dLTWdzSkFZcUdER3RTelRtUm1n",
+    "date": "09/15/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-15T07:00:00Z"
+   },
+   {
+    "position": 61,
+    "title": "VinFast, Ultraviolette And Honda To Launch New Electric Scooters In India",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://bikeadvice.in/vinfast-ultraviolette-and-honda-to-launch-new-electric-scooters-in-india/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2026/03/Vinfast-Viper-Electric-Scooter-696x385.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZWVlpYYTNaclFYQnpUREZHVFJDQkF4aTRCU2dLTWdhaE00cVFIUWM",
+    "date": "09/21/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-21T07:00:00Z"
+   },
+   {
+    "position": 62,
+    "title": "Ather EL01-based Electric Scooter Teased Ahead of India Launch",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ajinkya Lad"
+     ]
+    },
+    "link": "https://www.bikewale.com/news/ather-el01-based-electric-scooter-teased-ahead-of-india-launch/",
+    "thumbnail": "https://imgd.aeplcdn.com/370x208/n/cw/ec/225176/el-scooter-right-side-view.png?isig=0&q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhiVlZOWlVsTU4yRTNUeTFXVFJEUUFSanlBaWdLTWdhQlFJeGxKUWc",
+    "date": "07/31/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-31T07:00:00Z"
+   },
+   {
+    "position": 63,
+    "title": "Yamaha's New Electric Scooter Patent Leaks Ahead of Launch – What We Know So Far",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/yamaha-s-new-electric-scooter-patent-leaks-ahead-of-launch-what-we-know-so-far",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_79b56a0c8d9641be8c00797a549fff9c~mv2.png/v1/fill/w_2500,h_3750,al_c/1da610_79b56a0c8d9641be8c00797a549fff9c~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpiREZCZUhOVlNtVnBhRTExVFJDbUJSakVBeWdLTWdrQkFJYkVDU3M2RXdF",
+    "date": "07/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-22T07:00:00Z"
+   },
+   {
+    "position": 64,
+    "title": "TVS Motor Takes Orbiter Electric Scooter to Nepal, Expands EV Push Beyond India",
+    "source": {
+     "name": "ACKO Drive",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ackodrive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ameya Naik"
+     ]
+    },
+    "link": "https://ackodrive.com/news/tvs-motor-takes-orbiter-electric-scooter-to-nepal-expands-ev-push-beyond-india/",
+    "thumbnail": "https://acko-cms.ackoassets.com/TVS_Orbiter_6_e413831951.webp",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpiQzF1UlZaSFQzUkJSbWgzVFJDUkF4ajhCU2dLTWdhWlVvb3JOUVU",
+    "date": "07/23/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-23T07:00:00Z"
+   },
+   {
+    "position": 65,
+    "title": "VinFast Viper Electric Scooter Patented In India: Is The Vietnamese EV Giant Preparing Its 2W Entry?",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/vinfast-viper-electric-scooter-patented-in-india-is-the-vietnamese-ev-giant-preparing-its-2w-entry",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_1e56050ae04c477e810e4ad60959e66b~mv2.png/v1/fill/w_568,h_852,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_1e56050ae04c477e810e4ad60959e66b~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJiVjlDWkVVNGMxSnpXbUk0VFJDbUJSakVBeWdLTWdZQkFvZ3ZGUWM",
+    "date": "06/28/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-28T07:00:00Z"
+   },
+   {
+    "position": 66,
+    "title": "Best Electric Scooters in India 2026: Top Picks Across Every Budget",
+    "source": {
+     "name": "BikeJunction",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thebikejunction.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://thebikejunction.com/news/best-electric-scooters-in-india-2026-by-budget",
+    "thumbnail": "https://images.tractorjunction.com/Best_Electric_Scooters_banner_1_df8c7b6b88.webp?format=webp&quality=40",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRkWHBEWm5CT1FrSTBlVkpZVFJDUUF4ai1CU2dLTWdZQllJaUpzQVU",
+    "date": "08/18/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-18T07:00:00Z"
+   },
+   {
+    "position": 67,
+    "title": "Vinfast patents new e-scooter in India; next-gen Viper?",
+    "source": {
+     "name": "Team-BHP",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.team-bhp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Tushar Kelshikar"
+     ]
+    },
+    "link": "https://www.team-bhp.com/news/vinfast-patents-new-e-scooter-india-next-gen-viper",
+    "thumbnail": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/Screenshot%202026-06-28%20115323.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdXV1pCVDFoallVRnRhR3g2VFJDd0F4akdCU2dLTWdZQlNZempvZ2c",
+    "date": "06/28/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-28T07:00:00Z"
+   },
+   {
+    "position": 68,
+    "title": "5 Things You Must Check Before Buying an Electric Scooter",
+    "source": {
+     "name": "Auto India Daily",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://autoindiadaily.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://autoindiadaily.in/buying-guides/buy-electric-scooter-5-things-check/",
+    "thumbnail": "https://i0.wp.com/autoindiadaily.in/wp-content/uploads/2026/08/Electric-Scooter-2.webp",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9RakI2WDFadE1FbG9kRGxVVFJDUkF4ajhCU2dLTWdZQlFwQ2tMZ1k",
+    "date": "08/24/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-24T07:00:00Z"
+   },
+   {
+    "position": 69,
+    "title": "VinFast Begins Electric Two-Wheeler Dealer Hunt in India Ahead of Scooter Launch",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/vinfast-electric-two-wheeler-dealer-hunt-india",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_69e4d147ac8d442ebf5b74034c01c191~mv2.png/v1/fill/w_568,h_710,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_69e4d147ac8d442ebf5b74034c01c191~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURkM0Z4WkVsMWVYZHdOM0JWVFJEN0FSakpBU2dCTWdhSkFJb0pGUVk",
+    "date": "09/05/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-05T07:00:00Z"
+   },
+   {
+    "position": 70,
+    "title": "Bajaj Chetak electric scooter sales cross 8 lakh milestone",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ajit Dalvi"
+     ]
+    },
+    "link": "https://www.autocarindia.com/bike-news/bajaj-chetak-electric-scooter-sales-cross-8-lakh-milestone-440068",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260629_060123_e3e44764.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBSREZRZG5jM05WZHVhMmxCVFJEREF4aW9CU2dLTWdZaFpJNXRwUVk",
+    "date": "06/29/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-29T07:00:00Z"
+   },
+   {
+    "position": 71,
+    "title": "Longest Journey by an Electric Scooter",
+    "source": {
+     "name": "India Book of Records",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://indiabookofrecords.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://indiabookofrecords.in/longest-journey-by-an-electric-scooter/",
+    "thumbnail": "https://indiabookofrecords.in/wp-content/uploads/elementor/thumbs/Longest-Journey-by-an-Electric-Scooter-1-rq710mwmgkubv00or3nob0v5im4kykndpz4okmi834.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJjWGhOUkRsaFZWUTJRUzFzVFJEZ0F4aUFCU2dLTWdZQlFaakdwQWc",
+    "date": "07/10/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-10T07:00:00Z"
+   },
+   {
+    "position": 72,
+    "title": "VinFast Electric scooters to be launched in India in 2026",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Rishabh Bhaskar"
+     ]
+    },
+    "link": "https://www.bikewale.com/news/vinfast-electric-scooters-to-be-launched-in-india-in-2026/",
+    "thumbnail": "https://imgd.aeplcdn.com/370x208/n/cw/ec/220166/vero-x-right-front-three-quarter.jpeg?isig=0&q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpUbVkyWkVwcGQzSXlOamhtVFJEUUFSanlBaWdLTWdZaEZJeVFsUWM",
+    "date": "04/04/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-04T07:00:00Z"
+   },
+   {
+    "position": 73,
+    "title": "Keeway Hypevolt-R Electric Scooter Launched In India At Rs 1.99 Lakh; Gets ADAS",
+    "source": {
+     "name": "NDTV",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.ndtv.com/auto/keeway-hypevolt-r-electric-scooter-launched-in-india-at-rs-1-99-lakh-gets-adas-11722842",
+    "thumbnail": "https://c.ndtvimg.com/2026-07/n4s1ab88_keeway-hypevoltr_625x300_03_July_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVRVGswU0RkTFRqbHZZa3BIVFJDZkF4ampCU2dLTWdtZEE0cXNHZVZjcmdF",
+    "date": "07/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-03T07:00:00Z"
+   },
+   {
+    "position": 74,
+    "title": "Simple Wave Electric Scooter Launched In India At Rs 1.10 Lakh; Offers 243 Km Range",
+    "source": {
+     "name": "NDTV",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.ndtv.com/auto/simple-wave-electric-scooter-launched-in-india-at-rs-1-10-lakh-offers-243-km-range-11991965",
+    "thumbnail": "https://c.ndtvimg.com/2026-09/gja9vkkk_simple-wave_625x300_02_September_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9Tbkk1TFVjeGJXSXdla3RUVFJDZkF4ampCU2dLTWdrQkFKWnBEV2xOS1FJ",
+    "date": "09/02/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-02T07:00:00Z"
+   },
+   {
+    "position": 75,
+    "title": "Vinfast looking to launch three electric scooters in India",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Dinshaw Magol"
+     ]
+    },
+    "link": "https://www.autocarindia.com/bike-news/vinfast-looking-to-launch-three-electric-scooters-in-india-439304",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260327_090225_3c5924e7.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9NRTE0UjBwNlRuYzJlbTlQVFJEREF4aXBCU2dLTWdZSk00U3JIUWs",
+    "date": "03/27/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-27T07:00:00Z"
+   },
+   {
+    "position": 76,
+    "title": "Keeway Hypevolt-R Electric Scooter Launched at Rs. 1.99 Lakh",
+    "source": {
+     "name": "BikeWale",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bikewale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Anuj Mishra"
+     ]
+    },
+    "link": "https://www.bikewale.com/news/keeway-hypevolt-r-electric-scooter-launched-at-rs-199-lakh/",
+    "thumbnail": "https://imgd.aeplcdn.com/370x208/n/cw/ec/224008/front-mudguard.jpeg?isig=0&q=80",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxVbU5yTlZWbVpUSndObEp6VFJEUUFSanlBaWdLTWdhZEpJcXNuUVU",
+    "date": "07/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-03T07:00:00Z"
+   },
+   {
+    "position": 77,
+    "title": "India: Ola Electric launches e-scooter with indigenous LFP cells",
+    "source": {
+     "name": "electrive.com",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.electrive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Sagar Parikh"
+     ]
+    },
+    "link": "https://www.electrive.com/2026/09/07/india-ola-electric-launches-e-scooter-with-indigenous-lfp-cells/",
+    "thumbnail": "https://www.electrive.com/media/2026/09/ola-electric-s1z-scooter-1800x1200px-1400x933.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRSVVpZUW1WTGEyRlpTWFJaVFJERUF4aW1CU2dLTWdhaHBZVHJ3UU0",
+    "date": "09/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-07T07:00:00Z"
+   },
+   {
+    "position": 78,
+    "title": "Electric scooter sales double in India in August as SUVs outsell hatchbacks, sedans: SIAM",
+    "source": {
+     "name": "CNBC TV18",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Vivek Dubey"
+     ]
+    },
+    "link": "https://www.cnbctv18.com/auto/india-electric-scooter-sales-suv-outsell-hatchback-sedan-auto-industry-siam-19990732.htm",
+    "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/siam-2026-09-1d3a1712d02142f3cf7972b3ac6d82aa.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1WVFl0YUZWeFFYbFZkRUpCVFJDZkF4ampCU2dLTWdZQm9Jd253Z1E",
+    "date": "09/15/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-09-15T07:00:00Z"
+   },
+   {
+    "position": 79,
+    "title": "TVS scooter prices hiked",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Vishal Venugopal"
+     ]
+    },
+    "link": "https://www.autocarindia.com/bike-news/tvs-scooter-prices-hiked-by-up-to-rs-11000-440392",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260805_144958_f69dfb56.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1jSE5FU0hwSlFXNWpibFJVVFJEREF4aW9CU2dLTWdtSmtZenp0S1dwVUFF",
+    "date": "08/04/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-04T07:00:00Z"
+   },
+   {
+    "position": 80,
+    "title": "Best-Selling Scooters in India – June 2026",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/best-selling-scooters-india-june-2026-sales-analysis",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_5b8fc1135c4e4d37a5c7f921b7547c51~mv2.png/v1/fill/w_980,h_1470,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_5b8fc1135c4e4d37a5c7f921b7547c51~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpkbU5hWXpkclMwZzNkR2RPVFJDVEFoaTNBU2dCTWdhQkFZeEVqZ3M",
+    "date": "07/19/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-19T07:00:00Z"
+   },
+   {
+    "position": 81,
+    "title": "Honda QC3 Electric Scooter Unveiled In India Ahead Of Launch",
+    "source": {
+     "name": "NDTV",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Soham Chatterjee"
+     ]
+    },
+    "link": "https://www.ndtv.com/auto/honda-qc3-electric-scooter-unveiled-in-india-ahead-of-launch-11815479",
+    "thumbnail": "https://c.ndtvimg.com/2026-07/hjab0o8c_honda-qc3_625x300_24_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFWRTFKV25GbGNXSXpRalJxVFJDZkF4ampCU2dLTWdZSllJNUxyUVU",
+    "date": "07/24/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-24T07:00:00Z"
+   },
+   {
+    "position": 82,
+    "title": "Top 5 Value Electric Scooters You Can Buy With BaaS In India — Starting At Just ₹44,990",
+    "source": {
+     "name": "DriveSpark",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.drivespark.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.drivespark.com/two-wheelers/2026/tvs-ather-vida-top-5-value-electric-scooters-baas-india-083573.html",
+    "thumbnail": "https://images.drivespark.com/img/2026/04/ather450s-1775641932.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhUR1JtY1hkT1oxRlFhRVpvVFJEU0FoallCQ2dLTWdhaE00d05vZ2s",
+    "date": "04/08/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-08T07:00:00Z"
+   },
+   {
+    "position": 83,
+    "title": "Upcoming Two-Wheeler Launches in India: Ather Konarc, Yamaha R2, Himalayan 440, Norton Atlas & More",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/upcoming-two-wheelers-india-2026-ather-konarc-yamaha-r2-himalayan-440",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_d008a3bf0dfa455abc9be3450178c0c3~mv2.png/v1/fill/w_980,h_1470,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_d008a3bf0dfa455abc9be3450178c0c3~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHhjSEp0Y1hGWWIySTBWRGRZVFJDbUJSakVBeWdLTWd1QkFZWW1BbWlhY1JuVmln",
+    "date": "08/10/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-10T07:00:00Z"
+   },
+   {
+    "position": 84,
+    "title": "Top 5 Electric Motorcycles September 2026 India – Details",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://bikeadvice.in/top-5-electric-motorcycles-september-2026-india-details/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2026/10/Oben-Rorr-Evo-4-1200x675.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRjRlpHVDJKbVVWSmhTRGd6VFJDZkF4ampCU2dLTWdZZHM0eHRPUVU",
+    "date": "10/04/2026, 03:30 AM, +0000 UTC",
+    "iso_date": "2026-10-04T03:30:43Z"
+   },
+   {
+    "position": 85,
+    "title": "India's EV Revolution: How These Models Are Shaping the Future of Electric Scooters",
+    "source": {
+     "name": "BikeJunction",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thebikejunction.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://thebikejunction.com/news/indias-ev-revolution-top-electric-scooters-leading-the-future",
+    "thumbnail": "https://images.tractorjunction.com/banner_2_1_21fde42591.webp?format=webp&quality=40",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTROR00wVEZCUFpXWjFjSG96VFJDUUF4ai1CU2dLTWdZQk1JNkdwQVk",
+    "date": "07/17/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-17T07:00:00Z"
+   },
+   {
+    "position": 86,
+    "title": "4 Electric Scooters Under Rs 60,000 in India",
+    "source": {
+     "name": "BikeAdvice",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bikeadvice.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://bikeadvice.in/4-electric-scooters-under-rs-60000-in-india/",
+    "thumbnail": "https://bikeadvice.in/wp-content/uploads/2025/09/TVS-Orbiter-2-scaled.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpWRkp3TW1kYWFHRjVjR3R3VFJDZkF4ampCU2dLTWdrVlE0eEt2ZVdLSmdJ",
+    "date": "03/14/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-03-14T07:00:00Z"
+   },
+   {
+    "position": 87,
+    "title": "Simple Wave family electric scooter to launch on September 2",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autocarindia.com/bike-news/simple-wave-family-electric-scooter-to-launch-on-september-2-440547",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260820_113324_f700f929.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5kblF4TTJ0Wk4xQkhSMDFtVFJEREF4aW9CU2dLTWdtQk1KRGxvdWMwekFF",
+    "date": "08/20/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-20T07:00:00Z"
+   },
+   {
+    "position": 88,
+    "title": "Suzuki EV 😃 #suzuki #suzukiev #electricvehicle #electricscooter #ZeeTamilNews",
+    "source": {
+     "name": "Facebook",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.facebook.com/ZeeTamilNews/posts/suzuki-ev-suzuki-suzukiev-electricvehicle-electricscooter-zeetamilnews/1678581884276463/",
+    "thumbnail": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1678580400943278",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBZa2Q0V1ZCSmQzUkRSa1IzVFJDcUJCaXFCQ2dLTWdhZEJKU3RIUWc",
+    "date": "06/25/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-25T07:00:00Z"
+   },
+   {
+    "position": 89,
+    "title": "TVS posts record monthly EV sales as electric 2W segment hits new peak",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ajit Dalvi"
+     ]
+    },
+    "link": "https://www.autocarindia.com/industry/tvs-posts-record-monthly-ev-sales-as-electric-2w-segment-hits-new-peak-440384",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260803_130127_fb77e3a2.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUphMHc1VFVaZldIYzVjRU5tVFJEREF4aXBCU2dLTWd1UkFvb1RLZWVodzVxb1RB",
+    "date": "08/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-03T07:00:00Z"
+   },
+   {
+    "position": 90,
+    "title": "5 Electric Scooters You Should Buy For Their Reliability",
+    "source": {
+     "name": "NDTV",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Amulya Raj Srinet"
+     ]
+    },
+    "link": "https://www.ndtv.com/auto/5-electric-scooters-you-should-buy-for-their-reliability-11304821",
+    "thumbnail": "https://c.ndtvimg.com/2026-04/jvs1mvls_electric-scooters_625x300_03_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=800",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVNMlIzT1dWVmVIVnpSM2hqVFJERUF4aW1CU2dLTWdrQkVJU2xsbW8xeFFJ",
+    "date": "04/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-03T07:00:00Z"
+   },
+   {
+    "position": 91,
+    "title": "Electric Scooters with Battery Subscription in India",
+    "source": {
+     "name": "ACKO Drive",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ackodrive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://ackodrive.com/news/electric-scooters-with-battery-subscription-in-india/",
+    "thumbnail": "https://acko-cms.ackoassets.com/electric_scooters_a9fa2f5f62.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVlSRWc0VDBGalN6aEtSbGRyVFJDUkF4ajhCU2dLTWdzQkVZYmtGbWxyODNqTG1R",
+    "date": "02/24/2026, 03:14 AM, +0000 UTC",
+    "iso_date": "2026-02-24T03:14:34Z"
+   },
+   {
+    "position": 92,
+    "title": "TVS Motor enters Africa's EV market with iQube launch in Kenya",
+    "source": {
+     "name": "ET Auto",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://auto.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://auto.economictimes.indiatimes.com/news/two-wheelers/tvs-motor-enters-africas-ev-market-with-iqube-launch-in-kenya/133021193",
+    "thumbnail": "https://etimg.etb2bimg.com/photo/133021678.cms",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxVVlZGZEhkcmRqYzRSRXRZVFJEZ0F4aUFCU2dLTWdtSmdKQ0h0S2FLYXdJ",
+    "date": "08/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-07T07:00:00Z"
+   },
+   {
+    "position": 93,
+    "title": "Top 5 Electric Scooters with Inbuilt Navigation In India (2026)",
+    "source": {
+     "name": "DriveSpark",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.drivespark.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.drivespark.com/two-wheelers/2026/top-electric-scooters-with-inbuilt-navigation-ather-ola-tvs-vida-bajaj-084095.html",
+    "thumbnail": "https://images.drivespark.com/img/2026/04/evswithturnbyturnnavi1-1776765167.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdPVGxWV21OWGRqSnZOV1J0VFJDZkF4ampCU2dLTWdrQlFvYmtKcWhVaUFJ",
+    "date": "04/21/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-04-21T07:00:00Z"
+   },
+   {
+    "position": 94,
+    "title": "VinFast Rasad Electric Scooter Patented In India Ahead Of Debut",
+    "source": {
+     "name": "NDTV",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.ndtv.com/auto/vinfast-rasad-electric-scooter-patented-in-india-ahead-of-debut-11894328",
+    "thumbnail": "https://c.ndtvimg.com/2026-08/2k170nas_vinfast-rasad-design-patent_625x300_11_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURRVFZ1YkZCa2VYQlpZemhpVFJDZkF4ampCU2dLTWdhWkpJcU1IUWM",
+    "date": "08/11/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-11T07:00:00Z"
+   },
+   {
+    "position": 95,
+    "title": "5 electric scooters that offer the lowest seat height for easier riding",
+    "source": {
+     "name": "HT Auto",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://auto.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://auto.hindustantimes.com/auto/electric-vehicles/5-electric-scooters-that-offer-the-lowest-seat-height-for-easier-riding-41784718870279.html",
+    "thumbnail": "https://images.hindustantimes.com/auto/img/2026/07/22/1600x900/Honda_Activa_e_vs_Suzuki_e_Access_1737969859462_1784719188521_b8ac45fc-64f2-4b72-909c-b7516c08c81a.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXNPRGxDVkd0R1FqbFVkR290VFJDZkF4ampCU2dLTWdzSkFKQ0dsR2VwWTF0SmJB",
+    "date": "07/22/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-22T07:00:00Z"
+   },
+   {
+    "position": 96,
+    "title": "Keeway Hypevolt-R Electric Scooter Launched In India: Price, Specs, Features & More",
+    "source": {
+     "name": "ZigWheels.com",
+     "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.zigwheels.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Amey Deolalikar"
+     ]
+    },
+    "link": "https://www.zigwheels.com/news-features/launch-story/keeway-hypevolt-r-electric-scooter-launched-in-india-looks-straight-from-the-future/58039/",
+    "thumbnail": "https://media.zigcdn.com/media/content/2026/Jul/6a4f301c34a1d.jpg?tr=w-420",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFVbW81ZFhKT2RXMUZhWGxvVFJEc0FSaWtBeWdLTWdZbEJZeXVqUWM",
+    "date": "07/03/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-07-03T07:00:00Z"
+   },
+   {
+    "position": 97,
+    "title": "Electric two-wheeler sales hit second-highest monthly total in May 2026",
+    "source": {
+     "name": "Autocar India",
+     "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+     "authors": [
+      "Ajit Dalvi"
+     ]
+    },
+    "link": "https://www.autocarindia.com/industry/electric-two-wheeler-sales-hit-second-highest-monthly-total-in-may-2026-439863",
+    "thumbnail": "https://asset.autocarindia.com/static/news/images/20260602_075604_f91694e4.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBXamMyTWtSb2JDMVJSR0pKVFJEQ0F4aXBCU2dLTWdrTkFvcUlEdVE4NndF",
+    "date": "06/02/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-02T07:00:00Z"
+   },
+   {
+    "position": 98,
+    "title": "Ampere launches ₹69,499 entry-level e-scooter in India",
+    "source": {
+     "name": "ET Auto",
+     "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://auto.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://auto.economictimes.indiatimes.com/news/two-wheelers/ampere-launches-69499-entry-level-e-scooter-in-india/131796146",
+    "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-131796146,width-1600,height-900,resizemode-4/.jpg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlkMFl4V0RKSFJWWlVNM1kxVFJDZkF4ampCU2dLTWdtSllZN3lxT1doU3dJ",
+    "date": "06/17/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-06-17T07:00:00Z"
+   },
+   {
+    "position": 99,
+    "title": "E3 Electric Offers its First E-Scooter that Local Mechanics can Repair",
+    "source": {
+     "name": "Autocar Professional",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autocarpro.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autocarpro.in/news/e3-electric-offers-its-first-e-scooter-that-local-mechanics-can-repair-133979",
+    "thumbnail": "https://img.autocarpro.in/autocarpro/a5e1c70b-ca09-4015-a643-22118b6470ac_launch-image-5.jpg.jpeg",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhTRXAzZWpSdGFGTjBVSEY2VFJERUF4aW1CU2dLTWdtaFFZclBLQ2VMN1FF",
+    "date": "08/07/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-07T07:00:00Z"
+   },
+   {
+    "position": 100,
+    "title": "Ather Konarc Coming on August 29 – New Affordable Family EV Could Start Around ₹1 Lakh",
+    "source": {
+     "name": "Autopunditz",
+     "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+    },
+    "link": "https://www.autopunditz.com/post/ather-konarc-electric-scooter-launch-august-29-2026",
+    "thumbnail": "https://static.wixstatic.com/media/1da610_c43f7913050e4fe894beec6fedffdc86~mv2.png/v1/fill/w_640,h_960,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_c43f7913050e4fe894beec6fedffdc86~mv2.png",
+    "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUpZbTFhV1hKcldVWXdPRmhxVFJDVEFoaTNBU2dCTWdzQkFJU3ZyS1doNDBwUFBR",
+    "date": "08/05/2026, 07:00 AM, +0000 UTC",
+    "iso_date": "2026-08-05T07:00:00Z"
+   }
+  ],
+  "menu_links": [
+   {
+    "title": "India",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+   },
+   {
+    "title": "World",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Your local news",
+    "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+   },
+   {
+    "title": "Business",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Technology",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Entertainment",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Sports",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Science",
+    "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+   },
+   {
+    "title": "Health",
+    "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+   }
+  ]
+ }
+}

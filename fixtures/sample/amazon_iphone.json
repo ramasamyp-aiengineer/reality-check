@@ -1,0 +1,22 @@
+{
+ "params": {
+  "engine": "amazon",
+  "k": "Apple iPhone 16 Pro 256GB",
+  "amazon_domain": "amazon.in"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "organic_results": [
+   {
+    "title": "Apple iPhone 16 Pro (256 GB)",
+    "extracted_price": 119900,
+    "price": "₹1,19,900",
+    "link": "https://www.amazon.in/sample/iphone16pro"
+   }
+  ]
+ }
+}

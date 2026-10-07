@@ -1,0 +1,84 @@
+{
+ "params": {
+  "engine": "google_hotels",
+  "q": "Manali",
+  "check_in_date": "2026-01-01",
+  "check_out_date": "2026-01-02",
+  "currency": "INR",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "properties": [
+   {
+    "name": "Snowline Retreat (sample)",
+    "link": "https://hotels.example/sample/0",
+    "rate_per_night": {
+     "lowest": "₹6,200",
+     "extracted_lowest": 6200
+    }
+   },
+   {
+    "name": "Pine Valley Cottages (sample)",
+    "link": "https://hotels.example/sample/1",
+    "rate_per_night": {
+     "lowest": "₹4,300",
+     "extracted_lowest": 4300
+    }
+   },
+   {
+    "name": "Beas River Lodge (sample)",
+    "link": "https://hotels.example/sample/2",
+    "rate_per_night": {
+     "lowest": "₹3,100",
+     "extracted_lowest": 3100
+    }
+   },
+   {
+    "name": "Old Manali Homestay (sample)",
+    "link": "https://hotels.example/sample/3",
+    "rate_per_night": {
+     "lowest": "₹2,800",
+     "extracted_lowest": 2800
+    }
+   },
+   {
+    "name": "Solang Peak Resort (sample)",
+    "link": "https://hotels.example/sample/4",
+    "rate_per_night": {
+     "lowest": "₹9,800",
+     "extracted_lowest": 9800
+    }
+   },
+   {
+    "name": "Cedar Heights Hotel (sample)",
+    "link": "https://hotels.example/sample/5",
+    "rate_per_night": {
+     "lowest": "₹5,400",
+     "extracted_lowest": 5400
+    }
+   },
+   {
+    "name": "Hadimba View Inn (sample)",
+    "link": "https://hotels.example/sample/6",
+    "rate_per_night": {
+     "lowest": "₹3,900",
+     "extracted_lowest": 3900
+    }
+   },
+   {
+    "name": "Rohtang Gateway Suites (sample)",
+    "link": "https://hotels.example/sample/7",
+    "rate_per_night": {
+     "lowest": "₹7,600",
+     "extracted_lowest": 7600
+    }
+   }
+  ]
+ }
+}

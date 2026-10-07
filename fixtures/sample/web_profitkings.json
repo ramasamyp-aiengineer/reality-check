@@ -1,0 +1,42 @@
+{
+ "params": {
+  "engine": "google_light",
+  "q": "Profit Kings Advisory reviews complaints",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "organic_results": [
+   {
+    "title": "Profit Kings Advisory Telegram group - scam? Lost my VIP fee",
+    "link": "https://www.reddit.com/r/sample/profit-kings",
+    "snippet": "Paid Rs 4,999 for VIP tips, guaranteed returns never came, admins blocked me."
+   },
+   {
+    "title": "Complaint against Profit Kings Advisory - fake SEBI registration",
+    "link": "https://www.consumercomplaints.in/sample/profit-kings",
+    "snippet": "They showed a fake SEBI certificate and stopped replying."
+   },
+   {
+    "title": "Profit Kings Advisory reviews | Trustpilot",
+    "link": "https://www.trustpilot.com/sample/profit-kings",
+    "snippet": "1.6 stars. Beware, they cheat with screenshots of fake profits."
+   },
+   {
+    "title": "How to verify a SEBI registered investment adviser",
+    "link": "https://money-blog.example/sample/verify-sebi-ia",
+    "snippet": "Check the adviser's registration number on SEBI's intermediary list."
+   },
+   {
+    "title": "Telegram stock tips: what investors should know",
+    "link": "https://news.example.com/sample/telegram-tips",
+    "snippet": "Unregistered tip groups promising fixed returns are a growing concern."
+   }
+  ]
+ }
+}

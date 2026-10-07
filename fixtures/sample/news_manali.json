@@ -1,0 +1,41 @@
+{
+ "params": {
+  "engine": "google_news",
+  "q": "Manali",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "news_results": [
+   {
+    "title": "Fresh snowfall expected in Manali next week, hoteliers report strong New Year bookings",
+    "source": {
+     "name": "Sample Travel"
+    },
+    "iso_date": "2026-10-04T07:45:20Z",
+    "link": "https://news.example.com/sample/manali-snow"
+   },
+   {
+    "title": "Atal Tunnel traffic advisory: plan Solang and Sissu trips early in the day",
+    "source": {
+     "name": "Sample Himachal"
+    },
+    "iso_date": "2026-09-29T07:45:20Z",
+    "link": "https://news.example.com/sample/atal-advisory"
+   },
+   {
+    "title": "Manali among the top five winter destinations searched by Indian travellers",
+    "source": {
+     "name": "Sample Business"
+    },
+    "iso_date": "2026-09-22T07:45:20Z",
+    "link": "https://news.example.com/sample/winter-destinations"
+   }
+  ]
+ }
+}

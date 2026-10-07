@@ -1,0 +1,25 @@
+{
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "ZipVolt Bengaluru",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "local_results": [
+   {
+    "title": "ZipVolt Experience Centre - Indiranagar",
+    "data_id": "0xsample:zipvolt",
+    "rating": 4.1,
+    "reviews": 640,
+    "address": "100 Feet Rd, Indiranagar, Bengaluru (sample)",
+    "type": "Scooter dealer"
+   }
+  ]
+ }
+}

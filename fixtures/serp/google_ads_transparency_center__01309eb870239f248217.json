@@ -1,0 +1,32 @@
+{
+ "params": {
+  "engine": "google_ads_transparency_center",
+  "text": "Ola Electric",
+  "region": "2356",
+  "num": "40"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5faed05bb59de1c6e39f7",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/opMsybcrsEn84ToYJ2hmtDIBwbuWPiHU2oboaFdvBrc/6ac5faed05bb59de1c6e39f7.json",
+   "markdown_endpoint": "https://serpapi.com/searches/opMsybcrsEn84ToYJ2hmtDIBwbuWPiHU2oboaFdvBrc/6ac5faed05bb59de1c6e39f7.md",
+   "created_at": "2026-10-07 07:55:25 UTC",
+   "processed_at": "2026-10-07 07:55:25 UTC",
+   "google_ads_transparency_center_url": "https://adstransparency.google.com?region=IN&domain=Ola+Electric",
+   "raw_html_file": "https://serpapi.com/searches/opMsybcrsEn84ToYJ2hmtDIBwbuWPiHU2oboaFdvBrc/6ac5faed05bb59de1c6e39f7.html",
+   "prettify_html_file": "https://serpapi.com/searches/opMsybcrsEn84ToYJ2hmtDIBwbuWPiHU2oboaFdvBrc/6ac5faed05bb59de1c6e39f7.prettify",
+   "total_time_taken": 0.51
+  },
+  "search_parameters": {
+   "engine": "google_ads_transparency_center",
+   "text": "Ola Electric",
+   "region": "2356",
+   "num": "40"
+  },
+  "search_information": {
+   "results_state": "Fully empty"
+  },
+  "error": "Google Ads Transparency Center hasn't returned any results for this search."
+ }
+}

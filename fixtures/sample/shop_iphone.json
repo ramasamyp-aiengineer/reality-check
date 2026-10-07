@@ -1,0 +1,65 @@
+{
+ "params": {
+  "engine": "google_shopping",
+  "q": "Apple iPhone 16 Pro 256GB",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "shopping_results": [
+   {
+    "title": "Apple iPhone 16 Pro 256GB",
+    "source": "Flipkart",
+    "extracted_price": 119900,
+    "price": "₹119,900",
+    "product_link": "https://shop.example.com/sample/iphone/0",
+    "immersive_product_page_token": "sample_token_iphone"
+   },
+   {
+    "title": "Apple iPhone 16 Pro 256GB",
+    "source": "Croma",
+    "extracted_price": 121900,
+    "price": "₹121,900",
+    "product_link": "https://shop.example.com/sample/iphone/1",
+    "immersive_product_page_token": "sample_token_iphone"
+   },
+   {
+    "title": "Apple iPhone 16 Pro 256GB",
+    "source": "Reliance Digital",
+    "extracted_price": 119900,
+    "price": "₹119,900",
+    "product_link": "https://shop.example.com/sample/iphone/2",
+    "immersive_product_page_token": "sample_token_iphone"
+   },
+   {
+    "title": "Apple iPhone 16 Pro 256GB",
+    "source": "Vijay Sales",
+    "extracted_price": 118490,
+    "price": "₹118,490",
+    "product_link": "https://shop.example.com/sample/iphone/3",
+    "immersive_product_page_token": "sample_token_iphone"
+   },
+   {
+    "title": "Apple iPhone 16 Pro 256GB",
+    "source": "Apple Store",
+    "extracted_price": 129900,
+    "price": "₹129,900",
+    "product_link": "https://shop.example.com/sample/iphone/4",
+    "immersive_product_page_token": "sample_token_iphone"
+   },
+   {
+    "title": "Apple iPhone 16 Pro 256GB",
+    "source": "Sample Mobiles",
+    "extracted_price": 117999,
+    "price": "₹117,999",
+    "product_link": "https://shop.example.com/sample/iphone/5",
+    "immersive_product_page_token": "sample_token_iphone"
+   }
+  ]
+ }
+}

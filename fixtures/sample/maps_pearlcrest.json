@@ -1,0 +1,35 @@
+{
+ "params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "Pearlcrest Dental Clinic Bengaluru",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "local_results": [
+   {
+    "title": "Pearlcrest Dental Clinic",
+    "data_id": "0xsample:pearlcrest",
+    "rating": 4.7,
+    "reviews": 412,
+    "address": "5th Block, Koramangala, Bengaluru (sample)",
+    "phone": "080 4000 1111",
+    "type": "Dental clinic",
+    "website": "https://www.pearlcrest.example"
+   },
+   {
+    "title": "Pearl Smile Dental Care",
+    "data_id": "0xsample:pearlsmile",
+    "rating": 4.3,
+    "reviews": 96,
+    "address": "HSR Layout, Bengaluru (sample)",
+    "type": "Dentist"
+   }
+  ]
+ }
+}

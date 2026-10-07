@@ -1,0 +1,21 @@
+{
+  "id": "local_service_check",
+  "name": "Local Service Check",
+  "description": "Before you book a clinic, coaching centre or repair shop: confirms it exists on Google Maps, reads the newest reviews and checks the web.",
+  "category": "local",
+  "tags": ["maps", "reviews"],
+  "input_kind": "text",
+  "input_placeholder": "Business name and city",
+  "sample_input": {"text": "Pearlcrest Dental Clinic Koramangala Bengaluru"},
+  "nodes": [
+    {"id": "intent", "agent": "intent"},
+    {"id": "place_reality", "agent": "place_reality"},
+    {"id": "review_voice", "agent": "review_voice", "params": {"source": "maps"}},
+    {"id": "web_reputation", "agent": "web_reputation"},
+    {"id": "verdict", "agent": "verdict"}
+  ],
+  "edges": [
+    ["intent", "place_reality"], ["place_reality", "review_voice"], ["intent", "web_reputation"],
+    ["review_voice", "verdict"], ["web_reputation", "verdict"]
+  ]
+}

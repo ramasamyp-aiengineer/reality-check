@@ -1,0 +1,42 @@
+{
+ "params": {
+  "engine": "google_jobs",
+  "q": "Zylo Global Solutions Pvt Ltd.",
+  "location": "India",
+  "gl": "in",
+  "hl": "en"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "jobs_results": [
+   {
+    "title": "Data Entry Operator",
+    "company_name": "Sample Infosystems",
+    "location": "Pune, Maharashtra",
+    "via": "Sample Jobs"
+   },
+   {
+    "title": "Back Office Executive",
+    "company_name": "Acme Outsourcing (sample)",
+    "location": "Noida, Uttar Pradesh",
+    "via": "Sample Naukri"
+   },
+   {
+    "title": "Global Solutions Analyst",
+    "company_name": "Globex Consulting (sample)",
+    "location": "Bengaluru, Karnataka",
+    "via": "Sample LinkedIn"
+   },
+   {
+    "title": "Work from home - Content Moderator",
+    "company_name": "Initech Services (sample)",
+    "location": "Anywhere",
+    "via": "Sample Indeed"
+   }
+  ]
+ }
+}

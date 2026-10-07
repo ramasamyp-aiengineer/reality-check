@@ -1,0 +1,59 @@
+{
+ "params": {
+  "engine": "google_trends",
+  "q": "electric scooter",
+  "geo": "IN",
+  "date": "today 12-m",
+  "data_type": "GEO_MAP_0",
+  "region": "REGION"
+ },
+ "response": {
+  "_synthetic": true,
+  "search_metadata": {
+   "status": "Success",
+   "note": "synthetic sample"
+  },
+  "interest_by_region": [
+   {
+    "location": "Karnataka",
+    "extracted_value": 100
+   },
+   {
+    "location": "Maharashtra",
+    "extracted_value": 86
+   },
+   {
+    "location": "Tamil Nadu",
+    "extracted_value": 79
+   },
+   {
+    "location": "Kerala",
+    "extracted_value": 71
+   },
+   {
+    "location": "Telangana",
+    "extracted_value": 68
+   },
+   {
+    "location": "Delhi",
+    "extracted_value": 64
+   },
+   {
+    "location": "Gujarat",
+    "extracted_value": 58
+   },
+   {
+    "location": "Rajasthan",
+    "extracted_value": 44
+   },
+   {
+    "location": "West Bengal",
+    "extracted_value": 39
+   },
+   {
+    "location": "Uttar Pradesh",
+    "extracted_value": 35
+   }
+  ]
+ }
+}

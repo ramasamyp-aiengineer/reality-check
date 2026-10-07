@@ -1,0 +1,388 @@
+{
+ "params": {
+  "engine": "google_trends",
+  "q": "electric scooter",
+  "geo": "IN",
+  "date": "today 12-m",
+  "data_type": "RELATED_QUERIES"
+ },
+ "response": {
+  "search_metadata": {
+   "id": "6ac5faf6b917c7b4dae8ce00",
+   "status": "Success",
+   "json_endpoint": "https://serpapi.com/searches/4z70FWlFhrq89Bi0-ADqSGC4VofFPDoFL1BrPhhWVfg/6ac5faf6b917c7b4dae8ce00.json",
+   "markdown_endpoint": "https://serpapi.com/searches/4z70FWlFhrq89Bi0-ADqSGC4VofFPDoFL1BrPhhWVfg/6ac5faf6b917c7b4dae8ce00.md",
+   "created_at": "2026-10-07 07:55:34 UTC",
+   "processed_at": "2026-10-07 07:55:34 UTC",
+   "google_trends_url": "https://trends.google.com/trends/embed/explore/RELATED_QUERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22electric+scooter%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+   "raw_html_file": "https://serpapi.com/searches/4z70FWlFhrq89Bi0-ADqSGC4VofFPDoFL1BrPhhWVfg/6ac5faf6b917c7b4dae8ce00.html",
+   "prettify_html_file": "https://serpapi.com/searches/4z70FWlFhrq89Bi0-ADqSGC4VofFPDoFL1BrPhhWVfg/6ac5faf6b917c7b4dae8ce00.prettify",
+   "total_time_taken": 3.87
+  },
+  "search_parameters": {
+   "engine": "google_trends",
+   "q": "electric scooter",
+   "hl": "en",
+   "geo": "IN",
+   "date": "today 12-m",
+   "tz": "420",
+   "data_type": "RELATED_QUERIES"
+  },
+  "related_queries": {
+   "rising": [
+    {
+     "query": "simple wave electric scooter",
+     "value": "Breakout",
+     "extracted_value": 38200,
+     "link": "https://trends.google.com/trends/explore?q=simple+wave+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=simple+wave+electric+scooter&tz=420"
+    },
+    {
+     "query": "best electric scooter in india 2026",
+     "value": "Breakout",
+     "extracted_value": 13650,
+     "link": "https://trends.google.com/trends/explore?q=best+electric+scooter+in+india+2026&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=best+electric+scooter+in+india+2026&tz=420"
+    },
+    {
+     "query": "ather electric scooter konarc",
+     "value": "Breakout",
+     "extracted_value": 10650,
+     "link": "https://trends.google.com/trends/explore?q=ather+electric+scooter+konarc&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=ather+electric+scooter+konarc&tz=420"
+    },
+    {
+     "query": "ather electric scooter bangalore debut",
+     "value": "Breakout",
+     "extracted_value": 9450,
+     "link": "https://trends.google.com/trends/explore?q=ather+electric+scooter+bangalore+debut&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=ather+electric+scooter+bangalore+debut&tz=420"
+    },
+    {
+     "query": "simple ultra electric scooter",
+     "value": "Breakout",
+     "extracted_value": 7850,
+     "link": "https://trends.google.com/trends/explore?q=simple+ultra+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=simple+ultra+electric+scooter&tz=420"
+    },
+    {
+     "query": "simple wave electric scooter price",
+     "value": "Breakout",
+     "extracted_value": 6400,
+     "link": "https://trends.google.com/trends/explore?q=simple+wave+electric+scooter+price&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=simple+wave+electric+scooter+price&tz=420"
+    },
+    {
+     "query": "tvs orbiter v1 electric scooter",
+     "value": "+2,500%",
+     "extracted_value": 2500,
+     "link": "https://trends.google.com/trends/explore?q=tvs+orbiter+v1+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=tvs+orbiter+v1+electric+scooter&tz=420"
+    },
+    {
+     "query": "electric scooter subsidy for women",
+     "value": "+1,100%",
+     "extracted_value": 1100,
+     "link": "https://trends.google.com/trends/explore?q=electric+scooter+subsidy+for+women&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=electric+scooter+subsidy+for+women&tz=420"
+    },
+    {
+     "query": "vinfast electric scooter india 2026",
+     "value": "+1,000%",
+     "extracted_value": 1000,
+     "link": "https://trends.google.com/trends/explore?q=vinfast+electric+scooter+india+2026&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=vinfast+electric+scooter+india+2026&tz=420"
+    },
+    {
+     "query": "vinfast electric scooter",
+     "value": "+700%",
+     "extracted_value": 700,
+     "link": "https://trends.google.com/trends/explore?q=vinfast+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=vinfast+electric+scooter&tz=420"
+    },
+    {
+     "query": "tvs orbiter electric scooter on road price",
+     "value": "+600%",
+     "extracted_value": 600,
+     "link": "https://trends.google.com/trends/explore?q=tvs+orbiter+electric+scooter+on+road+price&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=tvs+orbiter+electric+scooter+on+road+price&tz=420"
+    },
+    {
+     "query": "komaki electric scooter and bike",
+     "value": "+400%",
+     "extracted_value": 400,
+     "link": "https://trends.google.com/trends/explore?q=komaki+electric+scooter+and+bike&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=komaki+electric+scooter+and+bike&tz=420"
+    },
+    {
+     "query": "yakuza viraj electric scooter",
+     "value": "+400%",
+     "extracted_value": 400,
+     "link": "https://trends.google.com/trends/explore?q=yakuza+viraj+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=yakuza+viraj+electric+scooter&tz=420"
+    },
+    {
+     "query": "goeen electric scooter",
+     "value": "+350%",
+     "extracted_value": 350,
+     "link": "https://trends.google.com/trends/explore?q=goeen+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=goeen+electric+scooter&tz=420"
+    },
+    {
+     "query": "tvs orbiter electric scooter price",
+     "value": "+300%",
+     "extracted_value": 300,
+     "link": "https://trends.google.com/trends/explore?q=tvs+orbiter+electric+scooter+price&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=tvs+orbiter+electric+scooter+price&tz=420"
+    },
+    {
+     "query": "vida vx2 plus on road price",
+     "value": "+250%",
+     "extracted_value": 250,
+     "link": "https://trends.google.com/trends/explore?q=vida+vx2+plus+on+road+price&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=vida+vx2+plus+on+road+price&tz=420"
+    },
+    {
+     "query": "warivo electric scooter price",
+     "value": "+190%",
+     "extracted_value": 190,
+     "link": "https://trends.google.com/trends/explore?q=warivo+electric+scooter+price&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=warivo+electric+scooter+price&tz=420"
+    },
+    {
+     "query": "yakuza neu electric scooter",
+     "value": "+180%",
+     "extracted_value": 180,
+     "link": "https://trends.google.com/trends/explore?q=yakuza+neu+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=yakuza+neu+electric+scooter&tz=420"
+    },
+    {
+     "query": "warivo electric scooter",
+     "value": "+160%",
+     "extracted_value": 160,
+     "link": "https://trends.google.com/trends/explore?q=warivo+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=warivo+electric+scooter&tz=420"
+    },
+    {
+     "query": "electric scooter under 20,000",
+     "value": "+160%",
+     "extracted_value": 160,
+     "link": "https://trends.google.com/trends/explore?q=electric+scooter+under+20,000&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=electric+scooter+under+20%2C000&tz=420"
+    },
+    {
+     "query": "revo electric scooter",
+     "value": "+160%",
+     "extracted_value": 160,
+     "link": "https://trends.google.com/trends/explore?q=revo+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=revo+electric+scooter&tz=420"
+    },
+    {
+     "query": "komaki x one electric scooter",
+     "value": "+120%",
+     "extracted_value": 120,
+     "link": "https://trends.google.com/trends/explore?q=komaki+x+one+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=komaki+x+one+electric+scooter&tz=420"
+    },
+    {
+     "query": "komaki x one",
+     "value": "+120%",
+     "extracted_value": 120,
+     "link": "https://trends.google.com/trends/explore?q=komaki+x+one&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=komaki+x+one&tz=420"
+    },
+    {
+     "query": "simple electric scooter",
+     "value": "+100%",
+     "extracted_value": 100,
+     "link": "https://trends.google.com/trends/explore?q=simple+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=simple+electric+scooter&tz=420"
+    },
+    {
+     "query": "river indie electric scooter price",
+     "value": "+80%",
+     "extracted_value": 80,
+     "link": "https://trends.google.com/trends/explore?q=river+indie+electric+scooter+price&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=river+indie+electric+scooter+price&tz=420"
+    }
+   ],
+   "top": [
+    {
+     "query": "electric scooter price",
+     "value": "100",
+     "extracted_value": 100,
+     "link": "https://trends.google.com/trends/explore?q=electric+scooter+price&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=electric+scooter+price&tz=420"
+    },
+    {
+     "query": "tvs electric scooter",
+     "value": "33",
+     "extracted_value": 33,
+     "link": "https://trends.google.com/trends/explore?q=tvs+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=tvs+electric+scooter&tz=420"
+    },
+    {
+     "query": "tvs",
+     "value": "32",
+     "extracted_value": 32,
+     "link": "https://trends.google.com/trends/explore?q=tvs&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=tvs&tz=420"
+    },
+    {
+     "query": "ather electric scooter",
+     "value": "26",
+     "extracted_value": 26,
+     "link": "https://trends.google.com/trends/explore?q=ather+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=ather+electric+scooter&tz=420"
+    },
+    {
+     "query": "ather scooter",
+     "value": "25",
+     "extracted_value": 25,
+     "link": "https://trends.google.com/trends/explore?q=ather+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=ather+scooter&tz=420"
+    },
+    {
+     "query": "electric scooter in india",
+     "value": "25",
+     "extracted_value": 25,
+     "link": "https://trends.google.com/trends/explore?q=electric+scooter+in+india&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=electric+scooter+in+india&tz=420"
+    },
+    {
+     "query": "ather",
+     "value": "25",
+     "extracted_value": 25,
+     "link": "https://trends.google.com/trends/explore?q=ather&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=ather&tz=420"
+    },
+    {
+     "query": "best electric scooter",
+     "value": "24",
+     "extracted_value": 24,
+     "link": "https://trends.google.com/trends/explore?q=best+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=best+electric+scooter&tz=420"
+    },
+    {
+     "query": "ola scooter",
+     "value": "23",
+     "extracted_value": 23,
+     "link": "https://trends.google.com/trends/explore?q=ola+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=ola+scooter&tz=420"
+    },
+    {
+     "query": "electric scooter ola",
+     "value": "23",
+     "extracted_value": 23,
+     "link": "https://trends.google.com/trends/explore?q=electric+scooter+ola&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=electric+scooter+ola&tz=420"
+    },
+    {
+     "query": "ola",
+     "value": "23",
+     "extracted_value": 23,
+     "link": "https://trends.google.com/trends/explore?q=ola&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=ola&tz=420"
+    },
+    {
+     "query": "ola electric",
+     "value": "22",
+     "extracted_value": 22,
+     "link": "https://trends.google.com/trends/explore?q=ola+electric&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=ola+electric&tz=420"
+    },
+    {
+     "query": "hero",
+     "value": "18",
+     "extracted_value": 18,
+     "link": "https://trends.google.com/trends/explore?q=hero&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=hero&tz=420"
+    },
+    {
+     "query": "hero electric scooter",
+     "value": "18",
+     "extracted_value": 18,
+     "link": "https://trends.google.com/trends/explore?q=hero+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=hero+electric+scooter&tz=420"
+    },
+    {
+     "query": "hero electric",
+     "value": "18",
+     "extracted_value": 18,
+     "link": "https://trends.google.com/trends/explore?q=hero+electric&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=hero+electric&tz=420"
+    },
+    {
+     "query": "chetak",
+     "value": "17",
+     "extracted_value": 17,
+     "link": "https://trends.google.com/trends/explore?q=chetak&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=chetak&tz=420"
+    },
+    {
+     "query": "chetak electric scooter",
+     "value": "17",
+     "extracted_value": 17,
+     "link": "https://trends.google.com/trends/explore?q=chetak+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=chetak+electric+scooter&tz=420"
+    },
+    {
+     "query": "scooty",
+     "value": "16",
+     "extracted_value": 16,
+     "link": "https://trends.google.com/trends/explore?q=scooty&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=scooty&tz=420"
+    },
+    {
+     "query": "electric scooty",
+     "value": "16",
+     "extracted_value": 16,
+     "link": "https://trends.google.com/trends/explore?q=electric+scooty&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=electric+scooty&tz=420"
+    },
+    {
+     "query": "electric bike",
+     "value": "15",
+     "extracted_value": 15,
+     "link": "https://trends.google.com/trends/explore?q=electric+bike&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=electric+bike&tz=420"
+    },
+    {
+     "query": "vida",
+     "value": "15",
+     "extracted_value": 15,
+     "link": "https://trends.google.com/trends/explore?q=vida&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=vida&tz=420"
+    },
+    {
+     "query": "electric scooter bike",
+     "value": "15",
+     "extracted_value": 15,
+     "link": "https://trends.google.com/trends/explore?q=electric+scooter+bike&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=electric+scooter+bike&tz=420"
+    },
+    {
+     "query": "ev scooter",
+     "value": "15",
+     "extracted_value": 15,
+     "link": "https://trends.google.com/trends/explore?q=ev+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=ev+scooter&tz=420"
+    },
+    {
+     "query": "ev electric scooter",
+     "value": "14",
+     "extracted_value": 14,
+     "link": "https://trends.google.com/trends/explore?q=ev+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=ev+electric+scooter&tz=420"
+    },
+    {
+     "query": "vida electric scooter",
+     "value": "14",
+     "extracted_value": 14,
+     "link": "https://trends.google.com/trends/explore?q=vida+electric+scooter&date=today+12-m&geo=IN",
+     "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&geo=IN&hl=en&q=vida+electric+scooter&tz=420"
+    }
+   ]
+  }
+ }
+}

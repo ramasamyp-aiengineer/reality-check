@@ -1,0 +1,27 @@
+{
+  "id": "loan_forward_check",
+  "name": "Loan Forward Check",
+  "description": "Got a loan offer on WhatsApp? Checks RBI's digital lending app directory, the Play Store listing, the newest reviews, web and news reputation, and who pays for the ads.",
+  "category": "trust",
+  "tags": ["hero", "loan", "rbi", "whatsapp"],
+  "featured": true,
+  "input_kind": "text",
+  "input_placeholder": "Paste the forwarded loan message, SMS or link",
+  "sample_input": {"text": "Instant Personal Loan Rs 50,000 in 5 minutes! No CIBIL check, only Aadhaar & PAN. 100% approval. Download QuickRupee app now: https://bit.ly/quickrupee-loan Limited time offer! Call 9876543210"},
+  "nodes": [
+    {"id": "intent", "agent": "intent"},
+    {"id": "app_identity", "agent": "app_identity"},
+    {"id": "registry", "agent": "registry", "params": {"list": "rbi_dla"}},
+    {"id": "review_voice", "agent": "review_voice", "params": {"source": "play"}},
+    {"id": "web_reputation", "agent": "web_reputation"},
+    {"id": "news_timeline", "agent": "news_timeline"},
+    {"id": "advertiser_identity", "agent": "advertiser_identity"},
+    {"id": "verdict", "agent": "verdict"}
+  ],
+  "edges": [
+    ["intent", "app_identity"], ["app_identity", "registry"], ["app_identity", "review_voice"],
+    ["intent", "web_reputation"], ["intent", "news_timeline"], ["intent", "advertiser_identity"],
+    ["registry", "verdict"], ["review_voice", "verdict"], ["web_reputation", "verdict"],
+    ["news_timeline", "verdict"], ["advertiser_identity", "verdict"]
+  ]
+}
