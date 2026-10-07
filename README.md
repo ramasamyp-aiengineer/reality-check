@@ -1,5 +1,10 @@
 # Reality Check
 
+[![CI](https://github.com/ramasamyp-aiengineer/reality-check/actions/workflows/ci.yml/badge.svg)](https://github.com/ramasamyp-aiengineer/reality-check/actions/workflows/ci.yml)
+![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-3776ab)
+![React 19](https://img.shields.io/badge/react-19-61dafb)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 **Reusable SerpApi evidence agents, composed into visual workflows. Verify before you trust, buy, invest, or act.**
 
 Every Indian phone receives the same forwards: an instant loan with "no CIBIL check", a stock tip with "guaranteed
@@ -11,7 +16,7 @@ The same agents also work for businesses. **Market Pulse** reads Google Trends, 
 Transparency Center for a product. The **Ad Studio** then writes ad copy where every claim is grounded in that evidence
 and checked against ASCI-style substantiation rules.
 
-> Built solo by **Ramasamy P** (AI Engineer) for the SerpApi India Hackathon 2026 ·
+> Built solo by **Ramasamy P** (AI Engineer) during the SerpApi India Hackathon 2026. It is not a pre-existing project ·
 > [ramasamy.p2105@gmail.com](mailto:ramasamy.p2105@gmail.com) · [@ramasamyp-aiengineer](https://github.com/ramasamyp-aiengineer)
 
 ![Loan forward check: live run and verdict](docs/pitch/assets/screens/06-run-done.jpg)
