@@ -19,6 +19,10 @@ and checked against ASCI-style substantiation rules.
 > Built solo by **Ramasamy P** (AI Engineer) during the SerpApi India Hackathon 2026. It is not a pre-existing project ·
 > [ramasamy.p2105@gmail.com](mailto:ramasamy.p2105@gmail.com) · [@ramasamyp-aiengineer](https://github.com/ramasamyp-aiengineer)
 
+### ▶ [Watch the 3-minute demo](https://www.youtube.com/watch?v=G4QIfKCiuG0)
+
+[![Reality Check demo video](https://img.youtube.com/vi/G4QIfKCiuG0/maxresdefault.jpg)](https://www.youtube.com/watch?v=G4QIfKCiuG0)
+
 ![Loan forward check: live run and verdict](docs/pitch/assets/screens/06-run-done.jpg)
 
 ---
