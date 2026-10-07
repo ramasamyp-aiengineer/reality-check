@@ -46,3 +46,10 @@ Thumbs.db
 desktop.ini
 
 *.log
+
+# Pitch material stays local. The screenshots are kept because README.md embeds them.
+/docs/pitch/*
+!/docs/pitch/assets/
+/docs/pitch/assets/*
+!/docs/pitch/assets/screens/
+/docs/demo-video-script.md

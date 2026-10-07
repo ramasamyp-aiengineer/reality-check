@@ -14,10 +14,6 @@ and checked against ASCI-style substantiation rules.
 > Built solo by **Ramasamy P** (AI Engineer) for the SerpApi India Hackathon 2026 ·
 > [ramasamy.p2105@gmail.com](mailto:ramasamy.p2105@gmail.com) · [@ramasamyp-aiengineer](https://github.com/ramasamyp-aiengineer)
 
-**Pitch deck:** [docs/pitch/index.html](docs/pitch/index.html) (10 slides, open in a browser) or
-[the PDF](docs/pitch/reality-check-pitch.pdf); extended 20-slide version in [full.html](docs/pitch/full.html). **Docs:** [architecture](docs/architecture.md) ·
-[agents and rules](docs/agents-and-rules.md) · [demo video script](docs/demo-video-script.md).
-
 ![Loan forward check: live run and verdict](docs/pitch/assets/screens/06-run-done.jpg)
 
 ---
